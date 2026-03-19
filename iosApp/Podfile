@@ -1,0 +1,8 @@
+platform :ios, '18.2'
+use_frameworks!
+
+target 'iosApp' do
+  pod 'FirebaseAuth'
+  pod 'FirebaseFirestore'
+  pod 'FirebaseAnalytics'
+end
