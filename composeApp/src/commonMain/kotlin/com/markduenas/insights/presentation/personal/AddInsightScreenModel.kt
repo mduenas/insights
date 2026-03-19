@@ -2,6 +2,7 @@ package com.markduenas.insights.presentation.personal
 
 import cafe.adriel.voyager.core.model.ScreenModel
 import cafe.adriel.voyager.core.model.screenModelScope
+import com.markduenas.insights.currentTimeMillis
 import com.markduenas.insights.domain.model.Insight
 import com.markduenas.insights.domain.model.InsightCategory
 import com.markduenas.insights.domain.model.InsightStatus
@@ -14,7 +15,7 @@ import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
-import kotlinx.datetime.Clock
+import kotlinx.datetime.Instant
 
 data class AddInsightState(
     val title: String = "",
@@ -56,7 +57,7 @@ class AddInsightScreenModel(
         }
         screenModelScope.launch {
             _state.update { it.copy(isSaving = true, error = null) }
-            val now = Clock.System.now()
+            val now = Instant.fromEpochMilliseconds(currentTimeMillis())
             val insight = Insight(
                 id = generateId(),
                 title = s.title.trim(),
@@ -104,6 +105,6 @@ class AddInsightScreenModel(
     fun dismissMatchDialog() = _state.update { it.copy(showMatchDialog = false) }
 
     private fun generateId(): String =
-        Clock.System.now().toEpochMilliseconds().toString(36) +
+        currentTimeMillis().toString(36) +
                 (('a'..'z') + ('0'..'9')).shuffled().take(8).joinToString("")
 }

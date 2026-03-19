@@ -8,6 +8,7 @@ interface AuthRepository {
     val currentUserId: String?
 
     suspend fun signInWithEmail(email: String, password: String)
+    suspend fun registerWithEmail(email: String, password: String)
     suspend fun signInWithGoogle()
     suspend fun signOut()
 }

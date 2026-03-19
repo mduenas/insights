@@ -10,13 +10,13 @@ import com.markduenas.insights.domain.model.Insight
 import com.markduenas.insights.domain.model.InsightCategory
 import com.markduenas.insights.domain.model.InsightStatus
 import com.markduenas.insights.domain.model.Source
+import com.markduenas.insights.currentTimeMillis
 import com.markduenas.insights.domain.repository.PersonalInsightRepository
 import dev.gitlive.firebase.firestore.FirebaseFirestore
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.withContext
-import kotlinx.datetime.Clock
 import kotlinx.datetime.Instant
 
 class PersonalInsightRepositoryImpl(
@@ -39,7 +39,7 @@ class PersonalInsightRepositoryImpl(
             .map { it?.toDomain() }
 
     override suspend fun savePersonalInsight(insight: Insight) = withContext(Dispatchers.Default) {
-        val now = Clock.System.now().toEpochMilliseconds()
+        val now = currentTimeMillis()
         database.transaction {
             queries.insert(
                 id = insight.id,
@@ -66,7 +66,7 @@ class PersonalInsightRepositoryImpl(
     }
 
     override suspend fun updatePersonalInsight(insight: Insight) = withContext(Dispatchers.Default) {
-        val now = Clock.System.now().toEpochMilliseconds()
+        val now = currentTimeMillis()
         database.transaction {
             queries.update(
                 title = insight.title,
@@ -98,7 +98,7 @@ class PersonalInsightRepositoryImpl(
                 id = id,
                 operation = "DELETE",
                 userId = row?.userId ?: "",
-                enqueuedAt = Clock.System.now().toEpochMilliseconds()
+                enqueuedAt = currentTimeMillis()
             )
         }
     }

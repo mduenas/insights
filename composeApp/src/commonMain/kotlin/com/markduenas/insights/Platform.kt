@@ -5,3 +5,6 @@ interface Platform {
 }
 
 expect fun getPlatform(): Platform
+
+/** Returns the current wall-clock time in milliseconds since the Unix epoch. */
+expect fun currentTimeMillis(): Long

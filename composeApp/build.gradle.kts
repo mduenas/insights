@@ -70,6 +70,7 @@ kotlin {
             implementation(libs.firebase.common)
             implementation(libs.firebase.auth)
             implementation(libs.firebase.firestore)
+            implementation(libs.firebase.analytics)
             // Kotlinx
             implementation(libs.kotlinx.serialization.json)
             implementation(libs.kotlinx.coroutines.core)

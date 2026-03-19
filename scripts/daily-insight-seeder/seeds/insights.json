@@ -3,21 +3,795 @@
     "id": "stoic-01",
     "title": "The obstacle is the way",
     "body": "What stands in the way becomes the way. Every adversity contains within it the seed of an equivalent or greater benefit.",
-    "source": { "title": "Meditations", "author": "Marcus Aurelius", "year": 180 },
-    "tags": ["stoicism", "resilience", "mindset"]
+    "source": {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "year": 180
+    },
+    "tags": [
+      "stoicism",
+      "resilience",
+      "mindset"
+    ]
+  },
+  {
+    "id": "stoic-02",
+    "title": "You have power over your mind, not outside events",
+    "body": "Realize this, and you will find strength. It is not events that disturb people, but their judgements about events.",
+    "source": {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "year": 180
+    },
+    "tags": [
+      "stoicism",
+      "mindset",
+      "control"
+    ]
+  },
+  {
+    "id": "stoic-03",
+    "title": "Waste no more time arguing what a good man should be",
+    "body": "Be one. The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane.",
+    "source": {
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "year": 180
+    },
+    "tags": [
+      "stoicism",
+      "virtue",
+      "action"
+    ]
+  },
+  {
+    "id": "stoic-04",
+    "title": "He who fears death will never do anything worthy of a living man",
+    "body": "Seneca reminds us that fearing death paralyzes action. When we accept mortality, we are freed to live with purpose and boldness.",
+    "source": {
+      "title": "Letters from a Stoic",
+      "author": "Seneca",
+      "year": 65
+    },
+    "tags": [
+      "stoicism",
+      "courage",
+      "mortality"
+    ]
+  },
+  {
+    "id": "stoic-05",
+    "title": "Luck is what happens when preparation meets opportunity",
+    "body": "Seneca argues there is no such thing as pure luck — those who are prepared notice and act on opportunities others miss.",
+    "source": {
+      "title": "Letters from a Stoic",
+      "author": "Seneca",
+      "year": 65
+    },
+    "tags": [
+      "stoicism",
+      "preparation",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "stoic-06",
+    "title": "We suffer more in imagination than in reality",
+    "body": "Most of what we dread never happens. The anticipation of pain is often more torturous than the pain itself. Focus on what is actually present.",
+    "source": {
+      "title": "Letters from a Stoic",
+      "author": "Seneca",
+      "year": 65
+    },
+    "tags": [
+      "stoicism",
+      "anxiety",
+      "mindset"
+    ]
+  },
+  {
+    "id": "stoic-07",
+    "title": "Know first who you are, and then adorn yourself accordingly",
+    "body": "Epictetus taught that self-knowledge is the foundation of all wisdom. You cannot live well without understanding your own nature and values.",
+    "source": {
+      "title": "Discourses",
+      "author": "Epictetus",
+      "year": 108
+    },
+    "tags": [
+      "stoicism",
+      "self-knowledge",
+      "identity"
+    ]
+  },
+  {
+    "id": "stoic-08",
+    "title": "Make the best use of what is in your power, and take the rest as it happens",
+    "body": "The dichotomy of control is the cornerstone of Stoic practice: focus entirely on what you can influence, and release attachment to everything else.",
+    "source": {
+      "title": "Enchiridion",
+      "author": "Epictetus",
+      "year": 135
+    },
+    "tags": [
+      "stoicism",
+      "control",
+      "acceptance"
+    ]
   },
   {
     "id": "habits-01",
     "title": "You do not rise to the level of your goals, you fall to the level of your systems",
-    "body": "Goals are about the results you want to achieve. Systems are about the processes that lead to those results. Focus on systems.",
-    "source": { "title": "Atomic Habits", "author": "James Clear", "year": 2018 },
-    "tags": ["habits", "systems", "productivity"]
+    "body": "Goals are about the results you want to achieve. Systems are about the processes that lead to those results. Fix your systems, and the results follow naturally.",
+    "source": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": 2018
+    },
+    "tags": [
+      "habits",
+      "systems",
+      "productivity"
+    ]
   },
   {
-    "id": "feynman-01",
+    "id": "habits-02",
+    "title": "Every action you take is a vote for the type of person you wish to become",
+    "body": "True behavior change is identity change. Each small habit is not just a result to achieve, but a vote cast toward the identity you want to build.",
+    "source": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": 2018
+    },
+    "tags": [
+      "habits",
+      "identity",
+      "behavior"
+    ]
+  },
+  {
+    "id": "habits-03",
+    "title": "The most effective form of motivation is progress",
+    "body": "Small wins fuel motivation. Making even tiny steps forward activates the reward circuits of the brain and builds momentum for larger change.",
+    "source": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": 2018
+    },
+    "tags": [
+      "habits",
+      "motivation",
+      "progress"
+    ]
+  },
+  {
+    "id": "habits-04",
+    "title": "The Habit Loop: cue, craving, response, reward",
+    "body": "All habits follow a four-stage pattern. Understanding this loop allows you to design better habits by manipulating each stage intentionally.",
+    "source": {
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "year": 2012
+    },
+    "tags": [
+      "habits",
+      "neuroscience",
+      "behavior"
+    ]
+  },
+  {
+    "id": "mindset-01",
+    "title": "The growth mindset believes abilities can be developed",
+    "body": "People with a growth mindset believe that their most basic abilities can be developed through dedication and hard work — brains and talent are just the starting point.",
+    "source": {
+      "title": "Mindset: The New Psychology of Success",
+      "author": "Carol Dweck",
+      "year": 2006
+    },
+    "tags": [
+      "mindset",
+      "growth",
+      "learning"
+    ]
+  },
+  {
+    "id": "mindset-02",
+    "title": "Effort is what ignites ability and turns it into accomplishment",
+    "body": "In a growth mindset, effort is not a sign of weakness — it is the path to mastery. The fixed mindset sees effort as something only weak people need.",
+    "source": {
+      "title": "Mindset: The New Psychology of Success",
+      "author": "Carol Dweck",
+      "year": 2006
+    },
+    "tags": [
+      "mindset",
+      "effort",
+      "mastery"
+    ]
+  },
+  {
+    "id": "mindset-03",
+    "title": "Becoming is better than being",
+    "body": "The fixed mindset does not allow people the luxury of becoming. Either you are smart or you are not. The growth mindset embraces the journey.",
+    "source": {
+      "title": "Mindset: The New Psychology of Success",
+      "author": "Carol Dweck",
+      "year": 2006
+    },
+    "tags": [
+      "mindset",
+      "growth",
+      "identity"
+    ]
+  },
+  {
+    "id": "learning-01",
     "title": "If you can't explain it simply, you don't understand it well enough",
     "body": "The Feynman Technique: explain any concept in simple language as if teaching a child. Gaps in your explanation reveal gaps in your understanding.",
-    "source": { "title": "Surely You're Joking, Mr. Feynman!", "author": "Richard Feynman", "year": 1985 },
-    "tags": ["learning", "understanding", "teaching"]
+    "source": {
+      "title": "Surely You're Joking, Mr. Feynman!",
+      "author": "Richard Feynman",
+      "year": 1985
+    },
+    "tags": [
+      "learning",
+      "understanding",
+      "teaching"
+    ]
+  },
+  {
+    "id": "learning-02",
+    "title": "The first principle is that you must not fool yourself",
+    "body": "Intellectual honesty requires ruthless self-examination. We are prone to confirmation bias and must actively work against our own desire to be right.",
+    "source": {
+      "title": "Cargo Cult Science",
+      "author": "Richard Feynman",
+      "year": 1974
+    },
+    "tags": [
+      "learning",
+      "honesty",
+      "thinking"
+    ]
+  },
+  {
+    "id": "learning-03",
+    "title": "Retrieval practice is more powerful than re-reading",
+    "body": "The Testing Effect shows that actively recalling information strengthens memory far more than passively reviewing it. Quiz yourself instead of rereading notes.",
+    "source": {
+      "title": "Make It Stick",
+      "author": "Peter Brown",
+      "year": 2014
+    },
+    "tags": [
+      "learning",
+      "memory",
+      "study"
+    ]
+  },
+  {
+    "id": "learning-04",
+    "title": "Spaced repetition: review material at increasing intervals",
+    "body": "Spacing out practice sessions over time leads to stronger long-term retention than cramming. The harder it is to recall, the stronger the memory becomes.",
+    "source": {
+      "title": "Make It Stick",
+      "author": "Peter Brown",
+      "year": 2014
+    },
+    "tags": [
+      "learning",
+      "memory",
+      "study"
+    ]
+  },
+  {
+    "id": "learning-05",
+    "title": "Learning is not a spectator sport",
+    "body": "Passive consumption — watching, reading without engaging — produces the illusion of knowing. True learning requires active struggle with the material.",
+    "source": {
+      "title": "The Art of Learning",
+      "author": "Josh Waitzkin",
+      "year": 2007
+    },
+    "tags": [
+      "learning",
+      "practice",
+      "mastery"
+    ]
+  },
+  {
+    "id": "productivity-01",
+    "title": "Deep work: professional activities in a state of distraction-free concentration",
+    "body": "Deep work produces rare and valuable outputs. As the world fills with distraction, the ability to focus intensely is becoming simultaneously more valuable and more rare.",
+    "source": {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "year": 2016
+    },
+    "tags": [
+      "productivity",
+      "focus",
+      "work"
+    ]
+  },
+  {
+    "id": "productivity-02",
+    "title": "Shallow work crowds out the deep work that creates real value",
+    "body": "The issue is not that email and meetings exist; it is that we let them crowd out the deep, cognitively demanding work that creates outsized value.",
+    "source": {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "year": 2016
+    },
+    "tags": [
+      "productivity",
+      "focus",
+      "time management"
+    ]
+  },
+  {
+    "id": "productivity-03",
+    "title": "The most important thing is to keep the most important thing the most important thing",
+    "body": "Prioritization is the meta-skill of all productivity. Without clarity on what matters most, every hour is spent reacting instead of creating.",
+    "source": {
+      "title": "First Things First",
+      "author": "Stephen Covey",
+      "year": 1994
+    },
+    "tags": [
+      "productivity",
+      "priorities",
+      "focus"
+    ]
+  },
+  {
+    "id": "productivity-04",
+    "title": "Your mind is for having ideas, not holding them",
+    "body": "The GTD methodology argues that stress comes from open loops — unresolved commitments stored in our heads. Capture everything externally and your mind is free to focus.",
+    "source": {
+      "title": "Getting Things Done",
+      "author": "David Allen",
+      "year": 2001
+    },
+    "tags": [
+      "productivity",
+      "stress",
+      "organization"
+    ]
+  },
+  {
+    "id": "productivity-05",
+    "title": "Eat the frog first: do your hardest task before anything else",
+    "body": "Tackling the most dreaded task first thing in the morning removes the psychological weight it carries and sets a tone of accomplishment for the rest of the day.",
+    "source": {
+      "title": "Eat That Frog!",
+      "author": "Brian Tracy",
+      "year": 2001
+    },
+    "tags": [
+      "productivity",
+      "procrastination",
+      "habits"
+    ]
+  },
+  {
+    "id": "leadership-01",
+    "title": "Leadership is about taking care of those in your charge",
+    "body": "Great leaders put the needs of their people first. When leaders sacrifice for their teams, trust is built — and with trust, teams will follow anywhere.",
+    "source": {
+      "title": "Leaders Eat Last",
+      "author": "Simon Sinek",
+      "year": 2014
+    },
+    "tags": [
+      "leadership",
+      "trust",
+      "service"
+    ]
+  },
+  {
+    "id": "leadership-02",
+    "title": "People don't buy what you do, they buy why you do it",
+    "body": "The most inspiring leaders communicate from the inside out — purpose, cause, belief first, then how and what. People follow leaders who know their why.",
+    "source": {
+      "title": "Start With Why",
+      "author": "Simon Sinek",
+      "year": 2009
+    },
+    "tags": [
+      "leadership",
+      "purpose",
+      "communication"
+    ]
+  },
+  {
+    "id": "leadership-03",
+    "title": "Radical candor: care personally while challenging directly",
+    "body": "The best feedback lives at the intersection of genuine care for the person and willingness to challenge them. Anything less is ruinous empathy or obnoxious aggression.",
+    "source": {
+      "title": "Radical Candor",
+      "author": "Kim Scott",
+      "year": 2017
+    },
+    "tags": [
+      "leadership",
+      "feedback",
+      "communication"
+    ]
+  },
+  {
+    "id": "leadership-04",
+    "title": "Culture eats strategy for breakfast",
+    "body": "The most brilliant strategy is worthless without a culture that executes it. Leaders who ignore culture find it undermines every plan they make.",
+    "source": {
+      "title": "Corporate Culture and Performance",
+      "author": "Peter Drucker",
+      "year": 1992
+    },
+    "tags": [
+      "leadership",
+      "culture",
+      "strategy"
+    ]
+  },
+  {
+    "id": "creativity-01",
+    "title": "Creativity is just connecting things",
+    "body": "Steve Jobs described creativity as the ability to connect experiences and synthesize new things. The more diverse your experiences, the richer your creative connections.",
+    "source": {
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "year": 2011
+    },
+    "tags": [
+      "creativity",
+      "innovation",
+      "thinking"
+    ]
+  },
+  {
+    "id": "creativity-02",
+    "title": "Done is better than perfect",
+    "body": "Perfectionism is the enemy of creation. Shipping imperfect work and iterating beats waiting for the perfect idea that never comes.",
+    "source": {
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "year": 2011
+    },
+    "tags": [
+      "creativity",
+      "perfectionism",
+      "execution"
+    ]
+  },
+  {
+    "id": "creativity-03",
+    "title": "Steal like an artist: absorb influences and make them your own",
+    "body": "All creative work builds on what came before. The key is not where you take things from but where you take them to — your unique synthesis makes it yours.",
+    "source": {
+      "title": "Steal Like an Artist",
+      "author": "Austin Kleon",
+      "year": 2012
+    },
+    "tags": [
+      "creativity",
+      "inspiration",
+      "art"
+    ]
+  },
+  {
+    "id": "creativity-04",
+    "title": "The enemy of creativity is fear",
+    "body": "Resistance — the force that prevents us from shipping, creating, connecting — is powered by fear. Acknowledge the fear, and ship anyway.",
+    "source": {
+      "title": "Linchpin",
+      "author": "Seth Godin",
+      "year": 2010
+    },
+    "tags": [
+      "creativity",
+      "fear",
+      "resistance"
+    ]
+  },
+  {
+    "id": "philosophy-01",
+    "title": "The unexamined life is not worth living",
+    "body": "Socrates believed that genuine self-reflection is what distinguishes a human life from mere animal existence. Philosophy begins with turning the gaze inward.",
+    "source": {
+      "title": "Apology",
+      "author": "Plato",
+      "year": -399
+    },
+    "tags": [
+      "philosophy",
+      "self-reflection",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "philosophy-02",
+    "title": "We are what we repeatedly do. Excellence, then, is not an act, but a habit",
+    "body": "Character is formed by action, not intention. To become excellent, one must practice excellence habitually — virtue is built by doing, not deciding.",
+    "source": {
+      "title": "Nicomachean Ethics",
+      "author": "Aristotle",
+      "year": -350
+    },
+    "tags": [
+      "philosophy",
+      "habits",
+      "excellence"
+    ]
+  },
+  {
+    "id": "philosophy-03",
+    "title": "The two most important days: the day you are born and the day you find out why",
+    "body": "Purpose transforms existence. Without a why, life is a series of events without meaning. Finding your why gives direction to every decision.",
+    "source": {
+      "title": "Mark Twain Speeches",
+      "author": "Mark Twain",
+      "year": 1910
+    },
+    "tags": [
+      "philosophy",
+      "purpose",
+      "meaning"
+    ]
+  },
+  {
+    "id": "resilience-01",
+    "title": "That which does not kill us makes us stronger",
+    "body": "Adversity, when met with reflection, develops capacities that comfort never could. Post-traumatic growth research confirms: struggle forges strength.",
+    "source": {
+      "title": "Twilight of the Idols",
+      "author": "Friedrich Nietzsche",
+      "year": 1889
+    },
+    "tags": [
+      "resilience",
+      "adversity",
+      "growth"
+    ]
+  },
+  {
+    "id": "resilience-02",
+    "title": "Between stimulus and response there is a space to choose our response",
+    "body": "Viktor Frankl, drawing on his concentration camp experience, observed that humans can choose their attitude in any circumstance. That freedom cannot be taken away.",
+    "source": {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor Frankl",
+      "year": 1946
+    },
+    "tags": [
+      "resilience",
+      "freedom",
+      "choice"
+    ]
+  },
+  {
+    "id": "resilience-03",
+    "title": "The willow bends when it must and survives; the oak fights and is broken",
+    "body": "Flexibility is a form of strength. Rigidity in the face of overwhelming force leads to destruction; adaptive resilience allows us to endure and recover.",
+    "source": {
+      "title": "The Tao of Pooh",
+      "author": "Benjamin Hoff",
+      "year": 1982
+    },
+    "tags": [
+      "resilience",
+      "flexibility",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "wealth-01",
+    "title": "Wealth is the ability to fully experience life",
+    "body": "Henry David Thoreau reframes wealth not as money or possessions, but as time, attention, and presence. True wealth is a rich, fully-lived experience.",
+    "source": {
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "year": 1854
+    },
+    "tags": [
+      "wealth",
+      "simplicity",
+      "life"
+    ]
+  },
+  {
+    "id": "wealth-02",
+    "title": "Compound interest is the eighth wonder of the world",
+    "body": "Time amplifies small consistent actions into extraordinary results. Whether in finance, learning, or relationships — consistency compounded over time is unstoppable.",
+    "source": {
+      "title": "The Snowball",
+      "author": "Warren Buffett",
+      "year": 2008
+    },
+    "tags": [
+      "wealth",
+      "compounding",
+      "time"
+    ]
+  },
+  {
+    "id": "relationships-01",
+    "title": "You are the average of the five people you spend the most time with",
+    "body": "Our behaviors, beliefs, and ambitions are shaped by our social environments. The people closest to us set the ceiling of our expectations. Choose your circle with intention.",
+    "source": {
+      "title": "The Art of Exceptional Living",
+      "author": "Jim Rohn",
+      "year": 1994
+    },
+    "tags": [
+      "relationships",
+      "environment",
+      "influence"
+    ]
+  },
+  {
+    "id": "relationships-02",
+    "title": "Seek first to understand, then to be understood",
+    "body": "Most people listen with the intent to reply, not to understand. Empathic listening — seeking to truly hear another — is the foundation of every meaningful relationship.",
+    "source": {
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen Covey",
+      "year": 1989
+    },
+    "tags": [
+      "relationships",
+      "empathy",
+      "communication"
+    ]
+  },
+  {
+    "id": "focus-01",
+    "title": "Multitasking is a myth: the brain switches tasks, it doesn't run them in parallel",
+    "body": "What we call multitasking is rapid task-switching, which degrades performance on both tasks. Focused sequential work is dramatically more effective.",
+    "source": {
+      "title": "Your Brain at Work",
+      "author": "David Rock",
+      "year": 2009
+    },
+    "tags": [
+      "focus",
+      "productivity",
+      "neuroscience"
+    ]
+  },
+  {
+    "id": "focus-02",
+    "title": "Where attention goes, energy flows",
+    "body": "We grow and energize what we attend to. Attention is the most finite and precious resource we have — guard it with the same ferocity you would money.",
+    "source": {
+      "title": "The Celestine Prophecy",
+      "author": "James Redfield",
+      "year": 1993
+    },
+    "tags": [
+      "focus",
+      "attention",
+      "energy"
+    ]
+  },
+  {
+    "id": "courage-01",
+    "title": "Do the thing you fear and the death of fear is certain",
+    "body": "Courage is not the absence of fear but the decision that something else is more important. Action dissolves fear; avoidance amplifies it.",
+    "source": {
+      "title": "Essays: First Series",
+      "author": "Ralph Waldo Emerson",
+      "year": 1841
+    },
+    "tags": [
+      "courage",
+      "fear",
+      "action"
+    ]
+  },
+  {
+    "id": "courage-02",
+    "title": "It is not the critic who counts — it is the man in the arena",
+    "body": "Credit belongs to those who strive, who err, who fall short — not to those who point out where the doer stumbled. Vulnerability is a prerequisite of greatness.",
+    "source": {
+      "title": "Citizenship in a Republic",
+      "author": "Theodore Roosevelt",
+      "year": 1910
+    },
+    "tags": [
+      "courage",
+      "vulnerability",
+      "action"
+    ]
+  },
+  {
+    "id": "time-01",
+    "title": "Schedule your priorities, don't prioritize your schedule",
+    "body": "Stephen Covey flips the conventional framing: urgency is not the same as importance. Deliberate scheduling of what matters is how great lives and careers are built.",
+    "source": {
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen Covey",
+      "year": 1989
+    },
+    "tags": [
+      "time management",
+      "priorities",
+      "planning"
+    ]
+  },
+  {
+    "id": "time-02",
+    "title": "Lost time is never found again",
+    "body": "Benjamin Franklin's simple warning captures what modern research confirms: time is the only resource that cannot be replenished. Spend it with intention.",
+    "source": {
+      "title": "Poor Richard's Almanack",
+      "author": "Benjamin Franklin",
+      "year": 1748
+    },
+    "tags": [
+      "time management",
+      "priorities",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "values-01",
+    "title": "A man who stands for nothing will fall for anything",
+    "body": "Clarity of values is the bedrock of principled action. Without knowing what you stand for, every external pressure becomes a threat to your direction.",
+    "source": {
+      "title": "Interview",
+      "author": "Malcolm X",
+      "year": 1965
+    },
+    "tags": [
+      "values",
+      "principles",
+      "identity"
+    ]
+  },
+  {
+    "id": "values-02",
+    "title": "When your values are clear, decisions are easy",
+    "body": "Roy Disney understood that values are decision filters. When values are clear, even difficult choices become straightforward because the framework is already in place.",
+    "source": {
+      "title": "The Disney Way",
+      "author": "Roy Disney",
+      "year": 1998
+    },
+    "tags": [
+      "values",
+      "decision making",
+      "clarity"
+    ]
+  },
+  {
+    "id": "action-01",
+    "title": "Vision without execution is hallucination",
+    "body": "Ideas are worthless without the sustained effort to realize them. The gap between dreaming and doing is the most common gap in human potential.",
+    "source": {
+      "title": "Edison: A Biography",
+      "author": "Matthew Josephson",
+      "year": 1959
+    },
+    "tags": [
+      "action",
+      "execution",
+      "vision"
+    ]
+  },
+  {
+    "id": "action-02",
+    "title": "The best time to plant a tree was twenty years ago. The second best time is now",
+    "body": "This Chinese proverb dissolves regret about the past. The only productive response to missed opportunity is immediate action in the present moment.",
+    "source": {
+      "title": "Chinese Proverb",
+      "author": "Unknown",
+      "year": 0
+    },
+    "tags": [
+      "action",
+      "time",
+      "beginnings"
+    ]
   }
 ]
