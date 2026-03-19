@@ -1,6 +1,6 @@
 TEAM_ID=
 
-PRODUCT_NAME=insights
+PRODUCT_NAME=Kindling
 PRODUCT_BUNDLE_IDENTIFIER=com.markduenas.insights.insights$(TEAM_ID)
 
 CURRENT_PROJECT_VERSION=1

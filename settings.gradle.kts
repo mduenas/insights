@@ -1,4 +1,4 @@
-rootProject.name = "insights"
+rootProject.name = "Kindling"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
