@@ -1,0 +1,23 @@
+[
+  {
+    "id": "stoic-01",
+    "title": "The obstacle is the way",
+    "body": "What stands in the way becomes the way. Every adversity contains within it the seed of an equivalent or greater benefit.",
+    "source": { "title": "Meditations", "author": "Marcus Aurelius", "year": 180 },
+    "tags": ["stoicism", "resilience", "mindset"]
+  },
+  {
+    "id": "habits-01",
+    "title": "You do not rise to the level of your goals, you fall to the level of your systems",
+    "body": "Goals are about the results you want to achieve. Systems are about the processes that lead to those results. Focus on systems.",
+    "source": { "title": "Atomic Habits", "author": "James Clear", "year": 2018 },
+    "tags": ["habits", "systems", "productivity"]
+  },
+  {
+    "id": "feynman-01",
+    "title": "If you can't explain it simply, you don't understand it well enough",
+    "body": "The Feynman Technique: explain any concept in simple language as if teaching a child. Gaps in your explanation reveal gaps in your understanding.",
+    "source": { "title": "Surely You're Joking, Mr. Feynman!", "author": "Richard Feynman", "year": 1985 },
+    "tags": ["learning", "understanding", "teaching"]
+  }
+]

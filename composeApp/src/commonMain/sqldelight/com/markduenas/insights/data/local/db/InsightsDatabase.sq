@@ -1,0 +1,49 @@
+CREATE TABLE personalInsight (
+    id TEXT NOT NULL PRIMARY KEY,
+    title TEXT NOT NULL,
+    body TEXT NOT NULL,
+    sourceTitle TEXT NOT NULL,
+    sourceAuthor TEXT,
+    sourceUrl TEXT,
+    sourceYear INTEGER,
+    tags TEXT NOT NULL DEFAULT '',
+    linkedCommonInsightId TEXT,
+    status TEXT NOT NULL DEFAULT 'APPROVED',
+    createdAt INTEGER NOT NULL,
+    updatedAt INTEGER NOT NULL,
+    userId TEXT
+);
+
+getAll:
+SELECT * FROM personalInsight ORDER BY updatedAt DESC;
+
+getById:
+SELECT * FROM personalInsight WHERE id = ?;
+
+insert:
+INSERT OR REPLACE INTO personalInsight VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
+
+update:
+UPDATE personalInsight
+SET title = ?, body = ?, sourceTitle = ?, sourceAuthor = ?, sourceUrl = ?,
+    sourceYear = ?, tags = ?, linkedCommonInsightId = ?, status = ?, updatedAt = ?
+WHERE id = ?;
+
+delete:
+DELETE FROM personalInsight WHERE id = ?;
+
+CREATE TABLE syncQueue (
+    id TEXT NOT NULL PRIMARY KEY,
+    operation TEXT NOT NULL,
+    userId TEXT NOT NULL DEFAULT '',
+    enqueuedAt INTEGER NOT NULL
+);
+
+getPendingSync:
+SELECT * FROM syncQueue ORDER BY enqueuedAt ASC;
+
+enqueue:
+INSERT OR REPLACE INTO syncQueue VALUES (?, ?, ?, ?);
+
+dequeue:
+DELETE FROM syncQueue WHERE id = ?;
