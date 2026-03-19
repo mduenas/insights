@@ -8,7 +8,9 @@ import com.markduenas.insights.domain.repository.AuthRepository
 import com.markduenas.insights.domain.repository.InsightRepository
 import com.markduenas.insights.domain.repository.PersonalInsightRepository
 import com.markduenas.insights.domain.usecase.FindMatchingInsightUseCase
+import com.markduenas.insights.presentation.feedback.FeedbackScreenModel
 import com.markduenas.insights.presentation.admin.AdminScreenModel
+import com.markduenas.insights.presentation.auth.SignUpScreenModel
 import com.markduenas.insights.presentation.auth.SignInScreenModel
 import com.markduenas.insights.presentation.detail.InsightDetailScreenModel
 import com.markduenas.insights.presentation.home.HomeScreenModel
@@ -37,9 +39,11 @@ val appModule = module {
     factory { HomeScreenModel(get()) }
     factory { (insightId: String) -> InsightDetailScreenModel(get(), insightId) }
     factory { SignInScreenModel(get()) }
+    factory { SignUpScreenModel(get()) }
     factory { PersonalInsightsScreenModel(get()) }
     factory { AddInsightScreenModel(get(), get(), get()) }
     factory { AdminScreenModel(get()) }
+    factory { FeedbackScreenModel(get(), get()) }
 }
 
 val domainModule = module {}

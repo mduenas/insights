@@ -30,6 +30,10 @@ class FirebaseAuthRepository(
         auth.signInWithEmailAndPassword(email, password)
     }
 
+    override suspend fun registerWithEmail(email: String, password: String) {
+        auth.createUserWithEmailAndPassword(email, password)
+    }
+
     override suspend fun signInWithGoogle() {
         // Google Sign-In requires platform-specific credential handling.
         // Implement via expect/actual in Phase 3 expansion.

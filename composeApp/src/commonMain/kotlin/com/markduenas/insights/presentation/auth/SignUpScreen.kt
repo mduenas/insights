@@ -17,12 +17,12 @@ import cafe.adriel.voyager.navigator.LocalNavigator
 import cafe.adriel.voyager.navigator.currentOrThrow
 import com.markduenas.insights.presentation.home.HomeScreen
 
-class SignInScreen : Screen {
+class SignUpScreen : Screen {
     @OptIn(ExperimentalMaterial3Api::class)
     @Composable
     override fun Content() {
         val navigator = LocalNavigator.currentOrThrow
-        val screenModel = getScreenModel<SignInScreenModel>()
+        val screenModel = getScreenModel<SignUpScreenModel>()
         val state by screenModel.state.collectAsState()
 
         Scaffold { padding ->
@@ -32,10 +32,12 @@ class SignInScreen : Screen {
                     horizontalAlignment = Alignment.CenterHorizontally,
                     verticalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
-                    Text("Insights", style = MaterialTheme.typography.displaySmall)
-                    Text("Sign in to save personal insights",
+                    Text("Create Account", style = MaterialTheme.typography.displaySmall)
+                    Text(
+                        "Start capturing your personal insights",
                         style = MaterialTheme.typography.bodyMedium,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant)
+                        color = MaterialTheme.colorScheme.onSurfaceVariant
+                    )
 
                     OutlinedTextField(
                         value = state.email,
@@ -44,7 +46,8 @@ class SignInScreen : Screen {
                         singleLine = true,
                         keyboardOptions = KeyboardOptions(
                             keyboardType = KeyboardType.Email,
-                            imeAction = ImeAction.Next),
+                            imeAction = ImeAction.Next
+                        ),
                         modifier = Modifier.fillMaxWidth()
                     )
                     OutlinedTextField(
@@ -55,32 +58,45 @@ class SignInScreen : Screen {
                         visualTransformation = PasswordVisualTransformation(),
                         keyboardOptions = KeyboardOptions(
                             keyboardType = KeyboardType.Password,
-                            imeAction = ImeAction.Done),
+                            imeAction = ImeAction.Next
+                        ),
+                        modifier = Modifier.fillMaxWidth()
+                    )
+                    OutlinedTextField(
+                        value = state.confirmPassword,
+                        onValueChange = screenModel::onConfirmPasswordChange,
+                        label = { Text("Confirm Password") },
+                        singleLine = true,
+                        visualTransformation = PasswordVisualTransformation(),
+                        keyboardOptions = KeyboardOptions(
+                            keyboardType = KeyboardType.Password,
+                            imeAction = ImeAction.Done
+                        ),
                         keyboardActions = KeyboardActions(
-                            onDone = { screenModel.signIn { navigator.replaceAll(HomeScreen()) } }),
+                            onDone = { screenModel.register { navigator.replaceAll(HomeScreen()) } }
+                        ),
                         modifier = Modifier.fillMaxWidth()
                     )
 
                     state.error?.let {
-                        Text(it, color = MaterialTheme.colorScheme.error,
-                            style = MaterialTheme.typography.bodySmall)
+                        Text(
+                            it,
+                            color = MaterialTheme.colorScheme.error,
+                            style = MaterialTheme.typography.bodySmall
+                        )
                     }
 
                     Button(
-                        onClick = { screenModel.signIn { navigator.replaceAll(HomeScreen()) } },
+                        onClick = { screenModel.register { navigator.replaceAll(HomeScreen()) } },
                         enabled = !state.isLoading,
                         modifier = Modifier.fillMaxWidth()
                     ) {
                         if (state.isLoading) CircularProgressIndicator(Modifier.size(18.dp), strokeWidth = 2.dp)
-                        else Text("Sign In")
+                        else Text("Create Account")
                     }
 
-                    TextButton(onClick = { navigator.push(SignUpScreen()) }) {
-                        Text("Create an account")
-                    }
-
-                    TextButton(onClick = { navigator.replace(HomeScreen()) }) {
-                        Text("Continue without signing in")
+                    TextButton(onClick = { navigator.pop() }) {
+                        Text("Already have an account? Sign In")
                     }
                 }
             }
