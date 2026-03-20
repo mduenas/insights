@@ -5,6 +5,7 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.Feedback
 import androidx.compose.material.icons.filled.Person
 import androidx.compose.material.icons.filled.Search
@@ -57,6 +58,25 @@ class HomeScreen : Screen {
                         .padding(horizontal = 16.dp, vertical = 8.dp)
                 )
 
+                val activeTag = state.activeTag
+                if (activeTag != null) {
+                    Row(
+                        modifier = Modifier.padding(horizontal = 16.dp, vertical = 4.dp),
+                        verticalAlignment = Alignment.CenterVertically,
+                        horizontalArrangement = Arrangement.spacedBy(8.dp)
+                    ) {
+                        Text("Filtering by:", style = MaterialTheme.typography.labelMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant)
+                        FilterChip(
+                            selected = true,
+                            onClick = { screenModel.onTagSelected(activeTag) },
+                            label = { Text(activeTag) },
+                            trailingIcon = { Icon(Icons.Default.Close, contentDescription = "Clear filter",
+                                modifier = Modifier.size(16.dp)) }
+                        )
+                    }
+                }
+
                 when {
                     state.isLoading -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
                         CircularProgressIndicator()
@@ -70,7 +90,9 @@ class HomeScreen : Screen {
                     else -> LazyColumn(contentPadding = PaddingValues(horizontal = 16.dp, vertical = 8.dp),
                         verticalArrangement = Arrangement.spacedBy(8.dp)) {
                         items(state.insights, key = { it.id }) { insight ->
-                            InsightCard(insight) { navigator.push(InsightDetailScreen(insight.id)) }
+                            InsightCard(insight, state.activeTag, screenModel::onTagSelected) {
+                                navigator.push(InsightDetailScreen(insight.id))
+                            }
                         }
                     }
                 }
@@ -80,7 +102,7 @@ class HomeScreen : Screen {
 }
 
 @Composable
-private fun InsightCard(insight: Insight, onClick: () -> Unit) {
+private fun InsightCard(insight: Insight, activeTag: String?, onTagSelected: (String) -> Unit, onClick: () -> Unit) {
     Card(modifier = Modifier.fillMaxWidth().clickable(onClick = onClick)) {
         Column(modifier = Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(6.dp)) {
             Text(insight.title, style = MaterialTheme.typography.titleMedium)
@@ -95,9 +117,13 @@ private fun InsightCard(insight: Insight, onClick: () -> Unit) {
                 color = MaterialTheme.colorScheme.primary
             )
             if (insight.tags.isNotEmpty()) {
-                Row(horizontalArrangement = Arrangement.spacedBy(4.dp)) {
-                    insight.tags.take(3).forEach { tag ->
-                        AssistChip(onClick = {}, label = { Text(tag) })
+                Row(horizontalArrangement = Arrangement.spacedBy(4.dp), modifier = Modifier.fillMaxWidth()) {
+                    insight.tags.forEach { tag ->
+                        FilterChip(
+                            selected = tag == activeTag,
+                            onClick = { onTagSelected(tag) },
+                            label = { Text(tag) }
+                        )
                     }
                 }
             }

@@ -11,6 +11,8 @@ interface InsightRepository {
 
     fun searchInsights(query: String): Flow<List<Insight>>
 
+    fun filterByTag(tag: String): Flow<List<Insight>>
+
     /** Admin: stream of insights awaiting approval. */
     fun getPendingInsights(): Flow<List<Insight>>
 
