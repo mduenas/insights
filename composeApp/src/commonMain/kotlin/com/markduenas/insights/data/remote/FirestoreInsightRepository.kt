@@ -57,9 +57,9 @@ class FirestoreInsightRepository(
 
     override suspend fun approveInsight(id: String) {
         val pendingRef = firestore.collection(COLLECTION_PENDING).document(id)
-        val data = pendingRef.get().data<Map<String, Any>>()
+        val doc = pendingRef.get().data<InsightDocument>()
         firestore.collection(COLLECTION_INSIGHTS).document(id).set(
-            data + mapOf("status" to InsightStatus.APPROVED.name)
+            doc.copy(status = InsightStatus.APPROVED.name, updatedAt = System.currentTimeMillis())
         )
         pendingRef.delete()
     }
