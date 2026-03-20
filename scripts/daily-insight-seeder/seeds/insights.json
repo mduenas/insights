@@ -793,5 +793,245 @@
       "time",
       "beginnings"
     ]
+  },
+  {
+    "id": "bible-01",
+    "title": "Trust in the Lord with all your heart",
+    "body": "Proverbs 3:5–6 calls us to lean not on our own understanding. This is not a call to ignorance, but to humility — acknowledging that our perspective is partial and that something greater can guide us when we surrender control.",
+    "source": {
+      "title": "Proverbs 3:5–6",
+      "author": "The Bible",
+      "year": -900
+    },
+    "tags": [
+      "bible",
+      "faith",
+      "humility",
+      "control"
+    ]
+  },
+  {
+    "id": "bible-02",
+    "title": "I can do all things through Christ who strengthens me",
+    "body": "Philippians 4:13 is not a promise of superhuman achievement, but of sufficiency in every circumstance. Paul wrote it from prison, having learned contentment in both abundance and need. The strength it speaks of is endurance, not dominance.",
+    "source": {
+      "title": "Philippians 4:13",
+      "author": "The Bible",
+      "year": 62
+    },
+    "tags": [
+      "bible",
+      "resilience",
+      "faith",
+      "mindset"
+    ]
+  },
+  {
+    "id": "bible-03",
+    "title": "For I know the plans I have for you — plans to prosper and not to harm you",
+    "body": "Jeremiah 29:11 was written to a people in exile, not in comfort. The promise of a future and a hope was given precisely when circumstances seemed to argue against it. It is a reminder that difficulty does not equal abandonment.",
+    "source": {
+      "title": "Jeremiah 29:11",
+      "author": "The Bible",
+      "year": -600
+    },
+    "tags": [
+      "bible",
+      "hope",
+      "faith",
+      "purpose"
+    ]
+  },
+  {
+    "id": "bible-04",
+    "title": "All things work together for good for those who love God",
+    "body": "Romans 8:28 does not claim every event is good in isolation. It claims that within a larger story, even painful chapters contribute to something whole. This is the theology of the long view — suffering is real, but not the final word.",
+    "source": {
+      "title": "Romans 8:28",
+      "author": "The Bible",
+      "year": 57
+    },
+    "tags": [
+      "bible",
+      "faith",
+      "resilience",
+      "purpose"
+    ]
+  },
+  {
+    "id": "bible-05",
+    "title": "Be strong and courageous. Do not be afraid",
+    "body": "Joshua 1:9 repeats the command three times in a single chapter — a sign that courage is not a feeling that arrives naturally, but a decision that must be made repeatedly. God's presence is offered as the basis for action, not its reward.",
+    "source": {
+      "title": "Joshua 1:9",
+      "author": "The Bible",
+      "year": -1400
+    },
+    "tags": [
+      "bible",
+      "courage",
+      "action",
+      "faith"
+    ]
+  },
+  {
+    "id": "bible-06",
+    "title": "Those who hope in the Lord will renew their strength",
+    "body": "Isaiah 40:31 pairs waiting with renewal — a counterintuitive pairing in a culture that prizes speed. Eagles soar on updrafts they did not create. True strength is often recovered through stillness, not striving.",
+    "source": {
+      "title": "Isaiah 40:31",
+      "author": "The Bible",
+      "year": -700
+    },
+    "tags": [
+      "bible",
+      "hope",
+      "resilience",
+      "patience"
+    ]
+  },
+  {
+    "id": "bible-07",
+    "title": "Iron sharpens iron, so one person sharpens another",
+    "body": "Proverbs 27:17 speaks to the necessity of friction in growth. You cannot be sharpened by comfort. The people who challenge you, question you, and push back are often more valuable than those who simply agree.",
+    "source": {
+      "title": "Proverbs 27:17",
+      "author": "The Bible",
+      "year": -900
+    },
+    "tags": [
+      "bible",
+      "relationships",
+      "growth",
+      "community"
+    ]
+  },
+  {
+    "id": "bible-08",
+    "title": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind",
+    "body": "Romans 12:2 anticipates what neuroscience would later confirm — the mind is plastic, shapeable by what we repeatedly feed it. Transformation begins not with behavior change but with the slow renovation of our thinking.",
+    "source": {
+      "title": "Romans 12:2",
+      "author": "The Bible",
+      "year": 57
+    },
+    "tags": [
+      "bible",
+      "mindset",
+      "growth",
+      "identity"
+    ]
+  },
+  {
+    "id": "bible-09",
+    "title": "Consider it pure joy when you face trials of many kinds",
+    "body": "James 1:2–4 makes a strange claim: that testing produces perseverance, and perseverance produces maturity. The joy is not in the pain itself, but in what the pain is forging. Difficulty is the curriculum, not the punishment.",
+    "source": {
+      "title": "James 1:2–4",
+      "author": "The Bible",
+      "year": 49
+    },
+    "tags": [
+      "bible",
+      "resilience",
+      "growth",
+      "perspective"
+    ]
+  },
+  {
+    "id": "bible-10",
+    "title": "Commit to the Lord whatever you do, and he will establish your plans",
+    "body": "Proverbs 16:3 is not a formula for guaranteed outcomes, but an invitation to act from alignment rather than anxiety. When the work is offered rather than clutched, the relationship to effort itself changes.",
+    "source": {
+      "title": "Proverbs 16:3",
+      "author": "The Bible",
+      "year": -900
+    },
+    "tags": [
+      "bible",
+      "purpose",
+      "action",
+      "faith"
+    ]
+  },
+  {
+    "id": "bible-11",
+    "title": "Do not worry about tomorrow, for tomorrow will worry about itself",
+    "body": "Matthew 6:34 recognizes that most anxiety lives in the future, a place we cannot inhabit. Each day carries its own weight. The discipline of returning to the present moment is not avoidance — it is the only place where anything can actually be done.",
+    "source": {
+      "title": "Matthew 6:34",
+      "author": "The Bible",
+      "year": 30
+    },
+    "tags": [
+      "bible",
+      "anxiety",
+      "mindfulness",
+      "present"
+    ]
+  },
+  {
+    "id": "bible-12",
+    "title": "What does the Lord require of you? To act justly, love mercy, and walk humbly",
+    "body": "Micah 6:8 reduces an elaborate religious system to three practices: justice in action, mercy in relationship, and humility in posture. It is both simple and a lifetime's work. A useful compass for when complexity threatens to crowd out what matters.",
+    "source": {
+      "title": "Micah 6:8",
+      "author": "The Bible",
+      "year": -700
+    },
+    "tags": [
+      "bible",
+      "virtue",
+      "humility",
+      "justice"
+    ]
+  },
+  {
+    "id": "bible-13",
+    "title": "You are the light of the world. A city on a hill cannot be hidden",
+    "body": "Matthew 5:14 does not suggest you might become useful — it declares that you already are. Light does not argue for its right to shine; it simply shines. The instruction that follows is not to generate light, but to stop hiding the light already present.",
+    "source": {
+      "title": "Matthew 5:14",
+      "author": "The Bible",
+      "year": 30
+    },
+    "tags": [
+      "bible",
+      "identity",
+      "purpose",
+      "courage"
+    ]
+  },
+  {
+    "id": "bible-14",
+    "title": "Seek first the kingdom of God, and all these things will be given to you as well",
+    "body": "Matthew 6:33 reorders the typical hierarchy of concerns. Most people pursue things hoping purpose will follow. This inverts the sequence: lead with what matters most, and the rest finds its proper place. It is a statement about sequencing, not scarcity.",
+    "source": {
+      "title": "Matthew 6:33",
+      "author": "The Bible",
+      "year": 30
+    },
+    "tags": [
+      "bible",
+      "purpose",
+      "priorities",
+      "faith"
+    ]
+  },
+  {
+    "id": "bible-15",
+    "title": "Be still and know that I am God",
+    "body": "Psalm 46:10 is not passive advice — in context it follows a description of the earth giving way and mountains falling into the sea. To be still in chaos is not avoidance; it is the hardest kind of trust. The knowing comes only after the stillness.",
+    "source": {
+      "title": "Psalm 46:10",
+      "author": "The Bible",
+      "year": -1000
+    },
+    "tags": [
+      "bible",
+      "stillness",
+      "faith",
+      "anxiety"
+    ]
   }
 ]

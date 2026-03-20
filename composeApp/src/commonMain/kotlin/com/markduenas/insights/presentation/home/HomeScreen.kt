@@ -5,6 +5,7 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.AdminPanelSettings
 import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.Feedback
 import androidx.compose.material.icons.filled.Person
@@ -19,6 +20,7 @@ import cafe.adriel.voyager.koin.getScreenModel
 import cafe.adriel.voyager.navigator.LocalNavigator
 import cafe.adriel.voyager.navigator.currentOrThrow
 import com.markduenas.insights.domain.model.Insight
+import com.markduenas.insights.presentation.admin.AdminDashboardScreen
 import com.markduenas.insights.presentation.detail.InsightDetailScreen
 import com.markduenas.insights.presentation.feedback.FeedbackScreen
 import com.markduenas.insights.presentation.personal.PersonalInsightsScreen
@@ -36,6 +38,11 @@ class HomeScreen : Screen {
                 TopAppBar(
                     title = { Text("Insights") },
                     actions = {
+                        if (state.isAdmin) {
+                            IconButton(onClick = { navigator.push(AdminDashboardScreen()) }) {
+                                Icon(Icons.Default.AdminPanelSettings, contentDescription = "Admin")
+                            }
+                        }
                         IconButton(onClick = { navigator.push(FeedbackScreen()) }) {
                             Icon(Icons.Default.Feedback, contentDescription = "Send Feedback")
                         }

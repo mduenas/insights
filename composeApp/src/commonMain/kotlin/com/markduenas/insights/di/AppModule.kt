@@ -36,7 +36,7 @@ val appModule = module {
     factory { FindMatchingInsightUseCase(get()) }
 
     // Screen models
-    factory { HomeScreenModel(get()) }
+    factory { HomeScreenModel(get(), get()) }
     factory { (insightId: String) -> InsightDetailScreenModel(get(), insightId) }
     factory { SignInScreenModel(get()) }
     factory { SignUpScreenModel(get()) }

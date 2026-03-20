@@ -25,8 +25,14 @@ class AdminDashboardScreen : Screen {
         val navigator = LocalNavigator.currentOrThrow
         val screenModel = getScreenModel<AdminScreenModel>()
         val state by screenModel.state.collectAsState()
+        val snackbarHostState = remember { SnackbarHostState() }
+
+        LaunchedEffect(state.error) {
+            state.error?.let { snackbarHostState.showSnackbar(it) }
+        }
 
         Scaffold(
+            snackbarHost = { SnackbarHost(snackbarHostState) },
             topBar = {
                 TopAppBar(
                     title = { Text("Admin — Pending Insights") },

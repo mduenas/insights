@@ -3,6 +3,7 @@ package com.markduenas.insights.presentation.home
 import cafe.adriel.voyager.core.model.ScreenModel
 import cafe.adriel.voyager.core.model.screenModelScope
 import com.markduenas.insights.domain.model.Insight
+import com.markduenas.insights.domain.repository.AuthRepository
 import com.markduenas.insights.domain.repository.InsightRepository
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.flow.*
@@ -13,18 +14,27 @@ data class HomeState(
     val isLoading: Boolean = true,
     val searchQuery: String = "",
     val activeTag: String? = null,
-    val error: String? = null
+    val error: String? = null,
+    val isAdmin: Boolean = false
 )
 
 class HomeScreenModel(
-    private val insightRepository: InsightRepository
+    private val insightRepository: InsightRepository,
+    private val authRepository: AuthRepository
 ) : ScreenModel {
 
     private val _state = MutableStateFlow(HomeState())
     val state: StateFlow<HomeState> = _state.asStateFlow()
     private var collectJob: Job? = null
 
-    init { observe(insightRepository.getCommonInsights()) }
+    init {
+        observe(insightRepository.getCommonInsights())
+        screenModelScope.launch {
+            authRepository.isAdmin.collect { admin ->
+                _state.update { it.copy(isAdmin = admin) }
+            }
+        }
+    }
 
     fun onSearchQueryChange(query: String) {
         _state.update { it.copy(searchQuery = query, activeTag = null) }

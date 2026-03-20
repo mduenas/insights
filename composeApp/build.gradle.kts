@@ -1,4 +1,5 @@
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
+import java.util.Properties
 
 plugins {
     alias(libs.plugins.kotlinMultiplatform)
@@ -90,16 +91,30 @@ kotlin {
     }
 }
 
+val localProps = Properties().apply {
+    val f = rootProject.file("local.properties")
+    if (f.exists()) load(f.inputStream())
+}
+
 android {
     namespace = "com.markduenas.insights"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
+
+    signingConfigs {
+        create("release") {
+            storeFile = file(localProps["signing.keystore"] as String)
+            storePassword = localProps["signing.storePassword"] as String
+            keyAlias = localProps["signing.keyAlias"] as String
+            keyPassword = localProps["signing.keyPassword"] as String
+        }
+    }
 
     defaultConfig {
         applicationId = "com.markduenas.insights"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
-        versionCode = 3
-        versionName = "1.0.2"
+        versionCode = 4
+        versionName = "1.0.3"
     }
     packaging {
         resources {
@@ -110,6 +125,7 @@ android {
     buildTypes {
         getByName("release") {
             isMinifyEnabled = false
+            signingConfig = signingConfigs.getByName("release")
         }
     }
     compileOptions {
