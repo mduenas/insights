@@ -24,7 +24,7 @@ class FeedbackScreen : Screen {
         Scaffold(
             topBar = {
                 TopAppBar(
-                    title = { Text("Send Feedback") },
+                    title = { Text(if (state.mode == FeedbackMode.TOPIC) "Request a Topic" else "Send Feedback") },
                     navigationIcon = {
                         IconButton(onClick = { navigator.pop() }) {
                             Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Back")
@@ -42,10 +42,13 @@ class FeedbackScreen : Screen {
                     ) {
                         Text("🙏", style = MaterialTheme.typography.displayMedium)
                         Spacer(Modifier.height(12.dp))
-                        Text("Thank you for your feedback!", style = MaterialTheme.typography.titleLarge)
+                        Text("Thank you!", style = MaterialTheme.typography.titleLarge)
                         Spacer(Modifier.height(8.dp))
                         Text(
-                            "Your input helps shape the app.",
+                            if (state.mode == FeedbackMode.TOPIC)
+                                "Your topic request helps shape what's coming next."
+                            else
+                                "Your input helps shape the app.",
                             style = MaterialTheme.typography.bodyMedium,
                             color = MaterialTheme.colorScheme.onSurfaceVariant
                         )
@@ -61,8 +64,26 @@ class FeedbackScreen : Screen {
                             .padding(horizontal = 24.dp, vertical = 16.dp),
                         verticalArrangement = Arrangement.spacedBy(16.dp)
                     ) {
+                        SingleChoiceSegmentedButtonRow(modifier = Modifier.fillMaxWidth()) {
+                            SegmentedButton(
+                                selected = state.mode == FeedbackMode.FEEDBACK,
+                                onClick = { screenModel.onModeChange(FeedbackMode.FEEDBACK) },
+                                shape = SegmentedButtonDefaults.itemShape(index = 0, count = 2),
+                                label = { Text("Feedback") }
+                            )
+                            SegmentedButton(
+                                selected = state.mode == FeedbackMode.TOPIC,
+                                onClick = { screenModel.onModeChange(FeedbackMode.TOPIC) },
+                                shape = SegmentedButtonDefaults.itemShape(index = 1, count = 2),
+                                label = { Text("Request Topic") }
+                            )
+                        }
+
                         Text(
-                            "We'd love to hear what's working, what's missing, or any ideas you have.",
+                            if (state.mode == FeedbackMode.TOPIC)
+                                "What topics or categories would you like to see more insights on?"
+                            else
+                                "We'd love to hear what's working, what's missing, or any ideas you have.",
                             style = MaterialTheme.typography.bodyMedium,
                             color = MaterialTheme.colorScheme.onSurfaceVariant
                         )
@@ -70,8 +91,15 @@ class FeedbackScreen : Screen {
                         OutlinedTextField(
                             value = state.message,
                             onValueChange = screenModel::onMessageChange,
-                            label = { Text("Your feedback") },
-                            placeholder = { Text("Share your thoughts…") },
+                            label = { Text(if (state.mode == FeedbackMode.TOPIC) "Topic or category" else "Your feedback") },
+                            placeholder = {
+                                Text(
+                                    if (state.mode == FeedbackMode.TOPIC)
+                                        "e.g. stoicism, parenting, creativity…"
+                                    else
+                                        "Share your thoughts…"
+                                )
+                            },
                             minLines = 5,
                             maxLines = 10,
                             modifier = Modifier.fillMaxWidth()
@@ -88,7 +116,7 @@ class FeedbackScreen : Screen {
                             modifier = Modifier.fillMaxWidth()
                         ) {
                             if (state.isLoading) CircularProgressIndicator(Modifier.size(18.dp), strokeWidth = 2.dp)
-                            else Text("Submit Feedback")
+                            else Text(if (state.mode == FeedbackMode.TOPIC) "Submit Request" else "Submit Feedback")
                         }
                     }
                 }

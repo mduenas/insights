@@ -70,6 +70,29 @@ async function getUnseededInsights(db, allInsights) {
   return allInsights.filter(i => !existing.has(i.id));
 }
 
+// ── Topic request report ─────────────────────────────────────────────────────
+
+/** Fetches topic_requests from Firestore, aggregates by topic, and logs a ranked list. */
+async function reportTopicRequests(db) {
+  const snapshot = await db.collection('topic_requests').get();
+  if (snapshot.empty) return;
+
+  const counts = {};
+  snapshot.forEach(doc => {
+    const topic = (doc.data().topic || '').toLowerCase().trim();
+    if (topic) counts[topic] = (counts[topic] || 0) + 1;
+  });
+
+  const ranked = Object.entries(counts)
+    .sort(([, a], [, b]) => b - a);
+
+  console.log('\nTop requested topics:');
+  ranked.forEach(([topic, count], i) => {
+    console.log(`  ${i + 1}. ${topic} (${count} request${count === 1 ? '' : 's'})`);
+  });
+  console.log('');
+}
+
 // ── Seeding ──────────────────────────────────────────────────────────────────
 
 async function seedInsights() {
@@ -82,30 +105,31 @@ async function seedInsights() {
 
   if (unseeded.length === 0) {
     console.log('All insights have already been seeded.');
-    return;
+  } else {
+    const batch = db.batch();
+    const toSeed = unseeded.slice(0, perRun);
+    const now = Date.now();
+
+    toSeed.forEach(insight => {
+      const id = insight.id || crypto.randomUUID();
+      const ref = db.collection('pending_insights').doc(id);
+      batch.set(ref, {
+        ...insight,
+        id,
+        category: 'COMMON',
+        status: 'PENDING',
+        titleLower: insight.title.toLowerCase(),
+        createdAt: now,
+        updatedAt: now,
+      });
+    });
+
+    await batch.commit();
+    console.log(`Seeded ${toSeed.length} insight(s) to pending_insights:`);
+    toSeed.forEach(i => console.log(` - ${i.title}`));
   }
 
-  const batch = db.batch();
-  const toSeed = unseeded.slice(0, perRun);
-  const now = Date.now();
-
-  toSeed.forEach(insight => {
-    const id = insight.id || crypto.randomUUID();
-    const ref = db.collection('pending_insights').doc(id);
-    batch.set(ref, {
-      ...insight,
-      id,
-      category: 'COMMON',
-      status: 'PENDING',
-      titleLower: insight.title.toLowerCase(),
-      createdAt: now,
-      updatedAt: now,
-    });
-  });
-
-  await batch.commit();
-  console.log(`Seeded ${toSeed.length} insight(s) to pending_insights:`);
-  toSeed.forEach(i => console.log(` - ${i.title}`));
+  await reportTopicRequests(db);
 }
 
 // ── Fallback insights (used when no seed file is provided) ───────────────────

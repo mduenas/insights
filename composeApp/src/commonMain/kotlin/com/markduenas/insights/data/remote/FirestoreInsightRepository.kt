@@ -1,5 +1,6 @@
 package com.markduenas.insights.data.remote
 
+import com.markduenas.insights.currentTimeMillis
 import com.markduenas.insights.domain.model.Insight
 import com.markduenas.insights.domain.model.InsightCategory
 import com.markduenas.insights.domain.model.InsightStatus
@@ -59,7 +60,7 @@ class FirestoreInsightRepository(
         val pendingRef = firestore.collection(COLLECTION_PENDING).document(id)
         val doc = pendingRef.get().data<InsightDocument>()
         firestore.collection(COLLECTION_INSIGHTS).document(id).set(
-            doc.copy(status = InsightStatus.APPROVED.name, updatedAt = System.currentTimeMillis())
+            doc.copy(status = InsightStatus.APPROVED.name, updatedAt = currentTimeMillis())
         )
         pendingRef.delete()
     }
