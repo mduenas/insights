@@ -9,7 +9,10 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.text.font.FontStyle
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.koin.getScreenModel
 import cafe.adriel.voyager.navigator.LocalNavigator
@@ -27,7 +30,7 @@ data class InsightDetailScreen(val insightId: String) : Screen {
         Scaffold(
             topBar = {
                 TopAppBar(
-                    title = { Text(insight?.title ?: "Insight") },
+                    title = {},
                     navigationIcon = {
                         IconButton(onClick = { navigator.pop() }) {
                             Icon(Icons.AutoMirrored.Filled.ArrowBack, "Back")
@@ -45,45 +48,77 @@ data class InsightDetailScreen(val insightId: String) : Screen {
                         .fillMaxSize()
                         .padding(padding)
                         .verticalScroll(rememberScrollState())
-                        .padding(16.dp),
-                    verticalArrangement = Arrangement.spacedBy(16.dp)
+                        .padding(horizontal = 24.dp, vertical = 8.dp),
+                    verticalArrangement = Arrangement.spacedBy(20.dp)
                 ) {
-                    Text(i.title, style = MaterialTheme.typography.headlineSmall)
-                    Text(i.body, style = MaterialTheme.typography.bodyMedium)
+                    // Title
+                    Text(
+                        i.title,
+                        style = MaterialTheme.typography.headlineMedium,
+                        fontWeight = FontWeight.SemiBold,
+                        lineHeight = 36.sp
+                    )
 
-                    // Source card
-                    Card(modifier = Modifier.fillMaxWidth()) {
-                        Column(Modifier.padding(12.dp), verticalArrangement = Arrangement.spacedBy(4.dp)) {
-                            Text("Source", style = MaterialTheme.typography.labelMedium,
-                                color = MaterialTheme.colorScheme.primary)
-                            Text(i.source.title, style = MaterialTheme.typography.bodyMedium)
-                            i.source.author?.let { Text("by $it", style = MaterialTheme.typography.bodySmall) }
-                            i.source.year?.let { Text("$it", style = MaterialTheme.typography.bodySmall) }
-                            i.source.url?.let {
-                                Text(it, style = MaterialTheme.typography.bodySmall,
-                                    color = MaterialTheme.colorScheme.primary)
-                            }
+                    HorizontalDivider(color = MaterialTheme.colorScheme.primary.copy(alpha = 0.3f))
+
+                    // Decorative quote mark + body
+                    Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+                        Text(
+                            "\u201C",
+                            style = MaterialTheme.typography.displayMedium,
+                            color = MaterialTheme.colorScheme.primary.copy(alpha = 0.25f),
+                            lineHeight = 8.sp,
+                            modifier = Modifier.height(32.dp)
+                        )
+                        Text(
+                            i.body,
+                            style = MaterialTheme.typography.bodyLarge,
+                            lineHeight = 28.sp,
+                            color = MaterialTheme.colorScheme.onSurface
+                        )
+                    }
+
+                    // Source attribution
+                    Column(verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                        val authorLine = buildString {
+                            append("— ${i.source.title}")
+                            i.source.author?.let { append(", $it") }
+                        }
+                        Text(
+                            authorLine,
+                            style = MaterialTheme.typography.bodyMedium,
+                            fontStyle = FontStyle.Italic,
+                            color = MaterialTheme.colorScheme.primary
+                        )
+                        i.source.year?.let { year ->
+                            if (year != 0) Text(
+                                if (year < 0) "${-year} BC" else "$year AD",
+                                style = MaterialTheme.typography.labelSmall,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant
+                            )
+                        }
+                        i.source.url?.let { url ->
+                            Text(
+                                url,
+                                style = MaterialTheme.typography.labelSmall,
+                                color = MaterialTheme.colorScheme.primary
+                            )
                         }
                     }
 
                     // Tags
                     if (i.tags.isNotEmpty()) {
-                        Row(horizontalArrangement = Arrangement.spacedBy(6.dp)) {
-                            i.tags.forEach { tag -> AssistChip(onClick = {}, label = { Text(tag) }) }
+                        FlowRow(
+                            horizontalArrangement = Arrangement.spacedBy(8.dp),
+                            verticalArrangement = Arrangement.spacedBy(4.dp)
+                        ) {
+                            i.tags.forEach { tag ->
+                                SuggestionChip(onClick = {}, label = { Text(tag) })
+                            }
                         }
                     }
 
-                    // Linked common insight badge
-                    if (i.linkedCommonInsightId != null) {
-                        Card(colors = CardDefaults.cardColors(
-                            containerColor = MaterialTheme.colorScheme.secondaryContainer)) {
-                            Text(
-                                "Linked to a common insight",
-                                modifier = Modifier.padding(12.dp),
-                                style = MaterialTheme.typography.labelMedium
-                            )
-                        }
-                    }
+                    Spacer(Modifier.height(16.dp))
                 }
             }
         }
