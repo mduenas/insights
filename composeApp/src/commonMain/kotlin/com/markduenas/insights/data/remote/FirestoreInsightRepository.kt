@@ -10,6 +10,7 @@ import dev.gitlive.firebase.firestore.FirebaseFirestore
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 import kotlinx.datetime.Instant
+import kotlinx.serialization.Serializable
 
 private const val COLLECTION_INSIGHTS = "insights"
 private const val COLLECTION_PENDING = "pending_insights"
@@ -63,27 +64,47 @@ class FirestoreInsightRepository(
 }
 
 private fun dev.gitlive.firebase.firestore.DocumentSnapshot.toInsight(): Insight? = try {
-    val data = data<Map<String, Any?>>()
+    val doc = data<InsightDocument>()
     Insight(
         id = id,
-        title = data["title"] as? String ?: return null,
-        body = data["body"] as? String ?: return null,
-        source = (data["source"] as? Map<*, *>)?.toSource() ?: return null,
-        category = InsightCategory.valueOf(data["category"] as? String ?: "COMMON"),
-        tags = (data["tags"] as? List<*>)?.filterIsInstance<String>() ?: emptyList(),
-        linkedCommonInsightId = data["linkedCommonInsightId"] as? String,
-        status = InsightStatus.valueOf(data["status"] as? String ?: "APPROVED"),
-        createdAt = Instant.fromEpochMilliseconds((data["createdAt"] as? Number)?.toLong() ?: 0L),
-        updatedAt = Instant.fromEpochMilliseconds((data["updatedAt"] as? Number)?.toLong() ?: 0L),
-        userId = data["userId"] as? String
+        title = doc.title.ifBlank { return null },
+        body = doc.body.ifBlank { return null },
+        source = Source(
+            title = doc.source.title,
+            author = doc.source.author,
+            url = doc.source.url,
+            year = doc.source.year
+        ),
+        category = runCatching { InsightCategory.valueOf(doc.category) }.getOrDefault(InsightCategory.COMMON),
+        tags = doc.tags,
+        linkedCommonInsightId = doc.linkedCommonInsightId,
+        status = runCatching { InsightStatus.valueOf(doc.status) }.getOrDefault(InsightStatus.APPROVED),
+        createdAt = Instant.fromEpochMilliseconds(doc.createdAt),
+        updatedAt = Instant.fromEpochMilliseconds(doc.updatedAt),
+        userId = doc.userId
     )
 } catch (e: Exception) {
     null
 }
 
-private fun Map<*, *>.toSource() = Source(
-    title = this["title"] as? String ?: "",
-    author = this["author"] as? String,
-    url = this["url"] as? String,
-    year = (this["year"] as? Number)?.toInt()
+@Serializable
+private data class InsightDocument(
+    val title: String = "",
+    val body: String = "",
+    val source: SourceDocument = SourceDocument(),
+    val category: String = "COMMON",
+    val tags: List<String> = emptyList(),
+    val linkedCommonInsightId: String? = null,
+    val status: String = "APPROVED",
+    val createdAt: Long = 0L,
+    val updatedAt: Long = 0L,
+    val userId: String? = null
+)
+
+@Serializable
+private data class SourceDocument(
+    val title: String = "",
+    val author: String? = null,
+    val url: String? = null,
+    val year: Int? = null
 )
