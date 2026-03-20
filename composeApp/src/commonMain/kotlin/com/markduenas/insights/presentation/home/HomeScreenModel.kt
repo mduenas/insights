@@ -12,6 +12,7 @@ data class HomeState(
     val insights: List<Insight> = emptyList(),
     val isLoading: Boolean = true,
     val searchQuery: String = "",
+    val activeTag: String? = null,
     val error: String? = null
 )
 
@@ -26,12 +27,24 @@ class HomeScreenModel(
     init { observe(insightRepository.getCommonInsights()) }
 
     fun onSearchQueryChange(query: String) {
-        _state.update { it.copy(searchQuery = query) }
+        _state.update { it.copy(searchQuery = query, activeTag = null) }
         val source = if (query.isBlank())
             insightRepository.getCommonInsights()
         else
             insightRepository.searchInsights(query)
         observe(source)
+    }
+
+    fun onTagSelected(tag: String) {
+        val current = _state.value.activeTag
+        if (current == tag) {
+            // Tap same tag again → clear filter
+            _state.update { it.copy(activeTag = null, searchQuery = "") }
+            observe(insightRepository.getCommonInsights())
+        } else {
+            _state.update { it.copy(activeTag = tag, searchQuery = "") }
+            observe(insightRepository.filterByTag(tag))
+        }
     }
 
     private fun observe(source: Flow<List<Insight>>) {

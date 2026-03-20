@@ -42,6 +42,13 @@ class FirestoreInsightRepository(
             .map { snapshot -> snapshot.documents.mapNotNull { it.toInsight() } }
     }
 
+    override fun filterByTag(tag: String): Flow<List<Insight>> =
+        firestore.collection(COLLECTION_INSIGHTS)
+            .where { "tags" contains tag }
+            .orderBy("createdAt", Direction.DESCENDING)
+            .snapshots
+            .map { snapshot -> snapshot.documents.mapNotNull { it.toInsight() } }
+
     override fun getPendingInsights(): Flow<List<Insight>> =
         firestore.collection(COLLECTION_PENDING)
             .orderBy("createdAt", Direction.DESCENDING)
