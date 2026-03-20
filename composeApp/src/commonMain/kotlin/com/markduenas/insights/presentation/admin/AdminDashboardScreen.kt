@@ -11,6 +11,7 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.koin.getScreenModel
@@ -35,7 +36,7 @@ class AdminDashboardScreen : Screen {
             snackbarHost = { SnackbarHost(snackbarHostState) },
             topBar = {
                 TopAppBar(
-                    title = { Text("Admin — Pending Insights") },
+                    title = { Text("Admin") },
                     navigationIcon = {
                         IconButton(onClick = { navigator.pop() }) {
                             Icon(Icons.AutoMirrored.Filled.ArrowBack, "Back")
@@ -44,18 +45,34 @@ class AdminDashboardScreen : Screen {
                 )
             }
         ) { padding ->
-            when {
-                state.isLoading -> Box(Modifier.fillMaxSize().padding(padding), Alignment.Center) {
+            if (state.isLoading) {
+                Box(Modifier.fillMaxSize().padding(padding), Alignment.Center) {
                     CircularProgressIndicator()
                 }
-                state.pendingInsights.isEmpty() -> Box(Modifier.fillMaxSize().padding(padding), Alignment.Center) {
-                    Text("No pending insights. ✓", style = MaterialTheme.typography.bodyMedium)
-                }
-                else -> LazyColumn(
+            } else {
+                LazyColumn(
                     modifier = Modifier.fillMaxSize().padding(padding),
                     contentPadding = PaddingValues(16.dp),
                     verticalArrangement = Arrangement.spacedBy(8.dp)
                 ) {
+                    // ── Requested Topics ────────────────────────────────────
+                    if (state.topicRequests.isNotEmpty()) {
+                        item {
+                            SectionHeader("Requested Topics")
+                        }
+                        items(state.topicRequests.take(10)) { item ->
+                            TopicRequestRow(item)
+                        }
+                        item { Spacer(Modifier.height(8.dp)) }
+                    }
+
+                    // ── Pending Insights ─────────────────────────────────────
+                    item {
+                        SectionHeader(
+                            if (state.pendingInsights.isEmpty()) "Pending Insights — all clear ✓"
+                            else "Pending Insights (${state.pendingInsights.size})"
+                        )
+                    }
                     items(state.pendingInsights, key = { it.id }) { insight ->
                         PendingInsightCard(
                             insight = insight,
@@ -65,6 +82,48 @@ class AdminDashboardScreen : Screen {
                         )
                     }
                 }
+            }
+        }
+    }
+}
+
+@Composable
+private fun SectionHeader(title: String) {
+    Text(
+        title,
+        style = MaterialTheme.typography.titleSmall,
+        fontWeight = FontWeight.SemiBold,
+        color = MaterialTheme.colorScheme.primary,
+        modifier = Modifier.padding(vertical = 4.dp)
+    )
+}
+
+@Composable
+private fun TopicRequestRow(item: TopicCount) {
+    Card(
+        modifier = Modifier.fillMaxWidth(),
+        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant)
+    ) {
+        Row(
+            modifier = Modifier.padding(horizontal = 16.dp, vertical = 10.dp),
+            verticalAlignment = Alignment.CenterVertically,
+            horizontalArrangement = Arrangement.SpaceBetween
+        ) {
+            Text(
+                item.topic.replaceFirstChar { it.uppercase() },
+                style = MaterialTheme.typography.bodyMedium,
+                modifier = Modifier.weight(1f)
+            )
+            Badge(
+                containerColor = MaterialTheme.colorScheme.primaryContainer,
+                contentColor = MaterialTheme.colorScheme.onPrimaryContainer
+            ) {
+                Text(
+                    item.count.toString(),
+                    modifier = Modifier.padding(horizontal = 6.dp, vertical = 2.dp),
+                    style = MaterialTheme.typography.labelMedium,
+                    fontWeight = FontWeight.Bold
+                )
             }
         }
     }
