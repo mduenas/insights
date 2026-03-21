@@ -60,6 +60,34 @@ function loadSeedInsights() {
   return JSON.parse(fs.readFileSync(seedFile, 'utf8'));
 }
 
+/** Strips the 'new' tag from any approved insights that currently carry it. */
+async function clearNewTag(db) {
+  const newSnap = await db.collection('insights')
+    .where('tags', 'array-contains', 'new')
+    .get();
+
+  if (newSnap.empty) return;
+
+  const BATCH_SIZE = 500;
+  const docs = newSnap.docs;
+  let cleared = 0;
+
+  for (let i = 0; i < docs.length; i += BATCH_SIZE) {
+    const batch = db.batch();
+    const chunk = docs.slice(i, i + BATCH_SIZE);
+    for (const doc of chunk) {
+      batch.update(doc.ref, {
+        tags: admin.firestore.FieldValue.arrayRemove('new'),
+        updatedAt: Date.now(),
+      });
+    }
+    await batch.commit();
+    cleared += chunk.length;
+  }
+
+  console.log(`Cleared 'new' tag from ${cleared} existing insight(s).`);
+}
+
 /** Returns insights that haven't been seeded yet by checking existing IDs. */
 async function getUnseededInsights(db, allInsights) {
   const existing = new Set();
@@ -106,6 +134,8 @@ async function seedInsights() {
   if (unseeded.length === 0) {
     console.log('All insights have already been seeded.');
   } else {
+    await clearNewTag(db);
+
     const batch = db.batch();
     const toSeed = unseeded.slice(0, perRun);
     const now = Date.now();
@@ -113,11 +143,13 @@ async function seedInsights() {
     toSeed.forEach(insight => {
       const id = insight.id || crypto.randomUUID();
       const ref = db.collection('pending_insights').doc(id);
+      const tags = Array.isArray(insight.tags) ? insight.tags : [];
       batch.set(ref, {
         ...insight,
         id,
         category: 'COMMON',
         status: 'PENDING',
+        tags: tags.includes('new') ? tags : [...tags, 'new'],
         titleLower: insight.title.toLowerCase(),
         createdAt: now,
         updatedAt: now,
