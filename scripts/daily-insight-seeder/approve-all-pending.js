@@ -29,6 +29,7 @@ admin.initializeApp({ credential: admin.credential.cert(serviceAccount) });
 const db = admin.firestore();
 
 // ── Main ─────────────────────────────────────────────────────────────────────
+
 async function approveAll() {
   const pendingSnap = await db.collection('pending_insights').get();
 
