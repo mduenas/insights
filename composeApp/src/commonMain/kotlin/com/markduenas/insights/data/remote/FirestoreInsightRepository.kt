@@ -66,8 +66,7 @@ class FirestoreInsightRepository(
     }
 
     override suspend fun rejectInsight(id: String) {
-        firestore.collection(COLLECTION_PENDING).document(id)
-            .update("status" to InsightStatus.REJECTED.name)
+        firestore.collection(COLLECTION_PENDING).document(id).delete()
     }
 }
 
