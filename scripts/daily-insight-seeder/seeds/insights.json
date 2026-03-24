@@ -1033,5 +1033,80 @@
       "faith",
       "anxiety"
     ]
+  },
+  {
+    "id": "economics-01",
+    "title": "Specialization multiplies the productive power of human effort",
+    "body": "Adam Smith's pin factory example showed that dividing a task among specialists — each mastering a narrow function — increases output by orders of magnitude over a generalist doing every step alone. The principle extends far beyond manufacturing: focused expertise compounds in every domain, from surgery to software.",
+    "source": {
+      "title": "The Wealth of Nations",
+      "author": "Adam Smith",
+      "year": 1776
+    },
+    "tags": [
+      "economics",
+      "productivity",
+      "specialization"
+    ]
+  },
+  {
+    "id": "biology-01",
+    "title": "It is not the strongest who survive, but those most responsive to change",
+    "body": "Darwin's theory of natural selection reveals that adaptability — not raw strength or intelligence — is the fundamental survival trait. Environments shift, and organisms that cling rigidly to old strategies are displaced by those that adjust. The principle governs species, organizations, and careers with equal force.",
+    "source": {
+      "title": "On the Origin of Species",
+      "author": "Charles Darwin",
+      "year": 1859
+    },
+    "tags": [
+      "biology",
+      "adaptability",
+      "change"
+    ]
+  },
+  {
+    "id": "psychology-01",
+    "title": "Fast thinking is efficient but prone to systematic error",
+    "body": "Daniel Kahneman identified two cognitive systems: System 1, which is fast, intuitive, and automatic, and System 2, which is slow, deliberate, and effortful. We default to System 1 because it conserves energy, but it produces predictable biases. Knowing when to slow down and engage System 2 is the foundation of better judgment.",
+    "source": {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "year": 2011
+    },
+    "tags": [
+      "psychology",
+      "decision making",
+      "bias"
+    ]
+  },
+  {
+    "id": "literature-01",
+    "title": "Clear writing is clear thinking made visible",
+    "body": "Orwell argued that vague, pretentious language is not merely ugly — it is a symptom of confused thought. When we write with precision, we are forced to think with precision. The discipline of expressing ideas in plain sentences exposes the gaps in our understanding that we did not know were there.",
+    "source": {
+      "title": "Politics and the English Language",
+      "author": "George Orwell",
+      "year": 1946
+    },
+    "tags": [
+      "literature",
+      "writing",
+      "thinking"
+    ]
+  },
+  {
+    "id": "mathematics-01",
+    "title": "We are systematically blind to the role of the highly improbable",
+    "body": "Nassim Taleb's Black Swan describes events that are rare, carry extreme impact, and are rationalized in hindsight as though they were predictable all along. Because our models are built from observed data, they omit the most consequential events by definition. Planning only for what has happened before is a structural failure of imagination.",
+    "source": {
+      "title": "The Black Swan",
+      "author": "Nassim Nicholas Taleb",
+      "year": 2007
+    },
+    "tags": [
+      "mathematics",
+      "risk",
+      "uncertainty"
+    ]
   }
 ]
