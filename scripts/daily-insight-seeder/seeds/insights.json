@@ -1258,5 +1258,80 @@
       "psychology",
       "story"
     ]
+  },
+  {
+    "id": "psychology-03",
+    "title": "What a man can be, he must be",
+    "body": "Maslow described self-actualisation as the drive to become everything one is capable of becoming — not ambition for status, but a deep pull toward full expression of one's own nature. Most people live well below their potential not from lack of talent but from unmet needs lower in the hierarchy. Security, belonging, and esteem must be sufficiently met before the highest human motive can emerge and sustain itself.",
+    "source": {
+      "title": "Motivation and Personality",
+      "author": "Abraham Maslow",
+      "year": 1954
+    },
+    "tags": [
+      "psychology",
+      "self-actualisation",
+      "growth"
+    ]
+  },
+  {
+    "id": "business-01",
+    "title": "Competition is for losers — the goal is to escape it",
+    "body": "Peter Thiel argues that the obsession with competitive markets, taught as a virtue in economics, is lethal to businesses. A company in perfect competition fights for thin margins and is perpetually vulnerable. A company that builds a genuine monopoly — through superior technology, network effects, or a strong brand — captures the value it creates and keeps it. The aim of strategy is not to beat competitors but to make competition irrelevant.",
+    "source": {
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "year": 2014
+    },
+    "tags": [
+      "business",
+      "strategy",
+      "innovation"
+    ]
+  },
+  {
+    "id": "science-02",
+    "title": "Science is a candle in the dark against our own credulity",
+    "body": "Carl Sagan argued that the habit of mind behind science — demanding evidence, testing claims, remaining willing to be wrong — is not the property of professionals but a civic necessity. Pseudoscience and magical thinking are not naive; they are actively cultivated by those who profit from uncritical belief. The antidote is not cynicism but the discipline of asking: how do we know, and what would change our minds?",
+    "source": {
+      "title": "The Demon-Haunted World",
+      "author": "Carl Sagan",
+      "year": 1995
+    },
+    "tags": [
+      "science",
+      "critical thinking",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "literature-03",
+    "title": "The most terrifying question: have I really lived?",
+    "body": "Tolstoy's Ivan Ilyich spends a successful career climbing the ranks of the Russian judiciary, furnishing his home correctly, and cultivating the right acquaintances. Only in his final days, facing death, does he ask whether he lived for something real. Tolstoy's answer is unsparing: the performance of a respectable life is not the same as living one. The novella functions as a mirror — held up not to show us Ivan but to ask what we would see if we looked.",
+    "source": {
+      "title": "The Death of Ivan Ilyich",
+      "author": "Leo Tolstoy",
+      "year": 1886
+    },
+    "tags": [
+      "literature",
+      "meaning",
+      "authenticity"
+    ]
+  },
+  {
+    "id": "philosophy-05",
+    "title": "Truth is not found but made — an idea becomes true by working",
+    "body": "William James's pragmatism holds that abstract debates about truth dissolve when you ask a simpler question: what practical difference does this belief make? An idea is true insofar as it helps us act effectively, navigate experience, and connect new situations with old. This is not relativism but a shift in focus — from the correspondence between mind and world to the usefulness of the map you carry through it.",
+    "source": {
+      "title": "Pragmatism",
+      "author": "William James",
+      "year": 1907
+    },
+    "tags": [
+      "philosophy",
+      "pragmatism",
+      "epistemology"
+    ]
   }
 ]
