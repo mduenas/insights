@@ -106,7 +106,7 @@ async function upload() {
       requestBody: {
         track: TRACK,
         releases: [{
-          status: 'draft',
+          status: 'completed',
           versionCodes: [bundle.versionCode],
         }],
       },
