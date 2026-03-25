@@ -26,7 +26,7 @@ const PACKAGE_NAME = 'com.markduenas.insights';
 const REPO_ROOT = path.resolve(__dirname, '../..');
 const AAB_PATH = path.join(REPO_ROOT, 'composeApp/build/outputs/bundle/release/composeApp-release.aab');
 const SERVICE_ACCOUNT_PATH = process.env.PLAY_SERVICE_ACCOUNT
-  || path.join(process.env.HOME, '.config/kindling-play-service-account.json');
+  || path.join(REPO_ROOT, '../play-store-key.json');
 
 const trackArg = process.argv.indexOf('--track');
 const TRACK = trackArg !== -1 ? process.argv[trackArg + 1] : 'internal';
@@ -106,7 +106,7 @@ async function upload() {
       requestBody: {
         track: TRACK,
         releases: [{
-          status: 'completed',
+          status: 'draft',
           versionCodes: [bundle.versionCode],
         }],
       },
