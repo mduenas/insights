@@ -48,6 +48,35 @@ function preflight() {
   }
 }
 
+// ── Release notes ─────────────────────────────────────────────────────────────
+
+/** Generates release notes from git commits since the last version bump. */
+function generateReleaseNotes() {
+  try {
+    // Find the commit just before the most recent version bump
+    const lastBumpHash = execSync(
+      'git log --oneline | grep -m1 "Bump to" | awk \'{print $1}\'',
+      { cwd: REPO_ROOT }
+    ).toString().trim();
+
+    const log = execSync(
+      `git log ${lastBumpHash ? `${lastBumpHash}..HEAD` : '-n 10'} --pretty=format:"• %s" --no-merges`,
+      { cwd: REPO_ROOT }
+    ).toString().trim();
+
+    // Filter out version bumps and automated commits, cap at 500 chars
+    const lines = log
+      .split('\n')
+      .filter(l => !l.includes('Bump to') && !l.includes('[automated]') && l.trim());
+
+    let notes = lines.join('\n');
+    if (notes.length > 500) notes = notes.substring(0, 497) + '...';
+    return notes || 'Bug fixes and improvements.';
+  } catch {
+    return 'Bug fixes and improvements.';
+  }
+}
+
 // ── Build ─────────────────────────────────────────────────────────────────────
 
 function buildAAB() {
@@ -99,6 +128,8 @@ async function upload() {
     console.log(`   Version code: ${bundle.versionCode}`);
 
     // 3. Assign to track
+    const notes = generateReleaseNotes();
+    console.log(`📝 Release notes:\n${notes}\n`);
     await publisher.edits.tracks.update({
       packageName: PACKAGE_NAME,
       editId,
@@ -108,6 +139,7 @@ async function upload() {
         releases: [{
           status: 'completed',
           versionCodes: [bundle.versionCode],
+          releaseNotes: [{ language: 'en-US', text: notes }],
         }],
       },
     });
