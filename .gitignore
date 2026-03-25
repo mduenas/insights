@@ -19,6 +19,7 @@ captures
 node_modules/
 composeApp/insights-*.json
 composeApp/google-services.json
+scripts/deploy/node_modules/
 iosApp/iosApp/GoogleService-Info.plist
 iosApp/Pods/
 scripts/daily-insight-seeder/logs/
