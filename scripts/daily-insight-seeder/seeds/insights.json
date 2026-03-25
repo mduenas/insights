@@ -1036,8 +1036,8 @@
   },
   {
     "id": "economics-01",
-    "title": "The division of labour is limited by the extent of the market",
-    "body": "Adam Smith observed that specialization increases productivity, but only up to the scale the market can support. Larger markets enable deeper specialization, and deeper specialization generates greater wealth — which is why trade and cities unlock prosperity that isolated communities cannot. The principle applies equally to careers: your rare skill is only as valuable as the audience that can use it.",
+    "title": "Specialization multiplies the productive power of human effort",
+    "body": "Adam Smith's pin factory example showed that dividing a task among specialists — each mastering a narrow function — increases output by orders of magnitude over a generalist doing every step alone. The principle extends far beyond manufacturing: focused expertise compounds in every domain, from surgery to software.",
     "source": {
       "title": "The Wealth of Nations",
       "author": "Adam Smith",
@@ -1045,14 +1045,29 @@
     },
     "tags": [
       "economics",
-      "specialization",
-      "strategy"
+      "productivity",
+      "specialization"
+    ]
+  },
+  {
+    "id": "biology-01",
+    "title": "It is not the strongest who survive, but those most responsive to change",
+    "body": "Darwin's theory of natural selection reveals that adaptability — not raw strength or intelligence — is the fundamental survival trait. Environments shift, and organisms that cling rigidly to old strategies are displaced by those that adjust. The principle governs species, organizations, and careers with equal force.",
+    "source": {
+      "title": "On the Origin of Species",
+      "author": "Charles Darwin",
+      "year": 1859
+    },
+    "tags": [
+      "biology",
+      "adaptability",
+      "change"
     ]
   },
   {
     "id": "psychology-01",
-    "title": "Fast thinking is efficient but blind to its own errors",
-    "body": "Kahneman's System 1 operates automatically and quickly, drawing on patterns and intuition — it is extraordinarily efficient for routine decisions. But it is also the engine of cognitive bias: overconfidence, anchoring, and availability heuristics all originate here. The skill of sound judgment is not eliminating fast thinking but learning to recognise the situations where it leads us astray and slowing down deliberately.",
+    "title": "Fast thinking is efficient but prone to systematic error",
+    "body": "Daniel Kahneman identified two cognitive systems: System 1, which is fast, intuitive, and automatic, and System 2, which is slow, deliberate, and effortful. We default to System 1 because it conserves energy, but it produces predictable biases. Knowing when to slow down and engage System 2 is the foundation of better judgment.",
     "source": {
       "title": "Thinking, Fast and Slow",
       "author": "Daniel Kahneman",
@@ -1061,88 +1076,13 @@
     "tags": [
       "psychology",
       "decision making",
-      "thinking"
-    ]
-  },
-  {
-    "id": "biology-01",
-    "title": "Natural selection preserves every slight variation if useful",
-    "body": "Darwin's central insight is cumulative: tiny advantageous variations, preserved over vast stretches of time, produce extraordinary complexity from simple beginnings. The same logic applies far beyond biology — in skills, organisations, and ideas, small improvements compounded over time can generate outcomes that look miraculous from the starting point but are entirely explicable in retrospect.",
-    "source": {
-      "title": "On the Origin of Species",
-      "author": "Charles Darwin",
-      "year": 1859
-    },
-    "tags": [
-      "biology",
-      "evolution",
-      "compounding"
-    ]
-  },
-  {
-    "id": "history-01",
-    "title": "Large-scale human cooperation depends on shared myths",
-    "body": "Harari argues that Homo sapiens outcompeted every other species not because of individual intelligence but because of the ability to cooperate flexibly in large numbers through shared belief in fictions — nations, corporations, laws, money. These intersubjective realities are not delusions; they are the operating system of civilisation. To understand power and culture, study the stories people collectively choose to believe.",
-    "source": {
-      "title": "Sapiens: A Brief History of Humankind",
-      "author": "Yuval Noah Harari",
-      "year": 2011
-    },
-    "tags": [
-      "history",
-      "culture",
-      "cooperation"
+      "bias"
     ]
   },
   {
     "id": "literature-01",
-    "title": "Beauty will save the world",
-    "body": "Prince Myshkin's enigmatic declaration in Dostoevsky's novel has provoked debate for over a century. Read not as aesthetics but as ethics, it suggests that genuine encounters with beauty — in art, nature, or another person — break through cynicism and awaken the capacity for love and moral clarity. Where argument fails to move people, beauty sometimes succeeds.",
-    "source": {
-      "title": "The Idiot",
-      "author": "Fyodor Dostoevsky",
-      "year": 1869
-    },
-    "tags": [
-      "literature",
-      "beauty",
-      "meaning"
-    ]
-  },
-  {
-    "id": "science-01",
-    "title": "Ignorance more frequently begets confidence than does knowledge",
-    "body": "Darwin's observation from The Descent of Man anticipated what psychologists would later name the Dunning-Kruger effect. It is precisely when we know the least that we feel most certain. Genuine expertise tends to reveal complexity and temper certainty, not eliminate it — a reminder that intellectual humility is a mark of depth, not weakness.",
-    "source": {
-      "title": "The Descent of Man",
-      "author": "Charles Darwin",
-      "year": 1871
-    },
-    "tags": [
-      "science",
-      "humility",
-      "learning"
-    ]
-  },
-  {
-    "id": "mathematics-01",
-    "title": "If you can't solve a problem, find an easier problem you can solve",
-    "body": "Pólya's heuristic of simplification is the core of mathematical problem-solving — and applies everywhere. When stuck, the instinct is to push harder against the same wall. The wiser move is to find a simpler related problem, solve it fully, and use that foothold to climb back to the original. Progress in any domain often begins with a deliberate step backward.",
-    "source": {
-      "title": "How to Solve It",
-      "author": "George Pólya",
-      "year": 1945
-    },
-    "tags": [
-      "mathematics",
-      "problem-solving",
-      "strategy"
-    ]
-  },
-  {
-    "id": "literature-02",
-    "title": "If it is possible to cut a word out, always cut it out",
-    "body": "Orwell's rules for writing are really rules for thinking. Vague language is not a stylistic flaw — it is a symptom of muddled thought. The discipline of concision forces clarity; you cannot hide behind fog when every word must earn its place. Clear prose is the outward sign of an honest, ordered mind.",
+    "title": "Clear writing is clear thinking made visible",
+    "body": "Orwell argued that vague, pretentious language is not merely ugly — it is a symptom of confused thought. When we write with precision, we are forced to think with precision. The discipline of expressing ideas in plain sentences exposes the gaps in our understanding that we did not know were there.",
     "source": {
       "title": "Politics and the English Language",
       "author": "George Orwell",
@@ -1151,112 +1091,22 @@
     "tags": [
       "literature",
       "writing",
-      "clarity"
+      "thinking"
     ]
   },
   {
-    "id": "psychology-02",
-    "title": "What you see is all there is — we mistake the available for the complete",
-    "body": "Daniel Kahneman called this WYSIATI: our fast-thinking mind builds a confident narrative from whatever information is in front of it, without noticing what is absent. Decisions feel sound precisely because we cannot see the gaps. Slowing down to ask what evidence is missing is a primary defense against this bias.",
+    "id": "mathematics-01",
+    "title": "We are systematically blind to the role of the highly improbable",
+    "body": "Nassim Taleb's Black Swan describes events that are rare, carry extreme impact, and are rationalized in hindsight as though they were predictable all along. Because our models are built from observed data, they omit the most consequential events by definition. Planning only for what has happened before is a structural failure of imagination.",
     "source": {
-      "title": "Thinking, Fast and Slow",
-      "author": "Daniel Kahneman",
-      "year": 2011
+      "title": "The Black Swan",
+      "author": "Nassim Nicholas Taleb",
+      "year": 2007
     },
     "tags": [
-      "psychology",
-      "decision-making",
-      "bias"
-    ]
-  },
-  {
-    "id": "sociology-01",
-    "title": "The spirit of capitalism grew from an unlikely root: religious asceticism",
-    "body": "Weber traced the cultural origins of modern capitalism not to greed but to Calvinist theology — a calling to work diligently in one's worldly vocation as a sign of divine election. This ethic of disciplined labor, thrift, and reinvestment, detached over time from its religious roots, became the engine of capitalist enterprise. Culture, Weber shows, shapes economic behavior as powerfully as any material incentive.",
-    "source": {
-      "title": "The Protestant Ethic and the Spirit of Capitalism",
-      "author": "Max Weber",
-      "year": 1905
-    },
-    "tags": [
-      "sociology",
-      "economics",
-      "culture"
-    ]
-  },
-  {
-    "id": "philosophy-04",
-    "title": "Act only by maxims you could will to become universal laws",
-    "body": "Kant's categorical imperative offers a universal test for any action: ask whether the principle guiding you could be consistently adopted by everyone without contradiction. If universalizing it produces absurdity or self-defeat, the action is impermissible. This shifts ethics from calculating outcomes to examining the internal logic of the act itself — a framework that holds regardless of circumstances or consequences.",
-    "source": {
-      "title": "Groundwork of the Metaphysics of Morals",
-      "author": "Immanuel Kant",
-      "year": 1785
-    },
-    "tags": [
-      "philosophy",
-      "ethics",
-      "decision-making"
-    ]
-  },
-  {
-    "id": "neuroscience-01",
-    "title": "Emotion is not the enemy of reason — it is a prerequisite for it",
-    "body": "Damasio studied patients with damage to the brain's emotion-processing regions who retained full intelligence yet became incapable of making decisions. Without the felt sense of what matters, they could analyse endlessly but never choose. His somatic marker hypothesis suggests that emotions tag options with bodily signals of past outcomes, providing the weighting system that makes deliberation possible at all.",
-    "source": {
-      "title": "Descartes' Error",
-      "author": "Antonio Damasio",
-      "year": 1994
-    },
-    "tags": [
-      "neuroscience",
-      "decision-making",
-      "emotion"
-    ]
-  },
-  {
-    "id": "economics-02",
-    "title": "Prices condense knowledge no single mind could gather",
-    "body": "Hayek argued that the price system is not merely a mechanism for exchange but an information network of extraordinary power. Each price aggregates the dispersed, local, often tacit knowledge of millions of individuals — knowledge that no central planner could ever collect. This makes market prices irreplaceable guides to action and explains why top-down coordination consistently fails where decentralised systems succeed.",
-    "source": {
-      "title": "The Use of Knowledge in Society",
-      "author": "Friedrich Hayek",
-      "year": 1945
-    },
-    "tags": [
-      "economics",
-      "knowledge",
-      "systems"
-    ]
-  },
-  {
-    "id": "history-02",
-    "title": "The strong do what they can; the weak suffer what they must",
-    "body": "In the Melian Dialogue, Thucydides strips away the rhetoric of justice that powerful states use to justify their actions and presents power in its starkest form. Athens offered Melos a choice between submission and destruction. The observation is not moral endorsement but diagnostic clarity — understanding how power actually operates is the first requirement for navigating it. Thucydides wrote history, he said, as a possession for all time.",
-    "source": {
-      "title": "History of the Peloponnesian War",
-      "author": "Thucydides",
-      "year": -400
-    },
-    "tags": [
-      "history",
-      "power",
-      "politics"
-    ]
-  },
-  {
-    "id": "mythology-01",
-    "title": "Every hero's journey follows the same arc: departure, ordeal, return",
-    "body": "Campbell identified a universal narrative template — the monomyth — underlying myths from cultures across history and geography. A hero is called from the ordinary world, crosses a threshold into danger, faces a transforming ordeal, and returns bearing a gift for the community. The pattern resonates not because it is imposed on stories but because it mirrors the structure of genuine growth. Every major life transition follows the same arc.",
-    "source": {
-      "title": "The Hero with a Thousand Faces",
-      "author": "Joseph Campbell",
-      "year": 1949
-    },
-    "tags": [
-      "mythology",
-      "psychology",
-      "story"
+      "mathematics",
+      "risk",
+      "uncertainty"
     ]
   },
   {

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107575029247",
+    "project_id": "insights-b91e8",
+    "storage_bucket": "insights-b91e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107575029247:android:57c7649db8ed269b830bca",
+        "android_client_info": {
+          "package_name": "com.markduenas.insights"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTFHxUIkX8RanyU0VjB3-dfp-51-dmG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
