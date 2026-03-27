@@ -1258,5 +1258,80 @@
       "psychology",
       "story"
     ]
+  },
+  {
+    "id": "biology-02",
+    "title": "Cooperation scales what competition cannot",
+    "body": "E.O. Wilson showed that the most ecologically dominant species — ants, termites, and humans — share a capacity for eusocial cooperation rather than relying on individual competition alone. Groups that can subordinate individual interest to collective purpose consistently outcompete those that cannot. The unit of selection, Wilson argued, is sometimes the group itself, not the individual gene.",
+    "source": {
+      "title": "The Social Conquest of Earth",
+      "author": "E.O. Wilson",
+      "year": 2012
+    },
+    "tags": [
+      "biology",
+      "cooperation",
+      "evolution"
+    ]
+  },
+  {
+    "id": "psychology-03",
+    "title": "Peak experiences reveal what we are capable of becoming",
+    "body": "Maslow observed that moments of transcendence — what he called peak experiences — briefly lift people to their highest levels of functioning and fulfillment. These moments are not accidents; they point toward the kind of person one is striving to become. Understanding and cultivating the conditions for such experiences is, for Maslow, the core project of a healthy psychology.",
+    "source": {
+      "title": "Toward a Psychology of Being",
+      "author": "Abraham Maslow",
+      "year": 1962
+    },
+    "tags": [
+      "psychology",
+      "growth",
+      "self-actualization"
+    ]
+  },
+  {
+    "id": "mathematics-02",
+    "title": "Rare events drive history more than typical ones",
+    "body": "Taleb argues that our models of the world systematically underweight the probability and impact of rare, high-consequence events — black swans. Because these events fall outside our normal range of expectation, we are perpetually surprised by them, even though they dominate the historical record. Preparing for unpredictability matters more than optimizing for the probable.",
+    "source": {
+      "title": "The Black Swan",
+      "author": "Nassim Nicholas Taleb",
+      "year": 2007
+    },
+    "tags": [
+      "probability",
+      "uncertainty",
+      "risk"
+    ]
+  },
+  {
+    "id": "philosophy-05",
+    "title": "Freedom is not given; it must be chosen again and again",
+    "body": "Simone de Beauvoir argued that human freedom is not a static property but an ongoing act of will. We are always thrown into a situation not of our choosing, yet within it we must continually reaffirm our values through action. Refusing to choose is itself a choice — and typically the least authentic one.",
+    "source": {
+      "title": "The Ethics of Ambiguity",
+      "author": "Simone de Beauvoir",
+      "year": 1947
+    },
+    "tags": [
+      "philosophy",
+      "freedom",
+      "existentialism"
+    ]
+  },
+  {
+    "id": "sociology-02",
+    "title": "All social life is a performance",
+    "body": "Goffman showed that people constantly manage the impressions they make on others, staging their behavior much as an actor performs a role. This does not make social life inauthentic; it makes it structured. Understanding the rituals and conventions of self-presentation reveals how social order is produced moment by moment through everyday interaction.",
+    "source": {
+      "title": "The Presentation of Self in Everyday Life",
+      "author": "Erving Goffman",
+      "year": 1959
+    },
+    "tags": [
+      "sociology",
+      "identity",
+      "social behavior"
+    ]
   }
 ]
