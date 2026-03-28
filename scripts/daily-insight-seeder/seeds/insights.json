@@ -1333,5 +1333,80 @@
       "identity",
       "social behavior"
     ]
+  },
+  {
+    "id": "economics-03",
+    "title": "We desire not only to be praised, but to be praiseworthy",
+    "body": "Adam Smith argued that humans possess an inner 'impartial spectator' — a conscience that judges our own conduct as an outside observer would. We naturally crave not just approval from others but the deeper satisfaction of actually deserving it. This self-regulating moral faculty, Smith believed, is what makes a functioning society possible without an all-seeing authority. Reputation matters, but character matters more.",
+    "source": {
+      "title": "The Theory of Moral Sentiments",
+      "author": "Adam Smith",
+      "year": 1759
+    },
+    "tags": [
+      "economics",
+      "ethics",
+      "human-nature"
+    ]
+  },
+  {
+    "id": "biology-03",
+    "title": "Life conquered the globe by cooperation, not combat",
+    "body": "Lynn Margulis demonstrated that the mitochondria powering every human cell were once free-living bacteria that merged with ancient host cells billions of years ago. Evolution's most transformative leaps have come not from competition alone but from symbiosis — two organisms fusing their capabilities into something neither could become alone. Cooperation, it turns out, is just as fundamental a force in nature as competition.",
+    "source": {
+      "title": "Symbiotic Planet",
+      "author": "Lynn Margulis",
+      "year": 1998
+    },
+    "tags": [
+      "biology",
+      "cooperation",
+      "evolution"
+    ]
+  },
+  {
+    "id": "literature-03",
+    "title": "Live the questions now",
+    "body": "Rilke counselled a young poet not to chase premature answers but to inhabit uncertainty with patience and curiosity. The questions themselves, if lived honestly and without forcing resolution, gradually shape us until one day we find ourselves capable of the answers. Rushing to conclusions forecloses the very experiences that would have made those answers meaningful.",
+    "source": {
+      "title": "Letters to a Young Poet",
+      "author": "Rainer Maria Rilke",
+      "year": 1929
+    },
+    "tags": [
+      "literature",
+      "patience",
+      "uncertainty"
+    ]
+  },
+  {
+    "id": "mathematics-03",
+    "title": "If you cannot solve a problem, find an easier problem you can solve",
+    "body": "Polya's central heuristic in problem-solving is to seek a simpler analogue when you are stuck — strip away variables, try a special case, or solve a related problem you already understand. The easier problem builds the scaffolding and intuition you need to return to the original. This strategy of deliberate simplification is as powerful in business and science as it is in mathematics.",
+    "source": {
+      "title": "How to Solve It",
+      "author": "George Polya",
+      "year": 1945
+    },
+    "tags": [
+      "mathematics",
+      "problem-solving",
+      "learning"
+    ]
+  },
+  {
+    "id": "history-03",
+    "title": "Nations sleepwalk into catastrophe when no one asks how to stop",
+    "body": "Tuchman's account of World War I's outbreak reveals that the great powers mobilised according to plans so elaborate and interconnected that no leader felt able to reverse them once set in motion. Commitment to a course of action, without any exit strategy, transformed a regional crisis into a four-year catastrophe. Decisions made at the outset — irreversible by design — foreclosed every subsequent choice.",
+    "source": {
+      "title": "The Guns of August",
+      "author": "Barbara Tuchman",
+      "year": 1962
+    },
+    "tags": [
+      "history",
+      "decision-making",
+      "leadership"
+    ]
   }
 ]
