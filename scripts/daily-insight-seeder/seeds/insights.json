@@ -1408,5 +1408,80 @@
       "decision-making",
       "leadership"
     ]
+  },
+  {
+    "id": "creativity-05",
+    "title": "Constraints are not limits on creativity but the engine of it",
+    "body": "Stravinsky observed that the more constraints one imposes, the more one frees oneself from the chains that shackle the spirit. Working within tight boundaries — a fixed form, a limited palette, a single instrument — forces the mind to find solutions it would never have stumbled upon with total freedom. The blank canvas paralyses; the bounded one provokes invention.",
+    "source": {
+      "title": "Poetics of Music",
+      "author": "Igor Stravinsky",
+      "year": 1947
+    },
+    "tags": [
+      "creativity",
+      "constraints",
+      "art"
+    ]
+  },
+  {
+    "id": "habits-05",
+    "title": "We first make our habits, and then our habits make us",
+    "body": "John Dryden's observation anticipates modern neuroscience by three centuries: repeated actions carve neural pathways that, over time, make those actions feel effortless and inevitable. The character we end up with is less a matter of dramatic choices than of the small routines we barely notice ourselves repeating. To change who you are, begin by changing what you do each day.",
+    "source": {
+      "title": "Essay on Dramatic Poesy",
+      "author": "John Dryden",
+      "year": 1668
+    },
+    "tags": [
+      "habits",
+      "character",
+      "self-improvement"
+    ]
+  },
+  {
+    "id": "science-02",
+    "title": "A theory that explains everything explains nothing",
+    "body": "Karl Popper argued that a scientific theory must be falsifiable — it must make predictions that could, in principle, be proven wrong. A theory flexible enough to accommodate any outcome provides no real information about the world. The willingness to risk being wrong is not a weakness of good science but its defining virtue. Claims that cannot fail the test of evidence are not science at all.",
+    "source": {
+      "title": "The Logic of Scientific Discovery",
+      "author": "Karl Popper",
+      "year": 1934
+    },
+    "tags": [
+      "science",
+      "critical-thinking",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "relationships-03",
+    "title": "Love is not a feeling but a decision made daily",
+    "body": "M. Scott Peck distinguished between the feeling of falling in love — which is involuntary, temporary, and ego-dissolving — and the act of loving, which is a deliberate extension of oneself toward another's growth. True love is effortful and chosen; it persists when the initial feeling fades precisely because it was never reducible to that feeling. Commitment is what remains when the emotion no longer carries you.",
+    "source": {
+      "title": "The Road Less Traveled",
+      "author": "M. Scott Peck",
+      "year": 1978
+    },
+    "tags": [
+      "relationships",
+      "love",
+      "commitment"
+    ]
+  },
+  {
+    "id": "leadership-05",
+    "title": "The leader's first task is to define reality",
+    "body": "Max De Pree argued that before a leader can motivate, direct, or inspire, they must accurately name what is actually happening — stripping away comfortable fictions, wishful thinking, and institutional denial. Teams are paralysed by ambiguity; clarity, even about difficult truths, releases energy. The last task of a leader is to say thank you. Between these two lies the service of everyone else.",
+    "source": {
+      "title": "Leadership Is an Art",
+      "author": "Max De Pree",
+      "year": 1987
+    },
+    "tags": [
+      "leadership",
+      "clarity",
+      "communication"
+    ]
   }
 ]
