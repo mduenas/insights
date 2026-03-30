@@ -1483,5 +1483,85 @@
       "clarity",
       "communication"
     ]
+  },
+  {
+    "id": "philosophy-06",
+    "title": "Truth is what works",
+    "body": "William James defined truth pragmatically: a belief is true insofar as it helps us think effectively about reality and guides action to successful outcomes. This was a radical departure from the idea of truth as a fixed correspondence to an external world independent of human experience. Truth, for James, is made rather than found, and it lives on credit — its value depending on whether it continues to guide action well. Pragmatism shifts the philosophical question from 'what is real?' to 'what difference does it make?'",
+    "source": {
+      "title": "Pragmatism: A New Name for Some Old Ways of Thinking",
+      "author": "William James",
+      "year": 1907
+    },
+    "tags": [
+      "philosophy",
+      "truth",
+      "pragmatism",
+      "action"
+    ]
+  },
+  {
+    "id": "neuroscience-02",
+    "title": "The self is a story the brain tells about itself",
+    "body": "Oliver Sacks observed that patients who lose the capacity to form new memories also lose their sense of continuous selfhood — each moment becomes disconnected from the last. Selfhood is not a static possession stored somewhere in the brain; it is actively constructed through the ongoing narrative we tell about our lives. When that narrative thread breaks, something essential about personhood is lost. This insight transformed how neuroscience and philosophy think about consciousness, aging, and identity.",
+    "source": {
+      "title": "The Man Who Mistook His Wife for a Hat",
+      "author": "Oliver Sacks",
+      "year": 1985
+    },
+    "tags": [
+      "neuroscience",
+      "identity",
+      "memory",
+      "consciousness"
+    ]
+  },
+  {
+    "id": "economics-04",
+    "title": "Conspicuous consumption is status competition, not satisfaction",
+    "body": "Thorstein Veblen coined the term 'conspicuous consumption' to describe spending on goods primarily as a public signal of wealth and social standing rather than for genuine utility. Once basic needs are met, much economic behavior is driven by competitive emulation — the drive to keep up with those above you on the social ladder. This challenged the assumption that markets simply satisfy natural preferences. Instead, many preferences are socially constructed signals in an ongoing status contest.",
+    "source": {
+      "title": "The Theory of the Leisure Class",
+      "author": "Thorstein Veblen",
+      "year": 1899
+    },
+    "tags": [
+      "economics",
+      "society",
+      "status",
+      "consumption"
+    ]
+  },
+  {
+    "id": "psychology-04",
+    "title": "Flow is the state where skill meets challenge",
+    "body": "Mihaly Csikszentmihalyi identified a mental state he called 'flow' — complete absorption in a challenging activity where skill and challenge are in balance, and the sense of self temporarily disappears. In flow, people report doing their best work while feeling most alive. The path to wellbeing is not relaxation or passive pleasure, but engagement at the edge of one's abilities. Designing for more flow — in work, play, and relationships — may be the most direct route to a fulfilling life.",
+    "source": {
+      "title": "Flow: The Psychology of Optimal Experience",
+      "author": "Mihaly Csikszentmihalyi",
+      "year": 1990
+    },
+    "tags": [
+      "psychology",
+      "flow",
+      "engagement",
+      "wellbeing"
+    ]
+  },
+  {
+    "id": "history-04",
+    "title": "Democracy's greatest danger is the tyranny of the majority",
+    "body": "Alexis de Tocqueville observed that democracy's characteristic peril was not the tyranny of a king but a soft despotism of conformity, where majority opinion silences dissent not by force but by social pressure and the fear of exclusion. Equality of conditions unleashes enormous energy but also a tendency toward intellectual conformism, since individuals feel isolated against the unanimous weight of public opinion. Tocqueville saw that protecting minority views and independent thought was as important to free societies as protecting the vote itself.",
+    "source": {
+      "title": "Democracy in America",
+      "author": "Alexis de Tocqueville",
+      "year": 1835
+    },
+    "tags": [
+      "history",
+      "democracy",
+      "freedom",
+      "society"
+    ]
   }
 ]
