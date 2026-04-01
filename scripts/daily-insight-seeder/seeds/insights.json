@@ -1638,5 +1638,80 @@
       "happiness",
       "mindset"
     ]
+  },
+  {
+    "id": "science-03",
+    "title": "Science advances through revolutions, not just accumulations",
+    "body": "Kuhn showed that science does not simply add new facts to an existing edifice. Instead, normal science operates within a dominant paradigm until anomalies accumulate and trigger a crisis — at which point a revolution replaces the old framework entirely. What we take for granted as the background of inquiry is itself the product of a previous revolution, invisible until the next one forces it into view. Progress is not linear but punctuated.",
+    "source": {
+      "title": "The Structure of Scientific Revolutions",
+      "author": "Thomas Kuhn",
+      "year": 1962
+    },
+    "tags": [
+      "science",
+      "epistemology",
+      "change"
+    ]
+  },
+  {
+    "id": "philosophy-07",
+    "title": "The limits of my language mean the limits of my world",
+    "body": "Wittgenstein argued that what can be thought is bounded by what can be expressed — not because reality is linguistic but because our conceptual grasp of the world is shaped by the expressive resources available to us. Acquiring new language is not merely learning new words; it opens new territory for thought and perception. The frontier of your vocabulary is also the frontier of your understanding.",
+    "source": {
+      "title": "Tractatus Logico-Philosophicus",
+      "author": "Ludwig Wittgenstein",
+      "year": 1921
+    },
+    "tags": [
+      "philosophy",
+      "language",
+      "thinking"
+    ]
+  },
+  {
+    "id": "literature-04",
+    "title": "A room of one's own is the precondition for creative work",
+    "body": "Woolf's argument was not merely about gender — it was about the material conditions that make sustained creative work possible for anyone. Genius cannot flower without privacy, time, and economic independence. The history of art is as much the history of who had a room as who had talent; the silence of the excluded is not absence of ability but absence of conditions.",
+    "source": {
+      "title": "A Room of One's Own",
+      "author": "Virginia Woolf",
+      "year": 1929
+    },
+    "tags": [
+      "literature",
+      "creativity",
+      "freedom"
+    ]
+  },
+  {
+    "id": "economics-05",
+    "title": "Capitalism advances by destroying what it builds",
+    "body": "Schumpeter coined 'creative destruction' to describe capitalism's essential dynamic: new firms, technologies, and methods constantly arise and displace older ones. This process is simultaneously the source of capitalism's extraordinary productive energy and its relentless churn. To shield industries from creative destruction is to protect today's winners at the expense of tomorrow's innovations — a trade most societies find themselves unable to resist, and unable to sustain.",
+    "source": {
+      "title": "Capitalism, Socialism and Democracy",
+      "author": "Joseph Schumpeter",
+      "year": 1942
+    },
+    "tags": [
+      "economics",
+      "innovation",
+      "change"
+    ]
+  },
+  {
+    "id": "sociology-03",
+    "title": "Without shared bonds, freedom becomes isolation",
+    "body": "Durkheim's landmark study of suicide revealed a counterintuitive truth: people with fewer social ties and weakened shared norms — a condition he called anomie — were statistically more likely to take their own lives regardless of material circumstances. Freedom without belonging empties rather than fulfills. Social integration is not a constraint on flourishing but a precondition for it; the self that needs no one is not liberated but adrift.",
+    "source": {
+      "title": "Suicide: A Study in Sociology",
+      "author": "Émile Durkheim",
+      "year": 1897
+    },
+    "tags": [
+      "sociology",
+      "community",
+      "meaning"
+    ]
   }
 ]
