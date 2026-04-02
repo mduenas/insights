@@ -1713,5 +1713,60 @@
       "community",
       "meaning"
     ]
+  },
+  {
+    "id": "biology-04",
+    "title": "We are not solitary beings but living collaborations",
+    "body": "Thomas observed that the cells of the human body contain mitochondria that were once free-living bacteria, incorporated into our lineage through ancient symbiosis rather than conquest. This reframes what it means to be an individual: we are not self-contained units but ongoing coalitions of organisms with different evolutionary histories. Cooperation, not competition, is the deeper story of life.",
+    "source": {
+      "title": "The Lives of a Cell",
+      "author": "Lewis Thomas",
+      "year": 1974
+    },
+    "tags": ["biology", "cooperation", "identity"]
+  },
+  {
+    "id": "history-05",
+    "title": "Plans outlive the reasons that created them",
+    "body": "Tuchman's account of 1914 shows how European powers stumbled into catastrophic war partly because military mobilization schedules, drawn up years earlier, could not be halted once set in motion. The logic of planning replaced the logic of judgment. When the map no longer matches the territory, clinging to the plan can be more dangerous than having no plan at all.",
+    "source": {
+      "title": "The Guns of August",
+      "author": "Barbara Tuchman",
+      "year": 1962
+    },
+    "tags": ["history", "decision-making", "strategy"]
+  },
+  {
+    "id": "mathematics-04",
+    "title": "If you can't solve a problem, find a related one you can",
+    "body": "Pólya's great insight was that problem-solving is itself a learnable skill, not a mysterious gift. When stuck, the productive move is not to push harder but to transform the problem: draw an analogy, work backwards from the desired answer, or solve a simpler version first. The path to difficult truths is often paved with easier ones.",
+    "source": {
+      "title": "How to Solve It",
+      "author": "George Pólya",
+      "year": 1945
+    },
+    "tags": ["mathematics", "problem-solving", "learning"]
+  },
+  {
+    "id": "creativity-06",
+    "title": "Creative people contain contradictions",
+    "body": "Csikszentmihalyi found that highly creative individuals tend to hold seemingly opposite traits simultaneously — they are playful yet disciplined, imaginative yet rooted in reality, humble yet proud of their work. Rather than resolving these tensions into a consistent personality, they inhabit both poles. Complexity of self is not a liability but the engine of original thought.",
+    "source": {
+      "title": "Creativity: Flow and the Psychology of Discovery and Invention",
+      "author": "Mihaly Csikszentmihalyi",
+      "year": 1996
+    },
+    "tags": ["creativity", "psychology", "identity"]
+  },
+  {
+    "id": "economics-06",
+    "title": "Prices are knowledge in compressed form",
+    "body": "Hayek argued that no central planner can possess all the information needed to coordinate a modern economy — that knowledge is dispersed across millions of individuals in forms that cannot be communicated in full. The price system performs a kind of miracle: it aggregates this decentralized knowledge and signals it to strangers without anyone needing to explain why. Markets work not because planners are clever, but because prices make distributed wisdom legible.",
+    "source": {
+      "title": "The Use of Knowledge in Society",
+      "author": "Friedrich Hayek",
+      "year": 1945
+    },
+    "tags": ["economics", "knowledge", "systems"]
   }
 ]
