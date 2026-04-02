@@ -23,3 +23,4 @@ scripts/deploy/node_modules/
 iosApp/iosApp/GoogleService-Info.plist
 iosApp/Pods/
 scripts/daily-insight-seeder/logs/
+.codegraph/
