@@ -1768,5 +1768,60 @@
       "year": 1945
     },
     "tags": ["economics", "knowledge", "systems"]
+  },
+  {
+    "id": "biology-05",
+    "title": "In nature, nothing exists alone",
+    "body": "Rachel Carson demonstrated that ecosystems function as intricately connected webs where every species influences others in ways that are not immediately visible. When a pesticide is introduced, it doesn't merely kill insects — it disrupts food chains, depletes bird populations, and contaminates waterways miles away. Understanding this interconnectedness transforms how we approach any complex system: our actions propagate outward in ways we rarely anticipate.",
+    "source": {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "year": 1962
+    },
+    "tags": ["biology", "ecology", "systems-thinking"]
+  },
+  {
+    "id": "mathematics-05",
+    "title": "Discovery is the child of unconscious work",
+    "body": "Poincaré observed that mathematical breakthroughs rarely arrive through sustained conscious effort alone — they emerge after periods of incubation when the mind is at rest. He described moments of sudden illumination while stepping onto a bus or waking from sleep, when his subconscious had quietly arranged pieces he had struggled with consciously for days. This suggests that productive rest and apparent idleness are not interruptions to creative work, but essential phases within it.",
+    "source": {
+      "title": "Science and Method",
+      "author": "Henri Poincaré",
+      "year": 1908
+    },
+    "tags": ["mathematics", "creativity", "problem-solving"]
+  },
+  {
+    "id": "philosophy-08",
+    "title": "Not to choose is still a choice",
+    "body": "Kierkegaard argued that the aesthetic life — keeping all options open and avoiding commitment — is itself a form of choosing: choosing to drift. True selfhood emerges only through decisive commitment, even when the outcome is uncertain. Postponing decisions in the hope of perfect information doesn't preserve freedom; it surrenders it to circumstance and the choices of others.",
+    "source": {
+      "title": "Either/Or",
+      "author": "Søren Kierkegaard",
+      "year": 1843
+    },
+    "tags": ["philosophy", "decision-making", "authenticity"]
+  },
+  {
+    "id": "leadership-06",
+    "title": "Power-with is stronger than power-over",
+    "body": "Mary Parker Follett, a pioneering management theorist writing in the 1920s, distinguished between coercive power that dominates others and co-active power that grows through collaboration. Organizations that cultivate shared authority — where influence flows from expertise and mutual respect rather than rank — unlock far more collective intelligence and loyalty. Her insight anticipated by decades what modern organizational psychology has confirmed: inclusion multiplies capability.",
+    "source": {
+      "title": "Dynamic Administration",
+      "author": "Mary Parker Follett",
+      "year": 1941
+    },
+    "tags": ["leadership", "collaboration", "management"]
+  },
+  {
+    "id": "creativity-07",
+    "title": "Every creative act is a bisociation",
+    "body": "Arthur Koestler coined 'bisociation' to describe how creativity occurs at the collision of two normally unrelated frames of reference. A joke, a scientific discovery, and an artistic breakthrough all share this structure: something previously seen in one context suddenly snaps into coherence from the perspective of another. The trained creator is therefore not someone who thinks harder within a single domain, but someone who habitually maps across domains.",
+    "source": {
+      "title": "The Act of Creation",
+      "author": "Arthur Koestler",
+      "year": 1964
+    },
+    "tags": ["creativity", "innovation", "problem-solving"]
   }
 ]
