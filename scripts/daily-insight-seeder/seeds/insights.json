@@ -1823,5 +1823,60 @@
       "year": 1964
     },
     "tags": ["creativity", "innovation", "problem-solving"]
+  },
+  {
+    "id": "psychology-06",
+    "title": "The last of human freedoms is to choose one's attitude",
+    "body": "Viktor Frankl discovered in the Nazi death camps that everything can be taken from a person but one thing: the freedom to choose one's response to any given set of circumstances. This insight, born from unimaginable suffering, became the foundation of logotherapy — the idea that meaning can be found even in unavoidable pain. How we meet our fate matters as much as the fate itself.",
+    "source": {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor Frankl",
+      "year": 1946
+    },
+    "tags": ["psychology", "freedom", "meaning"]
+  },
+  {
+    "id": "science-04",
+    "title": "We are star stuff harvesting starlight",
+    "body": "The nitrogen in our DNA, the calcium in our teeth, the iron in our blood were forged in the interiors of collapsing stars billions of years ago. Carl Sagan used this scientific fact to inspire a profound sense of kinship — not just with each other, but with the entire cosmos. We are not visitors in the universe; we are one of the ways the universe has come to know itself.",
+    "source": {
+      "title": "Cosmos",
+      "author": "Carl Sagan",
+      "year": 1980
+    },
+    "tags": ["science", "cosmos", "wonder"]
+  },
+  {
+    "id": "literature-05",
+    "title": "Clear writing is a political act",
+    "body": "Orwell argued that the decline of language is both a cause and symptom of political decay. Vague, pretentious language allows bad ideas to pass unexamined and makes it easier to defend the indefensible. When we force ourselves to write with precision and honesty, we are also forcing ourselves to think clearly — and that clarity is a form of moral courage.",
+    "source": {
+      "title": "Politics and the English Language",
+      "author": "George Orwell",
+      "year": 1946
+    },
+    "tags": ["writing", "clarity", "language"]
+  },
+  {
+    "id": "philosophy-09",
+    "title": "Reason is the slave of the passions",
+    "body": "Hume provocatively argued that our rational faculties exist not to guide our desires, but to serve them — we use reason to figure out how to get what we already want, not to determine what we should want. This insight anticipates modern behavioral economics and neuroscience, which confirm that emotion typically drives decisions while reason rationalizes them after the fact. Knowing this, we can be more honest about the true sources of our choices.",
+    "source": {
+      "title": "A Treatise of Human Nature",
+      "author": "David Hume",
+      "year": 1739
+    },
+    "tags": ["philosophy", "reason", "emotion"]
+  },
+  {
+    "id": "habits-06",
+    "title": "Shrink the behavior until it feels too easy",
+    "body": "Fogg's research at Stanford showed that the key to lasting change is not willpower or motivation, but making behaviors so small they require almost no effort to begin. A two-minute version of any habit removes the resistance that prevents starting, and starting is what matters most. Once the behavior is anchored, growth follows naturally — but only after the pattern is established.",
+    "source": {
+      "title": "Tiny Habits",
+      "author": "B.J. Fogg",
+      "year": 2019
+    },
+    "tags": ["habits", "behavior", "change"]
   }
 ]
