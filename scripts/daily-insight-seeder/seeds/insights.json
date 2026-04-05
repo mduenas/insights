@@ -1878,5 +1878,60 @@
       "year": 2019
     },
     "tags": ["habits", "behavior", "change"]
+  },
+  {
+    "id": "economics-07",
+    "title": "Animal spirits drive investment more than cold calculation",
+    "body": "Keynes coined 'animal spirits' to describe the spontaneous urge to act that underlies investment decisions. Even the most rigorous financial analysis rests on a foundation of confidence or fear that cannot be fully quantified. Recognizing this emotional substrate of economic life explains why markets overshoot, crash, and recover in ways that purely rational models struggle to predict.",
+    "source": {
+      "title": "The General Theory of Employment, Interest and Money",
+      "author": "John Maynard Keynes",
+      "year": 1936
+    },
+    "tags": ["economics", "psychology", "decision-making"]
+  },
+  {
+    "id": "literature-06",
+    "title": "Fantasy reveals what realism obscures",
+    "body": "Le Guin argued that the dismissal of fantasy as mere escapism betrays a deeper unease with inner life. Realistic fiction deals with the surfaces of the familiar world; fantasy deals with its deeper patterns — of power, freedom, and the struggle between good and evil. Those patterns are no less real for being rendered in the language of dragons and impossible worlds.",
+    "source": {
+      "title": "The Language of the Night",
+      "author": "Ursula K. Le Guin",
+      "year": 1979
+    },
+    "tags": ["literature", "imagination", "culture"]
+  },
+  {
+    "id": "science-05",
+    "title": "Information is the reduction of uncertainty",
+    "body": "Shannon's foundational insight redefined information not as meaning but as the measurable reduction of uncertainty. The more surprising a message, the more information it carries. This reframing transformed telecommunications and computing, and quietly underlies every digital technology in existence — from the internet to DNA sequencing to data compression.",
+    "source": {
+      "title": "A Mathematical Theory of Communication",
+      "author": "Claude Shannon",
+      "year": 1948
+    },
+    "tags": ["science", "mathematics", "communication"]
+  },
+  {
+    "id": "history-06",
+    "title": "Geography shapes destiny more than culture",
+    "body": "Diamond argued that the vast differences in wealth and power across civilizations stem not from racial or cultural superiority but from geographical accidents — the availability of domesticable animals, farmable crops, and east-west axes for the spread of innovations. Ideology often fills the explanatory gap left by unexamined environmental causes, flattering the winners and blaming the losers.",
+    "source": {
+      "title": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "year": 1997
+    },
+    "tags": ["history", "geography", "systems"]
+  },
+  {
+    "id": "relationships-04",
+    "title": "Love is an art, not a feeling to be found",
+    "body": "Fromm argued that most people treat love as primarily about being loved rather than about their own capacity to love. He compared love to music or medicine — a practice demanding knowledge, discipline, and sustained effort. The widespread hope of simply falling into love passively leaves the skill undeveloped and the longing perpetually unfulfilled.",
+    "source": {
+      "title": "The Art of Loving",
+      "author": "Erich Fromm",
+      "year": 1956
+    },
+    "tags": ["psychology", "relationships", "growth"]
   }
 ]
