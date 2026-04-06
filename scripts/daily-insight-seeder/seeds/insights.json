@@ -1933,5 +1933,60 @@
       "year": 1956
     },
     "tags": ["psychology", "relationships", "growth"]
+  },
+  {
+    "id": "biology-06",
+    "title": "Genes use bodies as vehicles for their own survival",
+    "body": "Dawkins reframed evolution's unit of selection as the gene rather than the individual organism. Bodies are, in this view, survival machines built by genes to propagate themselves across generations. The insight untangles apparent paradoxes: altruism toward close kin can be explained by shared genetic interest rather than selfless intention. Understanding what evolution selected for helps us separate inherited drives from consciously chosen values.",
+    "source": {
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "year": 1976
+    },
+    "tags": ["biology", "evolution", "human-nature"]
+  },
+  {
+    "id": "philosophy-10",
+    "title": "Without a common authority, life is solitary, poor, nasty, brutish, and short",
+    "body": "Hobbes argued that without political authority to enforce agreements, rational self-interest leads inevitably to conflict — the war of all against all. The social contract, by which individuals surrender some freedom to a sovereign power, is not an imposition on human nature but a precondition for civilization itself. His insight anticipates game theory: cooperation becomes stable only when defection is reliably punished.",
+    "source": {
+      "title": "Leviathan",
+      "author": "Thomas Hobbes",
+      "year": 1651
+    },
+    "tags": ["philosophy", "politics", "cooperation"]
+  },
+  {
+    "id": "literature-07",
+    "title": "The past is not a place you leave behind",
+    "body": "Morrison's novel shows that traumatic history does not simply recede with time — it haunts, inhabits, and shapes the present in ways that resist ordinary narration. The character Beloved literalizes what psychology now calls embodied memory: wounds never properly mourned live on and demand acknowledgment. Healing begins not by forgetting but by finding ways to hold the past without being consumed by it.",
+    "source": {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "year": 1987
+    },
+    "tags": ["literature", "trauma", "memory"]
+  },
+  {
+    "id": "psychology-07",
+    "title": "We look to others to decide what is correct",
+    "body": "Cialdini identified social proof as one of the most powerful triggers of human compliance: when uncertain, we assume that what many others do must be the right thing to do. This heuristic is efficient in normal circumstances but exploitable — marketers, con artists, and cults rely on manufactured consensus to override independent judgment. Recognizing the pull of social proof is the first step to using it wisely rather than being used by it.",
+    "source": {
+      "title": "Influence: The Psychology of Persuasion",
+      "author": "Robert Cialdini",
+      "year": 1984
+    },
+    "tags": ["psychology", "persuasion", "social-influence"]
+  },
+  {
+    "id": "science-06",
+    "title": "The act of observation changes what is observed",
+    "body": "Heisenberg's uncertainty principle demonstrated that at the quantum level, measuring a particle's position necessarily disturbs its momentum — the observer is not separate from the system but part of it. This overturned centuries of classical assumption that nature exists as a fixed, knowable reality waiting to be read off. The implication extends beyond physics: in human affairs too, the questions we ask shape the answers we find.",
+    "source": {
+      "title": "Physics and Philosophy",
+      "author": "Werner Heisenberg",
+      "year": 1958
+    },
+    "tags": ["science", "epistemology", "physics"]
   }
 ]
