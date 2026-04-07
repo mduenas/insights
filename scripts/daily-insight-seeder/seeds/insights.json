@@ -1988,5 +1988,60 @@
       "year": 1958
     },
     "tags": ["science", "epistemology", "physics"]
+  },
+  {
+    "id": "biology-07",
+    "title": "The boundary between human and animal is far thinner than we assumed",
+    "body": "When Jane Goodall observed chimpanzees in Tanzania stripping leaves from twigs to fish termites from mounds, she had witnessed the first documented case of a non-human animal making a tool. Her mentor Louis Leakey responded: 'Now we must redefine tool, redefine man, or accept chimpanzees as humans.' Decades of fieldwork revealed that the emotional bonds, problem-solving, and social complexity of other animals are orders of magnitude richer than science had dared to suppose.",
+    "source": {
+      "title": "In the Shadow of Man",
+      "author": "Jane Goodall",
+      "year": 1971
+    },
+    "tags": ["biology", "evolution", "humanity"]
+  },
+  {
+    "id": "economics-08",
+    "title": "Poverty is not the absence of money but the absence of freedom",
+    "body": "Amartya Sen reframed development economics entirely: poverty is not primarily a lack of income but a deprivation of real capabilities — the freedoms people have to live lives they have reason to value. Income matters only insofar as it enables participation in public life, access to education, good health, and meaningful choice. Measuring a nation's progress by GDP alone misses what development is actually for.",
+    "source": {
+      "title": "Development as Freedom",
+      "author": "Amartya Sen",
+      "year": 1999
+    },
+    "tags": ["economics", "freedom", "development"]
+  },
+  {
+    "id": "literature-08",
+    "title": "Nothing can be changed until it is faced",
+    "body": "Baldwin argued that the first act of any genuine transformation — personal or political — is confronting reality without illusion. Comfortable lies preserve existing conditions; honest reckoning is the precondition for change. The discomfort of seeing clearly is not the obstacle but the beginning of the path forward.",
+    "source": {
+      "title": "The Fire Next Time",
+      "author": "James Baldwin",
+      "year": 1963
+    },
+    "tags": ["literature", "courage", "change"]
+  },
+  {
+    "id": "creativity-08",
+    "title": "The only way to reach the good draft is through the bad one",
+    "body": "Lamott's concept of the 'shitty first draft' liberates creators from the paralysis of perfectionism. The purpose of a first draft is not to be good but to exist — to give you material you can improve. All finished work of quality passes through an ugly stage, and writers who understand this produce more because they do not wait for inspiration to deliver polished sentences on the first pass.",
+    "source": {
+      "title": "Bird by Bird: Some Instructions on Writing and Life",
+      "author": "Anne Lamott",
+      "year": 1994
+    },
+    "tags": ["creativity", "writing", "perfectionism"]
+  },
+  {
+    "id": "mathematics-06",
+    "title": "Beauty is the first test in mathematics",
+    "body": "Hardy argued that the value of mathematics lies not in its utility but in its aesthetic quality — that mathematical ideas, like poems or paintings, must be beautiful to be worth anything. This is not mere sentiment: elegance in a proof signals genuine insight, while clumsy arguments often conceal errors or fail to reveal why something is actually true. The most useful mathematics, he noted, was almost always the most beautiful.",
+    "source": {
+      "title": "A Mathematician's Apology",
+      "author": "G.H. Hardy",
+      "year": 1940
+    },
+    "tags": ["mathematics", "beauty", "aesthetics"]
   }
 ]
