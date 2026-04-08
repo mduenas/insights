@@ -2043,5 +2043,60 @@
       "year": 1940
     },
     "tags": ["mathematics", "beauty", "aesthetics"]
+  },
+  {
+    "id": "sociology-04",
+    "title": "The personal is always embedded in the historical",
+    "body": "C. Wright Mills argued that we cannot understand private troubles without situating them within the public issues of their time. Unemployment, anxiety, and broken relationships are not merely personal failures — they are shaped by economic structures and institutional forces no individual controls. The sociological imagination is the capacity to move between biography and history, to see how one's life intersects with the larger sweep of society. That shift in perspective transforms self-blame into structural understanding.",
+    "source": {
+      "title": "The Sociological Imagination",
+      "author": "C. Wright Mills",
+      "year": 1959
+    },
+    "tags": ["sociology", "perspective", "society"]
+  },
+  {
+    "id": "neuroscience-03",
+    "title": "The brain constructs your world — it does not merely receive it",
+    "body": "Ramachandran's work on phantom limbs revealed that the brain does not passively process signals from the body but actively generates a model of the body and the world. When an amputee feels pain in a missing limb, the pain is entirely real; it is the model that is outdated. This constructive view of perception extends to all experience: what we take as direct contact with reality is a controlled hallucination, useful and usually accurate, but always the brain's best guess.",
+    "source": {
+      "title": "Phantoms in the Brain",
+      "author": "V.S. Ramachandran",
+      "year": 1998
+    },
+    "tags": ["neuroscience", "perception", "consciousness"]
+  },
+  {
+    "id": "philosophy-11",
+    "title": "Learning without thought is labor lost; thought without learning is perilous",
+    "body": "Confucius identified the two opposite errors of intellectual life: accumulating facts without reflection fills the mind without nourishing it, while speculating without grounding in what has been learned produces confident nonsense. The wisdom to act well requires both disciplines — mastery of what others have discovered and the willingness to think independently about what it means. Each safeguards against the excess of the other.",
+    "source": {
+      "title": "The Analects",
+      "author": "Confucius",
+      "year": -500
+    },
+    "tags": ["philosophy", "learning", "wisdom"]
+  },
+  {
+    "id": "wealth-03",
+    "title": "Mr. Market is your servant, not your guide",
+    "body": "Graham's parable of Mr. Market — a temperamental business partner who offers daily prices wildly swayed by mood — captures the correct relationship between an investor and the market. When Mr. Market is euphoric, his prices are too high; when despairing, too low. The disciplined investor uses these fluctuations as opportunities rather than signals to follow. This distinction separates investing from speculation: the market is there to serve the investor, not to instruct them.",
+    "source": {
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "year": 1949
+    },
+    "tags": ["wealth", "investing", "decision-making"]
+  },
+  {
+    "id": "mindset-04",
+    "title": "Optimists explain setbacks as temporary, specific, and situational",
+    "body": "Seligman identified explanatory style as the key variable in psychological resilience. When pessimists encounter failure, they explain it as permanent, pervasive, and personal. Optimists use the opposite pattern — setbacks are temporary, limited in scope, and partly situational. This is not wishful thinking; it is a more accurate reading of most setbacks. Crucially, explanatory style is not fixed personality: it can be learned, practiced, and deliberately changed.",
+    "source": {
+      "title": "Learned Optimism",
+      "author": "Martin Seligman",
+      "year": 1990
+    },
+    "tags": ["mindset", "resilience", "psychology"]
   }
 ]
