@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "simplemem": {
+      "type": "http",
+      "url": "http://localhost:8000/mcp",
+      "headers": {
+        "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNmVkMWJhZDQtY2ZiYS00MTY2LTg3ZWQtYzA4N2M5MGYyNGFjIiwidGFibGVfbmFtZSI6Im1lbV82ZWQxYmFkNF9jZmJhXzQxNjZfODdlZF9jMDg3YzkwZjI0YWMiLCJjcmVhdGVkX2F0IjoiMjAyNi0wNC0xMFQxNjo1NTo0NC41NTUwNDciLCJleHAiOjE3Nzg0NTM3NDR9.J06TGOMmY0YVHYKG8AivjJIoCRAQmtb6nJJByeosZGs"
+      }
+    }
+  }
+}

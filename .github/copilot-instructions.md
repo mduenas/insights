@@ -1,29 +1,32 @@
-<!-- CODEGRAPH_START -->
-## CodeGraph
+# Copilot Instructions - insights
 
-CodeGraph builds a semantic knowledge graph of codebases for faster, smarter code exploration.
+Insights - personal analytics and data insights app. Kotlin Multiplatform targeting Android and iOS.
 
-### If `.codegraph/` exists in the project
+## Long-Term Memory (SimpleMem)
 
-**Use codegraph MCP tools for faster exploration.** These tools provide instant lookups via the code graph instead of scanning files:
+You have access to a **SimpleMem** MCP server via the `simplemem` tool. Use it to maintain persistent memory across sessions for this project.
 
-| Tool | Use For |
-|------|---------|
-| `codegraph_search` | Find symbols by name (functions, classes, types) |
-| `codegraph_context` | Get relevant code context for a task |
-| `codegraph_callers` | Find what calls a function |
-| `codegraph_callees` | Find what a function calls |
-| `codegraph_impact` | See what's affected by changing a symbol |
-| `codegraph_node` | Get details + source code for a symbol |
+### When to store memories
+- Architecture decisions and the reasoning behind them
+- Project conventions (naming, patterns, file structure)
+- Known bugs, gotchas, or constraints
+- User preferences and recurring feedback
+- Task progress, TODOs, and open questions
+- KMP/platform-specific implementation details
+- Key dependencies and their versions
 
-**For quick lookups:**
-- Use `codegraph_search` instead of grep for finding symbols
-- Use `codegraph_callers`/`codegraph_callees` to trace code flow
-- Use `codegraph_impact` before making changes to see what's affected
+### When to retrieve memories
+- At the start of any session or new task, query for relevant context
+- Before making architectural decisions, check if a prior decision exists
 
-### If `.codegraph/` does NOT exist
+### Tools
+- `memory_add`: store a dialogue or fact
+- `memory_add_batch`: store multiple facts at once
+- `memory_query`: ask a natural language question about stored memories
+- `memory_retrieve`: browse raw stored facts
+- `memory_stats`: check memory status
+- `memory_clear`: clear all memories (use with caution)
 
-At the start of a session, suggest initializing CodeGraph:
+At the start of each session, run `memory_query`: "What is the current state of this project and any open tasks?"
+After significant decisions or discoveries, use `memory_add` to record what was decided and why.
 
-"I notice this project doesn't have CodeGraph initialized. You can run `codegraph init -i` to build a code knowledge graph for faster exploration."
-<!-- CODEGRAPH_END -->
