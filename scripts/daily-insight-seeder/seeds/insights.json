@@ -2313,5 +2313,80 @@
       "psychology",
       "discipline"
     ]
+  },
+  {
+    "id": "economics-09",
+    "title": "Private opulence and public squalor",
+    "body": "John Kenneth Galbraith observed that affluent societies systematically overproduce private goods while starving shared public ones — schools, parks, and infrastructure. The market's invisible hand is adept at satisfying individual desires but blind to collective needs. True prosperity, he argued, cannot be measured by consumer abundance alone; it also depends on the quality of what a society holds in common.",
+    "source": {
+      "title": "The Affluent Society",
+      "author": "John Kenneth Galbraith",
+      "year": 1958
+    },
+    "tags": [
+      "economics",
+      "society",
+      "public-goods"
+    ]
+  },
+  {
+    "id": "psychology-08",
+    "title": "We change our beliefs to match our actions",
+    "body": "Leon Festinger discovered that when our behavior contradicts our beliefs, we rarely change our behavior — instead we revise our beliefs until they justify what we did. This cognitive dissonance drives elaborate self-justification: the smoker decides the health risks are exaggerated; the poor decision-maker concludes the choice was wise all along. Recognizing this tendency is essential for building beliefs that actually guide action rather than merely excuse it.",
+    "source": {
+      "title": "A Theory of Cognitive Dissonance",
+      "author": "Leon Festinger",
+      "year": 1957
+    },
+    "tags": [
+      "psychology",
+      "self-awareness",
+      "rationalization"
+    ]
+  },
+  {
+    "id": "science-07",
+    "title": "Life feeds on negative entropy",
+    "body": "Erwin Schrödinger proposed that what distinguishes a living organism from inanimate matter is its ability to draw order from its surroundings, locally reversing the universal drift toward disorder. A living cell continuously extracts structure — from food, sunlight, and information — to maintain its own complexity. This insight, written a decade before the discovery of DNA, anticipated the central role of information in biology.",
+    "source": {
+      "title": "What Is Life?",
+      "author": "Erwin Schrödinger",
+      "year": 1944
+    },
+    "tags": [
+      "science",
+      "biology",
+      "entropy"
+    ]
+  },
+  {
+    "id": "literature-09",
+    "title": "Boats against the current, borne back into the past",
+    "body": "Fitzgerald's closing image captures a fundamental tension in human striving: we row hard toward the future while the current of memory and origin carries us ceaselessly backward. His novel shows how the dream of self-reinvention is shadowed by an obsession with reclaiming what is already gone. What disguises itself as ambition is often nostalgia — a reaching for an idealized past rather than a genuinely new future.",
+    "source": {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925
+    },
+    "tags": [
+      "literature",
+      "ambition",
+      "time"
+    ]
+  },
+  {
+    "id": "philosophy-12",
+    "title": "Design society from behind the veil of ignorance",
+    "body": "John Rawls proposed a thought experiment: to determine what a just society looks like, imagine you must choose its rules without knowing in advance whether you will be born wealthy or poor, talented or not, in the majority or minority. Behind this 'veil of ignorance,' rational people would design institutions that protect the worst-off, since they might be among them. This framework cuts through self-interest and provides a rigorous basis for fairness.",
+    "source": {
+      "title": "A Theory of Justice",
+      "author": "John Rawls",
+      "year": 1971
+    },
+    "tags": [
+      "philosophy",
+      "justice",
+      "ethics"
+    ]
   }
 ]
