@@ -2388,5 +2388,80 @@
       "justice",
       "ethics"
     ]
+  },
+  {
+    "id": "literature-10",
+    "title": "Man is a thinking reed",
+    "body": "Pascal observed that human beings are the most fragile things in nature — a vapor, a drop of water is enough to destroy us. Yet this fragility is paired with something the universe lacks: awareness. We know that we die, and the universe does not. That consciousness, even in the face of annihilation, is the irreducible source of human dignity and the ground of all moral seriousness.",
+    "source": {
+      "title": "Pensées",
+      "author": "Blaise Pascal",
+      "year": 1670
+    },
+    "tags": [
+      "consciousness",
+      "humanity",
+      "meaning"
+    ]
+  },
+  {
+    "id": "economics-10",
+    "title": "Gigantism mistakes scale for strength",
+    "body": "E.F. Schumacher argued that the modern obsession with bigness — in corporations, farms, cities, and governments — systematically destroys the human-scale relationships and local knowledge that hold communities together. Larger systems are not simply more efficient versions of smaller ones; they operate by different rules and produce different, often dehumanizing, outcomes. True economic health, he proposed, comes from matching the scale of an institution to the human beings it is meant to serve.",
+    "source": {
+      "title": "Small Is Beautiful: Economics as if People Mattered",
+      "author": "E.F. Schumacher",
+      "year": 1973
+    },
+    "tags": [
+      "economics",
+      "scale",
+      "community"
+    ]
+  },
+  {
+    "id": "science-08",
+    "title": "Scientific laws are conventions, not decrees",
+    "body": "Henri Poincaré showed that scientific theories are not forced upon us by nature alone — we choose the simplest and most convenient framework from among many that fit the facts equally well. Euclidean geometry, for instance, is not absolutely true; it is the framework preferred for its elegance and utility. This does not make science arbitrary, but it reveals that the scientist's aesthetic sense — the preference for simplicity — plays an irreducible and underappreciated role in the construction of knowledge.",
+    "source": {
+      "title": "Science and Hypothesis",
+      "author": "Henri Poincaré",
+      "year": 1902
+    },
+    "tags": [
+      "science",
+      "epistemology",
+      "convention"
+    ]
+  },
+  {
+    "id": "history-07",
+    "title": "Prosperity breeds the vices that undo it",
+    "body": "Edward Gibbon's study of Rome identified a recurring pattern: the very success of a civilization tends to generate the conditions for its decline. Wealth produces comfort, comfort breeds complacency, and complacency erodes the civic virtue and shared purpose that built the wealth in the first place. His lesson is cautionary rather than pessimistic — enduring institutions must actively cultivate the habits that sustain them, especially in times of peace and plenty when those habits feel unnecessary.",
+    "source": {
+      "title": "The History of the Decline and Fall of the Roman Empire",
+      "author": "Edward Gibbon",
+      "year": 1776
+    },
+    "tags": [
+      "history",
+      "civilization",
+      "virtue"
+    ]
+  },
+  {
+    "id": "mindset-05",
+    "title": "To study oneself honestly is to study mankind",
+    "body": "Michel de Montaigne spent decades examining his own thoughts, fears, habits, and contradictions in essays that became the first great works of personal nonfiction. His premise was that rigorous self-scrutiny is not narcissism but a method: every person carries the form of the human condition within them, and the one who knows their own inconsistencies and blind spots will recognize them in others. Honest self-knowledge, he argued, is the precondition for all other clear thinking.",
+    "source": {
+      "title": "Essays",
+      "author": "Michel de Montaigne",
+      "year": 1580
+    },
+    "tags": [
+      "self-knowledge",
+      "introspection",
+      "philosophy"
+    ]
   }
 ]
