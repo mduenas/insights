@@ -2463,5 +2463,80 @@
       "introspection",
       "philosophy"
     ]
+  },
+  {
+    "id": "philosophy-13",
+    "title": "Emotion understood loses its compulsion",
+    "body": "Spinoza argued that once we form a clear and adequate idea of an emotion — tracing its causes rather than being swept along by it — that emotion loses its hold on us. Understanding is not merely intellectual; it is itself a form of liberation from passions that otherwise drive us blindly.",
+    "source": {
+      "title": "Ethics",
+      "author": "Baruch Spinoza",
+      "year": 1677
+    },
+    "tags": [
+      "philosophy",
+      "emotion",
+      "self-knowledge"
+    ]
+  },
+  {
+    "id": "economics-11",
+    "title": "Economic freedom is the foundation of political freedom",
+    "body": "Friedman argued that freedom cannot be divided neatly into economic and political spheres. Concentrated power — whether in corporate or government hands — tends to erode individual liberty. Dispersed markets preserve freedom not as a side effect but as their essential function.",
+    "source": {
+      "title": "Capitalism and Freedom",
+      "author": "Milton Friedman",
+      "year": 1962
+    },
+    "tags": [
+      "economics",
+      "freedom",
+      "power"
+    ]
+  },
+  {
+    "id": "leadership-07",
+    "title": "Becoming a leader means becoming yourself",
+    "body": "Bennis observed that most people spend their careers managing — executing agendas written by others. True leadership begins when you stop modeling others and start expressing your own values, voice, and vision. The process is simultaneously simpler and harder than any management technique.",
+    "source": {
+      "title": "On Becoming a Leader",
+      "author": "Warren Bennis",
+      "year": 1989
+    },
+    "tags": [
+      "leadership",
+      "identity",
+      "authenticity"
+    ]
+  },
+  {
+    "id": "psychology-09",
+    "title": "Language shapes the very boundary of thought",
+    "body": "Vygotsky demonstrated that inner speech — the private voice we use to reason with ourselves — is not internalized talking but a qualitatively different, condensed cognitive tool. The concepts available in our vocabulary determine what we can think precisely, making language not merely a vehicle for expression but an instrument of cognition itself.",
+    "source": {
+      "title": "Thought and Language",
+      "author": "Lev Vygotsky",
+      "year": 1934
+    },
+    "tags": [
+      "psychology",
+      "language",
+      "cognition"
+    ]
+  },
+  {
+    "id": "science-09",
+    "title": "The question of whether machines can think dissolves on inspection",
+    "body": "Turing sidestepped endless philosophical debate about machine consciousness by proposing a behavioral test: if a machine's responses are indistinguishable from a human's, the question of whether it 'really' thinks becomes unanswerable — and perhaps irrelevant. This reframing shifted inquiry from metaphysics to empirical investigation.",
+    "source": {
+      "title": "Computing Machinery and Intelligence",
+      "author": "Alan Turing",
+      "year": 1950
+    },
+    "tags": [
+      "science",
+      "intelligence",
+      "computation"
+    ]
   }
 ]
