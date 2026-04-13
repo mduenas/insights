@@ -2538,5 +2538,80 @@
       "intelligence",
       "computation"
     ]
+  },
+  {
+    "id": "linguistics-01",
+    "title": "Language does not name a pre-existing reality — it creates one",
+    "body": "Ferdinand de Saussure showed that words do not simply label objects in the world. The linguistic sign is arbitrary: meaning arises from differences between signs, not from correspondence to things. This means the language we inherit also shapes the conceptual grid through which we perceive everything.",
+    "source": {
+      "title": "Course in General Linguistics",
+      "author": "Ferdinand de Saussure",
+      "year": 1916
+    },
+    "tags": [
+      "linguistics",
+      "language",
+      "perception"
+    ]
+  },
+  {
+    "id": "ethics-01",
+    "title": "Human excellence requires things you cannot fully control",
+    "body": "Martha Nussbaum's reading of Greek tragedy reveals that virtue and flourishing are inherently fragile. Unlike purely rational ethics, the Greeks understood that good character alone is not enough — fortune, relationships, and circumstance also shape a good life. Acknowledging this fragility is not weakness but honesty about what it means to be human.",
+    "source": {
+      "title": "The Fragility of Goodness",
+      "author": "Martha Nussbaum",
+      "year": 1986
+    },
+    "tags": [
+      "ethics",
+      "virtue",
+      "luck"
+    ]
+  },
+  {
+    "id": "anthropology-01",
+    "title": "Culture, not nature, writes the script for adolescence",
+    "body": "Margaret Mead's fieldwork in Samoa revealed that the storm and stress of Western adolescence was not a biological universal but a product of cultural conditions. When she found young people coming of age with far less anxiety in a different cultural setting, it challenged assumptions about what is inevitable in human development. Context shapes character more deeply than biology alone.",
+    "source": {
+      "title": "Coming of Age in Samoa",
+      "author": "Margaret Mead",
+      "year": 1928
+    },
+    "tags": [
+      "anthropology",
+      "culture",
+      "development"
+    ]
+  },
+  {
+    "id": "design-01",
+    "title": "Timeless design emerges from patterns alive with human use",
+    "body": "Christopher Alexander argued that the built environment possesses a quality he called aliveness — not an aesthetic preference but a measurable property of spaces that support human flourishing. This quality cannot be imposed by stylistic rules but grows from solving recurring human problems in ways that feel whole. Good design is the distillation of generations of lived experience.",
+    "source": {
+      "title": "The Timeless Way of Building",
+      "author": "Christopher Alexander",
+      "year": 1979
+    },
+    "tags": [
+      "design",
+      "architecture",
+      "patterns"
+    ]
+  },
+  {
+    "id": "communication-01",
+    "title": "The medium is the message",
+    "body": "Marshall McLuhan argued that the content of any communication matters less than the medium used to deliver it. Television does not merely carry stories — it restructures perception, attention, and social relations in ways that print never could. Every technology we use to communicate also reshapes the humans who use it.",
+    "source": {
+      "title": "Understanding Media: The Extensions of Man",
+      "author": "Marshall McLuhan",
+      "year": 1964
+    },
+    "tags": [
+      "communication",
+      "technology",
+      "media"
+    ]
   }
 ]
