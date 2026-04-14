@@ -2613,5 +2613,80 @@
       "technology",
       "media"
     ]
+  },
+  {
+    "id": "sociology-05",
+    "title": "Taste is power wearing the disguise of nature",
+    "body": "Pierre Bourdieu showed that aesthetic preferences — what we consider 'good' food, art, or music — are not natural expressions of individuality but are shaped by class and education. Those with cultural capital convert it into social status, while the mechanism remains invisible because taste feels personal and innate. Recognizing this helps us disentangle genuine preference from inherited social positioning.",
+    "source": {
+      "title": "Distinction: A Social Critique of the Judgement of Taste",
+      "author": "Pierre Bourdieu",
+      "year": 1984
+    },
+    "tags": [
+      "sociology",
+      "culture",
+      "power"
+    ]
+  },
+  {
+    "id": "neuroscience-04",
+    "title": "Every memory you make physically rewires your brain",
+    "body": "Eric Kandel's Nobel Prize-winning research demonstrated that long-term memory is not stored as a passive record but as a structural change: the actual growth of new synaptic connections between neurons. A memory that lasts is literally built into the architecture of the brain. This means learning is a biological act of construction, and the brain you have today is the cumulative shape of everything you have paid attention to.",
+    "source": {
+      "title": "In Search of Memory",
+      "author": "Eric Kandel",
+      "year": 2006
+    },
+    "tags": [
+      "neuroscience",
+      "memory",
+      "learning"
+    ]
+  },
+  {
+    "id": "philosophy-14",
+    "title": "Attention is the rarest and purest form of generosity",
+    "body": "Simone Weil argued that truly attending to another person — suspending your own thoughts to fully receive theirs — is an act of profound love and a spiritual discipline. Most of what passes for listening is really waiting to speak. Genuine attention requires emptying yourself of preconceptions and allowing the other's reality to reach you without distortion.",
+    "source": {
+      "title": "Waiting for God",
+      "author": "Simone Weil",
+      "year": 1951
+    },
+    "tags": [
+      "philosophy",
+      "attention",
+      "relationships"
+    ]
+  },
+  {
+    "id": "economics-12",
+    "title": "Inclusive institutions are the engine of lasting prosperity",
+    "body": "Acemoglu and Robinson argue that the difference between rich and poor nations is not geography, culture, or luck, but the nature of their institutions. Inclusive institutions — which distribute power broadly and protect property rights for all — unlock the creativity and effort of ordinary people. Extractive institutions concentrate power at the top, feeding short-term gains at the expense of long-run development.",
+    "source": {
+      "title": "Why Nations Fail",
+      "author": "Daron Acemoglu",
+      "year": 2012
+    },
+    "tags": [
+      "economics",
+      "institutions",
+      "history"
+    ]
+  },
+  {
+    "id": "history-08",
+    "title": "History told from below reveals what official accounts conceal",
+    "body": "Howard Zinn's foundational premise is that every history is told from a vantage point, and the dominant narrative tends to reflect the interests of those who controlled the record. By centering the experiences of workers, enslaved people, women, and dissidents, he showed that the same events carry entirely different meanings depending on who lived them. Whose story we tell determines what we believe is possible.",
+    "source": {
+      "title": "A People's History of the United States",
+      "author": "Howard Zinn",
+      "year": 1980
+    },
+    "tags": [
+      "history",
+      "power",
+      "perspective"
+    ]
   }
 ]
