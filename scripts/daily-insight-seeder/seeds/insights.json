@@ -2688,5 +2688,80 @@
       "power",
       "perspective"
     ]
+  },
+  {
+    "id": "mathematics-07",
+    "title": "Every System Has Its Blind Spots",
+    "body": "Kurt Gödel proved in 1931 that any consistent formal system powerful enough to describe arithmetic must contain true statements it cannot prove within itself. This incompleteness is not a flaw to be patched — it is a structural feature of complex systems. The insight extends far beyond mathematics: every framework, ideology, or worldview has truths that exceed its own capacity to articulate or verify.",
+    "source": {
+      "title": "On Formally Undecidable Propositions of Principia Mathematica and Related Systems",
+      "author": "Kurt Gödel",
+      "year": 1931
+    },
+    "tags": [
+      "mathematics",
+      "logic",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "identity-01",
+    "title": "Double Consciousness Divides the Self",
+    "body": "W.E.B. Du Bois described the experience of always seeing oneself through the eyes of a society that views you as a problem — a sense of twoness, of being both American and Black, with two souls and two warring ideals in one dark body. This double consciousness is not simply a burden but also a form of insight: those who must navigate multiple worlds often perceive contradictions that those inside a single dominant perspective cannot see.",
+    "source": {
+      "title": "The Souls of Black Folk",
+      "author": "W.E.B. Du Bois",
+      "year": 1903
+    },
+    "tags": [
+      "identity",
+      "sociology",
+      "race"
+    ]
+  },
+  {
+    "id": "economics-13",
+    "title": "Success Can Be the Enemy of Survival",
+    "body": "Clayton Christensen showed that well-managed companies often fail not because they make poor decisions, but because they make excellent decisions optimized for their current customers and business model. Disruptive innovations begin in markets incumbents rationally ignore — and by the time the threat is obvious, the window to respond has closed. The very practices that make companies great also make them blind to the innovations that will unseat them.",
+    "source": {
+      "title": "The Innovator's Dilemma",
+      "author": "Clayton Christensen",
+      "year": 1997
+    },
+    "tags": [
+      "economics",
+      "innovation",
+      "strategy"
+    ]
+  },
+  {
+    "id": "history-09",
+    "title": "Civilizations Rise on Solidarity, Fall on Comfort",
+    "body": "The 14th-century historian Ibn Khaldun identified asabiyyah — group feeling and social cohesion — as the engine behind the rise and fall of dynasties. Groups bound by shared purpose and mutual loyalty can conquer and build; but success breeds comfort, which erodes the very solidarity that created it. Without renewal of that binding spirit, even the mightiest civilization hollows from within.",
+    "source": {
+      "title": "Muqaddimah",
+      "author": "Ibn Khaldun",
+      "year": 1377
+    },
+    "tags": [
+      "history",
+      "civilization",
+      "leadership"
+    ]
+  },
+  {
+    "id": "literature-11",
+    "title": "The Storyteller Shapes the World",
+    "body": "Chinua Achebe wrote that until the lions have their own historians, the history of the hunt will always glorify the hunter. Literature is not merely entertainment — it is a political act of witness, determining whose experience is rendered real and whose is rendered invisible. The stories a culture tells about itself and others become the infrastructure through which power is justified or questioned.",
+    "source": {
+      "title": "Hopes and Impediments: Selected Essays",
+      "author": "Chinua Achebe",
+      "year": 1988
+    },
+    "tags": [
+      "literature",
+      "storytelling",
+      "culture"
+    ]
   }
 ]
