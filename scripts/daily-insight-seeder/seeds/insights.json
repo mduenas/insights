@@ -2763,5 +2763,80 @@
       "storytelling",
       "culture"
     ]
+  },
+  {
+    "id": "philosophy-15",
+    "title": "Freedom from and freedom to are not the same thing",
+    "body": "Isaiah Berlin distinguished two fundamentally different concepts of liberty: negative liberty, the absence of external interference, and positive liberty, the capacity to direct one's own life. He warned that conflating them — especially deploying the language of positive freedom to justify paternalistic coercion — had been one of the central political dangers of the modern era. A society serious about freedom must hold this tension in view rather than collapsing it into a single convenient answer.",
+    "source": {
+      "title": "Two Concepts of Liberty",
+      "author": "Isaiah Berlin",
+      "year": 1958
+    },
+    "tags": [
+      "philosophy",
+      "freedom",
+      "politics"
+    ]
+  },
+  {
+    "id": "learning-06",
+    "title": "Education is not preparation for life but life itself",
+    "body": "John Dewey argued that genuine learning occurs through active engagement with real problems, not passive absorption of information delivered by authority. Children — and adults — build durable understanding when they encounter a difficulty, form a hypothesis, test it, and reflect on the result. The school or organization that treats education as a transfer of fixed content produces people ill-equipped for a world that requires judgment, not just retrieval.",
+    "source": {
+      "title": "Democracy and Education",
+      "author": "John Dewey",
+      "year": 1916
+    },
+    "tags": [
+      "learning",
+      "education",
+      "pragmatism"
+    ]
+  },
+  {
+    "id": "sociology-06",
+    "title": "Vitality comes from overlapping, unplanned human activity",
+    "body": "Jane Jacobs showed that thriving neighborhoods owe their safety, creativity, and resilience not to master plans but to the dense, messy mixing of different uses and people across all hours of the day. Eyes on the street — neighbors, shopkeepers, children at play — create informal order more effectively than any top-down design. When cities clear away this organized complexity in favor of tidy single-purpose zones, they inadvertently destroy the social fabric that made those places worth living in.",
+    "source": {
+      "title": "The Death and Life of Great American Cities",
+      "author": "Jane Jacobs",
+      "year": 1961
+    },
+    "tags": [
+      "sociology",
+      "urban",
+      "community"
+    ]
+  },
+  {
+    "id": "psychology-10",
+    "title": "Much of what we build is an attempt to outlast death",
+    "body": "Ernest Becker argued that the largely unconscious terror of mortality is the master motive behind human culture. Careers, artistic works, religions, and ideologies all function as 'immortality projects' — symbolic ways of transcending individual finitude by contributing to something that endures. Understanding this drive does not diminish human achievement; it illuminates the profound existential stakes concealed inside even ordinary ambitions and the fierce anxiety triggered when our personal worldview is challenged.",
+    "source": {
+      "title": "The Denial of Death",
+      "author": "Ernest Becker",
+      "year": 1973
+    },
+    "tags": [
+      "psychology",
+      "mortality",
+      "motivation"
+    ]
+  },
+  {
+    "id": "economics-14",
+    "title": "Real decision-makers satisfice rather than optimize",
+    "body": "Herbert Simon coined 'satisficing' to describe how people and organizations actually decide: they search for an option that meets a threshold of acceptability rather than exhaustively evaluating every alternative for a theoretical best. Cognitive limits, incomplete information, and time pressure make classical optimization impossible in practice. Good decision-making, he concluded, is not about eliminating these constraints but about designing better heuristics and institutions that function well within them.",
+    "source": {
+      "title": "Administrative Behavior",
+      "author": "Herbert Simon",
+      "year": 1947
+    },
+    "tags": [
+      "economics",
+      "decision-making",
+      "rationality"
+    ]
   }
 ]
