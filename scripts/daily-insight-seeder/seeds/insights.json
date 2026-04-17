@@ -2838,5 +2838,60 @@
       "decision-making",
       "rationality"
     ]
+  },
+  {
+    "id": "anthropology-02",
+    "title": "In fast-changing times, the young become teachers of the old",
+    "body": "Margaret Mead observed that for most of human history, elders held authoritative knowledge because the world stayed roughly the same across generations. But in periods of rapid change she called 'prefigurative,' young people grow up in a world their parents never knew, making them essential guides rather than mere students. The ability to learn from those younger than yourself — reversing the traditional flow of wisdom — becomes a crucial skill for navigating an era that outpaces inherited experience.",
+    "source": {
+      "title": "Culture and Commitment: A Study of the Generation Gap",
+      "author": "Margaret Mead",
+      "year": 1970
+    },
+    "tags": ["anthropology", "learning", "change"]
+  },
+  {
+    "id": "communication-02",
+    "title": "The channel reshapes the mind before any content arrives",
+    "body": "Marshall McLuhan's insight that 'the medium is the message' means the form of communication transforms us independently of what is being said. Television cultivates passive, image-driven perception; print fosters linear, analytical reasoning; oral culture builds memory and communal identity. Each new medium does not merely deliver information — it restructures the cognitive habits and social patterns of everyone who uses it, often invisibly and long before its content is consciously evaluated.",
+    "source": {
+      "title": "Understanding Media: The Extensions of Man",
+      "author": "Marshall McLuhan",
+      "year": 1964
+    },
+    "tags": ["communication", "media", "cognition"]
+  },
+  {
+    "id": "design-02",
+    "title": "Timeless environments share recurring structural patterns",
+    "body": "Christopher Alexander argued that enduring, life-giving spaces — from medieval towns to beloved rooms — are not products of individual genius but of repeating structural patterns that satisfy deep human needs. Patterns like 'a room with light on two sides' or 'a sheltered outdoor space' appear across cultures and centuries because they resolve genuine tensions in how people inhabit the world. Learning to read and combine these patterns allows anyone, not just trained architects, to create places that feel genuinely alive.",
+    "source": {
+      "title": "A Pattern Language: Towns, Buildings, Construction",
+      "author": "Christopher Alexander",
+      "year": 1977
+    },
+    "tags": ["design", "architecture", "creativity"]
+  },
+  {
+    "id": "ethics-02",
+    "title": "Authentic freedom compels you to will the freedom of others",
+    "body": "Simone de Beauvoir argued that genuinely pursuing your own freedom logically requires willing the freedom of others — not as an act of charity, but as a structural necessity. A freedom built on the oppression or diminishment of other people is founded on a contradiction: it treats others as mere objects while demanding to be recognized as a subject oneself. Her existentialist ethics transforms liberty from a personal achievement into an ongoing political and relational responsibility.",
+    "source": {
+      "title": "The Ethics of Ambiguity",
+      "author": "Simone de Beauvoir",
+      "year": 1947
+    },
+    "tags": ["ethics", "freedom", "philosophy"]
+  },
+  {
+    "id": "linguistics-02",
+    "title": "Language does not name the world — it divides it",
+    "body": "Ferdinand de Saussure showed that words do not attach like labels to pre-existing, universal things — they carve reality into the categories a community needs to function. Different languages divide colour, kinship, time, and snow into different units not because speakers disagree about facts, but because each system segments experience differently. Learning another language, then, is not merely acquiring new vocabulary but entering a different conceptual world, and recognising that your native categories are one option among many.",
+    "source": {
+      "title": "Course in General Linguistics",
+      "author": "Ferdinand de Saussure",
+      "year": 1916
+    },
+    "tags": ["linguistics", "language", "cognition"]
   }
 ]
