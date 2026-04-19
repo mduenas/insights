@@ -2893,5 +2893,60 @@
       "year": 1916
     },
     "tags": ["linguistics", "language", "cognition"]
+  },
+  {
+    "id": "ecology-01",
+    "title": "Land is a community, not a commodity",
+    "body": "Aldo Leopold argued that the land ethic requires expanding our moral circle beyond humans to include soils, waters, plants, and animals — what he called simply 'the land.' A thing is right, he wrote, when it preserves the integrity, stability, and beauty of the biotic community; wrong when it does otherwise. This reframing shifts us from the role of conquerors of the natural world to plain members of it, carrying obligations as well as privileges. How we treat the land reveals and shapes the kind of community — human and otherwise — we are capable of becoming.",
+    "source": {
+      "title": "A Sand County Almanac",
+      "author": "Aldo Leopold",
+      "year": 1949
+    },
+    "tags": ["ecology", "ethics", "nature"]
+  },
+  {
+    "id": "education-01",
+    "title": "Depositing facts into students extinguishes their curiosity",
+    "body": "Paulo Freire called conventional schooling the 'banking' model: teachers make deposits of information into passive students who store and reproduce it on demand, never questioning or transforming what they receive. This approach treats learners as objects of instruction rather than subjects of their own inquiry, steadily eroding the critical consciousness that enables people to read and reshape their world. True education, Freire insisted, must be dialogical — a shared act of naming the world in which both teacher and student pose problems and learn from each other. The moment a classroom becomes a genuine conversation, knowledge becomes a tool for liberation rather than compliance.",
+    "source": {
+      "title": "Pedagogy of the Oppressed",
+      "author": "Paulo Freire",
+      "year": 1970
+    },
+    "tags": ["education", "learning", "critical thinking"]
+  },
+  {
+    "id": "identity-02",
+    "title": "Literacy is the passage from object to subject",
+    "body": "Frederick Douglass recounted that his enslaver forbade him from learning to read, warning that a literate slave would be unfit for slavery — an admission Douglass immediately grasped as the key to his liberation. Once he could read, he could no longer be mentally imprisoned: he could articulate his condition, imagine alternatives, and understand that his bondage was a human construction rather than a natural fact. His insight transcends its historical circumstances: the capacity to read the world critically — to name what is unjust, to conceive what does not yet exist — is the fundamental act by which any person moves from being acted upon to acting for themselves.",
+    "source": {
+      "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+      "author": "Frederick Douglass",
+      "year": 1845
+    },
+    "tags": ["literacy", "freedom", "identity"]
+  },
+  {
+    "id": "philosophy-16",
+    "title": "Weakness of character is cultivated, not innate",
+    "body": "Mary Wollstonecraft argued that the apparent intellectual and moral inferiority women displayed in the eighteenth century was not natural but manufactured by an education designed to make them pleasing rather than rational. Denied the training in independent thought that men received, women developed vanity, dependence, and sentiment as adaptive strategies — and these traits were then cited as proof of their natural limitations. Her challenge applies wherever a group's capabilities are judged after their opportunities have been systematically constrained: we routinely mistake the product of deprivation for evidence of inherent deficiency. Capability follows from cultivation, and what we choose to cultivate reveals our real assumptions about human worth.",
+    "source": {
+      "title": "A Vindication of the Rights of Woman",
+      "author": "Mary Wollstonecraft",
+      "year": 1792
+    },
+    "tags": ["equality", "reason", "philosophy"]
+  },
+  {
+    "id": "literature-12",
+    "title": "Obsession mistakes the symbol for the wound",
+    "body": "Captain Ahab does not simply hunt a whale — he projects onto it every cruelty and injustice the universe has dealt him, and then pursues annihilation of that symbol as though destroying it would resolve his suffering. Melville shows that this confusion between the vessel of our grievance and the source of our pain is the engine of self-destruction: the whale is indifferent, but Ahab's interpretation of it is total. The pattern recurs in ordinary life whenever we fix blame onto a person, an institution, or a missed opportunity as though eliminating it would settle everything. Obsession narrows perception until the map of our injury becomes the territory we inhabit.",
+    "source": {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "year": 1851
+    },
+    "tags": ["obsession", "perception", "psychology"]
   }
 ]
