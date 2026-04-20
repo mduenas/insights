@@ -2948,5 +2948,60 @@
       "year": 1851
     },
     "tags": ["obsession", "perception", "psychology"]
+  },
+  {
+    "id": "mathematics-08",
+    "title": "Clouds are not spheres, mountains are not cones",
+    "body": "Benoit Mandelbrot demonstrated that the irregular, fragmented shapes of nature — coastlines, snowflakes, blood vessels, mountain ranges — share a hidden order he called fractal geometry: each part resembles the whole across every scale of magnification. Classical Euclidean geometry cannot describe these forms, yet they constitute the vast majority of what exists. Embracing rough, self-similar patterns rather than imposing artificial smoothness is not an aesthetic preference but an accurate reckoning with how growth, turbulence, and living systems actually work.",
+    "source": {
+      "title": "The Fractal Geometry of Nature",
+      "author": "Benoit Mandelbrot",
+      "year": 1982
+    },
+    "tags": ["mathematics", "nature", "complexity"]
+  },
+  {
+    "id": "science-10",
+    "title": "Every adaptive system is shaped by what it notices about itself",
+    "body": "Norbert Wiener founded cybernetics on the insight that purposeful behavior — in machines, animals, and societies alike — depends on feedback: a system receives information about the gap between its current state and its goal, and adjusts accordingly. Without this loop, complex systems drift into noise or rigidity. Wiener saw that the same principle governing a thermostat also governs learning, conversation, and governance — and that the quality of information a system can act on determines its capacity to adapt.",
+    "source": {
+      "title": "The Human Use of Human Beings: Cybernetics and Society",
+      "author": "Norbert Wiener",
+      "year": 1950
+    },
+    "tags": ["science", "systems", "feedback"]
+  },
+  {
+    "id": "leadership-08",
+    "title": "Blame the system before you blame the person",
+    "body": "W. Edwards Deming's decades of quality research led him to conclude that the overwhelming majority of workplace failures stem from flawed systems and processes, not from individual negligence or incompetence. When managers focus on blaming workers rather than redesigning the conditions in which they work, they attack the wrong target and leave the root cause intact. Lasting improvement comes from studying variance, removing bottlenecks, and creating processes that make the right behavior easy — and the wrong behavior structurally difficult.",
+    "source": {
+      "title": "Out of the Crisis",
+      "author": "W. Edwards Deming",
+      "year": 1982
+    },
+    "tags": ["leadership", "systems", "management"]
+  },
+  {
+    "id": "anthropology-03",
+    "title": "The bricoleur makes do brilliantly with what is already at hand",
+    "body": "Claude Lévi-Strauss used the French term bricolage — the work of a handyman who builds with whatever materials happen to be available — to describe how humans actually think and create, as opposed to the engineer's ideal of designing from first principles. Myths, cultures, and innovative solutions are assembled from fragments inherited from previous uses rather than conjured from nothing. Recognizing this frees us from the paralysis of waiting for perfect resources: genuinely original work is assembled from the available, not authored from a blank canvas.",
+    "source": {
+      "title": "The Savage Mind",
+      "author": "Claude Lévi-Strauss",
+      "year": 1962
+    },
+    "tags": ["anthropology", "creativity", "problem-solving"]
+  },
+  {
+    "id": "ethics-03",
+    "title": "Attention is the fundamental moral act",
+    "body": "Iris Murdoch argued that the central task of ethics is not choosing between options but learning to see clearly — to attend to the reality of other people rather than projecting our fantasies and desires onto them. The moral life is mostly lived in perception, not decision: what we notice, how carefully we look, and whether we can resist the gravitational pull of our own self-concern. On this view, the great ethical failures are failures of attention, and the cultivation of accurate, loving regard for what is actually there is both the means and the end of becoming good.",
+    "source": {
+      "title": "The Sovereignty of Good",
+      "author": "Iris Murdoch",
+      "year": 1970
+    },
+    "tags": ["ethics", "attention", "philosophy"]
   }
 ]
