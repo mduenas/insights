@@ -2848,7 +2848,11 @@
       "author": "Margaret Mead",
       "year": 1970
     },
-    "tags": ["anthropology", "learning", "change"]
+    "tags": [
+      "anthropology",
+      "learning",
+      "change"
+    ]
   },
   {
     "id": "communication-02",
@@ -2859,7 +2863,11 @@
       "author": "Marshall McLuhan",
       "year": 1964
     },
-    "tags": ["communication", "media", "cognition"]
+    "tags": [
+      "communication",
+      "media",
+      "cognition"
+    ]
   },
   {
     "id": "design-02",
@@ -2870,7 +2878,11 @@
       "author": "Christopher Alexander",
       "year": 1977
     },
-    "tags": ["design", "architecture", "creativity"]
+    "tags": [
+      "design",
+      "architecture",
+      "creativity"
+    ]
   },
   {
     "id": "ethics-02",
@@ -2881,7 +2893,11 @@
       "author": "Simone de Beauvoir",
       "year": 1947
     },
-    "tags": ["ethics", "freedom", "philosophy"]
+    "tags": [
+      "ethics",
+      "freedom",
+      "philosophy"
+    ]
   },
   {
     "id": "linguistics-02",
@@ -2892,7 +2908,11 @@
       "author": "Ferdinand de Saussure",
       "year": 1916
     },
-    "tags": ["linguistics", "language", "cognition"]
+    "tags": [
+      "linguistics",
+      "language",
+      "cognition"
+    ]
   },
   {
     "id": "ecology-01",
@@ -2903,7 +2923,11 @@
       "author": "Aldo Leopold",
       "year": 1949
     },
-    "tags": ["ecology", "ethics", "nature"]
+    "tags": [
+      "ecology",
+      "ethics",
+      "nature"
+    ]
   },
   {
     "id": "education-01",
@@ -2914,7 +2938,11 @@
       "author": "Paulo Freire",
       "year": 1970
     },
-    "tags": ["education", "learning", "critical thinking"]
+    "tags": [
+      "education",
+      "learning",
+      "critical thinking"
+    ]
   },
   {
     "id": "identity-02",
@@ -2925,7 +2953,11 @@
       "author": "Frederick Douglass",
       "year": 1845
     },
-    "tags": ["literacy", "freedom", "identity"]
+    "tags": [
+      "literacy",
+      "freedom",
+      "identity"
+    ]
   },
   {
     "id": "philosophy-16",
@@ -2936,7 +2968,11 @@
       "author": "Mary Wollstonecraft",
       "year": 1792
     },
-    "tags": ["equality", "reason", "philosophy"]
+    "tags": [
+      "equality",
+      "reason",
+      "philosophy"
+    ]
   },
   {
     "id": "literature-12",
@@ -2947,7 +2983,11 @@
       "author": "Herman Melville",
       "year": 1851
     },
-    "tags": ["obsession", "perception", "psychology"]
+    "tags": [
+      "obsession",
+      "perception",
+      "psychology"
+    ]
   },
   {
     "id": "mathematics-08",
@@ -2958,7 +2998,11 @@
       "author": "Benoit Mandelbrot",
       "year": 1982
     },
-    "tags": ["mathematics", "nature", "complexity"]
+    "tags": [
+      "mathematics",
+      "nature",
+      "complexity"
+    ]
   },
   {
     "id": "science-10",
@@ -2969,7 +3013,11 @@
       "author": "Norbert Wiener",
       "year": 1950
     },
-    "tags": ["science", "systems", "feedback"]
+    "tags": [
+      "science",
+      "systems",
+      "feedback"
+    ]
   },
   {
     "id": "leadership-08",
@@ -2980,7 +3028,11 @@
       "author": "W. Edwards Deming",
       "year": 1982
     },
-    "tags": ["leadership", "systems", "management"]
+    "tags": [
+      "leadership",
+      "systems",
+      "management"
+    ]
   },
   {
     "id": "anthropology-03",
@@ -2991,7 +3043,11 @@
       "author": "Claude Lévi-Strauss",
       "year": 1962
     },
-    "tags": ["anthropology", "creativity", "problem-solving"]
+    "tags": [
+      "anthropology",
+      "creativity",
+      "problem-solving"
+    ]
   },
   {
     "id": "ethics-03",
@@ -3002,6 +3058,85 @@
       "author": "Iris Murdoch",
       "year": 1970
     },
-    "tags": ["ethics", "attention", "philosophy"]
+    "tags": [
+      "ethics",
+      "attention",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "science-11",
+    "title": "System structure, not human error, drives most failures",
+    "body": "Meadows demonstrated that the behavior of complex systems — organizations, ecosystems, economies — emerges from structural features like feedback loops and accumulations, not from the intentions or mistakes of individual actors. Fixing a problem by replacing people rarely works; redesigning the incentives and delays within the system often does. This shifts the focus of problem-solving from blame to architecture.",
+    "source": {
+      "title": "Thinking in Systems",
+      "author": "Donella H. Meadows",
+      "year": 2008
+    },
+    "tags": [
+      "systems",
+      "science",
+      "complexity"
+    ]
+  },
+  {
+    "id": "ethics-04",
+    "title": "Virtue only makes sense inside a community and a story",
+    "body": "MacIntyre argued that modern moral philosophy has fragmented because it uprooted virtues from the communal narratives that originally gave them meaning. We cannot answer the question of what we should do without first asking of what story we are a part. Courage, justice, and honesty are not free-floating ideals but achievements defined by the practices and traditions of a living community.",
+    "source": {
+      "title": "After Virtue",
+      "author": "Alasdair MacIntyre",
+      "year": 1981
+    },
+    "tags": [
+      "ethics",
+      "virtue",
+      "community"
+    ]
+  },
+  {
+    "id": "anthropology-04",
+    "title": "Culture is the web of meaning within which humans act",
+    "body": "Geertz defined culture not as a set of behaviors but as the shared symbols and interpretive frameworks through which people make sense of experience. To understand a wink — whether it is a twitch, a signal, or a parody — requires knowing the context, not just observing the motion. His concept of thick description called for attending to layers of local meaning before drawing any conclusions about human life.",
+    "source": {
+      "title": "The Interpretation of Cultures",
+      "author": "Clifford Geertz",
+      "year": 1973
+    },
+    "tags": [
+      "anthropology",
+      "culture",
+      "meaning"
+    ]
+  },
+  {
+    "id": "economics-15",
+    "title": "Default choices do the work that incentives claim to",
+    "body": "Thaler and Sunstein showed that framing — particularly which option is presented as the default — influences behavior far more powerfully than rational choice theory predicts. Automatically enrolling employees in a pension plan nearly doubles savings rates compared to requiring opt-in, without changing the available options. Choice architecture is a policy tool as consequential as price signals.",
+    "source": {
+      "title": "Nudge",
+      "author": "Richard H. Thaler and Cass R. Sunstein",
+      "year": 2008
+    },
+    "tags": [
+      "economics",
+      "behavioral-economics",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "sociology-07",
+    "title": "Social capital is the hidden infrastructure of healthy societies",
+    "body": "Putnam documented a decades-long collapse of civic association in America — from parent-teacher groups to bowling leagues — and connected it to measurable declines in health, trust, and democratic participation. The networks of reciprocity that communities build are not luxuries of prosperity; they are among its causes. Rebuilding them, he argued, is as urgent as rebuilding physical infrastructure.",
+    "source": {
+      "title": "Bowling Alone",
+      "author": "Robert D. Putnam",
+      "year": 2000
+    },
+    "tags": [
+      "sociology",
+      "community",
+      "civic-life"
+    ]
   }
 ]
