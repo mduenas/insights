@@ -3138,5 +3138,60 @@
       "community",
       "civic-life"
     ]
+  },
+  {
+    "id": "mathematics-09",
+    "title": "Intelligence is better judged by behavior than by inner machinery",
+    "body": "Alan Turing proposed that the question 'can machines think?' is too vague to be useful, and replaced it with a behavioral test: if a machine can sustain a conversation indistinguishable from a human's, we have no principled reason to deny it intelligence. This reframing — evaluating function rather than substance — dissolves centuries of metaphysical deadlock and has since shaped how we evaluate artificial systems, institutions, and even other minds. It is a reminder that many arguments about inner nature can be sidestepped by asking what a thing reliably does.",
+    "source": {
+      "title": "Computing Machinery and Intelligence",
+      "author": "Alan Turing",
+      "year": 1950
+    },
+    "tags": ["mathematics", "cognition", "intelligence"]
+  },
+  {
+    "id": "biology-08",
+    "title": "Genes and culture pull each other forward",
+    "body": "E. O. Wilson proposed that human behaviour emerges from a continuous interplay between genetic inheritance and cultural transmission — what he called gene-culture coevolution. Biological predispositions shape which cultural practices spread and persist, while culture in turn influences which traits are selected over generations. Accepting this reciprocal relationship prevents both the error of pure biological determinism and the error of treating the mind as a blank slate written entirely by environment.",
+    "source": {
+      "title": "On Human Nature",
+      "author": "E. O. Wilson",
+      "year": 1978
+    },
+    "tags": ["biology", "evolution", "human nature"]
+  },
+  {
+    "id": "literature-13",
+    "title": "Active love is harder than abstract love",
+    "body": "Through the elder Zosima in The Brothers Karamazov, Dostoevsky distinguishes loving humanity in the abstract — which costs nothing — from loving particular, flawed human beings in daily life, which demands patience and endurance. The idealist who proclaims devotion to all of humanity often cannot bear the company of a single irritating neighbour. Character is revealed not by the breadth of professed compassion but by the sustained practice of ordinary kindness toward the specific people around us.",
+    "source": {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "year": 1880
+    },
+    "tags": ["literature", "love", "character"]
+  },
+  {
+    "id": "economics-16",
+    "title": "Animal spirits move markets as much as math",
+    "body": "Keynes observed that investment decisions under genuine uncertainty are driven less by precise calculation than by waves of optimism and pessimism he called 'animal spirits'. When the future is truly unknowable, rational actors still must act, and they do so by following instinct, convention, and the prevailing mood of the crowd rather than expected-value arithmetic. This insight explains why booms and busts track human psychology as faithfully as economic fundamentals, and why stabilising expectations is often as important as adjusting interest rates.",
+    "source": {
+      "title": "The General Theory of Employment, Interest and Money",
+      "author": "John Maynard Keynes",
+      "year": 1936
+    },
+    "tags": ["economics", "decision-making", "psychology"]
+  },
+  {
+    "id": "psychology-11",
+    "title": "Love is an art that must be practised",
+    "body": "Erich Fromm argued that most people treat love as a passive experience — something that happens to them when the right person appears — rather than a skill that requires sustained effort and knowledge to develop. Like any art, loving well demands discipline, concentration, and a willingness to be changed by the practice. This reframing shifts the central question from 'have I found the right person?' to 'am I becoming someone capable of genuine love?'",
+    "source": {
+      "title": "The Art of Loving",
+      "author": "Erich Fromm",
+      "year": 1956
+    },
+    "tags": ["psychology", "relationships", "love"]
   }
 ]
