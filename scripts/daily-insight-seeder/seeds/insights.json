@@ -3193,5 +3193,60 @@
       "year": 1956
     },
     "tags": ["psychology", "relationships", "love"]
+  },
+  {
+    "id": "economics-17",
+    "title": "Communities can govern shared resources without state or market",
+    "body": "Elinor Ostrom challenged the prevailing assumption that shared resources — fisheries, forests, groundwater — inevitably collapse through overuse unless privatized or regulated by government. Her field research revealed that communities worldwide had developed sophisticated, self-enforcing rules for managing commons sustainably across generations. The key ingredients were local knowledge, graduated sanctions, and the ability of resource users themselves to modify the rules — a finding that earned her the Nobel Prize and overturned a foundational premise of mainstream economics.",
+    "source": {
+      "title": "Governing the Commons: The Evolution of Institutions for Collective Action",
+      "author": "Elinor Ostrom",
+      "year": 1990
+    },
+    "tags": ["economics", "governance", "cooperation"]
+  },
+  {
+    "id": "history-10",
+    "title": "The oppressed do not await liberation — they create it",
+    "body": "C.L.R. James's landmark study of the Haitian Revolution showed that enslaved people were not passive victims of history but sophisticated political actors who forged the first successful slave revolution in the modern world. Toussaint L'Ouverture navigated the competing imperial interests of France, Britain, and Spain with remarkable strategic acumen. James's deeper insight was that the margins of history are never peripheral — the struggles of those excluded from official narratives continually reshape the world at its center.",
+    "source": {
+      "title": "The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution",
+      "author": "C.L.R. James",
+      "year": 1938
+    },
+    "tags": ["history", "politics", "social change"]
+  },
+  {
+    "id": "literature-14",
+    "title": "The library of all possible books contains every truth and every lie",
+    "body": "Borges conceived reality as an infinite library holding every possible arrangement of letters — and therefore every truth, every falsehood, and every book not yet written. This was not merely literary fantasy but a philosophical provocation: if all possible statements exist somewhere, knowledge cannot be separated from noise without a principle of selection. The act of reading becomes an act of choosing what to treat as meaningful, and curation carries the same weight as creation.",
+    "source": {
+      "title": "Labyrinths: Selected Stories and Other Writings",
+      "author": "Jorge Luis Borges",
+      "year": 1962
+    },
+    "tags": ["literature", "philosophy", "knowledge"]
+  },
+  {
+    "id": "learning-07",
+    "title": "A checklist outperforms expertise alone when complexity is high",
+    "body": "Surgeon Atul Gawande documented how simple checklists dramatically reduced errors even among highly trained professionals — not because experts forgot obvious steps, but because complexity overwhelms working memory when stakes are highest. The checklist externalizes critical steps into a reliable system, freeing cognitive resources for genuine judgment rather than recall. It is a counterintuitive insight: the more expert you become, the more you benefit from the discipline of structured simplicity.",
+    "source": {
+      "title": "The Checklist Manifesto: How to Get Things Right",
+      "author": "Atul Gawande",
+      "year": 2009
+    },
+    "tags": ["learning", "habits", "decision-making"]
+  },
+  {
+    "id": "leadership-09",
+    "title": "Systems produce behavior — changing people without changing structure changes nothing",
+    "body": "Peter Senge argued that organizational dysfunctions persistently blamed on individuals are almost always embedded in the system's own structure — the feedback loops, delays, and incentive patterns that invisibly shape behavior. Replacing people without redesigning the system typically reproduces the same problems with new faces. The discipline of systems thinking reveals that leverage for lasting change rarely lies where the symptoms appear, but upstream in the architecture of relationships and information flows.",
+    "source": {
+      "title": "The Fifth Discipline: The Art and Practice of the Learning Organization",
+      "author": "Peter Senge",
+      "year": 1990
+    },
+    "tags": ["leadership", "systems", "organizations"]
   }
 ]
