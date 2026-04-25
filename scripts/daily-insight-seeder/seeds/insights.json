@@ -3248,5 +3248,60 @@
       "year": 1990
     },
     "tags": ["leadership", "systems", "organizations"]
+  },
+  {
+    "id": "learning-08",
+    "title": "The child's mind absorbs the world before it can reason about it",
+    "body": "Maria Montessori observed that children in their earliest years acquire language, social customs, and practical reasoning not through deliberate instruction but through effortless absorption of everything around them. She called this the 'absorbent mind' — a capacity that operates unconsciously and without fatigue, allowing a two-year-old to master complex grammar that an adult labors over formally. The practical implication is that the quality of a child's environment matters more than the skill of any teacher: when conditions are rich and purposeful, the child's own drive does the rest. Education, in this view, is the preparation of a world rather than the delivery of a curriculum.",
+    "source": {
+      "title": "The Absorbent Mind",
+      "author": "Maria Montessori",
+      "year": 1949
+    },
+    "tags": ["learning", "education", "child development"]
+  },
+  {
+    "id": "science-12",
+    "title": "A complete description of nature may require holding two contradictory pictures at once",
+    "body": "Niels Bohr's principle of complementarity emerged from the discovery that light and electrons behave as waves or particles depending on how they are measured — two pictures that cannot be reconciled within any single classical framework. Rather than treating this as a temporary deficiency in theory, Bohr argued it revealed something fundamental: some aspects of reality can only be described fully by holding mutually exclusive models in tension. He extended the idea beyond physics, proposing that pairs of opposites in biology, psychology, and ethics — cause and intention, justice and mercy — are often genuinely complementary rather than merely contradictory.",
+    "source": {
+      "title": "Atomic Theory and the Description of Nature",
+      "author": "Niels Bohr",
+      "year": 1934
+    },
+    "tags": ["science", "physics", "epistemology"]
+  },
+  {
+    "id": "philosophy-17",
+    "title": "The most durable power is the kind subjects exercise on themselves",
+    "body": "Michel Foucault traced how modern institutions — prisons, hospitals, schools, factories — achieved compliance not primarily through direct force but through timetables, spatial arrangement, and the gradual internalization of norms. His analysis of Jeremy Bentham's Panopticon showed that an inmate who might be observed at any moment will regulate their own behavior even when no guard is actually present; the mere architecture of surveillance is sufficient. This dynamic generalizes: durable social control works best when subjects police themselves, making power invisible precisely because it has been fully absorbed. Recognizing this mechanism is the first step toward distinguishing consciously chosen values from invisibly inherited compliance.",
+    "source": {
+      "title": "Discipline and Punish",
+      "author": "Michel Foucault",
+      "year": 1975
+    },
+    "tags": ["philosophy", "power", "society"]
+  },
+  {
+    "id": "ecology-02",
+    "title": "You cannot care for what you do not know intimately",
+    "body": "Wendell Berry argued that industrial agriculture's destruction of rural landscapes and communities follows logically from replacing local, embodied knowledge with abstract management from a distance. When land becomes merely an input in a supply chain rather than a place someone lives on and draws a livelihood from, no one is structurally responsible for its long-term health. The same principle applies wherever expertise is centralized and locality erased: without the particular knowledge that sustained attention to one place produces, stewardship gives way to extraction. Care, in Berry's view, is not a sentiment but a practice inseparable from belonging.",
+    "source": {
+      "title": "The Unsettling of America",
+      "author": "Wendell Berry",
+      "year": 1977
+    },
+    "tags": ["ecology", "community", "agriculture"]
+  },
+  {
+    "id": "education-02",
+    "title": "Schooling and learning are not the same thing",
+    "body": "Ivan Illich argued that compulsory schooling had become a system that confused the institutional process of instruction with the outcome of genuine learning — teaching people to measure their own worth by years of certification rather than by what they understood or could do. Schools, he observed, simultaneously create demand for more schooling and monopolize the definition of legitimate knowledge, rendering self-directed learning socially invisible and economically unrewarded. His proposal was to replace these institutions with open 'learning webs' matching learners directly with resources, peers, and skills, separating access to knowledge from gatekeeping by credentials. The deeper claim is that curiosity is natural; the systems that suppress it are not.",
+    "source": {
+      "title": "Deschooling Society",
+      "author": "Ivan Illich",
+      "year": 1971
+    },
+    "tags": ["education", "learning", "society"]
   }
 ]
