@@ -3148,7 +3148,11 @@
       "author": "Alan Turing",
       "year": 1950
     },
-    "tags": ["mathematics", "cognition", "intelligence"]
+    "tags": [
+      "mathematics",
+      "cognition",
+      "intelligence"
+    ]
   },
   {
     "id": "biology-08",
@@ -3159,7 +3163,11 @@
       "author": "E. O. Wilson",
       "year": 1978
     },
-    "tags": ["biology", "evolution", "human nature"]
+    "tags": [
+      "biology",
+      "evolution",
+      "human nature"
+    ]
   },
   {
     "id": "literature-13",
@@ -3170,7 +3178,11 @@
       "author": "Fyodor Dostoevsky",
       "year": 1880
     },
-    "tags": ["literature", "love", "character"]
+    "tags": [
+      "literature",
+      "love",
+      "character"
+    ]
   },
   {
     "id": "economics-16",
@@ -3181,7 +3193,11 @@
       "author": "John Maynard Keynes",
       "year": 1936
     },
-    "tags": ["economics", "decision-making", "psychology"]
+    "tags": [
+      "economics",
+      "decision-making",
+      "psychology"
+    ]
   },
   {
     "id": "psychology-11",
@@ -3192,7 +3208,11 @@
       "author": "Erich Fromm",
       "year": 1956
     },
-    "tags": ["psychology", "relationships", "love"]
+    "tags": [
+      "psychology",
+      "relationships",
+      "love"
+    ]
   },
   {
     "id": "economics-17",
@@ -3203,7 +3223,11 @@
       "author": "Elinor Ostrom",
       "year": 1990
     },
-    "tags": ["economics", "governance", "cooperation"]
+    "tags": [
+      "economics",
+      "governance",
+      "cooperation"
+    ]
   },
   {
     "id": "history-10",
@@ -3214,7 +3238,11 @@
       "author": "C.L.R. James",
       "year": 1938
     },
-    "tags": ["history", "politics", "social change"]
+    "tags": [
+      "history",
+      "politics",
+      "social change"
+    ]
   },
   {
     "id": "literature-14",
@@ -3225,7 +3253,11 @@
       "author": "Jorge Luis Borges",
       "year": 1962
     },
-    "tags": ["literature", "philosophy", "knowledge"]
+    "tags": [
+      "literature",
+      "philosophy",
+      "knowledge"
+    ]
   },
   {
     "id": "learning-07",
@@ -3236,7 +3268,11 @@
       "author": "Atul Gawande",
       "year": 2009
     },
-    "tags": ["learning", "habits", "decision-making"]
+    "tags": [
+      "learning",
+      "habits",
+      "decision-making"
+    ]
   },
   {
     "id": "leadership-09",
@@ -3247,7 +3283,11 @@
       "author": "Peter Senge",
       "year": 1990
     },
-    "tags": ["leadership", "systems", "organizations"]
+    "tags": [
+      "leadership",
+      "systems",
+      "organizations"
+    ]
   },
   {
     "id": "learning-08",
@@ -3258,7 +3298,11 @@
       "author": "Maria Montessori",
       "year": 1949
     },
-    "tags": ["learning", "education", "child development"]
+    "tags": [
+      "learning",
+      "education",
+      "child development"
+    ]
   },
   {
     "id": "science-12",
@@ -3269,7 +3313,11 @@
       "author": "Niels Bohr",
       "year": 1934
     },
-    "tags": ["science", "physics", "epistemology"]
+    "tags": [
+      "science",
+      "physics",
+      "epistemology"
+    ]
   },
   {
     "id": "philosophy-17",
@@ -3280,7 +3328,11 @@
       "author": "Michel Foucault",
       "year": 1975
     },
-    "tags": ["philosophy", "power", "society"]
+    "tags": [
+      "philosophy",
+      "power",
+      "society"
+    ]
   },
   {
     "id": "ecology-02",
@@ -3291,7 +3343,11 @@
       "author": "Wendell Berry",
       "year": 1977
     },
-    "tags": ["ecology", "community", "agriculture"]
+    "tags": [
+      "ecology",
+      "community",
+      "agriculture"
+    ]
   },
   {
     "id": "education-02",
@@ -3302,6 +3358,90 @@
       "author": "Ivan Illich",
       "year": 1971
     },
-    "tags": ["education", "learning", "society"]
+    "tags": [
+      "education",
+      "learning",
+      "society"
+    ]
+  },
+  {
+    "id": "economics-18",
+    "title": "Decline triggers three responses: leave, speak up, or stay silent",
+    "body": "When a firm, party, or nation deteriorates, its members face three basic options: exit (find an alternative), voice (raise a complaint or advocate for change), or loyalty (stay put and hope for improvement). Hirschman showed that these options interact in counterintuitive ways: when exit is too easy, members leave before voicing dissatisfaction, robbing institutions of the feedback they need to self-correct. Healthy systems require exit to remain possible without becoming reflexive, so that voice — the messier, more demanding option — remains worth the effort.",
+    "source": {
+      "title": "Exit, Voice, and Loyalty",
+      "author": "Albert O. Hirschman",
+      "year": 1970
+    },
+    "tags": [
+      "institutions",
+      "dissent",
+      "loyalty",
+      "economics"
+    ]
+  },
+  {
+    "id": "ecology-03",
+    "title": "Grammar shapes what we are capable of caring for",
+    "body": "The Potawatomi language, like many Indigenous languages, uses animate pronouns for plants, animals, and rivers — treating them as subjects rather than objects. Kimmerer argues that English's use of 'it' for the living world is not merely a linguistic convention but a moral one: a grammatical permission slip for disregard. When a plant becomes 'ki' rather than 'it,' relationship becomes grammatically obligatory. Language, she suggests, is one of the most powerful ecological forces we possess, shaping the boundaries of what we notice and what we feel responsible for.",
+    "source": {
+      "title": "Braiding Sweetgrass",
+      "author": "Robin Wall Kimmerer",
+      "year": 2013
+    },
+    "tags": [
+      "ecology",
+      "language",
+      "indigenous-knowledge",
+      "relationship"
+    ]
+  },
+  {
+    "id": "philosophy-18",
+    "title": "We know more than we can tell",
+    "body": "Polanyi observed that expert performance always outstrips explicit instruction: a master craftsman, a skilled diagnostician, or a gifted teacher can do far more than they can describe. This tacit dimension — knowledge embedded in perception, habit, and practice rather than in propositions — is not a deficiency but the very foundation of all knowing. Even scientific discovery, he argued, depends on the researcher's inarticulate sense that something is there before they know what it is. Making all knowledge explicit would not improve understanding; it would destroy the tacit scaffolding on which understanding rests.",
+    "source": {
+      "title": "The Tacit Dimension",
+      "author": "Michael Polanyi",
+      "year": 1966
+    },
+    "tags": [
+      "knowledge",
+      "expertise",
+      "learning",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "history-11",
+    "title": "The deepest historical forces move too slowly to be seen",
+    "body": "Braudel proposed that history unfolds simultaneously at three speeds: the near-imperceptible drift of geography, climate, and ecology (the longue durée); the medium rhythm of economies, social structures, and institutions; and the rapid surface flicker of political events and individual actions. Conventional history focuses on the last — the most dramatic and the least consequential. The forces that actually constrain and enable human life — the carrying capacity of soils, the logic of trade routes, the depth of cultural memory — change across centuries, invisible to those living within them.",
+    "source": {
+      "title": "The Mediterranean and the Mediterranean World in the Age of Philip II",
+      "author": "Fernand Braudel",
+      "year": 1949
+    },
+    "tags": [
+      "history",
+      "structure",
+      "time",
+      "geography"
+    ]
+  },
+  {
+    "id": "psychology-12",
+    "title": "Mindlessness is yesterday's categories running on autopilot",
+    "body": "Langer's research showed that most people navigate familiar situations by applying fixed categories formed in earlier learning — without noticing when circumstances have changed enough to make those categories misleading. She called this state mindlessness: not laziness but a kind of cognitive automation that trades accuracy for efficiency. Her experiments demonstrated that even small acts of deliberate noticing — attending to novelty, asking what else a thing could be — reduced stress, improved health outcomes, and enhanced performance. Attention is not merely pleasant; it is functionally protective.",
+    "source": {
+      "title": "Mindfulness",
+      "author": "Ellen Langer",
+      "year": 1989
+    },
+    "tags": [
+      "mindfulness",
+      "attention",
+      "habits",
+      "psychology"
+    ]
   }
 ]
