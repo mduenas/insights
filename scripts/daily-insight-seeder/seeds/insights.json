@@ -3443,5 +3443,80 @@
       "habits",
       "psychology"
     ]
+  },
+  {
+    "id": "communication-03",
+    "title": "When everything is entertainment, nothing can be understood",
+    "body": "Postman warned that television had reconstituted public discourse as show business, making it structurally impossible to sustain the serious, sequential thought that civic and intellectual life require. His core claim was not that the content had grown trivial but that the medium itself — episodic, image-driven, optimized for engagement — quietly rewrites the mental habits of anyone who depends on it. A public trained to expect that every idea arrive packaged as entertainment loses, gradually and without noticing, the capacity to sit with complexity long enough to understand it.",
+    "source": {
+      "title": "Amusing Ourselves to Death",
+      "author": "Neil Postman",
+      "year": 1985
+    },
+    "tags": [
+      "communication",
+      "media",
+      "attention"
+    ]
+  },
+  {
+    "id": "leadership-10",
+    "title": "Innovators face fiercer opposition than defenders of the old order",
+    "body": "Machiavelli observed that nothing is more dangerous to lead than the introduction of a new order, because those who prospered under the old system oppose it vigorously while those who stand to gain under the new one offer only lukewarm support until the gain is secured. The reformer therefore fights with one hand against committed enemies and with the other for hesitant allies — an arithmetic that explains why meritorious ideas so often fail at their first implementation. Anticipating this resistance, rather than assuming that a good idea will attract goodwill, is the difference between a vision and a plan.",
+    "source": {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "year": 1532
+    },
+    "tags": [
+      "leadership",
+      "change",
+      "innovation"
+    ]
+  },
+  {
+    "id": "ethics-05",
+    "title": "Moral circles must keep expanding",
+    "body": "Singer argued that the capacity to suffer — not intelligence, species membership, or cultural proximity — is the only morally relevant criterion for inclusion in our sphere of concern. Every historical widening of rights has looked radical at the time and self-evident in hindsight, suggesting that where we draw the line today will look equally arbitrary to those who come after us. The question is not merely who counts, but what reasoning led us to exclude those we did, and whether that reasoning survives honest scrutiny.",
+    "source": {
+      "title": "Animal Liberation",
+      "author": "Peter Singer",
+      "year": 1975
+    },
+    "tags": [
+      "ethics",
+      "morality",
+      "compassion"
+    ]
+  },
+  {
+    "id": "sociology-08",
+    "title": "Liquid modernity dissolves the structures identity once rested on",
+    "body": "Bauman argued that in the modern era, all that was once solid — stable employment, lifelong community, inherited roles, durable institutions — has melted into fluid, temporary arrangements. Where earlier generations could build a self by fitting into a structure that outlasted them, people today must perpetually construct and reconstruct their identities as each structure shifts or dissolves beneath them. The freedom this brings is real but exhausting: liberation from fixed roles is purchased at the cost of the security those roles provided.",
+    "source": {
+      "title": "Liquid Modernity",
+      "author": "Zygmunt Bauman",
+      "year": 2000
+    },
+    "tags": [
+      "sociology",
+      "identity",
+      "modernity"
+    ]
+  },
+  {
+    "id": "design-03",
+    "title": "When a design fails, users blame themselves — they should not",
+    "body": "Norman showed that when everyday objects are confusing or difficult to use, people instinctively conclude they are stupid rather than recognizing the object as poorly designed. Good design makes the correct action obvious through what he called affordances and mappings — physical or visual cues that naturally suggest their own use. The measure of a design is not how elegant it looks but how rarely it requires users to consult a manual, ask for help, or wonder if they made a mistake.",
+    "source": {
+      "title": "The Design of Everyday Things",
+      "author": "Donald Norman",
+      "year": 1988
+    },
+    "tags": [
+      "design",
+      "usability",
+      "psychology"
+    ]
   }
 ]
