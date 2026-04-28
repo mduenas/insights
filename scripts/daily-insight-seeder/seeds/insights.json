@@ -3518,5 +3518,60 @@
       "usability",
       "psychology"
     ]
+  },
+  {
+    "id": "mathematics-10",
+    "title": "Every consistent system has truths it cannot prove",
+    "body": "Gödel's first incompleteness theorem, published in 1931, proved that any formal system powerful enough to express basic arithmetic must contain statements that are true but unprovable within that system. Rather than a limitation to be overcome by adding more axioms, this is a permanent structural feature: each new axiom only produces a larger system with its own unprovable truths. The result demolished the dream of a complete and consistent foundation for all mathematics, but revealed something deeper — that mathematical truth outstrips any finite set of rules we devise to capture it. Every framework we build to understand the world will leave something beyond its reach.",
+    "source": {
+      "title": "On Formally Undecidable Propositions of Principia Mathematica and Related Systems",
+      "author": "Kurt Gödel",
+      "year": 1931
+    },
+    "tags": ["mathematics", "logic", "limits"]
+  },
+  {
+    "id": "neuroscience-05",
+    "title": "Emotions are built by the brain, not triggered by the world",
+    "body": "Lisa Feldman Barrett's theory of constructed emotion challenges the classical view that emotions are universal, pre-wired reactions to events. Drawing on decades of neuroscience research, she argues that the brain is a prediction machine that actively constructs emotional experiences using prior knowledge, bodily sensations, and current context — meaning two people can feel entirely different emotions in identical situations, and what feels like an objective feeling is in fact an interpretation. This has a practical consequence: emotions are not things that happen to you but are, in a meaningful sense, made by you. Changing the concepts, context, or vocabulary you bring to a situation can genuinely alter the emotional experience you construct.",
+    "source": {
+      "title": "How Emotions Are Made: The Secret Life of the Brain",
+      "author": "Lisa Feldman Barrett",
+      "year": 2017
+    },
+    "tags": ["neuroscience", "emotions", "psychology"]
+  },
+  {
+    "id": "design-04",
+    "title": "Remove anything that does not communicate data",
+    "body": "Edward Tufte's concept of the data-ink ratio holds that the best graphic devotes every drop of ink to representing information and eliminates everything else — decorative borders, redundant labels, and chartjunk that impresses without informing. He observed that visual complexity is often mistaken for analytical sophistication, but dense ornament typically obscures rather than reveals patterns. The principle extends beyond charts: in any designed artifact, elements that carry no meaning increase cognitive load without adding value. Good design, in this view, is not about adding clarity — it is about removing everything that obscures it.",
+    "source": {
+      "title": "The Visual Display of Quantitative Information",
+      "author": "Edward Tufte",
+      "year": 1983
+    },
+    "tags": ["design", "data", "clarity"]
+  },
+  {
+    "id": "identity-03",
+    "title": "Identity requires an orientation in moral space",
+    "body": "Charles Taylor argued that human identity is not a fixed inner essence waiting to be discovered but is constituted by our moral frameworks — the sense of what is worth caring about and what makes a life meaningful. To be a self is to exist within a horizon of concerns that gives direction to experience, and those horizons are largely inherited from the cultures and communities we inhabit before we consciously choose them. Self-understanding is therefore never purely private: it is a negotiation between personal history and shared language, between who we have been and what we can intelligibly become. Strip away those moral orientations and you do not find a purer self — you find disorientation.",
+    "source": {
+      "title": "Sources of the Self: The Making of the Modern Identity",
+      "author": "Charles Taylor",
+      "year": 1989
+    },
+    "tags": ["identity", "philosophy", "culture"]
+  },
+  {
+    "id": "courage-04",
+    "title": "The act of learning to read was itself an act of resistance",
+    "body": "When Frederick Douglass's enslaver forbade his wife from continuing to teach him to read, Douglass recognized the prohibition as proof that literacy was the one thing that could break the chains of mental slavery. He continued his education in secret — trading bread for spelling lessons from white boys on the street, teaching himself from a ship carpenter's primer — each word learned in defiance of a system designed to keep him ignorant and compliant. In his 1845 Narrative he drew a direct line from that stolen literacy to his eventual escape: knowing how to read meant knowing that slavery was neither natural nor inevitable, and that knowledge made him permanently unfit for bondage. Courage here was not a dramatic gesture but a quiet, sustained refusal to accept the limits that power had placed on his mind.",
+    "source": {
+      "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+      "author": "Frederick Douglass",
+      "year": 1845
+    },
+    "tags": ["courage", "education", "history"]
   }
 ]
