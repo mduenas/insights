@@ -3573,5 +3573,60 @@
       "year": 1845
     },
     "tags": ["courage", "education", "history"]
+  },
+  {
+    "id": "ecology-04",
+    "title": "Healing the land and healing the community are the same act",
+    "body": "Wangari Maathai launched the Green Belt Movement after connecting soil degradation in Kenya to the disempowerment of rural women — when communities controlled their land, they protected it. Her central insight was that environmental destruction and political oppression share the same root: the exclusion of people from stewardship of the resources they depend on. Restoring forests meant restoring dignity and agency as much as ecosystems. A tree planted, she showed, can be an act of hope made physical.",
+    "source": {
+      "title": "Unbowed",
+      "author": "Wangari Maathai",
+      "year": 2006
+    },
+    "tags": ["ecology", "empowerment", "community", "leadership"]
+  },
+  {
+    "id": "communication-04",
+    "title": "Writing restructures consciousness, not just communication",
+    "body": "Walter Ong argued that the invention of writing did not simply record oral thought — it fundamentally altered how humans could think. Writing makes it possible to examine a statement as a static object, to contradict it, revise it, and build cumulative argument across time in ways oral culture cannot sustain. Literacy breeds a kind of analytical detachment from language that transforms the self as much as the text. Every new communication technology since has similarly restructured the minds that use it.",
+    "source": {
+      "title": "Orality and Literacy",
+      "author": "Walter Ong",
+      "year": 1982
+    },
+    "tags": ["communication", "language", "cognition", "technology"]
+  },
+  {
+    "id": "history-12",
+    "title": "Democratic institutions do not defend themselves",
+    "body": "Timothy Snyder drew on twentieth-century European history to argue that democracies survive only when citizens make deliberate choices to uphold them. Authoritarianism rarely arrives as open conquest; it advances by normalizing small surrenders, each of which makes the next one easier. Snyder's lesson from history is that compliance today trains submission tomorrow. The antidote is not heroism but habit: the steady, ordinary work of maintaining civic norms.",
+    "source": {
+      "title": "On Tyranny",
+      "author": "Timothy Snyder",
+      "year": 2017
+    },
+    "tags": ["history", "democracy", "politics", "courage"]
+  },
+  {
+    "id": "education-03",
+    "title": "Children learn best when driven by genuine curiosity",
+    "body": "John Holt observed that young children are natural scientists who learn by doing, guessing, and testing — until fear of being wrong stops them. Schools that punish mistakes teach children to avoid challenges rather than master them. Real learning happens not when information is deposited but when a child is genuinely puzzled and allowed to work through that puzzlement. Protecting curiosity may matter more than transmitting any particular content.",
+    "source": {
+      "title": "How Children Learn",
+      "author": "John Holt",
+      "year": 1967
+    },
+    "tags": ["education", "learning", "curiosity", "children"]
+  },
+  {
+    "id": "psychology-13",
+    "title": "Our irrational choices follow reliable patterns",
+    "body": "Behavioral economics reveals that humans do not simply make poor decisions randomly — we make them in the same direction, again and again, for discoverable reasons. Dan Ariely demonstrated that anchoring, comparison, and the lure of 'free' systematically hijack judgment long after we believe we are thinking clearly. Recognizing the architecture of your own biases is the first move toward partial immunity. Self-knowledge here is not philosophical but structural.",
+    "source": {
+      "title": "Predictably Irrational",
+      "author": "Dan Ariely",
+      "year": 2008
+    },
+    "tags": ["psychology", "decision-making", "behavior", "bias"]
   }
 ]
