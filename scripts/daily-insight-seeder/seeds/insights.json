@@ -3703,5 +3703,60 @@
     "inequality",
     "wealth"
   ]
-}
+},
+  {
+    "id": "creativity-09",
+    "title": "Resistance is the enemy within",
+    "body": "Steven Pressfield identified an invisible antagonist he called Resistance — the internal force of procrastination, self-doubt, and avoidance that blocks any act of creative or personal growth. It is not external circumstance but an inner adversary that grows proportionally stronger the more meaningful the project is to you. Pressfield's insight is that Resistance is universal and impersonal; every creative person faces it, and naming it separates the force from the person experiencing it. Professional artists, he argues, are distinguished not by talent but by showing up daily despite Resistance rather than waiting for inspiration to defeat it.",
+    "source": {
+      "title": "The War of Art",
+      "author": "Steven Pressfield",
+      "year": 2002
+    },
+    "tags": ["creativity", "discipline", "resistance"]
+  },
+  {
+    "id": "mathematics-11",
+    "title": "Strange loops give rise to meaning",
+    "body": "Douglas Hofstadter coined the term 'strange loop' to describe hierarchical systems that, when traced upward or downward, unexpectedly arrive back where they started — like an Escher staircase that always descends yet somehow ascends. He argued that such self-referential loops are not merely logical curiosities but the structural basis of consciousness and selfhood: the mind is a pattern that perceives itself perceiving. Gödel's incompleteness theorems provide the logical scaffolding — any sufficiently powerful formal system generates true statements it cannot itself prove, precisely because it can refer to itself. The implication is that complexity and meaning can emerge purely from the way a system folds back upon itself.",
+    "source": {
+      "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "author": "Douglas Hofstadter",
+      "year": 1979
+    },
+    "tags": ["mathematics", "cognition", "self-reference"]
+  },
+  {
+    "id": "psychology-15",
+    "title": "Carrots and sticks work only for simple tasks",
+    "body": "Daniel Pink synthesized decades of social science research to show that external rewards — bonuses, grades, punishments — reliably improve performance on mechanical, rule-based tasks but consistently undermine it for work requiring creativity, judgment, or sustained problem-solving. The mechanism is that contingent rewards narrow attention and erode intrinsic interest in the work itself. For cognitively complex work, three elements drive high performance: autonomy (control over what, when, how, and with whom one works), mastery (the drive to get better at something that matters), and purpose (the sense that one's work serves something larger than oneself). Decades after the research was published, most organizations still manage people with the old model.",
+    "source": {
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "author": "Daniel Pink",
+      "year": 2009
+    },
+    "tags": ["motivation", "psychology", "autonomy"]
+  },
+  {
+    "id": "leadership-11",
+    "title": "Give control to those closest to the information",
+    "body": "L. David Marquet, given command of a submarine crew he hadn't trained with, realized that issuing orders was creating passive sailors who waited to be told what to think. He stopped giving orders and instead invited crew members to announce their intentions — shifting ownership of decisions downward to where information actually lived. The result was a transformation from one of the lowest-performing submarines in the U.S. Navy to one of the highest-rated. His core principle is that the leader-leader model, distributing authority to where information lives rather than funneling information up to where authority sits, is more reliable, more adaptable, and develops more capable people than the traditional hierarchy.",
+    "source": {
+      "title": "Turn the Ship Around!",
+      "author": "L. David Marquet",
+      "year": 2013
+    },
+    "tags": ["leadership", "autonomy", "empowerment"]
+  },
+  {
+    "id": "history-13",
+    "title": "Human nature outlasts every civilization it builds",
+    "body": "After writing an eleven-volume history of civilization, Will and Ariel Durant distilled what they believed history actually teaches in a compact essay. Their most unsettling finding was that human nature — competitive, acquisitive, jealous, occasionally generous — changes far more slowly than the technologies and institutions that clothe it, meaning that most historical progress rearranges surfaces while the depths remain fixed. They also observed that inequality is the norm rather than the exception: every period of leveling has been followed by reconcentration of wealth and power, because the conditions that produce inequality reassert themselves across cultures and eras. History's chief value, they argued, is humility — learning how often the supremely confident have been wrong.",
+    "source": {
+      "title": "The Lessons of History",
+      "author": "Will Durant",
+      "year": 1968
+    },
+    "tags": ["history", "human-nature", "wisdom"]
+  }
 ]
