@@ -3758,5 +3758,60 @@
       "year": 1968
     },
     "tags": ["history", "human-nature", "wisdom"]
+  },
+  {
+    "id": "philosophy-19",
+    "title": "We are condemned to be free",
+    "body": "Sartre argued that human beings, unlike hammers or animals governed by instinct, come into existence without a predetermined nature or purpose — we must decide what we are through the choices we make. This radical freedom is not liberating in the simple sense: there is no God, no biology, no society that can ultimately be blamed for who we become, because even choosing to follow orders or to conform is itself a freely made choice. The anxiety this produces — what Sartre called anguish — is not a flaw to be overcome but the honest recognition of one's situation. To live authentically is to face that anguish and choose anyway, rather than escaping into bad faith by pretending the decision was never ours.",
+    "source": {
+      "title": "Existentialism Is a Humanism",
+      "author": "Jean-Paul Sartre",
+      "year": 1946
+    },
+    "tags": ["philosophy", "freedom", "responsibility"]
+  },
+  {
+    "id": "literature-16",
+    "title": "Bureaucracy becomes monstrous when it forgets it has victims",
+    "body": "Kafka's novel follows Josef K., arrested without explanation and tried by a court that never reveals its charges, its procedures, or even its location. The horror is not cruelty from individual villains but the indifference of a system that has become self-sustaining and opaque, where every official defers to another and no one is responsible for the whole. Kafka was writing before the totalitarian machinery of the twentieth century made his metaphor literal, but the pattern — impersonal authority that cannot be challenged because it cannot be found — remains the characteristic nightmare of modern institutions. The novel is often read as absurdist nightmare, yet Kafka insisted it was comedy.",
+    "source": {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "year": 1925
+    },
+    "tags": ["literature", "power", "institutions"]
+  },
+  {
+    "id": "economics-20",
+    "title": "Competitive advantage lives in the system, not any single activity",
+    "body": "Porter introduced the value chain to show that a firm's competitive position is not the result of any single innovation or resource but of the entire linked system of activities — procurement, operations, logistics, marketing, service — that together create and deliver value to a buyer. Durable advantage usually lies in how activities reinforce each other, making it costly for rivals to replicate without copying the whole system. A low-cost airline does not win through any single policy but through a tightly integrated set of choices that collectively produce cost efficiency. This systemic view also explains why strategy is difficult to copy: imitating one piece rarely reproduces the advantage if the surrounding pieces remain different.",
+    "source": {
+      "title": "Competitive Advantage",
+      "author": "Michael Porter",
+      "year": 1985
+    },
+    "tags": ["economics", "strategy", "business"]
+  },
+  {
+    "id": "design-05",
+    "title": "Ephemeralization: doing more with less as technology matures",
+    "body": "Fuller coined ephemeralization to name a trend he observed across technology: over time, humanity learns to accomplish the same outcomes using progressively less material, time, and energy — a single fiber-optic cable carries more information than thousands of copper wires, and a smartphone holds navigational capability once requiring rooms of equipment. He argued this was not accidental but the natural consequence of replacing brute force with understanding: when we truly comprehend how something works, we can do it lighter. The implication for designers and engineers is that apparent scarcity problems are often solvable through insight rather than greater consumption of resources. Fuller believed ephemeralization would ultimately allow the world to support all its people, but only if knowledge were distributed rather than hoarded.",
+    "source": {
+      "title": "Operating Manual for Spaceship Earth",
+      "author": "R. Buckminster Fuller",
+      "year": 1969
+    },
+    "tags": ["design", "technology", "systems"]
+  },
+  {
+    "id": "identity-04",
+    "title": "Working with your hands teaches you that the world pushes back",
+    "body": "Crawford, a political philosopher who left a think-tank job to open a motorcycle repair shop, argues that skilled manual trades cultivate a kind of epistemic humility rare in information-based work: a broken carburetor will not start, indifferent to one's credentials or opinions about it. This confrontation with resistant, recalcitrant reality — where you either fix the problem or you do not — builds genuine competence rather than performed competence. The satisfaction of physical craft, Crawford contends, is not nostalgia for a simpler era but the specific pleasure of getting something right in a domain where right and wrong are not a matter of consensus. He uses this observation to question whether the modern devaluation of trades has more to do with class ideology than with the actual cognitive demands of the work.",
+    "source": {
+      "title": "Shop Class as Soulcraft",
+      "author": "Matthew Crawford",
+      "year": 2009
+    },
+    "tags": ["identity", "work", "craft"]
   }
 ]
