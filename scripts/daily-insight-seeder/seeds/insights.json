@@ -3528,7 +3528,11 @@
       "author": "Kurt Gödel",
       "year": 1931
     },
-    "tags": ["mathematics", "logic", "limits"]
+    "tags": [
+      "mathematics",
+      "logic",
+      "limits"
+    ]
   },
   {
     "id": "neuroscience-05",
@@ -3539,7 +3543,11 @@
       "author": "Lisa Feldman Barrett",
       "year": 2017
     },
-    "tags": ["neuroscience", "emotions", "psychology"]
+    "tags": [
+      "neuroscience",
+      "emotions",
+      "psychology"
+    ]
   },
   {
     "id": "design-04",
@@ -3550,7 +3558,11 @@
       "author": "Edward Tufte",
       "year": 1983
     },
-    "tags": ["design", "data", "clarity"]
+    "tags": [
+      "design",
+      "data",
+      "clarity"
+    ]
   },
   {
     "id": "identity-03",
@@ -3561,7 +3573,11 @@
       "author": "Charles Taylor",
       "year": 1989
     },
-    "tags": ["identity", "philosophy", "culture"]
+    "tags": [
+      "identity",
+      "philosophy",
+      "culture"
+    ]
   },
   {
     "id": "courage-04",
@@ -3572,7 +3588,11 @@
       "author": "Frederick Douglass",
       "year": 1845
     },
-    "tags": ["courage", "education", "history"]
+    "tags": [
+      "courage",
+      "education",
+      "history"
+    ]
   },
   {
     "id": "ecology-04",
@@ -3583,7 +3603,12 @@
       "author": "Wangari Maathai",
       "year": 2006
     },
-    "tags": ["ecology", "empowerment", "community", "leadership"]
+    "tags": [
+      "ecology",
+      "empowerment",
+      "community",
+      "leadership"
+    ]
   },
   {
     "id": "communication-04",
@@ -3594,7 +3619,12 @@
       "author": "Walter Ong",
       "year": 1982
     },
-    "tags": ["communication", "language", "cognition", "technology"]
+    "tags": [
+      "communication",
+      "language",
+      "cognition",
+      "technology"
+    ]
   },
   {
     "id": "history-12",
@@ -3605,7 +3635,12 @@
       "author": "Timothy Snyder",
       "year": 2017
     },
-    "tags": ["history", "democracy", "politics", "courage"]
+    "tags": [
+      "history",
+      "democracy",
+      "politics",
+      "courage"
+    ]
   },
   {
     "id": "education-03",
@@ -3616,7 +3651,12 @@
       "author": "John Holt",
       "year": 1967
     },
-    "tags": ["education", "learning", "curiosity", "children"]
+    "tags": [
+      "education",
+      "learning",
+      "curiosity",
+      "children"
+    ]
   },
   {
     "id": "psychology-13",
@@ -3627,83 +3667,88 @@
       "author": "Dan Ariely",
       "year": 2008
     },
-    "tags": ["psychology", "decision-making", "behavior", "bias"]
+    "tags": [
+      "psychology",
+      "decision-making",
+      "behavior",
+      "bias"
+    ]
   },
-{
-  "id": "linguistics-03",
-  "title": "The capacity for language is not learned but awakened",
-  "body": "Noam Chomsky's transformational-generative grammar proposed that children do not acquire language solely through imitation or conditioning but because they are born with an innate mental faculty — a universal grammar — that makes language learning possible. He called attention to the 'poverty of the stimulus' problem: the grammatical input children receive is too sparse and error-laden to account for the rich, precise grammar they reliably produce by age four or five. This reframed language acquisition from a matter of training to one of biological maturation triggered by exposure. The broader implication is that many capacities we treat as learned achievements may be better understood as potentials requiring only the right environment to emerge.",
-  "source": {
-    "title": "Syntactic Structures",
-    "author": "Noam Chomsky",
-    "year": 1957
+  {
+    "id": "linguistics-03",
+    "title": "The capacity for language is not learned but awakened",
+    "body": "Noam Chomsky's transformational-generative grammar proposed that children do not acquire language solely through imitation or conditioning but because they are born with an innate mental faculty — a universal grammar — that makes language learning possible. He called attention to the 'poverty of the stimulus' problem: the grammatical input children receive is too sparse and error-laden to account for the rich, precise grammar they reliably produce by age four or five. This reframed language acquisition from a matter of training to one of biological maturation triggered by exposure. The broader implication is that many capacities we treat as learned achievements may be better understood as potentials requiring only the right environment to emerge.",
+    "source": {
+      "title": "Syntactic Structures",
+      "author": "Noam Chomsky",
+      "year": 1957
+    },
+    "tags": [
+      "linguistics",
+      "language",
+      "cognition"
+    ]
   },
-  "tags": [
-    "linguistics",
-    "language",
-    "cognition"
-  ]
-},
-{
-  "id": "science-13",
-  "title": "Progress is often an illusion created by where we choose to look",
-  "body": "Stephen Jay Gould argued that what we perceive as directional progress — in evolution, history, or human performance — is frequently an artifact of measuring only the leading edge of a full distribution. When a system has a hard lower boundary, random variation will spread the upper tail outward, making improvement look inevitable even when the average barely moves. His analysis of batting averages showed that the disappearance of .400 hitters was not a decline in excellence but an increase in overall competition, tightening the spread. Before celebrating or mourning a trend, always ask: what is the entire distribution doing, and where exactly are you measuring it?",
-  "source": {
-    "title": "Full House: The Spread of Excellence from Plato to Darwin",
-    "author": "Stephen Jay Gould",
-    "year": 1996
+  {
+    "id": "science-13",
+    "title": "Progress is often an illusion created by where we choose to look",
+    "body": "Stephen Jay Gould argued that what we perceive as directional progress — in evolution, history, or human performance — is frequently an artifact of measuring only the leading edge of a full distribution. When a system has a hard lower boundary, random variation will spread the upper tail outward, making improvement look inevitable even when the average barely moves. His analysis of batting averages showed that the disappearance of .400 hitters was not a decline in excellence but an increase in overall competition, tightening the spread. Before celebrating or mourning a trend, always ask: what is the entire distribution doing, and where exactly are you measuring it?",
+    "source": {
+      "title": "Full House: The Spread of Excellence from Plato to Darwin",
+      "author": "Stephen Jay Gould",
+      "year": 1996
+    },
+    "tags": [
+      "science",
+      "evolution",
+      "statistics"
+    ]
   },
-  "tags": [
-    "science",
-    "evolution",
-    "statistics"
-  ]
-},
-{
-  "id": "psychology-14",
-  "title": "All behavior is purposeful movement toward a chosen goal",
-  "body": "Alfred Adler rejected the Freudian emphasis on past causes in favor of a teleological view: humans act not because of what happened to them but in pursuit of where they are trying to go. Every neurotic pattern — avoidance, aggression, self-defeat — is a strategy aimed at a compensatory goal, usually some vision of superiority or security, however unconsciously held. This reframing is practically powerful: it shifts the question from 'what damaged you?' to 'what are you trying to achieve, and is this strategy working?' Adler's concept of Gemeinschaftsgefühl — social interest, the felt sense of connection to and responsibility for others — was, in his view, the single most reliable indicator of psychological health.",
-  "source": {
-    "title": "Understanding Human Nature",
-    "author": "Alfred Adler",
-    "year": 1927
+  {
+    "id": "psychology-14",
+    "title": "All behavior is purposeful movement toward a chosen goal",
+    "body": "Alfred Adler rejected the Freudian emphasis on past causes in favor of a teleological view: humans act not because of what happened to them but in pursuit of where they are trying to go. Every neurotic pattern — avoidance, aggression, self-defeat — is a strategy aimed at a compensatory goal, usually some vision of superiority or security, however unconsciously held. This reframing is practically powerful: it shifts the question from 'what damaged you?' to 'what are you trying to achieve, and is this strategy working?' Adler's concept of Gemeinschaftsgefühl — social interest, the felt sense of connection to and responsibility for others — was, in his view, the single most reliable indicator of psychological health.",
+    "source": {
+      "title": "Understanding Human Nature",
+      "author": "Alfred Adler",
+      "year": 1927
+    },
+    "tags": [
+      "psychology",
+      "motivation",
+      "behavior"
+    ]
   },
-  "tags": [
-    "psychology",
-    "motivation",
-    "behavior"
-  ]
-},
-{
-  "id": "literature-15",
-  "title": "The most terrifying discovery is that you have lived someone else's life",
-  "body": "Tolstoy's novella follows Ivan Ilyich, a respectable judge dying from a minor injury, as he confronts the possibility that his entire adult life — the career climbed, the respectable marriage maintained, the fashionable apartment furnished — was never genuinely his own but a performance of what was supposed to be desirable. His terror in dying is less the fear of non-existence than the recognition that nothing was chosen freely or lived truly. Tolstoy presents this not as unusual tragedy but as the ordinary fate of those who live by social convention rather than authentic desire. The only character who comforts Ivan is a peasant servant named Gerasim, whose unaffected directness is the antithesis of the decorum that defined and destroyed Ivan's life.",
-  "source": {
-    "title": "The Death of Ivan Ilyich",
-    "author": "Leo Tolstoy",
-    "year": 1886
+  {
+    "id": "literature-15",
+    "title": "The most terrifying discovery is that you have lived someone else's life",
+    "body": "Tolstoy's novella follows Ivan Ilyich, a respectable judge dying from a minor injury, as he confronts the possibility that his entire adult life — the career climbed, the respectable marriage maintained, the fashionable apartment furnished — was never genuinely his own but a performance of what was supposed to be desirable. His terror in dying is less the fear of non-existence than the recognition that nothing was chosen freely or lived truly. Tolstoy presents this not as unusual tragedy but as the ordinary fate of those who live by social convention rather than authentic desire. The only character who comforts Ivan is a peasant servant named Gerasim, whose unaffected directness is the antithesis of the decorum that defined and destroyed Ivan's life.",
+    "source": {
+      "title": "The Death of Ivan Ilyich",
+      "author": "Leo Tolstoy",
+      "year": 1886
+    },
+    "tags": [
+      "literature",
+      "mortality",
+      "authenticity"
+    ]
   },
-  "tags": [
-    "literature",
-    "mortality",
-    "authenticity"
-  ]
-},
-{
-  "id": "economics-19",
-  "title": "When returns on capital exceed growth, inequality compounds automatically",
-  "body": "Thomas Piketty's central finding from studying centuries of tax records across Europe and North America was elegantly simple: when the rate of return on capital consistently exceeds the rate of economic growth, wealth concentration increases over time as a mathematical consequence rather than a failure of markets or policy. The relative equality of the mid-twentieth century was an interruption caused by wars and depression destroying accumulated wealth, not the normal state of capitalist economies. His data suggest that r > g holds across most of recorded history, making the postwar decades of rising middle-class prosperity the historical exception rather than the rule. Reversing the trend requires deliberate redistribution, not merely faster growth.",
-  "source": {
-    "title": "Capital in the Twenty-First Century",
-    "author": "Thomas Piketty",
-    "year": 2013
+  {
+    "id": "economics-19",
+    "title": "When returns on capital exceed growth, inequality compounds automatically",
+    "body": "Thomas Piketty's central finding from studying centuries of tax records across Europe and North America was elegantly simple: when the rate of return on capital consistently exceeds the rate of economic growth, wealth concentration increases over time as a mathematical consequence rather than a failure of markets or policy. The relative equality of the mid-twentieth century was an interruption caused by wars and depression destroying accumulated wealth, not the normal state of capitalist economies. His data suggest that r > g holds across most of recorded history, making the postwar decades of rising middle-class prosperity the historical exception rather than the rule. Reversing the trend requires deliberate redistribution, not merely faster growth.",
+    "source": {
+      "title": "Capital in the Twenty-First Century",
+      "author": "Thomas Piketty",
+      "year": 2013
+    },
+    "tags": [
+      "economics",
+      "inequality",
+      "wealth"
+    ]
   },
-  "tags": [
-    "economics",
-    "inequality",
-    "wealth"
-  ]
-},
   {
     "id": "creativity-09",
     "title": "Resistance is the enemy within",
@@ -3713,7 +3758,11 @@
       "author": "Steven Pressfield",
       "year": 2002
     },
-    "tags": ["creativity", "discipline", "resistance"]
+    "tags": [
+      "creativity",
+      "discipline",
+      "resistance"
+    ]
   },
   {
     "id": "mathematics-11",
@@ -3724,7 +3773,11 @@
       "author": "Douglas Hofstadter",
       "year": 1979
     },
-    "tags": ["mathematics", "cognition", "self-reference"]
+    "tags": [
+      "mathematics",
+      "cognition",
+      "self-reference"
+    ]
   },
   {
     "id": "psychology-15",
@@ -3735,7 +3788,11 @@
       "author": "Daniel Pink",
       "year": 2009
     },
-    "tags": ["motivation", "psychology", "autonomy"]
+    "tags": [
+      "motivation",
+      "psychology",
+      "autonomy"
+    ]
   },
   {
     "id": "leadership-11",
@@ -3746,7 +3803,11 @@
       "author": "L. David Marquet",
       "year": 2013
     },
-    "tags": ["leadership", "autonomy", "empowerment"]
+    "tags": [
+      "leadership",
+      "autonomy",
+      "empowerment"
+    ]
   },
   {
     "id": "history-13",
@@ -3757,7 +3818,11 @@
       "author": "Will Durant",
       "year": 1968
     },
-    "tags": ["history", "human-nature", "wisdom"]
+    "tags": [
+      "history",
+      "human-nature",
+      "wisdom"
+    ]
   },
   {
     "id": "philosophy-19",
@@ -3768,7 +3833,11 @@
       "author": "Jean-Paul Sartre",
       "year": 1946
     },
-    "tags": ["philosophy", "freedom", "responsibility"]
+    "tags": [
+      "philosophy",
+      "freedom",
+      "responsibility"
+    ]
   },
   {
     "id": "literature-16",
@@ -3779,7 +3848,11 @@
       "author": "Franz Kafka",
       "year": 1925
     },
-    "tags": ["literature", "power", "institutions"]
+    "tags": [
+      "literature",
+      "power",
+      "institutions"
+    ]
   },
   {
     "id": "economics-20",
@@ -3790,7 +3863,11 @@
       "author": "Michael Porter",
       "year": 1985
     },
-    "tags": ["economics", "strategy", "business"]
+    "tags": [
+      "economics",
+      "strategy",
+      "business"
+    ]
   },
   {
     "id": "design-05",
@@ -3801,7 +3878,11 @@
       "author": "R. Buckminster Fuller",
       "year": 1969
     },
-    "tags": ["design", "technology", "systems"]
+    "tags": [
+      "design",
+      "technology",
+      "systems"
+    ]
   },
   {
     "id": "identity-04",
@@ -3812,6 +3893,85 @@
       "author": "Matthew Crawford",
       "year": 2009
     },
-    "tags": ["identity", "work", "craft"]
+    "tags": [
+      "identity",
+      "work",
+      "craft"
+    ]
+  },
+  {
+    "id": "science-14",
+    "title": "The pattern that connects all living things",
+    "body": "Gregory Bateson proposed that what he called the 'pattern that connects' — an abstract relational structure recurrent across biology, ecology, and mind — is the deepest subject of natural inquiry. He argued that the unit of survival is not the organism but the organism-plus-environment, meaning that adaptive intelligence is distributed across systems rather than located in any individual node. Breaking the pattern by treating any creature or system in isolation produces the ecological and psychological crises he saw proliferating in modernity. Understanding, for Bateson, always means tracing relationships between things rather than cataloguing the things themselves.",
+    "source": {
+      "title": "Steps to an Ecology of Mind",
+      "author": "Gregory Bateson",
+      "year": 1972
+    },
+    "tags": [
+      "science",
+      "systems",
+      "ecology"
+    ]
+  },
+  {
+    "id": "literature-17",
+    "title": "The growing good of the world depends on unhistoric acts",
+    "body": "George Eliot closed Middlemarch with a reflection on her protagonist Dorothea, who sought great public purpose but found herself instead living an ordinary life of small private virtues. Eliot's claim, delivered without consolation, is that most of what makes human life better happens invisibly — through the fidelity of individuals who never appear in history books, whose choices have effects that diffuse without attribution. The moral seriousness of the observation lies in refusing sentimentality: Dorothea's story is not a tragedy of wasted potential but an honest account of how goodness actually works in the world, through accumulation rather than monument.",
+    "source": {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "year": 1871
+    },
+    "tags": [
+      "literature",
+      "ethics",
+      "history"
+    ]
+  },
+  {
+    "id": "sociology-09",
+    "title": "The stranger sees what familiarity blinds us to",
+    "body": "Georg Simmel described the sociological figure of the stranger not merely as someone unfamiliar but as someone who is both near and far simultaneously — physically present but not fully absorbed into the group's assumptions. This position makes the stranger, paradoxically, a vehicle for objectivity: unbound by the loyalties and habits that make insiders see only what they expect, the stranger notices anomalies, contradictions, and possibilities that are invisible to those immersed from birth. Simmel's insight explains why outsiders often diagnose organizational problems more clearly than those who built the organization — and why a willingness to remain a stranger within one's own tradition is the precondition of genuine intellectual advance.",
+    "source": {
+      "title": "Soziologie",
+      "author": "Georg Simmel",
+      "year": 1908
+    },
+    "tags": [
+      "sociology",
+      "perspective",
+      "identity"
+    ]
+  },
+  {
+    "id": "history-14",
+    "title": "Self-restraint is civilization internalized, not human nature",
+    "body": "Norbert Elias traced the history of European table manners, bodily comportment, and the management of aggression to show that what we call civilization is not a fixed human achievement but a historical process by which external coercions — legal codes, royal courts, institutional power — were gradually absorbed as self-regulation and shame. The threshold of embarrassment moved steadily inward: behaviors once acceptable in public became private, then unspeakable. Elias argued that the modern self is therefore a social artifact, shaped by centuries of expanding interdependence that required people to think further ahead and manage emotion across ever-wider networks of strangers. Self-restraint is learned, and it remains contingent on the social structures that produce it.",
+    "source": {
+      "title": "The Civilizing Process",
+      "author": "Norbert Elias",
+      "year": 1939
+    },
+    "tags": [
+      "history",
+      "sociology",
+      "psychology"
+    ]
+  },
+  {
+    "id": "philosophy-20",
+    "title": "The softest tyranny is one that makes you love your chains",
+    "body": "In Brave New World Revisited, Huxley returned to his 1932 novel as political prophecy and found that reality was converging with his fiction faster than he had expected. The danger he feared was not a jackbooted dictatorship but a voluntary servitude: populations so distracted by amusement, sedated by comfort, and conditioned from birth to love their subjugation that coercion would be unnecessary. What makes this tyranny almost impossible to resist, Huxley argued, is that it offers no identifiable oppressor — only entertainment, convenience, and the steady erosion of the capacity to want something more. The chains are invisible because they are self-chosen.",
+    "source": {
+      "title": "Brave New World Revisited",
+      "author": "Aldous Huxley",
+      "year": 1958
+    },
+    "tags": [
+      "philosophy",
+      "freedom",
+      "technology"
+    ]
   }
 ]
