@@ -3973,5 +3973,80 @@
       "freedom",
       "technology"
     ]
+  },
+  {
+    "id": "ecology-05",
+    "title": "Every intervention in nature ripples further than we see",
+    "body": "Rachel Carson's Silent Spring documented how DDT sprayed to kill insects accumulated through food chains, silencing songbirds and threatening predators never targeted by the pesticide. She showed that ecosystems are webs of interdependence so dense that isolating one thread and pulling it changes the shape of the whole cloth. Intervention in nature is never local — it is always systemic. Carson's work did not argue against all human action; it argued for the humility to trace consequences before declaring a problem solved.",
+    "source": {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "year": 1962
+    },
+    "tags": [
+      "ecology",
+      "science",
+      "systems"
+    ]
+  },
+  {
+    "id": "education-04",
+    "title": "To name the world is to begin to change it",
+    "body": "Paulo Freire argued that conventional schooling operates like banking — depositing inert facts into passive students — and that this process reproduces the social order by teaching people to accept reality rather than interrogate it. Genuine education, by contrast, is dialogical: teacher and learner together examine the forces shaping their lives, develop the language to describe them, and thereby acquire the agency to act on them. Freire called this conscientization — the awakening of critical consciousness — and held it to be the first act of liberation. A person who can name their situation is no longer entirely captive to it.",
+    "source": {
+      "title": "Pedagogy of the Oppressed",
+      "author": "Paulo Freire",
+      "year": 1968
+    },
+    "tags": [
+      "education",
+      "psychology",
+      "leadership"
+    ]
+  },
+  {
+    "id": "communication-05",
+    "title": "The medium restructures the mind, not just the message",
+    "body": "Marshall McLuhan's claim that 'the medium is the message' means that each new communication technology — print, radio, television — reorganizes human perception and social life more profoundly than any content it carries. Print trained readers to think linearly and privately; television rewired attention toward the simultaneous and emotional. McLuhan argued that we habitually notice what a medium says while remaining blind to what it does to us. Understanding any technology of communication therefore requires studying the new habits of mind it creates rather than only the words or images it transmits.",
+    "source": {
+      "title": "Understanding Media",
+      "author": "Marshall McLuhan",
+      "year": 1964
+    },
+    "tags": [
+      "communication",
+      "technology",
+      "culture"
+    ]
+  },
+  {
+    "id": "identity-05",
+    "title": "Identity is an achievement, not an inheritance",
+    "body": "Erik Erikson proposed that identity is not a fixed property received at birth but a psychosocial accomplishment forged across a series of developmental crises throughout life. Adolescence in particular demands a sanctioned period of exploration and experimentation before a person can commit to stable values, roles, and beliefs. Failure to engage this process leaves what Erikson called role confusion: a diffuse, uncommitted self that drifts with circumstance rather than acts from conviction. His framework reveals that knowing who you are is something you do, repeatedly, over a lifetime.",
+    "source": {
+      "title": "Childhood and Society",
+      "author": "Erik Erikson",
+      "year": 1950
+    },
+    "tags": [
+      "identity",
+      "psychology",
+      "growth"
+    ]
+  },
+  {
+    "id": "linguistics-04",
+    "title": "Children master grammar no one taught them",
+    "body": "Noam Chomsky's analysis of language acquisition revealed a puzzle: children reliably produce and understand grammatical sentences they have never heard, far faster than imitation or reward could explain. He proposed that the human mind comes equipped with a universal grammar — an innate set of structural principles common to all languages — which the child tunes to the particular sounds and words of their native tongue. The implication is that language is not a cultural artifact learned from scratch but a biological endowment expressed through culture. This insight shifted linguistics from cataloguing surface differences between languages to theorizing the shared mental architecture underlying all of them.",
+    "source": {
+      "title": "Syntactic Structures",
+      "author": "Noam Chomsky",
+      "year": 1957
+    },
+    "tags": [
+      "linguistics",
+      "science",
+      "learning"
+    ]
   }
 ]
