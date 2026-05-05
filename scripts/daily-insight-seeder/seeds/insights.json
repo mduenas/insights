@@ -4048,5 +4048,85 @@
       "science",
       "learning"
     ]
+  },
+  {
+    "id": "ecology-06",
+    "title": "Gratitude is a practice of attention, not just sentiment",
+    "body": "Kimmerer observes that the Potawatomi language treats most of the living world as animate — trees, rivers, and birds are subjects, not objects — and this grammatical fact trains speakers to perceive other species as beings deserving respect rather than resources available for use. The implication is that the way we name the world shapes what we believe we owe it. Gratitude, in this light, is not a warm feeling but a disciplined act of noticing what gives and what sustains, and a commitment to reciprocity in return.",
+    "source": {
+      "title": "Braiding Sweetgrass",
+      "author": "Robin Wall Kimmerer",
+      "year": 2013
+    },
+    "tags": [
+      "ecology",
+      "gratitude",
+      "nature",
+      "reciprocity"
+    ]
+  },
+  {
+    "id": "mathematics-12",
+    "title": "Clouds are not spheres — nature's geometry is rough",
+    "body": "Mandelbrot argued that classical Euclidean geometry, built on smooth curves and perfect solids, is almost useless for describing the actual shapes found in nature: coastlines, clouds, mountain ranges, and trees are all fundamentally irregular. He showed that these forms are better modeled by fractals — structures whose complexity repeats self-similarly at every scale of magnification. The insight carries a broader methodological lesson: the tidiest mathematical model is not always the truest, and reality often rewards those willing to work with roughness rather than smoothing it away.",
+    "source": {
+      "title": "The Fractal Geometry of Nature",
+      "author": "Benoit Mandelbrot",
+      "year": 1982
+    },
+    "tags": [
+      "mathematics",
+      "complexity",
+      "nature",
+      "patterns"
+    ]
+  },
+  {
+    "id": "courage-05",
+    "title": "Courage is self-affirmation in spite of the threat of nonbeing",
+    "body": "Tillich argued that every conscious being faces three intertwined threats: the anxiety of fate and death, the anxiety of emptiness and meaninglessness, and the anxiety of guilt and condemnation. Courage, for Tillich, is not the elimination of this anxiety but the act of affirming one's own existence in the face of it — choosing to go on being rather than collapsing into despair or denial. This reframes courage as less a heroic trait reserved for exceptional moments and more a quiet, ongoing act required of any person who takes their own existence seriously.",
+    "source": {
+      "title": "The Courage to Be",
+      "author": "Paul Tillich",
+      "year": 1952
+    },
+    "tags": [
+      "courage",
+      "existentialism",
+      "anxiety",
+      "meaning"
+    ]
+  },
+  {
+    "id": "action-04",
+    "title": "Only action, not work or labor, can begin something truly new",
+    "body": "Arendt distinguished three fundamental human activities: labor, which sustains biological life and leaves nothing permanent behind; work, which builds a durable artificial world of objects and institutions; and action, which occurs directly between people in the public realm and alone has the power to initiate the genuinely unprecedented. Action is rooted in natality — the fact that every person arrives in the world as a new beginning, capable of starting a chain of events that no one can fully predict or control. This irreversibility is what makes action both the most distinctly human activity and the one that demands the most courage.",
+    "source": {
+      "title": "The Human Condition",
+      "author": "Hannah Arendt",
+      "year": 1958
+    },
+    "tags": [
+      "action",
+      "politics",
+      "philosophy",
+      "freedom"
+    ]
+  },
+  {
+    "id": "linguistics-05",
+    "title": "Language is a biological endowment, not just a cultural invention",
+    "body": "Chomsky proposed that humans are born with an innate language faculty — a universal grammar that constrains the possible structures of any human language and explains why children acquire immensely complex grammatical rules quickly and without explicit instruction. Because every known language, however superficially different, obeys deep structural principles, the study of language becomes a window into the fixed architecture of the human mind rather than simply into the diversity of cultures. The implication is that some of the most distinctly human features of thought are not learned from the outside but grown from within.",
+    "source": {
+      "title": "Language and Mind",
+      "author": "Noam Chomsky",
+      "year": 1968
+    },
+    "tags": [
+      "linguistics",
+      "cognition",
+      "biology",
+      "language"
+    ]
   }
 ]
