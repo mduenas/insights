@@ -4128,5 +4128,60 @@
       "biology",
       "language"
     ]
+  },
+  {
+    "id": "philosophy-21",
+    "title": "We must cultivate our garden",
+    "body": "At the close of Voltaire's philosophical satire, Candide and his companions abandon all debate about theodicy and the best of all possible worlds and turn instead to tend their garden. The phrase has become shorthand for rejecting idle speculation in favor of engaged, practical work — for attending to what lies directly in hand rather than to abstract arguments about what cannot be changed. Voltaire was not counseling withdrawal from the world but a clear-eyed realism: conditions improve not through disputation about their nature but through steady, particular effort applied to a manageable patch of ground.",
+    "source": {
+      "title": "Candide",
+      "author": "Voltaire",
+      "year": 1759
+    },
+    "tags": ["philosophy", "pragmatism", "action"]
+  },
+  {
+    "id": "literature-18",
+    "title": "Do I contradict myself? Very well, I contain multitudes",
+    "body": "Whitman's lines from 'Song of Myself' declared that consistency is not the measure of a full or honest life. He saw human beings as capacious enough to hold contradictions — shifting moods, evolving convictions, impulses that seem irreconcilable — without those contradictions being a flaw. In an era that prized philosophical tidiness, Whitman embraced multiplicity as a mark of vitality. To grow is to contradict earlier versions of yourself; the person whose beliefs never shift has likely stopped paying attention to what they encounter.",
+    "source": {
+      "title": "Leaves of Grass",
+      "author": "Walt Whitman",
+      "year": 1855
+    },
+    "tags": ["literature", "identity", "self-acceptance"]
+  },
+  {
+    "id": "learning-09",
+    "title": "Knowledge is built from the inside out, not poured from the outside in",
+    "body": "Piaget's central insight — the foundation of constructivism — is that children do not absorb understanding the way a sponge absorbs water. They actively construct mental schemas through hands-on interaction with their environment, testing and revising internal models each time reality surprises them. Two complementary processes drive this: assimilation, fitting new experience into existing frameworks, and accommodation, revising those frameworks when they repeatedly fail. The practical consequence is that telling someone a fact is not the same as teaching them to understand it; genuine comprehension is always built from within, through encounter and adjustment.",
+    "source": {
+      "title": "The Psychology of Intelligence",
+      "author": "Jean Piaget",
+      "year": 1947
+    },
+    "tags": ["learning", "psychology", "education"]
+  },
+  {
+    "id": "biology-09",
+    "title": "Mutual aid is as much a law of nature as mutual struggle",
+    "body": "Observing Siberian wildlife, the Russian naturalist Kropotkin was struck by how rarely he witnessed Darwinian struggle between members of the same species and how frequently he saw solidarity — animals sheltering, foraging, and migrating together. His 1902 study challenged the Social Darwinist reading of evolution, arguing that cooperation within a species was as significant a factor in survival as competition between individuals. The organisms that endure over geological time are not always the most aggressive; often they are the most capable of coordinating with their own kind under adverse conditions.",
+    "source": {
+      "title": "Mutual Aid: A Factor of Evolution",
+      "author": "Pyotr Kropotkin",
+      "year": 1902
+    },
+    "tags": ["biology", "cooperation", "evolution"]
+  },
+  {
+    "id": "science-15",
+    "title": "The most beautiful experience we can have is the mysterious",
+    "body": "Einstein wrote that the sense of standing before something one cannot fully grasp is the source of all genuine art and science alike. A person who has lost the capacity for wonder — who can no longer ask questions with a child's openness — has, he argued, as good as extinguished the inner light. This was not merely poetry: the question that launched the theory of relativity was almost childlike — what would it feel like to ride alongside a beam of light? The mysterious compels us forward; certainty, if mistaken for completeness, closes inquiry down.",
+    "source": {
+      "title": "The World As I See It",
+      "author": "Albert Einstein",
+      "year": 1934
+    },
+    "tags": ["science", "curiosity", "wonder"]
   }
 ]
