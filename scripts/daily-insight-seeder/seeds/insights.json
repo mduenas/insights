@@ -4183,5 +4183,60 @@
       "year": 1934
     },
     "tags": ["science", "curiosity", "wonder"]
+  },
+  {
+    "id": "mythology-03",
+    "title": "Sacred time stands outside ordinary history",
+    "body": "Mircea Eliade distinguished between profane time — the linear, irreversible flow of everyday life — and sacred time, which is cyclical, recoverable, and present whenever a myth is ritually re-enacted. To participate in myth is not merely to remember an origin story but to return to the moment of creation itself, briefly restoring a sense of primordial fullness. This is why ceremonies, anniversaries, and commemorations feel qualitatively different from routine days: they open a window onto a deeper order of time that ordinary chronology cannot provide.",
+    "source": {
+      "title": "The Sacred and the Profane",
+      "author": "Mircea Eliade",
+      "year": 1957
+    },
+    "tags": ["mythology", "ritual", "time", "meaning"]
+  },
+  {
+    "id": "focus-04",
+    "title": "All of humanity's problems stem from an inability to sit quietly",
+    "body": "Pascal observed in the seventeenth century that people seek distraction not because they love the hunt or the game itself, but because they cannot bear to be alone with their thoughts. The restlessness that drives humans to court, to war, or to entertainment is ultimately a flight from the silence in which mortality and meaninglessness become audible. This insight, written before telephones or social media, anticipates every modern study on distraction: busyness is often anxiety wearing productive clothes.",
+    "source": {
+      "title": "Pensées",
+      "author": "Blaise Pascal",
+      "year": 1670
+    },
+    "tags": ["focus", "psychology", "distraction", "stillness"]
+  },
+  {
+    "id": "time-04",
+    "title": "The present of past things is memory; the present of future things is expectation",
+    "body": "Augustine's meditation on time in the Confessions revealed that past and future exist only in the mind — as memory and anticipation — while the present is the vanishing point between them. What we call 'time' is therefore less a feature of the world than a structure of human consciousness. This insight, developed in late antiquity, resonates with modern phenomenology and reminds us that our relationship with time is always, first, a relationship with ourselves.",
+    "source": {
+      "title": "Confessions",
+      "author": "Saint Augustine",
+      "year": 400
+    },
+    "tags": ["time", "philosophy", "consciousness", "memory"]
+  },
+  {
+    "id": "values-04",
+    "title": "Excellence is a habit, not a gift",
+    "body": "Aristotle argued that virtues are not innate endowments but stable dispositions built through repeated practice — a person becomes courageous by doing courageous acts, honest by telling the truth under pressure. Character is not something one is born with but something one constructs through choices that compound over time. This view has endured because it is both demanding and hopeful: fate does not determine who you are, but your daily habits do.",
+    "source": {
+      "title": "Nicomachean Ethics",
+      "author": "Aristotle",
+      "year": -350
+    },
+    "tags": ["values", "habits", "character", "virtue"]
+  },
+  {
+    "id": "wealth-05",
+    "title": "Conspicuous consumption is a language of status, not need",
+    "body": "Thorstein Veblen coined 'conspicuous consumption' to describe spending on goods primarily to signal wealth and social standing rather than to meet genuine needs. In leisure-class societies, what people buy communicates who they are — or who they wish to be seen as. This mechanism, identified in 1899, accurately predicts the logic behind luxury branding, social media display, and any purchase made partly for an audience rather than for the buyer.",
+    "source": {
+      "title": "The Theory of the Leisure Class",
+      "author": "Thorstein Veblen",
+      "year": 1899
+    },
+    "tags": ["wealth", "economics", "sociology", "status"]
   }
 ]
