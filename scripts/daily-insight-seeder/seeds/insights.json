@@ -4238,5 +4238,60 @@
       "year": 1899
     },
     "tags": ["wealth", "economics", "sociology", "status"]
+  },
+  {
+    "id": "relationships-05",
+    "title": "Lasting bonds require five positive moments for every one negative",
+    "body": "Through four decades of observational research on couples, psychologist John Gottman found that stable, satisfying relationships maintain a ratio of roughly five positive interactions — expressions of affection, curiosity, humor, appreciation — to every one negative exchange. This is not because enduring couples avoid conflict but because accumulated goodwill absorbs friction and keeps partners oriented toward each other. Relationships that fall below this ratio, even quietly, tend to erode steadily. Relational health is built incrementally through small daily deposits, not repaired through dramatic gestures.",
+    "source": {
+      "title": "The Seven Principles for Making Marriage Work",
+      "author": "John Gottman",
+      "year": 1999
+    },
+    "tags": ["relationships", "psychology", "communication"]
+  },
+  {
+    "id": "linguistics-06",
+    "title": "The language you speak carves the reality you see",
+    "body": "Working from comparative studies of Hopi and European languages, Benjamin Lee Whorf argued that the grammatical structure of a language — how it handles time, causality, number, and space — shapes what its speakers can readily perceive and categorize. While the strong form of this hypothesis, that language determines thought, is no longer widely held, decades of experiments in color perception, spatial reasoning, and memory have confirmed a weaker but genuine version. The vocabulary and grammar available to you do not merely describe the world; they tilt the attention you bring to it, making some distinctions vivid and others nearly invisible.",
+    "source": {
+      "title": "Language, Thought, and Reality",
+      "author": "Benjamin Lee Whorf",
+      "year": 1956
+    },
+    "tags": ["linguistics", "cognition", "perception"]
+  },
+  {
+    "id": "education-05",
+    "title": "Knowledge that is never used becomes the enemy of learning",
+    "body": "Alfred North Whitehead coined the phrase 'inert ideas' to describe information that is received without being tested, applied, or connected to experience — the kind of knowledge students absorb for examinations and promptly forget. He argued that education fails not when it teaches the wrong things but when it teaches right things in a dead way. True learning, for Whitehead, is rhythmic: it cycles through romance (wonder and curiosity), precision (systematic knowledge), and generalization (using knowledge to illuminate the world). Filling minds with facts they cannot activate produces people who are burdened by learning rather than empowered by it.",
+    "source": {
+      "title": "The Aims of Education and Other Essays",
+      "author": "Alfred North Whitehead",
+      "year": 1929
+    },
+    "tags": ["education", "learning", "philosophy"]
+  },
+  {
+    "id": "habits-07",
+    "title": "Believing you can do it changes whether you do",
+    "body": "Psychologist Albert Bandura introduced the concept of self-efficacy — the belief in one's capacity to execute the specific behaviors needed to achieve a goal — and showed that it predicts performance independently of actual skill. People with high self-efficacy set more ambitious goals, persist longer in the face of setbacks, and recover more quickly from failure; those with low self-efficacy often abandon tasks before discovering their true limits. Self-efficacy is not generic confidence but domain-specific: someone may believe firmly in their ability to cook and doubt entirely their ability to speak publicly. It is built primarily through mastery experiences, observation of similar others succeeding, and credible encouragement.",
+    "source": {
+      "title": "Social Learning Theory",
+      "author": "Albert Bandura",
+      "year": 1977
+    },
+    "tags": ["habits", "psychology", "mindset"]
+  },
+  {
+    "id": "mathematics-13",
+    "title": "Reason can be written in algebra",
+    "body": "In 1854, self-taught English mathematician George Boole proposed that the operations of logic — AND, OR, NOT, IF-THEN — could be represented as algebraic equations operating on values of true and false. His laws of thought were initially treated as a philosophical curiosity, but they became the mathematical foundation of digital computing: every transistor, every circuit, and every conditional in software implements Boolean logic. Boole's insight was that the structure of valid reasoning is not merely a linguistic convention but a mathematical system, and that this system could in principle be mechanized — a realization that took nearly a century to fully unfold.",
+    "source": {
+      "title": "An Investigation of the Laws of Thought",
+      "author": "George Boole",
+      "year": 1854
+    },
+    "tags": ["mathematics", "logic", "computing"]
   }
 ]
