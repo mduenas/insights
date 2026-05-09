@@ -4138,7 +4138,11 @@
       "author": "Voltaire",
       "year": 1759
     },
-    "tags": ["philosophy", "pragmatism", "action"]
+    "tags": [
+      "philosophy",
+      "pragmatism",
+      "action"
+    ]
   },
   {
     "id": "literature-18",
@@ -4149,7 +4153,11 @@
       "author": "Walt Whitman",
       "year": 1855
     },
-    "tags": ["literature", "identity", "self-acceptance"]
+    "tags": [
+      "literature",
+      "identity",
+      "self-acceptance"
+    ]
   },
   {
     "id": "learning-09",
@@ -4160,7 +4168,11 @@
       "author": "Jean Piaget",
       "year": 1947
     },
-    "tags": ["learning", "psychology", "education"]
+    "tags": [
+      "learning",
+      "psychology",
+      "education"
+    ]
   },
   {
     "id": "biology-09",
@@ -4171,7 +4183,11 @@
       "author": "Pyotr Kropotkin",
       "year": 1902
     },
-    "tags": ["biology", "cooperation", "evolution"]
+    "tags": [
+      "biology",
+      "cooperation",
+      "evolution"
+    ]
   },
   {
     "id": "science-15",
@@ -4182,7 +4198,11 @@
       "author": "Albert Einstein",
       "year": 1934
     },
-    "tags": ["science", "curiosity", "wonder"]
+    "tags": [
+      "science",
+      "curiosity",
+      "wonder"
+    ]
   },
   {
     "id": "mythology-03",
@@ -4193,7 +4213,12 @@
       "author": "Mircea Eliade",
       "year": 1957
     },
-    "tags": ["mythology", "ritual", "time", "meaning"]
+    "tags": [
+      "mythology",
+      "ritual",
+      "time",
+      "meaning"
+    ]
   },
   {
     "id": "focus-04",
@@ -4204,7 +4229,12 @@
       "author": "Blaise Pascal",
       "year": 1670
     },
-    "tags": ["focus", "psychology", "distraction", "stillness"]
+    "tags": [
+      "focus",
+      "psychology",
+      "distraction",
+      "stillness"
+    ]
   },
   {
     "id": "time-04",
@@ -4215,7 +4245,12 @@
       "author": "Saint Augustine",
       "year": 400
     },
-    "tags": ["time", "philosophy", "consciousness", "memory"]
+    "tags": [
+      "time",
+      "philosophy",
+      "consciousness",
+      "memory"
+    ]
   },
   {
     "id": "values-04",
@@ -4226,7 +4261,12 @@
       "author": "Aristotle",
       "year": -350
     },
-    "tags": ["values", "habits", "character", "virtue"]
+    "tags": [
+      "values",
+      "habits",
+      "character",
+      "virtue"
+    ]
   },
   {
     "id": "wealth-05",
@@ -4237,7 +4277,12 @@
       "author": "Thorstein Veblen",
       "year": 1899
     },
-    "tags": ["wealth", "economics", "sociology", "status"]
+    "tags": [
+      "wealth",
+      "economics",
+      "sociology",
+      "status"
+    ]
   },
   {
     "id": "relationships-05",
@@ -4248,7 +4293,11 @@
       "author": "John Gottman",
       "year": 1999
     },
-    "tags": ["relationships", "psychology", "communication"]
+    "tags": [
+      "relationships",
+      "psychology",
+      "communication"
+    ]
   },
   {
     "id": "linguistics-06",
@@ -4259,7 +4308,11 @@
       "author": "Benjamin Lee Whorf",
       "year": 1956
     },
-    "tags": ["linguistics", "cognition", "perception"]
+    "tags": [
+      "linguistics",
+      "cognition",
+      "perception"
+    ]
   },
   {
     "id": "education-05",
@@ -4270,7 +4323,11 @@
       "author": "Alfred North Whitehead",
       "year": 1929
     },
-    "tags": ["education", "learning", "philosophy"]
+    "tags": [
+      "education",
+      "learning",
+      "philosophy"
+    ]
   },
   {
     "id": "habits-07",
@@ -4281,7 +4338,11 @@
       "author": "Albert Bandura",
       "year": 1977
     },
-    "tags": ["habits", "psychology", "mindset"]
+    "tags": [
+      "habits",
+      "psychology",
+      "mindset"
+    ]
   },
   {
     "id": "mathematics-13",
@@ -4292,6 +4353,90 @@
       "author": "George Boole",
       "year": 1854
     },
-    "tags": ["mathematics", "logic", "computing"]
+    "tags": [
+      "mathematics",
+      "logic",
+      "computing"
+    ]
+  },
+  {
+    "id": "action-05",
+    "title": "The master does less, yet nothing is left undone",
+    "body": "Wu wei — often translated as non-action or effortless action — is the central practice of the Tao Te Ching: acting in harmony with the natural flow of things rather than forcing outcomes against the grain of reality. Lao Tzu did not counsel passivity but pointed to a deeper efficiency: the branch that yields in the storm survives where the rigid one snaps. Knowing when not to intervene, not to speak, not to push is itself a form of mastery that cultures fixated on visible effort consistently undervalue. The sage accomplishes more by doing what is fitting than by doing more.",
+    "source": {
+      "title": "Tao Te Ching",
+      "author": "Lao Tzu",
+      "year": -400
+    },
+    "tags": [
+      "action",
+      "philosophy",
+      "taoism",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "time-05",
+    "title": "Entropy is the reason the past differs from the future",
+    "body": "Rovelli argues that the felt arrow of time — the asymmetry between before and after — is not written into the fundamental equations of physics, which are fully reversible. What distinguishes the past is entropy: the universe began in an unusually low-entropy state, making many processes irreversible at the scale we inhabit. We remember the past because it left traces; we cannot remember the future because higher entropy has not yet accumulated there. This locates the source of time's direction in statistical physics rather than in any fundamental asymmetry of nature.",
+    "source": {
+      "title": "The Order of Time",
+      "author": "Carlo Rovelli",
+      "year": 2017
+    },
+    "tags": [
+      "science",
+      "time",
+      "physics",
+      "entropy"
+    ]
+  },
+  {
+    "id": "literature-19",
+    "title": "Two things everyone must do alone: die and find out about living",
+    "body": "At the center of Hurston's novel is Janie Crawford's refusal to let others define what her life should mean. The most important experiences — the encounter with one's own desire, grief, and identity — cannot be delegated or borrowed; they must be personally undergone. Hurston, an anthropologist as well as a novelist, rooted this insight in the Black Southern oral tradition in which she was formed, insisting that a rich interior life was not the preserve of any particular class or culture. Self-knowledge is not transmitted; it is won only by living.",
+    "source": {
+      "title": "Their Eyes Were Watching God",
+      "author": "Zora Neale Hurston",
+      "year": 1937
+    },
+    "tags": [
+      "literature",
+      "identity",
+      "self-knowledge",
+      "experience"
+    ]
+  },
+  {
+    "id": "relationships-06",
+    "title": "Friendship begins the moment someone says: you too?",
+    "body": "Lewis distinguished friendship from the other loves by its orientation: friends do not gaze at each other but stand side by side, looking outward at a shared truth, interest, or vision. It is born at the moment one person says to another, 'What? You too? I thought I was the only one.' This recognition of common perception is what separates genuine friendship from the pleasant but rootless bond of mere companionship. Its rarity, Lewis concluded, is simply the rarity of people who both see and care passionately about the same things.",
+    "source": {
+      "title": "The Four Loves",
+      "author": "C.S. Lewis",
+      "year": 1960
+    },
+    "tags": [
+      "relationships",
+      "friendship",
+      "community",
+      "meaning"
+    ]
+  },
+  {
+    "id": "values-05",
+    "title": "Colonial domination erases the past before it prescribes the future",
+    "body": "Fanon, writing as a psychiatrist who treated both Algerian resistance fighters and French soldiers, argued that colonial domination operates not just through force but through the systematic destruction of the colonized people's history, language, and self-understanding. Liberation therefore demands more than political independence; it requires reconstructing a culture and psychology that colonialism deliberately degraded. The deepest violence of colonialism is epistemological — convincing the colonized that their ways of knowing and valuing were inferior before any gun is raised. True freedom begins with reclaiming the right to define oneself.",
+    "source": {
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "year": 1961
+    },
+    "tags": [
+      "values",
+      "history",
+      "psychology",
+      "freedom"
+    ]
   }
 ]
