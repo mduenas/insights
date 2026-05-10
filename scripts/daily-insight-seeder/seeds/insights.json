@@ -4438,5 +4438,82 @@
       "psychology",
       "freedom"
     ]
+  },
+  {
+    "id": "mythology-04",
+    "title": "The stories that endure are the ones that name something already known",
+    "body": "Hamilton observed that the myths surviving three thousand years of transmission were not those with the most dramatic plots but those that touched something permanent in human experience. The Greeks were the first in the Western world to build their myths around human beings rather than gods, making Prometheus, Odysseus, and Achilles more representative than divine. A myth endures not because people believe it literally but because it speaks truthfully — to the desire for significance, the fear of loss, and the question of how to live. What feels timeless in a story is the emotion it successfully names.",
+    "source": {
+      "title": "Mythology",
+      "author": "Edith Hamilton",
+      "year": 1942
+    },
+    "tags": [
+      "mythology",
+      "storytelling",
+      "human-nature"
+    ]
+  },
+  {
+    "id": "neuroscience-06",
+    "title": "Reason without emotion does not produce better decisions — it produces none",
+    "body": "Damasio's research with patients who had damage to the prefrontal cortex revealed something counterintuitive: without the emotional markers that signal which options matter, patients became paralyzed by decision-making despite intact logical reasoning. He called these signals somatic markers — bodily sensations that act as bookmarks on memories and anticipated outcomes. The Cartesian separation of mind from body, inherited as a philosophical premise, turns out to describe a dysfunction rather than an ideal. Feeling, Damasio argued, is not the enemy of rational thought but its necessary foundation.",
+    "source": {
+      "title": "Descartes' Error",
+      "author": "Antonio Damasio",
+      "year": 1994
+    },
+    "tags": [
+      "neuroscience",
+      "decision-making",
+      "philosophy",
+      "emotion"
+    ]
+  },
+  {
+    "id": "resilience-06",
+    "title": "Trauma is not the story of something that happened — it is the residue still present",
+    "body": "Van der Kolk spent three decades working with trauma survivors and found that the central problem is not the memory of a terrible event but the way the nervous system continues to re-enact it in the present. The body responds to triggers — sounds, smells, postures — as if the past danger were happening now, flooding consciousness with sensations that override rational thought. This is why recounting the story is often insufficient for recovery: trauma is not stored as a narrative but as a physical state. Healing requires working directly with the body through movement, breath, or somatic therapies, not only through verbal processing.",
+    "source": {
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "year": 2014
+    },
+    "tags": [
+      "resilience",
+      "psychology",
+      "neuroscience"
+    ]
+  },
+  {
+    "id": "mindset-06",
+    "title": "Talent counts once, but effort counts twice",
+    "body": "Duckworth's research on achievement across fields — from West Point cadets to spelling bee champions — consistently showed that talent accounted for only part of performance differences. She proposed two equations: talent × effort = skill, and skill × effort = achievement. Because effort appears in both, it has twice the effect of natural talent on final outcomes. This reframes the central question from 'am I talented enough?' to 'am I willing to sustain the effort?' Grit — the combination of passion and long-term perseverance — proved a better predictor of success than IQ in almost every domain she studied.",
+    "source": {
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth",
+      "year": 2016
+    },
+    "tags": [
+      "mindset",
+      "psychology",
+      "habits"
+    ]
+  },
+  {
+    "id": "focus-05",
+    "title": "The net trains the mind to skim rather than to read",
+    "body": "Carr drew on neuroscience research to argue that the hyperlinked, constantly interrupted structure of online reading rewires the neural pathways used for deep reading. Unlike a book, which asks for sustained concentration on a linear argument, the web rewards rapid switching, scanning, and clicking — capacities that weaken the ability to follow an extended thought. The plasticity that makes the brain capable of learning new skills also makes it capable of unlearning old ones. Carr's concern was not about information access but about the kind of thinking that slow, deep reading uniquely enables: the capacity to carry a complex argument to its conclusion.",
+    "source": {
+      "title": "The Shallows: What the Internet Is Doing to Our Brains",
+      "author": "Nicholas Carr",
+      "year": 2010
+    },
+    "tags": [
+      "focus",
+      "technology",
+      "reading",
+      "neuroscience"
+    ]
   }
 ]
