@@ -4674,5 +4674,85 @@
       "creativity",
       "reasoning"
     ]
+  },
+  {
+    "id": "psychology-17",
+    "title": "Accepting yourself as you are is what makes change possible",
+    "body": "Rogers discovered in decades of therapeutic work that clients who felt genuinely accepted — not evaluated, not pressed to improve — were far more likely to change than those subjected to advice, judgment, or correction. The mechanism is not mysterious: when energy is no longer consumed defending an existing self-concept, it becomes available for growth. This principle, which Rogers called unconditional positive regard, inverts the common assumption that improvement requires self-criticism, and explains why harsh self-judgment so often produces paralysis rather than progress.",
+    "source": {
+      "title": "On Becoming a Person",
+      "author": "Carl Rogers",
+      "year": 1961
+    },
+    "tags": [
+      "psychology",
+      "self-acceptance",
+      "growth",
+      "therapy"
+    ]
+  },
+  {
+    "id": "philosophy-23",
+    "title": "Doubt everything until you find what cannot be doubted",
+    "body": "Descartes' method was not scepticism as a final destination but as a clearing procedure: by systematically rejecting anything that could conceivably be false, he aimed to discover what remained unshakeable. What survived was the thinking itself — cogito ergo sum, I think therefore I am — a foundation immune to further doubt. The method transformed philosophy by insisting on internal certainty rather than external authority, and the question 'what can I know for certain?' has structured epistemology ever since. Even those who reject his conclusions inherit his demand for explicit justification.",
+    "source": {
+      "title": "Meditations on First Philosophy",
+      "author": "René Descartes",
+      "year": 1641
+    },
+    "tags": [
+      "philosophy",
+      "epistemology",
+      "reason",
+      "certainty"
+    ]
+  },
+  {
+    "id": "biology-11",
+    "title": "Much of what looks like choice in animals — and humans — is inherited pattern",
+    "body": "Lorenz spent years living alongside jackdaws, geese, and fish, observing behavior with careful precision and considerable wit. His key insight was that complex social behaviors — aggression, bonding, hierarchy, greeting rituals — are often fixed action patterns triggered by specific stimuli, not calculated responses. This challenged the sharp divide between instinct and reason: what looks like choice is frequently the activation of inherited machinery. Lorenz’s work founded modern ethology and raised uncomfortable questions about which human behaviors are similarly automatic, running invisibly below the threshold of conscious decision.",
+    "source": {
+      "title": "King Solomon's Ring",
+      "author": "Konrad Lorenz",
+      "year": 1949
+    },
+    "tags": [
+      "biology",
+      "behavior",
+      "instinct",
+      "ethology"
+    ]
+  },
+  {
+    "id": "mathematics-15",
+    "title": "Your best move depends on what others expect you to do",
+    "body": "Von Neumann and Morgenstern showed that in situations where multiple agents make simultaneous decisions — markets, negotiations, arms races, elections — the very concept of an optimal strategy cannot be defined in isolation. Each player’s best option depends on their model of what others will do, which in turn depends on those others’ model of what everyone else will do, and so on. This circularity is not a flaw but the defining feature of strategic interaction. Game theory supplied the mathematics to navigate it, and its implications spread from economics and political science to evolutionary biology and computer science.",
+    "source": {
+      "title": "Theory of Games and Economic Behavior",
+      "author": "John von Neumann",
+      "year": 1944
+    },
+    "tags": [
+      "mathematics",
+      "strategy",
+      "economics",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "economics-22",
+    "title": "Free markets are political constructs, not natural phenomena",
+    "body": "Chang argues that every market is shaped by rules determining what can be bought and sold, who can participate, and under what conditions. Child labour, narcotics, and human organs are not traded in most markets not because the market was left alone, but because political decisions placed them outside it. The boundary of the market is therefore always a political question dressed in economic language. Recognising this dissolves the rhetorical contrast between 'free' markets and 'interfering' governments, and opens genuine debate about which regulations are wise rather than whether to regulate at all.",
+    "source": {
+      "title": "23 Things They Don't Tell You About Capitalism",
+      "author": "Ha-Joon Chang",
+      "year": 2010
+    },
+    "tags": [
+      "economics",
+      "politics",
+      "markets",
+      "institutions"
+    ]
   }
 ]
