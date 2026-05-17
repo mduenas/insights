@@ -4694,7 +4694,7 @@
   {
     "id": "philosophy-23",
     "title": "Doubt everything until you find what cannot be doubted",
-    "body": "Descartes' method was not scepticism as a final destination but as a clearing procedure: by systematically rejecting anything that could conceivably be false, he aimed to discover what remained unshakeable. What survived was the thinking itself — cogito ergo sum, I think therefore I am — a foundation immune to further doubt. The method transformed philosophy by insisting on internal certainty rather than external authority, and the question 'what can I know for certain?' has structured epistemology ever since. Even those who reject his conclusions inherit his demand for explicit justification.",
+    "body": "Descartes’ method was not scepticism as a final destination but as a clearing procedure: by systematically rejecting anything that could conceivably be false, he aimed to discover what remained unshakeable. What survived was the thinking itself — cogito ergo sum, I think therefore I am — a foundation immune to further doubt. The method transformed philosophy by insisting on internal certainty rather than external authority, and the question ‘what can I know for certain?’ has structured epistemology ever since. Even those who reject his conclusions inherit his demand for explicit justification.",
     "source": {
       "title": "Meditations on First Philosophy",
       "author": "René Descartes",
@@ -4712,7 +4712,7 @@
     "title": "Much of what looks like choice in animals — and humans — is inherited pattern",
     "body": "Lorenz spent years living alongside jackdaws, geese, and fish, observing behavior with careful precision and considerable wit. His key insight was that complex social behaviors — aggression, bonding, hierarchy, greeting rituals — are often fixed action patterns triggered by specific stimuli, not calculated responses. This challenged the sharp divide between instinct and reason: what looks like choice is frequently the activation of inherited machinery. Lorenz’s work founded modern ethology and raised uncomfortable questions about which human behaviors are similarly automatic, running invisibly below the threshold of conscious decision.",
     "source": {
-      "title": "King Solomon's Ring",
+      "title": "King Solomon’s Ring",
       "author": "Konrad Lorenz",
       "year": 1949
     },
@@ -4742,9 +4742,9 @@
   {
     "id": "economics-22",
     "title": "Free markets are political constructs, not natural phenomena",
-    "body": "Chang argues that every market is shaped by rules determining what can be bought and sold, who can participate, and under what conditions. Child labour, narcotics, and human organs are not traded in most markets not because the market was left alone, but because political decisions placed them outside it. The boundary of the market is therefore always a political question dressed in economic language. Recognising this dissolves the rhetorical contrast between 'free' markets and 'interfering' governments, and opens genuine debate about which regulations are wise rather than whether to regulate at all.",
+    "body": "Chang argues that every market is shaped by rules determining what can be bought and sold, who can participate, and under what conditions. Child labour, narcotics, and human organs are not traded in most markets not because the market was left alone, but because political decisions placed them outside it. The boundary of the market is therefore always a political question dressed in economic language. Recognising this dissolves the rhetorical contrast between ‘free’ markets and ‘interfering’ governments, and opens genuine debate about which regulations are wise rather than whether to regulate at all.",
     "source": {
-      "title": "23 Things They Don't Tell You About Capitalism",
+      "title": "23 Things They Don’t Tell You About Capitalism",
       "author": "Ha-Joon Chang",
       "year": 2010
     },
@@ -4753,6 +4753,86 @@
       "politics",
       "markets",
       "institutions"
+    ]
+  },
+  {
+    "id": "anthropology-05",
+    "title": "Man is an animal suspended in webs of significance",
+    "body": "Geertz redefined culture not as a set of inherited behaviors or mental structures, but as publicly shared systems of meaning — the stories, symbols, and rituals through which communities make sense of existence. Because these webs are spun by humans themselves, they are both enabling and constraining: the symbols we inherit shape what we can think and feel before we ever reflect on them. Understanding another culture, Geertz argued, requires ‘thick description’ — attending not just to what people do but to what their actions mean within layered local contexts. This interpretive lens transforms social science from explanation into translation.",
+    "source": {
+      "title": "The Interpretation of Cultures",
+      "author": "Clifford Geertz",
+      "year": 1973
+    },
+    "tags": [
+      "anthropology",
+      "culture",
+      "meaning",
+      "identity"
+    ]
+  },
+  {
+    "id": "habits-08",
+    "title": "Keystone habits trigger cascades of change",
+    "body": "Duhigg identified a class of habits — keystone habits — that act as anchor points for entire behavioral ecosystems. When you change a keystone habit, you don’t just alter that one routine; you shift the small wins and structures that make other habits possible. Exercise, for instance, tends to improve sleep, reduce impulsive eating, and raise self-efficacy — not because it logically entails those changes but because it rewires identity and daily rhythms. Targeting the right keystone habit is therefore more powerful than trying to reform many behaviors simultaneously.",
+    "source": {
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "year": 2012
+    },
+    "tags": [
+      "habits",
+      "behavior",
+      "change",
+      "productivity"
+    ]
+  },
+  {
+    "id": "education-06",
+    "title": "Education is not preparation for life — it is life itself",
+    "body": "Dewey challenged the Victorian model of education as a deposit of knowledge made in children for later withdrawal. Learning, he argued, happens when experience is reflected upon and reorganized, so schooling that withholds genuine problem-solving from students trains passivity rather than intelligence. The classroom should be continuous with the child’s wider experience: messy, purposeful, and socially embedded. A curriculum disconnected from students’ present lives doesn’t merely bore — it actively teaches that knowledge is inert, something to be stored rather than used.",
+    "source": {
+      "title": "Democracy and Education",
+      "author": "John Dewey",
+      "year": 1916
+    },
+    "tags": [
+      "education",
+      "learning",
+      "experience",
+      "growth"
+    ]
+  },
+  {
+    "id": "focus-06",
+    "title": "Deep work is the superpower of the knowledge economy",
+    "body": "Newport distinguishes between deep work — cognitively demanding tasks performed in a state of distraction-free concentration — and shallow work, the logistical and communicative tasks that fill most modern schedules. Deep work produces rare, high-value output and simultaneously strengthens the neural circuits responsible for sustained attention; shallow work, done habitually, trains the brain toward fragmentation and restlessness. As open-plan offices, constant notifications, and social media erode the capacity for depth across knowledge work, those who cultivate it gain a decisive competitive advantage. Newport argues that depth is both a skill to be trained and an ethical stance toward one’s craft.",
+    "source": {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "year": 2016
+    },
+    "tags": [
+      "focus",
+      "productivity",
+      "attention",
+      "knowledge-work"
+    ]
+  },
+  {
+    "id": "linguistics-07",
+    "title": "The metaphors we use determine what we can think",
+    "body": "Lakoff and Johnson demonstrated that metaphor is not a literary ornament but the basic mechanism of human thought. When we speak of argument as war (‘he attacked my position’, ‘I demolished his argument’), we unconsciously adopt a framework that makes winners and losers inevitable and obscures collaborative alternatives. These conceptual metaphors — often inherited rather than chosen — structure which inferences feel natural, which solutions appear possible, and which aspects of experience go unnoticed. Changing a metaphor can therefore change what problems look like and what solutions become thinkable.",
+    "source": {
+      "title": "Metaphors We Live By",
+      "author": "George Lakoff and Mark Johnson",
+      "year": 1980
+    },
+    "tags": [
+      "linguistics",
+      "cognition",
+      "language",
+      "thinking"
     ]
   }
 ]
