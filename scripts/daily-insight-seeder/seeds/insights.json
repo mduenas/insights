@@ -4834,5 +4834,85 @@
       "language",
       "thinking"
     ]
+  },
+  {
+    "id": "ethics-06",
+    "title": "Design justice from behind a veil of ignorance",
+    "body": "Rawls proposed that truly just principles emerge when we imagine designing society without knowing what position we would occupy in it — not knowing whether we would be rich or poor, talented or not. Without this knowledge, we would naturally choose fairer arrangements rather than rules that benefit our current station. This thought experiment reveals that many accepted inequalities are tolerable only because those with power designed the rules in their own favor. Rawls used it to argue that rational people would choose systems guaranteeing basic liberties and prioritizing improvement of the worst-off.",
+    "source": {
+      "title": "A Theory of Justice",
+      "author": "John Rawls",
+      "year": 1971
+    },
+    "tags": [
+      "ethics",
+      "justice",
+      "fairness",
+      "political-philosophy"
+    ]
+  },
+  {
+    "id": "habits-09",
+    "title": "Anchor new behaviors to existing ones",
+    "body": "Fogg's research showed that the most reliable way to build a new habit is to attach it to an existing routine — inserting the new behavior immediately after something you already do automatically. Rather than relying on motivation or willpower, the anchor provides a reliable cue that costs nothing extra. Starting tiny matters too: a habit so small it seems trivial is easy to perform even on your worst days, and the repeated action strengthens the neural pathway regardless of effort. What begins as a two-push-up habit can compound into lasting change.",
+    "source": {
+      "title": "Tiny Habits",
+      "author": "B.J. Fogg",
+      "year": 2019
+    },
+    "tags": [
+      "habits",
+      "behavior",
+      "psychology",
+      "change"
+    ]
+  },
+  {
+    "id": "history-16",
+    "title": "Plans have their own momentum toward catastrophe",
+    "body": "Tuchman's Pulitzer Prize-winning account of World War I's opening weeks revealed how Europe's leaders stumbled into catastrophe through rigid war plans, miscalculation, and a failure to pause. Each nation's mobilization schedule, once started, was nearly impossible to halt without appearing weak — so no one stopped. Her central lesson is that decision-makers under pressure often follow the logic of the plan rather than the logic of the situation, producing outcomes none of them intended. President Kennedy read the book during the Cuban Missile Crisis as a reminder of how wars begin by accident.",
+    "source": {
+      "title": "The Guns of August",
+      "author": "Barbara Tuchman",
+      "year": 1962
+    },
+    "tags": [
+      "history",
+      "leadership",
+      "decision-making",
+      "war"
+    ]
+  },
+  {
+    "id": "education-07",
+    "title": "Learning requires doing, not just receiving",
+    "body": "Dewey argued that education is not the transmission of information from teacher to student, but the transformation of experience into understanding. What matters is not any experience but a continuous, connected one — each encounter building on the last, opening the learner to new possibilities rather than closing them off. Passive reception of facts without active experimentation produces inert knowledge that cannot be applied when needed. Real learning requires testing ideas in the world, encountering resistance, and revising understanding in response.",
+    "source": {
+      "title": "Experience and Education",
+      "author": "John Dewey",
+      "year": 1938
+    },
+    "tags": [
+      "education",
+      "learning",
+      "experience",
+      "growth"
+    ]
+  },
+  {
+    "id": "courage-06",
+    "title": "Anxiety is the price of genuine creation",
+    "body": "May, the existential psychologist, argued that creativity is inseparable from anxiety — not as a pathology to be cured, but as the natural response to confronting the unknown. Every genuine act of creation requires moving beyond what you already know how to do, and that movement produces anxiety precisely because the outcome is uncertain. The person who avoids anxiety by sticking to the familiar forecloses creativity. Courage, for May, is not the absence of fear but the capacity to act in its presence, knowing that the discomfort of uncertainty is the price of bringing something new into the world.",
+    "source": {
+      "title": "The Courage to Create",
+      "author": "Rollo May",
+      "year": 1975
+    },
+    "tags": [
+      "courage",
+      "creativity",
+      "anxiety",
+      "psychology"
+    ]
   }
 ]
