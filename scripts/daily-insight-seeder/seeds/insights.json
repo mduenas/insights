@@ -4994,5 +4994,80 @@
       "development",
       "self"
     ]
+  },
+  {
+    "id": "statistics-01",
+    "title": "Extreme outcomes drift back toward the ordinary over time",
+    "body": "Galton's discovery of regression to the mean revealed an invisible but universal law: extreme measurements — the tallest parents, the best sporting seasons, the worst economic quarters — tend to be followed by less extreme ones, not because anything changed but because extreme outcomes partly reflect chance fluctuations unlikely to repeat. We habitually misread this return to average as the result of our interventions: a poor performer improves after coaching, but they might have improved anyway. Every feedback loop in business, medicine, and policy is shadowed by regression to the mean.",
+    "source": {
+      "title": "Natural Inheritance",
+      "author": "Francis Galton",
+      "year": 1889
+    },
+    "tags": [
+      "statistics",
+      "probability",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "literature-21",
+    "title": "The end of all exploring is to know the starting place for the first time",
+    "body": "Eliot closes the Four Quartets with an image of return that is also arrival: we travel away and circle back to discover the familiar made strange by understanding. This is not mere nostalgia but a description of how genuine learning works — the world you return to after serious inquiry is the same world, but your capacity to see it has been transformed. Understanding does not deliver new facts so much as it restores wonder to what was already there.",
+    "source": {
+      "title": "Four Quartets",
+      "author": "T.S. Eliot",
+      "year": 1943
+    },
+    "tags": [
+      "literature",
+      "learning",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "science-16",
+    "title": "Earth regulates itself as though it were alive",
+    "body": "Lovelock noticed that the chemical composition of Earth's atmosphere remains far from what inert chemistry alone would predict — oxygen stays near twenty-one percent rather than drifting to values hostile to life, and ocean salinity remains roughly constant despite steady input from rivers. He proposed that life itself maintains these conditions through continuous feedback, making the planet more like a self-regulating organism than a passive backdrop. The Gaia hypothesis upended the assumption that life merely adapts to a fixed environment, suggesting instead that life and environment co-evolve, each shaping the other across geological time.",
+    "source": {
+      "title": "Gaia: A New Look at Life on Earth",
+      "author": "James Lovelock",
+      "year": 1979
+    },
+    "tags": [
+      "science",
+      "ecology",
+      "systems"
+    ]
+  },
+  {
+    "id": "philosophy-24",
+    "title": "Man is born free, but everywhere he is in chains",
+    "body": "Rousseau's opening provocation in The Social Contract is not merely a complaint but a philosophical puzzle: if freedom is our natural condition, why do humans universally live under constraint? His answer was that legitimate authority can only arise from a social contract in which citizens collectively agree to be governed by laws they collectively author. Chains become just only when every member of society is simultaneously subject and sovereign — obeying rules that they, as part of the general will, have given themselves. This reframes political legitimacy from tradition or divine right to consent and collective self-governance.",
+    "source": {
+      "title": "The Social Contract",
+      "author": "Jean-Jacques Rousseau",
+      "year": 1762
+    },
+    "tags": [
+      "philosophy",
+      "politics",
+      "freedom"
+    ]
+  },
+  {
+    "id": "science-17",
+    "title": "Mathematics can reveal truths before instruments can detect them",
+    "body": "Maxwell's equations unified electricity and magnetism into a single theory and predicted the existence of electromagnetic waves propagating at the speed of light — thereby revealing that light itself was electromagnetic radiation, two decades before Hertz confirmed it experimentally. This was one of the greatest acts of scientific inference in history: a complete description of an unseen phenomenon derived purely from mathematical consistency. Einstein called it the most profound change in the axiomatic basis of physics since Newton, and it demonstrated that mathematical elegance is not merely aesthetic but epistemically powerful.",
+    "source": {
+      "title": "A Treatise on Electricity and Magnetism",
+      "author": "James Clerk Maxwell",
+      "year": 1873
+    },
+    "tags": [
+      "science",
+      "mathematics",
+      "physics"
+    ]
   }
 ]
