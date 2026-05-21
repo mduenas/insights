@@ -5069,5 +5069,80 @@
       "mathematics",
       "physics"
     ]
+  },
+  {
+    "id": "history-17",
+    "title": "Ancient traditions are often modern inventions",
+    "body": "Hobsbawm documented how many practices that present themselves as immemorial customs — national anthems, Highland tartans, elaborate royal ceremonies — were deliberately constructed in the nineteenth century to serve contemporary political purposes. The invented tradition creates the illusion of continuity with a distant past, lending practices an authority that explicit legislation could never command. Recognizing that what societies treat as timeless and given is frequently chosen and recent is clarifying: culture is always, in part, a political act, and traditions can be renewed consciously rather than merely inherited.",
+    "source": {
+      "title": "The Invention of Tradition",
+      "author": "Eric Hobsbawm",
+      "year": 1983
+    },
+    "tags": [
+      "history",
+      "culture",
+      "identity"
+    ]
+  },
+  {
+    "id": "philosophy-25",
+    "title": "In the beginner's mind there are many possibilities",
+    "body": "Suzuki Roshi's foundational Zen teaching holds that the expert's mind, having settled into mastery, tends to close down to alternatives it has already dismissed. The beginner encounters each situation fresh — curious, open, and undistorted by the weight of prior conclusions. This is not a call to ignorance but to the quality of attention that genuine expertise should cultivate rather than extinguish. The most rigorous thinkers are distinguished not only by what they know but by their capacity to keep this beginner's openness alive even after mastery.",
+    "source": {
+      "title": "Zen Mind, Beginner's Mind",
+      "author": "Shunryu Suzuki",
+      "year": 1970
+    },
+    "tags": [
+      "philosophy",
+      "learning",
+      "mindset"
+    ]
+  },
+  {
+    "id": "economics-23",
+    "title": "Large groups fail to act because each member's contribution seems invisible",
+    "body": "Olson overturned the assumption that shared interests naturally produce collective action. In a large group pursuing a public good, each member reasons that their contribution makes no detectable difference and defects — leaving the project undone even when everyone would benefit from its success. This free-rider problem explains why small, focused interest groups systematically outmaneuver large diffuse majorities in politics and organizational life. Solving it requires selective incentives, coercion, or changes to the structure that make individual contributions visibly count — a pattern that predicts the fate of coalitions, civic movements, and workplace teams.",
+    "source": {
+      "title": "The Logic of Collective Action",
+      "author": "Mancur Olson",
+      "year": 1965
+    },
+    "tags": [
+      "economics",
+      "cooperation",
+      "politics"
+    ]
+  },
+  {
+    "id": "linguistics-09",
+    "title": "Conceptual metaphors are not decoration — they are the structure of thought",
+    "body": "Lakoff and Johnson demonstrated that we do not merely describe experience through metaphors; we think through them. When argument is understood as war, we defend positions, attack claims, and shoot down ideas — and that framing invisibly constrains every option we can perceive. A different metaphor, such as argument as collaborative construction, opens entirely different possibilities for what the activity can become. Because most conceptual metaphors are inherited and unconscious, mapping them reveals the hidden architecture shaping reasoning across virtually every domain of life.",
+    "source": {
+      "title": "Metaphors We Live By",
+      "author": "George Lakoff and Mark Johnson",
+      "year": 1980
+    },
+    "tags": [
+      "linguistics",
+      "cognition",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "psychology-18",
+    "title": "The need for a secure base is as fundamental as hunger",
+    "body": "Bowlby dismantled the prevailing view that infants bond to caregivers primarily to satisfy hunger, showing that attachment — the proximity-seeking bond between infant and caregiver — is a distinct biological system evolved to protect vulnerable young. The security of this early bond provides an internal working model from which all subsequent relationships are interpreted and all risks are calibrated. A child with a reliably responsive caregiver develops the confidence to explore; disruption of this secure base propagates through development in measurable ways still being traced by researchers decades after Bowlby's foundational work.",
+    "source": {
+      "title": "Attachment and Loss",
+      "author": "John Bowlby",
+      "year": 1969
+    },
+    "tags": [
+      "psychology",
+      "relationships",
+      "development"
+    ]
   }
 ]
