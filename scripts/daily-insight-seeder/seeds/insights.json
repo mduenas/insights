@@ -5144,5 +5144,80 @@
       "relationships",
       "development"
     ]
+  },
+  {
+    "id": "mathematics-16",
+    "title": "Not all infinities are equal — some are provably larger than others",
+    "body": "Cantor shocked 19th-century mathematics by demonstrating that infinite sets can be different sizes. His diagonal argument proved that the infinity of real numbers is strictly larger than the infinity of counting numbers — no list could ever exhaust the reals. This demolished the intuition that infinity is a single undifferentiated vastness and opened transfinite mathematics. The work was met with fierce resistance, but it is now foundational: every modern treatment of computation, logic, and analysis rests on Cantor's result that some infinities outrun others.",
+    "source": {
+      "title": "Contributions to the Founding of the Theory of Transfinite Numbers",
+      "author": "Georg Cantor",
+      "year": 1895
+    },
+    "tags": [
+      "mathematics",
+      "infinity",
+      "logic"
+    ]
+  },
+  {
+    "id": "ecology-07",
+    "title": "Everything is connected to everything else",
+    "body": "Commoner's first law of ecology captures why ecosystems resist simple technical fixes: every intervention ripples through webs of interdependence far beyond its intended target. His four laws — everything is connected to everything else, everything must go somewhere, nature knows best, there is no such thing as a free lunch — translated ecological science into principles that citizens and policymakers could use. Together they explain why environmental problems so often return in unexpected forms after apparent solutions: you cannot change just one thing.",
+    "source": {
+      "title": "The Closing Circle: Nature, Man, and Technology",
+      "author": "Barry Commoner",
+      "year": 1971
+    },
+    "tags": [
+      "ecology",
+      "systems-thinking",
+      "environment"
+    ]
+  },
+  {
+    "id": "philosophy-26",
+    "title": "Property is labor mixed into the world",
+    "body": "Locke argued that individuals acquire rightful ownership by mixing their effort with unowned things — cultivating land, working raw material into finished goods. This was a challenge to feudal inheritance and royal grant as sources of title, and became foundational to liberal political philosophy. He added a critical proviso: appropriation is legitimate only when enough and as good remains for others. When that condition fails, the justification for unlimited accumulation collapses — a constraint that subsequent thinkers have used both to defend and to critique existing property arrangements.",
+    "source": {
+      "title": "Two Treatises of Government",
+      "author": "John Locke",
+      "year": 1689
+    },
+    "tags": [
+      "philosophy",
+      "property",
+      "political-theory"
+    ]
+  },
+  {
+    "id": "history-18",
+    "title": "The historian's task is comprehension, not verdict",
+    "body": "Bloch, writing while in hiding from the Nazis who would eventually execute him, argued that history's deepest function is understanding rather than judgment. Calling a past actor good or evil forecloses the more difficult work of reconstructing the forces — economic, social, psychological — that constrained their choices. This discipline of empathetic reconstruction is not moral relativism; it demands rigorous standards of evidence and is precisely what makes historical causes intelligible rather than merely blamed. Comprehension, Bloch insisted, is the condition of all genuine knowledge about the human past.",
+    "source": {
+      "title": "The Historian's Craft",
+      "author": "Marc Bloch",
+      "year": 1949
+    },
+    "tags": [
+      "history",
+      "epistemology",
+      "methodology"
+    ]
+  },
+  {
+    "id": "relationships-07",
+    "title": "All real living is meeting",
+    "body": "Buber distinguished two fundamental orientations toward the world: I-It, in which we relate to others as objects to be used, analyzed, or managed; and I-Thou, in which we encounter another as a full subject rather than a means to our ends. He argued that genuine relationship is not a sustained state but a recurring moment of meeting that must be continually renewed. Most of life is necessarily lived in I-It mode, but a life without I-Thou encounters is impoverished in ways that no achievement or comfort can compensate. The depth of a relationship is measured by how often we are capable of genuine meeting.",
+    "source": {
+      "title": "I and Thou",
+      "author": "Martin Buber",
+      "year": 1923
+    },
+    "tags": [
+      "relationships",
+      "philosophy",
+      "existentialism"
+    ]
   }
 ]
