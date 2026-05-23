@@ -5219,5 +5219,80 @@
       "philosophy",
       "existentialism"
     ]
+  },
+  {
+    "id": "statistics-02",
+    "title": "The well-chosen average",
+    "body": "Statistics can tell any story their selector wants, because choosing among mean, median, and mode is itself an editorial act. A salary survey showing high average earnings might obscure the fact that a handful of executives pull the number up while most workers earn far less. Understanding which average is reported—and why—is as important as the number itself. Statistical literacy begins with asking not just what a figure says but what it conceals.",
+    "source": {
+      "title": "How to Lie with Statistics",
+      "author": "Darrell Huff",
+      "year": 1954
+    },
+    "tags": [
+      "statistics",
+      "critical-thinking",
+      "data"
+    ]
+  },
+  {
+    "id": "biology-12",
+    "title": "A feeling for the organism",
+    "body": "Barbara McClintock's discovery of genetic transposition—for which she eventually won the Nobel Prize—grew from decades of intimate attention to individual corn plants rather than high-throughput experiments. She described her method as developing 'a feeling for the organism,' a mode of knowing that combines meticulous observation with patient, almost empathic attention to the particular. Science often prizes detachment and scale, but McClintock's work shows that closeness can unlock truths that distance misses. The best questions arise from genuine curiosity about a specific thing, not only a general category.",
+    "source": {
+      "title": "A Feeling for the Organism: The Life and Work of Barbara McClintock",
+      "author": "Evelyn Fox Keller",
+      "year": 1983
+    },
+    "tags": [
+      "biology",
+      "science",
+      "intuition"
+    ]
+  },
+  {
+    "id": "leadership-12",
+    "title": "First who, then what",
+    "body": "Collins found that leaders of companies that made sustained leaps from good to great were obsessed with getting the right people in place before deciding on strategy. When you have the right people, they adapt to any road; the wrong people stall no matter how clear the map. This reverses the common assumption that vision precedes team-building, and it explains why so many grand plans fail to survive contact with execution. The team precedes the plan, in business and beyond.",
+    "source": {
+      "title": "Good to Great: Why Some Companies Make the Leap and Others Don't",
+      "author": "Jim Collins",
+      "year": 2001
+    },
+    "tags": [
+      "leadership",
+      "teamwork",
+      "strategy"
+    ]
+  },
+  {
+    "id": "ecology-08",
+    "title": "Hitched to everything else in the universe",
+    "body": "Muir observed that 'when we try to pick out anything by itself, we find it hitched to everything else in the Universe'—an insight that anticipated modern ecology by decades. Walking through the Sierra Nevada, he perceived nature not as a collection of separate objects but as a web of mutual dependencies in which each element shapes and is shaped by all the rest. This systems view challenges any approach that treats one variable in isolation while ignoring cascading effects elsewhere. Wholeness is not an abstraction; it is an observable feature of every living landscape.",
+    "source": {
+      "title": "My First Summer in the Sierra",
+      "author": "John Muir",
+      "year": 1911
+    },
+    "tags": [
+      "ecology",
+      "systems-thinking",
+      "nature"
+    ]
+  },
+  {
+    "id": "anthropology-06",
+    "title": "Gift exchange as the foundation of social life",
+    "body": "Malinowski's study of the Kula ring—a ceremonial circuit of shell necklaces and armlets exchanged among Melanesian islanders across hundreds of miles of open ocean—showed that economic exchange is never purely transactional. Objects circulated in the Kula carried histories, relationships, and prestige; giving a gift created obligations and alliances that could span a lifetime. This dismantled the myth of the isolated rational actor and revealed reciprocity as the bedrock of social cohesion. Every exchange, however small, is simultaneously an act of relationship-building.",
+    "source": {
+      "title": "Argonauts of the Western Pacific",
+      "author": "Bronisław Malinowski",
+      "year": 1922
+    },
+    "tags": [
+      "anthropology",
+      "economics",
+      "culture"
+    ]
   }
 ]
