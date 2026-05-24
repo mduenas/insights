@@ -5294,5 +5294,80 @@
       "economics",
       "culture"
     ]
+  },
+  {
+    "id": "courage-07",
+    "title": "Living in truth is an act of resistance",
+    "body": "Havel argued that in systems built on lies, the mere decision to live honestly — to refuse to mouth slogans one does not believe — is a political act of profound consequence. This is not heroism requiring dramatic confrontation; it is the quiet choice to act as if one were a free and dignified person even before the system permits it. Over time, such individual acts accumulate into a social reality the system cannot contain. The power of the powerless, Havel maintained, lies precisely here: truth-telling cannot ultimately be suppressed without the system consuming itself.",
+    "source": {
+      "title": "The Power of the Powerless",
+      "author": "Václav Havel",
+      "year": 1978
+    },
+    "tags": [
+      "courage",
+      "integrity",
+      "politics"
+    ]
+  },
+  {
+    "id": "psychology-19",
+    "title": "More choice does not mean more freedom",
+    "body": "Schwartz demonstrated that beyond a modest threshold, an increase in options does not improve our lives — it paralyzes decisions and corrodes satisfaction with whatever we choose. The mechanism is twofold: more alternatives make us fear we have made the wrong pick, and they raise expectations so high that even good outcomes disappoint. This paradox is sharpest for what Schwartz calls 'maximizers' — people who feel compelled to find the single best option — as opposed to 'satisficers,' who accept good enough. Learning to deliberately constrain one's choices, not as deprivation but as deliberate design, is a counterintuitive path to greater contentment.",
+    "source": {
+      "title": "The Paradox of Choice",
+      "author": "Barry Schwartz",
+      "year": 2004
+    },
+    "tags": [
+      "psychology",
+      "decision-making",
+      "wellbeing"
+    ]
+  },
+  {
+    "id": "literature-22",
+    "title": "A text is a lazy machine that demands an active reader",
+    "body": "Eco argued that every text — literary, legal, or scientific — is inherently incomplete and requires the reader to supply vast amounts of unstated context, inference, and cultural knowledge before it yields meaning. This laziness is not a defect; it is the very condition of communication, since no author could spell out every presupposition without falling into infinite regress. The reader's contribution is not optional decoration but constitutive of the work itself. This insight redirects attention from the author's intention to the active cooperation between text and reader as the site where meaning is made.",
+    "source": {
+      "title": "The Role of the Reader",
+      "author": "Umberto Eco",
+      "year": 1979
+    },
+    "tags": [
+      "literature",
+      "semiotics",
+      "meaning"
+    ]
+  },
+  {
+    "id": "relationships-08",
+    "title": "Love is a practice, not a feeling",
+    "body": "hooks argued that Western culture systematically confuses love with the intense emotions of infatuation and attachment, which is why people who claim to love intensely still behave in ways that harm and control. Real love, she maintained, is an act of will that combines care, commitment, knowledge, responsibility, respect, and trust — none of which requires a particular feeling at a particular moment. This understanding makes love demanding rather than merely consoling: it places it under the category of ethics rather than emotion, and makes it something anyone can cultivate or fail to practice. A society that mistakes feeling for love, hooks warned, will keep producing relationships that wound under the name of devotion.",
+    "source": {
+      "title": "All About Love",
+      "author": "bell hooks",
+      "year": 2000
+    },
+    "tags": [
+      "relationships",
+      "love",
+      "ethics"
+    ]
+  },
+  {
+    "id": "science-18",
+    "title": "Science advances through competing research programmes",
+    "body": "Lakatos proposed that science does not proceed, as Popper argued, by falsifying single hypotheses, because any theory can always be saved by adjusting auxiliary assumptions. The real unit of scientific change is the research programme — a cluster of theories sharing a protected hard core and a belt of auxiliary hypotheses that can be modified to absorb anomalies. Progress occurs not when a theory is falsified but when a rival programme explains everything the old one did, plus the anomalies it could not handle. This means that persisting with a challenged theory in the short term is sometimes rational, while abandoning it too hastily — before a viable alternative exists — may actually set science back.",
+    "source": {
+      "title": "The Methodology of Scientific Research Programmes",
+      "author": "Imre Lakatos",
+      "year": 1978
+    },
+    "tags": [
+      "science",
+      "philosophy",
+      "epistemology"
+    ]
   }
 ]
