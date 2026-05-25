@@ -5369,5 +5369,80 @@
       "philosophy",
       "epistemology"
     ]
+  },
+  {
+    "id": "education-08",
+    "title": "The richest learning happens just beyond what we can do alone",
+    "body": "Vygotsky introduced the concept of the Zone of Proximal Development — the space between what a learner can accomplish independently and what they can accomplish with guidance from a more capable partner. Tasks in this zone are neither trivially easy nor overwhelmingly hard; they are within reach but require stretching. Instruction aimed at this zone is the most effective because it engages emerging capacities before they are fully formed, pulling development forward rather than waiting for readiness. What a learner can do today with support is a better predictor of tomorrow’s independent performance than what they can do alone today.",
+    "source": {
+      "title": "Mind in Society: The Development of Higher Psychological Processes",
+      "author": "Lev Vygotsky",
+      "year": 1978
+    },
+    "tags": [
+      "education",
+      "learning",
+      "development"
+    ]
+  },
+  {
+    "id": "leadership-13",
+    "title": "Transforming leaders raise followers to a higher plane of motivation",
+    "body": "Burns distinguished between transactional leaders — who exchange rewards for compliance — and transforming leaders, who engage followers’ deeper values and elevate their aspirations beyond self-interest. A transactional exchange may accomplish short-term goals but leaves both parties essentially unchanged. Transforming leadership fuses the moral purposes of leader and follower and in so doing develops new leaders from among those who were led. Burns argued that this distinction is not merely stylistic but ethical: leadership that treats followers purely as instruments of the leader’s ends confuses power with leadership proper.",
+    "source": {
+      "title": "Leadership",
+      "author": "James MacGregor Burns",
+      "year": 1978
+    },
+    "tags": [
+      "leadership",
+      "motivation",
+      "ethics"
+    ]
+  },
+  {
+    "id": "science-19",
+    "title": "Life borrows order from the environment by exporting disorder",
+    "body": "Schrödinger asked a question physicists had largely avoided: how do living organisms resist the thermodynamic decay into equilibrium that physics predicts for closed systems? His answer was that organisms sustain internal order by continuously consuming negative entropy — free energy drawn from sunlight, food, or chemical gradients — and exporting heat and disorder into their surroundings. This framing made the physics of life tractable and directly inspired Francis Crick and James Watson in their search for the molecular basis of heredity. A slender book of lectures turned out to reorient the history of biology.",
+    "source": {
+      "title": "What Is Life?",
+      "author": "Erwin Schrödinger",
+      "year": 1944
+    },
+    "tags": [
+      "science",
+      "thermodynamics",
+      "biology"
+    ]
+  },
+  {
+    "id": "literature-23",
+    "title": "Genius requires a room and an income, not just talent",
+    "body": "Woolf traced the near-total absence of women from the literary canon not to innate incapacity but to material conditions: lack of income, lack of privacy, and the constant interruption of domestic obligation. Her hypothetical figure of Shakespeare’s sister — equally gifted, equally ambitious — ends in anonymity because she is denied the economic independence and physical space that sustained creative work requires. The argument generalizes beyond gender: it is a claim that intellectual achievement is not self-sufficient but depends on an enabling environment. The relevant question for any creative pursuit is not only who has talent but who has the room.",
+    "source": {
+      "title": "A Room of One’s Own",
+      "author": "Virginia Woolf",
+      "year": 1929
+    },
+    "tags": [
+      "literature",
+      "creativity",
+      "feminism"
+    ]
+  },
+  {
+    "id": "mathematics-17",
+    "title": "Information is the resolution of uncertainty",
+    "body": "Shannon founded information theory by defining the quantity of information in a message as the reduction in uncertainty it provides — measured in bits, the minimum number of yes-or-no questions required to identify the message. His channel-capacity theorem proved that any communication medium has a definite upper limit and that, below that limit, arbitrarily reliable transmission is mathematically achievable. The work unified communication engineering, probability, and thermodynamics under a single framework and remains the theoretical backbone of every digital device. What Shannon formalized was the insight that information is not a substance but a structure: a set of distinctions that rules out alternatives.",
+    "source": {
+      "title": "A Mathematical Theory of Communication",
+      "author": "Claude E. Shannon",
+      "year": 1948
+    },
+    "tags": [
+      "mathematics",
+      "information-theory",
+      "communication"
+    ]
   }
 ]
