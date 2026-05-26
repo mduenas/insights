@@ -5444,5 +5444,80 @@
       "information-theory",
       "communication"
     ]
+  },
+  {
+    "id": "creativity-11",
+    "title": "Creativity is a habit, not a flash of inspiration",
+    "body": "Choreographer Twyla Tharp argues that waiting for inspiration is the enemy of creative work. Every day she begins with a single ritual — hailing a cab to the gym before dawn — and that committed act of beginning IS the creative act. Creativity does not arrive in flashes of divine spark; it emerges from showing up consistently, doing the work even when nothing feels alive, and trusting that the discipline of daily habit will eventually produce something worth keeping.",
+    "source": {
+      "title": "The Creative Habit: Learn It and Use It for Life",
+      "author": "Twyla Tharp",
+      "year": 2003
+    },
+    "tags": [
+      "creativity",
+      "habits",
+      "discipline"
+    ]
+  },
+  {
+    "id": "learning-10",
+    "title": "Breadth of experience is the foundation for solving wicked problems",
+    "body": "David Epstein found that in complex, unpredictable domains — most of life outside chess or golf — generalists consistently outperform narrow specialists. In 'kind' learning environments, where rules are fixed and feedback immediate, early specialization pays off. But in wicked domains with ambiguous rules and delayed feedback, the decisive advantage belongs to those who transfer knowledge across fields. The most valuable skill is not depth in one area but the ability to draw analogies across many.",
+    "source": {
+      "title": "Range: Why Generalists Triumph in a Specialized World",
+      "author": "David Epstein",
+      "year": 2019
+    },
+    "tags": [
+      "learning",
+      "generalism",
+      "problem-solving"
+    ]
+  },
+  {
+    "id": "psychology-20",
+    "title": "Resulting: judging decisions by outcomes corrupts your reasoning",
+    "body": "Former poker champion Annie Duke identifies 'resulting' — evaluating a decision by its outcome rather than the quality of reasoning behind it — as one of the most pervasive errors in human judgment. A sound decision can fail due to bad luck, and a poor decision can succeed by chance. When we let outcomes define the quality of choices, we reward lucky guesses and punish careful thinking, gradually degrading our ability to reason well under uncertainty.",
+    "source": {
+      "title": "Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts",
+      "author": "Annie Duke",
+      "year": 2018
+    },
+    "tags": [
+      "psychology",
+      "decision-making",
+      "probability"
+    ]
+  },
+  {
+    "id": "biology-13",
+    "title": "Empathy is not a human invention — it is an ancient biological inheritance",
+    "body": "Primatologist Frans de Waal documented consolation, reconciliation, and a sense of fairness throughout the animal kingdom — in elephants mourning their dead, bonobos comforting distressed companions, and rats that free trapped cage-mates before eating available food. These capacities did not appear uniquely in humans as a cultural overlay on a selfish animal core; they evolved because cooperation and social cohesion are powerfully adaptive. Our deepest moral instincts are not imposed on our nature — they are expressions of it.",
+    "source": {
+      "title": "The Age of Empathy: Nature's Lessons for a Kinder Society",
+      "author": "Frans de Waal",
+      "year": 2009
+    },
+    "tags": [
+      "biology",
+      "empathy",
+      "evolution"
+    ]
+  },
+  {
+    "id": "statistics-03",
+    "title": "Most predictions fail because we mistake noise for signal",
+    "body": "Nate Silver, analyzing decades of forecasting failures across politics, economics, and science, found that the most common error is seeing patterns in random noise. Our brains are relentless pattern-seeking machines that confidently manufacture meaning from data that has none. Reliable prediction requires distinguishing persistent signal from surrounding static — and the intellectual honesty to admit when the evidence is simply too thin to forecast at all.",
+    "source": {
+      "title": "The Signal and the Noise: Why So Many Predictions Fail — But Some Don't",
+      "author": "Nate Silver",
+      "year": 2012
+    },
+    "tags": [
+      "statistics",
+      "prediction",
+      "epistemology"
+    ]
   }
 ]
