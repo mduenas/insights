@@ -5520,4 +5520,80 @@
       "epistemology"
     ]
   }
+,
+  {
+      "id": "economics-24",
+      "title": "The market economy was not discovered but deliberately constructed",
+      "body": "Polanyi argued that the self-regulating market — in which land, labor, and money are treated as commodities bought and sold like any other — was a historical novelty requiring active state intervention to create and sustain, not a natural evolution from barter. The 'great transformation' dismantled centuries of customary protections embedded in guilds, parishes, and common lands, exposing workers, nature, and currency to impersonal forces they could not absorb. The resulting dislocations generated the labor movements, protectionist nationalism, and fascist backlash of the nineteenth and twentieth centuries. Every apparent expansion of market freedom is therefore also a political choice whose social costs eventually demand a countermovement.",
+      "source": {
+          "title": "The Great Transformation: The Political and Economic Origins of Our Time",
+          "author": "Karl Polanyi",
+          "year": 1944
+      },
+      "tags": [
+          "economics",
+          "history",
+          "political-theory"
+      ]
+  },
+  {
+      "id": "anthropology-07",
+      "title": "The gift is never free — it binds giver and receiver in obligation",
+      "body": "Mauss examined gift exchange in Polynesian, Northwest Coast Native American, and other societies and found that gifts are never truly voluntary or disinterested. Every gift carries three intertwined obligations: to give, to receive, and to reciprocate — and refusing to participate is an act of social hostility. This reframes economics fundamentally: market exchange did not displace gift exchange; the two coexist, and much of social life is organized by the invisible accounting of gratitude, loyalty, and generosity owed. The moral force that makes a gift feel binding is not sentiment but the social fabric itself.",
+      "source": {
+          "title": "The Gift: The Form and Reason for Exchange in Archaic Societies",
+          "author": "Marcel Mauss",
+          "year": 1925
+      },
+      "tags": [
+          "anthropology",
+          "economics",
+          "social-bonds"
+      ]
+  },
+  {
+      "id": "creativity-12",
+      "title": "Every great film starts as something terrible — protecting that is the job",
+      "body": "Catmull observed that every Pixar film begins as what the studio calls an 'ugly baby': a premise so rough and broken that premature exposure would kill it. The instinct to fix it too soon, or to protect it from honest criticism, are equally fatal — the first prevents necessary growth, the second blocks the candor that makes growth possible. Managing this tension — protecting early-stage work from judgment while cultivating the trust needed for brutal honesty later — is the central leadership challenge in any creative organization. Excellence is not achieved by starting well but by surviving the inevitable failures of the middle.",
+      "source": {
+          "title": "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration",
+          "author": "Ed Catmull",
+          "year": 2014
+      },
+      "tags": [
+          "creativity",
+          "leadership",
+          "culture"
+      ]
+  },
+  {
+      "id": "mythology-06",
+      "title": "Myth is not a false story but a technology for navigating the unknowable",
+      "body": "Armstrong argues that mythology is not primitive proto-science awaiting correction by modernity, but a distinct cognitive mode for addressing experiences that reason alone cannot resolve: grief, mortality, the terror of contingency, the need for meaning. Myths do not describe the world; they move the listener into an encounter with what ancient peoples called the sacred — a dimension felt as both more real and more dangerous than ordinary life. When modern societies lose their living myths without replacement, Armstrong warns, they do not become more rational; they reach for the nearest substitute — nationalism, ideology, celebrity — which tends to fulfill the same emotional need far more destructively.",
+      "source": {
+          "title": "A Short History of Myth",
+          "author": "Karen Armstrong",
+          "year": 2005
+      },
+      "tags": [
+          "mythology",
+          "religion",
+          "meaning"
+      ]
+  },
+  {
+      "id": "statistics-04",
+      "title": "Natural frequencies make risk legible where percentages create confusion",
+      "body": "Gigerenzer demonstrated that people — including doctors and judges — systematically misunderstand probabilistic information stated as percentages or conditional probabilities, yet correctly reason about the same information when it is expressed as natural frequencies ('10 out of 100 patients' rather than '10 percent probability'). The problem is not irrationality but a mismatch between the format of information and the cognitive tools humans evolved to process it. Reformatting statistical information into natural frequencies consistently improves medical diagnosis, legal reasoning, and public communication of risk without any change in the underlying data.",
+      "source": {
+          "title": "Reckoning with Risk: Learning to Live with Uncertainty",
+          "author": "Gerd Gigerenzer",
+          "year": 2002
+      },
+      "tags": [
+          "statistics",
+          "decision-making",
+          "cognition"
+      ]
+  }
 ]
