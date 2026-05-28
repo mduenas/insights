@@ -5595,5 +5595,80 @@
           "decision-making",
           "cognition"
       ]
+  },
+  {
+    "id": "economics-25",
+    "title": "Stability itself breeds instability",
+    "body": "Minsky's financial instability hypothesis holds that prolonged periods of economic calm are not proof of a healthy system but the mechanism of its eventual collapse. When nothing goes wrong for long enough, borrowers and lenders rationally take on more leverage, asset prices inflate on borrowed money, and the entire structure grows fragile in proportion to its apparent solidity. The 'Minsky moment' — a sudden crash when debt can no longer be serviced — is not a random shock from outside but the endogenous product of the stability that preceded it. Managing systemic risk therefore requires active constraint precisely when the economy feels safest.",
+    "source": {
+      "title": "Stabilizing an Unstable Economy",
+      "author": "Hyman Minsky",
+      "year": 1986
+    },
+    "tags": [
+      "economics",
+      "risk",
+      "systems"
+    ]
+  },
+  {
+    "id": "design-07",
+    "title": "The clock, not the steam engine, made the modern world",
+    "body": "Mumford's surprising argument in Technics and Civilization is that the mechanical clock — invented by medieval monks to regulate monastic prayer — was the pivotal machine of the industrial era, not the steam engine. By making time measurable, divisible, and sellable, the clock introduced the regime of schedules, deadlines, and synchronized labor on which all subsequent industry depended. The steam engine changed what could be produced; the clock changed how all human activity was valued and organized. Before the clock, time was event-time — you ate when hungry, slept when tired; afterward, time became a commodity that could be wasted, saved, or sold.",
+    "source": {
+      "title": "Technics and Civilization",
+      "author": "Lewis Mumford",
+      "year": 1934
+    },
+    "tags": [
+      "technology",
+      "time",
+      "history"
+    ]
+  },
+  {
+    "id": "creativity-13",
+    "title": "The best use of your brightest material is to spend it",
+    "body": "Dillard observes that writers instinctively hoard their strongest images and ideas for some hypothetical better future work, yet this hoarding is precisely what keeps the current work thin. In creative work, the apparent risk of 'wasting' your best material on a given piece is an illusion: spending your richest resources on the work in front of you generates more. The discipline of full commitment — giving everything to this poem, this chapter, this scene — is what produces genuine quality, while strategic withholding produces work that is merely competent. Saving your best for later is a way of never quite arriving.",
+    "source": {
+      "title": "The Writing Life",
+      "author": "Annie Dillard",
+      "year": 1989
+    },
+    "tags": [
+      "creativity",
+      "writing",
+      "commitment"
+    ]
+  },
+  {
+    "id": "ethics-08",
+    "title": "Extreme conditions create a gray zone that resists ordinary judgment",
+    "body": "In his final book, Levi described a 'gray zone' that the Nazi camp system deliberately engineered: a space in which the oppressed were drawn into complicity with their oppressors through prisoner-functionaries given small privileges in exchange for enforcing camp order. Levi argued that judging people in the gray zone by ordinary moral standards is a category error — they acted under constraints that eliminate genuine choice, and our instinct to condemn them serves mainly to reassure ourselves that we would have done differently. The gray zone is Levi's most unsettling insight: systems of total power corrupt not just the powerful but the very moral vocabulary we use to resist them.",
+    "source": {
+      "title": "The Drowned and the Saved",
+      "author": "Primo Levi",
+      "year": 1986
+    },
+    "tags": [
+      "ethics",
+      "history",
+      "morality"
+    ]
+  },
+  {
+    "id": "identity-07",
+    "title": "Invisibility is not the absence of self but the refusal of sight",
+    "body": "Ellison's narrator opens the novel by explaining that he is 'invisible' — not because he literally cannot be seen, but because people refuse to see him, substituting projections, abstractions, and stereotypes for his actual presence. This kind of invisibility is a form of violence that operates through the gaze: the invisible person is denied the basic condition of selfhood, which is to be seen on one's own terms rather than as a screen for others' assumptions. Yet the narrator also discovers a paradoxical freedom in that invisibility — when the social system refuses to acknowledge you, you are released from the obligation to perform for it. Identity is not a private possession; it is constructed in the space between seeing and being seen.",
+    "source": {
+      "title": "Invisible Man",
+      "author": "Ralph Ellison",
+      "year": 1952
+    },
+    "tags": [
+      "identity",
+      "race",
+      "self"
+    ]
   }
 ]
