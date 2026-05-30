@@ -5670,5 +5670,60 @@
       "race",
       "self"
     ]
+  },
+  {
+    "id": "neuroscience-07",
+    "title": "The brain rewires itself through repeated experience",
+    "body": "Norman Doidge documented cases of stroke patients recovering lost functions, blind people recruiting their visual cortex for touch, and London taxi drivers growing measurably larger hippocampi from memorizing the city's streets. These examples challenged the century-old assumption that the brain is a fixed organ whose circuits are set in early childhood. The principle underlying all of them is Hebbian plasticity: neurons that fire together wire together, and connections that are never used weaken and disappear. What we repeatedly think, feel, and do is not merely recorded by the brain — it is what the brain becomes.",
+    "source": {
+      "title": "The Brain That Changes Itself",
+      "author": "Norman Doidge",
+      "year": 2007
+    },
+    "tags": ["neuroscience", "plasticity", "habits"]
+  },
+  {
+    "id": "time-06",
+    "title": "Finitude is not a problem to be solved",
+    "body": "Oliver Burkeman calculated that a typical human lifespan runs to roughly four thousand weeks and observed that most of us live as if the number were infinite. The modern obsession with productivity and efficiency is, he argues, largely an unconscious strategy for avoiding the existential discomfort of our finitude — as though getting everything done might somehow defer the deadline. The path to genuine engagement is not to optimize those weeks but to accept that they cannot be optimized: meaningful choices require ruling out meaningful alternatives, and that loss is non-negotiable. Finitude is not a constraint on a meaningful life; it is the very condition that makes any choice matter at all.",
+    "source": {
+      "title": "Four Thousand Weeks: Time Management for Mortals",
+      "author": "Oliver Burkeman",
+      "year": 2021
+    },
+    "tags": ["time", "philosophy", "mortality"]
+  },
+  {
+    "id": "wealth-07",
+    "title": "Wealth is what you don't see",
+    "body": "Morgan Housel observes that visible spending — the expensive car, the large house — signals that money has been converted into consumption, not wealth. True wealth consists of assets that have not yet been spent, which are by definition invisible to outside observers. This creates a systematic illusion: we admire the symbols of wealth while overlooking the behaviors that actually produce it — patience, frugality, and restraint from lifestyle inflation. The most important financial skill, Housel argues, is not finding the highest-returning investment but mastering the long-game psychology of leaving money alone long enough for compounding to do its work.",
+    "source": {
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "year": 2020
+    },
+    "tags": ["wealth", "psychology", "decision-making"]
+  },
+  {
+    "id": "values-06",
+    "title": "Cheap grace costs nothing and changes nothing",
+    "body": "Dietrich Bonhoeffer, writing under Nazi rule, distinguished between cheap grace — the forgiveness and comfort that requires no repentance, no new way of living, no genuine transformation — and costly grace, which demands a real change of direction even when that direction is dangerous. Cheap grace, he argued, is the mortal enemy of genuine faith because it allows people to feel spiritually at ease while remaining untransformed. The insight generalizes beyond theology: any commitment that costs nothing, that asks nothing of us, leaves us exactly where we were. Real values are revealed not in what we profess but in what we are willing to sacrifice.",
+    "source": {
+      "title": "The Cost of Discipleship",
+      "author": "Dietrich Bonhoeffer",
+      "year": 1937
+    },
+    "tags": ["values", "ethics", "commitment"]
+  },
+  {
+    "id": "resilience-07",
+    "title": "Groundlessness is the ground of resilience",
+    "body": "Pema Chödrön, drawing on Tibetan Buddhist thought, argues that the search for solid ground — for certainty, predictability, and comfort — is itself the root cause of the brittleness that collapses under difficulty. What we call resilience is not a capacity for bouncing back to a previous stable state; it is a learned tolerance for the inherent instability of experience. When we stop treating uncertainty as a problem to be eliminated, we discover that we can inhabit it without being destroyed by it. The moments when the floor drops out, Chödrön suggests, are not obstacles to growth but its primary occasion.",
+    "source": {
+      "title": "When Things Fall Apart",
+      "author": "Pema Chödrön",
+      "year": 1997
+    },
+    "tags": ["resilience", "uncertainty", "buddhism"]
   }
 ]
