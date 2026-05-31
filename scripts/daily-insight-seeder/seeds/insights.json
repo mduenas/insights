@@ -5519,82 +5519,81 @@
       "prediction",
       "epistemology"
     ]
-  }
-,
-  {
-      "id": "economics-24",
-      "title": "The market economy was not discovered but deliberately constructed",
-      "body": "Polanyi argued that the self-regulating market — in which land, labor, and money are treated as commodities bought and sold like any other — was a historical novelty requiring active state intervention to create and sustain, not a natural evolution from barter. The 'great transformation' dismantled centuries of customary protections embedded in guilds, parishes, and common lands, exposing workers, nature, and currency to impersonal forces they could not absorb. The resulting dislocations generated the labor movements, protectionist nationalism, and fascist backlash of the nineteenth and twentieth centuries. Every apparent expansion of market freedom is therefore also a political choice whose social costs eventually demand a countermovement.",
-      "source": {
-          "title": "The Great Transformation: The Political and Economic Origins of Our Time",
-          "author": "Karl Polanyi",
-          "year": 1944
-      },
-      "tags": [
-          "economics",
-          "history",
-          "political-theory"
-      ]
   },
   {
-      "id": "anthropology-07",
-      "title": "The gift is never free — it binds giver and receiver in obligation",
-      "body": "Mauss examined gift exchange in Polynesian, Northwest Coast Native American, and other societies and found that gifts are never truly voluntary or disinterested. Every gift carries three intertwined obligations: to give, to receive, and to reciprocate — and refusing to participate is an act of social hostility. This reframes economics fundamentally: market exchange did not displace gift exchange; the two coexist, and much of social life is organized by the invisible accounting of gratitude, loyalty, and generosity owed. The moral force that makes a gift feel binding is not sentiment but the social fabric itself.",
-      "source": {
-          "title": "The Gift: The Form and Reason for Exchange in Archaic Societies",
-          "author": "Marcel Mauss",
-          "year": 1925
-      },
-      "tags": [
-          "anthropology",
-          "economics",
-          "social-bonds"
-      ]
+    "id": "economics-24",
+    "title": "The market economy was not discovered but deliberately constructed",
+    "body": "Polanyi argued that the self-regulating market — in which land, labor, and money are treated as commodities bought and sold like any other — was a historical novelty requiring active state intervention to create and sustain, not a natural evolution from barter. The 'great transformation' dismantled centuries of customary protections embedded in guilds, parishes, and common lands, exposing workers, nature, and currency to impersonal forces they could not absorb. The resulting dislocations generated the labor movements, protectionist nationalism, and fascist backlash of the nineteenth and twentieth centuries. Every apparent expansion of market freedom is therefore also a political choice whose social costs eventually demand a countermovement.",
+    "source": {
+      "title": "The Great Transformation: The Political and Economic Origins of Our Time",
+      "author": "Karl Polanyi",
+      "year": 1944
+    },
+    "tags": [
+      "economics",
+      "history",
+      "political-theory"
+    ]
   },
   {
-      "id": "creativity-12",
-      "title": "Every great film starts as something terrible — protecting that is the job",
-      "body": "Catmull observed that every Pixar film begins as what the studio calls an 'ugly baby': a premise so rough and broken that premature exposure would kill it. The instinct to fix it too soon, or to protect it from honest criticism, are equally fatal — the first prevents necessary growth, the second blocks the candor that makes growth possible. Managing this tension — protecting early-stage work from judgment while cultivating the trust needed for brutal honesty later — is the central leadership challenge in any creative organization. Excellence is not achieved by starting well but by surviving the inevitable failures of the middle.",
-      "source": {
-          "title": "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration",
-          "author": "Ed Catmull",
-          "year": 2014
-      },
-      "tags": [
-          "creativity",
-          "leadership",
-          "culture"
-      ]
+    "id": "anthropology-07",
+    "title": "The gift is never free — it binds giver and receiver in obligation",
+    "body": "Mauss examined gift exchange in Polynesian, Northwest Coast Native American, and other societies and found that gifts are never truly voluntary or disinterested. Every gift carries three intertwined obligations: to give, to receive, and to reciprocate — and refusing to participate is an act of social hostility. This reframes economics fundamentally: market exchange did not displace gift exchange; the two coexist, and much of social life is organized by the invisible accounting of gratitude, loyalty, and generosity owed. The moral force that makes a gift feel binding is not sentiment but the social fabric itself.",
+    "source": {
+      "title": "The Gift: The Form and Reason for Exchange in Archaic Societies",
+      "author": "Marcel Mauss",
+      "year": 1925
+    },
+    "tags": [
+      "anthropology",
+      "economics",
+      "social-bonds"
+    ]
   },
   {
-      "id": "mythology-06",
-      "title": "Myth is not a false story but a technology for navigating the unknowable",
-      "body": "Armstrong argues that mythology is not primitive proto-science awaiting correction by modernity, but a distinct cognitive mode for addressing experiences that reason alone cannot resolve: grief, mortality, the terror of contingency, the need for meaning. Myths do not describe the world; they move the listener into an encounter with what ancient peoples called the sacred — a dimension felt as both more real and more dangerous than ordinary life. When modern societies lose their living myths without replacement, Armstrong warns, they do not become more rational; they reach for the nearest substitute — nationalism, ideology, celebrity — which tends to fulfill the same emotional need far more destructively.",
-      "source": {
-          "title": "A Short History of Myth",
-          "author": "Karen Armstrong",
-          "year": 2005
-      },
-      "tags": [
-          "mythology",
-          "religion",
-          "meaning"
-      ]
+    "id": "creativity-12",
+    "title": "Every great film starts as something terrible — protecting that is the job",
+    "body": "Catmull observed that every Pixar film begins as what the studio calls an 'ugly baby': a premise so rough and broken that premature exposure would kill it. The instinct to fix it too soon, or to protect it from honest criticism, are equally fatal — the first prevents necessary growth, the second blocks the candor that makes growth possible. Managing this tension — protecting early-stage work from judgment while cultivating the trust needed for brutal honesty later — is the central leadership challenge in any creative organization. Excellence is not achieved by starting well but by surviving the inevitable failures of the middle.",
+    "source": {
+      "title": "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration",
+      "author": "Ed Catmull",
+      "year": 2014
+    },
+    "tags": [
+      "creativity",
+      "leadership",
+      "culture"
+    ]
   },
   {
-      "id": "statistics-04",
-      "title": "Natural frequencies make risk legible where percentages create confusion",
-      "body": "Gigerenzer demonstrated that people — including doctors and judges — systematically misunderstand probabilistic information stated as percentages or conditional probabilities, yet correctly reason about the same information when it is expressed as natural frequencies ('10 out of 100 patients' rather than '10 percent probability'). The problem is not irrationality but a mismatch between the format of information and the cognitive tools humans evolved to process it. Reformatting statistical information into natural frequencies consistently improves medical diagnosis, legal reasoning, and public communication of risk without any change in the underlying data.",
-      "source": {
-          "title": "Reckoning with Risk: Learning to Live with Uncertainty",
-          "author": "Gerd Gigerenzer",
-          "year": 2002
-      },
-      "tags": [
-          "statistics",
-          "decision-making",
-          "cognition"
-      ]
+    "id": "mythology-06",
+    "title": "Myth is not a false story but a technology for navigating the unknowable",
+    "body": "Armstrong argues that mythology is not primitive proto-science awaiting correction by modernity, but a distinct cognitive mode for addressing experiences that reason alone cannot resolve: grief, mortality, the terror of contingency, the need for meaning. Myths do not describe the world; they move the listener into an encounter with what ancient peoples called the sacred — a dimension felt as both more real and more dangerous than ordinary life. When modern societies lose their living myths without replacement, Armstrong warns, they do not become more rational; they reach for the nearest substitute — nationalism, ideology, celebrity — which tends to fulfill the same emotional need far more destructively.",
+    "source": {
+      "title": "A Short History of Myth",
+      "author": "Karen Armstrong",
+      "year": 2005
+    },
+    "tags": [
+      "mythology",
+      "religion",
+      "meaning"
+    ]
+  },
+  {
+    "id": "statistics-04",
+    "title": "Natural frequencies make risk legible where percentages create confusion",
+    "body": "Gigerenzer demonstrated that people — including doctors and judges — systematically misunderstand probabilistic information stated as percentages or conditional probabilities, yet correctly reason about the same information when it is expressed as natural frequencies ('10 out of 100 patients' rather than '10 percent probability'). The problem is not irrationality but a mismatch between the format of information and the cognitive tools humans evolved to process it. Reformatting statistical information into natural frequencies consistently improves medical diagnosis, legal reasoning, and public communication of risk without any change in the underlying data.",
+    "source": {
+      "title": "Reckoning with Risk: Learning to Live with Uncertainty",
+      "author": "Gerd Gigerenzer",
+      "year": 2002
+    },
+    "tags": [
+      "statistics",
+      "decision-making",
+      "cognition"
+    ]
   },
   {
     "id": "economics-25",
@@ -5680,7 +5679,11 @@
       "author": "Norman Doidge",
       "year": 2007
     },
-    "tags": ["neuroscience", "plasticity", "habits"]
+    "tags": [
+      "neuroscience",
+      "plasticity",
+      "habits"
+    ]
   },
   {
     "id": "time-06",
@@ -5691,7 +5694,11 @@
       "author": "Oliver Burkeman",
       "year": 2021
     },
-    "tags": ["time", "philosophy", "mortality"]
+    "tags": [
+      "time",
+      "philosophy",
+      "mortality"
+    ]
   },
   {
     "id": "wealth-07",
@@ -5702,7 +5709,11 @@
       "author": "Morgan Housel",
       "year": 2020
     },
-    "tags": ["wealth", "psychology", "decision-making"]
+    "tags": [
+      "wealth",
+      "psychology",
+      "decision-making"
+    ]
   },
   {
     "id": "values-06",
@@ -5713,7 +5724,11 @@
       "author": "Dietrich Bonhoeffer",
       "year": 1937
     },
-    "tags": ["values", "ethics", "commitment"]
+    "tags": [
+      "values",
+      "ethics",
+      "commitment"
+    ]
   },
   {
     "id": "resilience-07",
@@ -5724,6 +5739,85 @@
       "author": "Pema Chödrön",
       "year": 1997
     },
-    "tags": ["resilience", "uncertainty", "buddhism"]
+    "tags": [
+      "resilience",
+      "uncertainty",
+      "buddhism"
+    ]
+  },
+  {
+    "id": "resilience-08",
+    "title": "Shaping change is the highest form of agency",
+    "body": "In Butler's dystopian novel, the protagonist Lauren Olamina builds a personal religion whose central tenet is that God is Change — the one force that cannot be denied or bargained away. What appears to be theology is actually a survival strategy: when you accept that change is the nature of reality rather than an aberration, you stop spending energy resisting the inevitable and start directing that energy toward shaping where the change takes you. Adaptation is not surrender; it is the most complete form of agency available to beings who cannot control what arrives but can decide how they meet it.",
+    "source": {
+      "title": "Parable of the Sower",
+      "author": "Octavia Butler",
+      "year": 1993
+    },
+    "tags": [
+      "resilience",
+      "change",
+      "adaptation"
+    ]
+  },
+  {
+    "id": "philosophy-27",
+    "title": "Our animal nature is the foundation of morality, not its enemy",
+    "body": "Midgley argued against the Enlightenment habit of treating human reason as a faculty that must overcome our instincts and emotions. Drawing on ethology and evolutionary biology, she showed that bonding, loyalty, fairness, and care are not additions to animal life but central features of it — visible in wolves, elephants, and primates long before philosophy gave them names. Morality is therefore not imposed on us from outside our nature; it grows from within it. We are not angels struggling against animal impulses, but social mammals whose deepest constitution already inclines toward cooperation and compassion.",
+    "source": {
+      "title": "Beast and Man",
+      "author": "Mary Midgley",
+      "year": 1978
+    },
+    "tags": [
+      "philosophy",
+      "ethics",
+      "human-nature"
+    ]
+  },
+  {
+    "id": "focus-07",
+    "title": "Seal off the future and live in day-tight compartments",
+    "body": "Osler, one of the founders of modern medicine, counseled students to imagine their minds as great ships whose watertight compartments could be sealed from one another — closing off yesterday's regrets and tomorrow's anxieties so that all energy could flood into the present day's work. He was not advocating heedlessness of the future but pointing to a truth psychology would later confirm: worry about outcomes we cannot currently influence consumes cognitive resources without producing useful action. The person who lives fully in today tends to be more effective tomorrow precisely because they were not spending today there.",
+    "source": {
+      "title": "A Way of Life",
+      "author": "William Osler",
+      "year": 1913
+    },
+    "tags": [
+      "focus",
+      "time",
+      "productivity"
+    ]
+  },
+  {
+    "id": "creativity-14",
+    "title": "A poem is a dance; prose is a walk",
+    "body": "Valéry distinguished prose from poetry through the image of walking versus dancing: prose reaches a destination and then dissolves, its form exhausted in the delivery of its content. Poetry, like dance, is an activity that creates its own reason for continuing — the form is not a means to an end but the end itself. This distinction illuminates something larger about the difference between instrumental and intrinsic value in any creative act. When a project justifies itself only by its outcome, the process is always sacrificed to the product; when the form itself carries meaning, the act of making is already the thing made.",
+    "source": {
+      "title": "Poetry and Abstract Thought",
+      "author": "Paul Valéry",
+      "year": 1939
+    },
+    "tags": [
+      "creativity",
+      "art",
+      "language"
+    ]
+  },
+  {
+    "id": "mythology-07",
+    "title": "All stories are variations on four deep structures",
+    "body": "Frye proposed that all literature is a series of displacements of four archetypal narrative modes — comedy (spring, social integration), romance (summer, quest), tragedy (autumn, isolation), and irony (winter, dissolution) — which correspond to the cycle of the seasons and the phases of human experience. This is not reductionism but a kind of grammar: recognizing the deep structures underlying all stories allows both readers and writers to understand why certain narratives feel inevitable or satisfying. The power of a story lies not in its novelty but in how skillfully it activates structures already latent in the audience's imagination.",
+    "source": {
+      "title": "Anatomy of Criticism",
+      "author": "Northrop Frye",
+      "year": 1957
+    },
+    "tags": [
+      "mythology",
+      "literature",
+      "narrative"
+    ]
   }
 ]
