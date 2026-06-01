@@ -5819,5 +5819,90 @@
       "literature",
       "narrative"
     ]
+  },
+  {
+    "id": "philosophy-28",
+    "title": "The spaces we first inhabit become the architecture of memory",
+    "body": "Bachelard argued that the most enduring knowledge is not conceptual but topological: we know the world first through inhabited spaces — the corner of a childhood room, the attic that held imagination, the drawer where secrets lived. These intimate spaces are not merely containers for memory; they actively shape its structure, giving thought and feeling their characteristic textures and refuges. The house in which we grew up is, for most of us, the first cosmos — a condensed map of the universe that all subsequent dwellings echo and modify. Attending to the poetics of inhabited spaces, Bachelard showed, is a form of attending to the deep grammar of the self.",
+    "source": {
+      "title": "The Poetics of Space",
+      "author": "Gaston Bachelard",
+      "year": 1958
+    },
+    "tags": [
+      "space",
+      "memory",
+      "imagination",
+      "phenomenology",
+      "self"
+    ]
+  },
+  {
+    "id": "creativity-15",
+    "title": "Every act of seeing is already an interpretation",
+    "body": "Berger's central argument is that we never look at things in themselves — we always look at the relation between things and ourselves. What we see is shaped by what we know, what we believe, and the social relationships we inhabit: the same image carries different meanings depending on who is doing the looking and why. Advertising exploits this by proposing that purchasing a product will transform the viewer's relationship to others — it trades in envy, positioning the spectator as perpetually lacking and the product as the remedy. The cultivated viewer learns to ask not just what an image shows but what it is doing: whose seeing does it serve, what relations does it naturalize, and what does it ask you to feel about yourself?",
+    "source": {
+      "title": "Ways of Seeing",
+      "author": "John Berger",
+      "year": 1972
+    },
+    "tags": [
+      "perception",
+      "media",
+      "visual culture",
+      "criticism",
+      "power"
+    ]
+  },
+  {
+    "id": "identity-08",
+    "title": "Personal identity is less than we think — and what matters is something else",
+    "body": "Parfit argued that our commonsense notion of personal identity as a determinate fact — the sense that there is always a clear answer to whether a future person is 'really' you — does not survive philosophical scrutiny. What we actually care about is psychological continuity: the overlapping chain of memories, intentions, beliefs, and character connecting present to future. But these connections thin over time, meaning our relationship to our far-future self more closely resembles our relationship to a descendant than to our present self. Once this is seen, several moral consequences follow: we have better reasons to care about future generations, less justification for extreme self-interest, and a more honest picture of why self-sacrifice for others can be rational rather than mysterious.",
+    "source": {
+      "title": "Reasons and Persons",
+      "author": "Derek Parfit",
+      "year": 1984
+    },
+    "tags": [
+      "identity",
+      "ethics",
+      "self",
+      "time",
+      "philosophy of mind"
+    ]
+  },
+  {
+    "id": "science-20",
+    "title": "Science needs both the soaring bird and the patient frog",
+    "body": "Dyson distinguished two temperaments in mathematics and science: birds, who fly high and delight in connecting distant fields into sweeping unifying visions, and frogs, who live close to the ground, relishing the texture of a particular problem and the technical mastery required to solve it. Neither mode is superior; the history of science alternates between long periods of patient frog-work and sudden moments when a bird's flight reveals that two apparently unrelated territories are aspects of a single landscape. The error is institutional: when universities and funding bodies reward only one style, they deprive themselves of the complementary intelligence the other provides. Knowing whether you are a bird or a frog is the first step toward finding where you can contribute most.",
+    "source": {
+      "title": "Birds and Frogs",
+      "author": "Freeman Dyson",
+      "year": 2009
+    },
+    "tags": [
+      "science",
+      "mathematics",
+      "thinking styles",
+      "creativity",
+      "specialization"
+    ]
+  },
+  {
+    "id": "biology-14",
+    "title": "Life is what happens when matter is driven far from equilibrium",
+    "body": "Prigogine showed that complex ordered structures — from the convection rolls that form when a liquid is heated to the chemical oscillations of living cells — arise spontaneously when systems are driven far from thermodynamic equilibrium by a continuous energy flow. He called these 'dissipative structures' because they maintain their improbable order precisely by dissipating energy, converting it into lower-grade heat. The classical view of thermodynamics treated order as fragile and entropy as the universal tendency; Prigogine revealed that entropy production, under the right conditions, actually drives the creation of new forms of organization. Life is not an exception to the second law of thermodynamics but one of its most elaborate consequences.",
+    "source": {
+      "title": "Order Out of Chaos",
+      "author": "Ilya Prigogine and Isabelle Stengers",
+      "year": 1984
+    },
+    "tags": [
+      "thermodynamics",
+      "complexity",
+      "emergence",
+      "biology",
+      "systems"
+    ]
   }
 ]
