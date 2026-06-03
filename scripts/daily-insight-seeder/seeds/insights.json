@@ -5904,81 +5904,155 @@
       "biology",
       "systems"
     ]
-  }
-,
-  {
-      "id": "philosophy-27",
-      "title": "Your deepest vocabulary is an accident, not a discovery",
-      "body": "Rorty argues that the words we reach for when justifying our most fundamental beliefs — what he calls our 'final vocabulary' — are not reflections of a deeper truth but contingent inheritances from our upbringing, language, and culture. The liberal ironist holds these commitments seriously while acknowledging that they could have been otherwise. This is not a counsel of relativism but of intellectual honesty: recognizing that your framework is one among many does not require abandoning it, but it does require loosening the grip of certainty and staying open to better vocabularies as they emerge. Self-knowledge, on this view, is less about uncovering who you really are than about choosing, consciously and repeatedly, who you want to become.",
-      "source": {
-          "title": "Contingency, Irony, and Solidarity",
-          "author": "Richard Rorty",
-          "year": 1989
-      },
-      "tags": [
-          "philosophy",
-          "identity",
-          "language"
-      ]
   },
   {
-      "id": "time-06",
-      "title": "Limitation is the beginning of a meaningful life, not its obstacle",
-      "body": "Burkeman opens with a striking arithmetic: a human life of eighty years amounts to roughly four thousand weeks — a figure that feels both large and shockingly small. His central argument is that the dominant project of time management, the fantasy of eventually getting everything done, is not merely ineffective but actively corrosive, because it postpones genuine choice indefinitely. Meaning requires exclusion: committing to what matters now, knowing you cannot do everything, paradoxically yields more from the time you have than any optimization strategy. The cure for feeling overwhelmed is not more productivity but the willingness to be finite.",
-      "source": {
-          "title": "Four Thousand Weeks: Time Management for Mortals",
-          "author": "Oliver Burkeman",
-          "year": 2021
-      },
-      "tags": [
-          "time",
-          "meaning",
-          "priorities"
-      ]
+    "id": "philosophy-27",
+    "title": "Your deepest vocabulary is an accident, not a discovery",
+    "body": "Rorty argues that the words we reach for when justifying our most fundamental beliefs — what he calls our 'final vocabulary' — are not reflections of a deeper truth but contingent inheritances from our upbringing, language, and culture. The liberal ironist holds these commitments seriously while acknowledging that they could have been otherwise. This is not a counsel of relativism but of intellectual honesty: recognizing that your framework is one among many does not require abandoning it, but it does require loosening the grip of certainty and staying open to better vocabularies as they emerge. Self-knowledge, on this view, is less about uncovering who you really are than about choosing, consciously and repeatedly, who you want to become.",
+    "source": {
+      "title": "Contingency, Irony, and Solidarity",
+      "author": "Richard Rorty",
+      "year": 1989
+    },
+    "tags": [
+      "philosophy",
+      "identity",
+      "language"
+    ]
   },
   {
-      "id": "literature-24",
-      "title": "Lightness is not superficiality but the power to lift weight",
-      "body": "In his first memo, Calvino distinguishes lightness from frivolity: the greatest writers approach heavy subjects — death, guilt, suffering — not by adding more weight but by finding the angle from which the subject almost floats. Perseus could only cut off Medusa's head by looking at her reflection in a mirror, which Calvino reads as the writer's method: engage the hardest things obliquely, finding the precise word that does not press down but lifts. This is a technical principle as much as an aesthetic one — dense, laborious writing often signals a writer who has not yet found the right approach, while the seemingly effortless sentence is usually the product of the most work.",
-      "source": {
-          "title": "Six Memos for the Next Millennium",
-          "author": "Italo Calvino",
-          "year": 1988
-      },
-      "tags": [
-          "literature",
-          "writing",
-          "creativity"
-      ]
+    "id": "time-06",
+    "title": "Limitation is the beginning of a meaningful life, not its obstacle",
+    "body": "Burkeman opens with a striking arithmetic: a human life of eighty years amounts to roughly four thousand weeks — a figure that feels both large and shockingly small. His central argument is that the dominant project of time management, the fantasy of eventually getting everything done, is not merely ineffective but actively corrosive, because it postpones genuine choice indefinitely. Meaning requires exclusion: committing to what matters now, knowing you cannot do everything, paradoxically yields more from the time you have than any optimization strategy. The cure for feeling overwhelmed is not more productivity but the willingness to be finite.",
+    "source": {
+      "title": "Four Thousand Weeks: Time Management for Mortals",
+      "author": "Oliver Burkeman",
+      "year": 2021
+    },
+    "tags": [
+      "time",
+      "meaning",
+      "priorities"
+    ]
   },
   {
-      "id": "science-20",
-      "title": "The mistakes of great scientists are more instructive than the caution of careful ones",
-      "body": "Dyson observed, watching figures like Oppenheimer, Bethe, and Feynman at work, that the most productive scientists made bold and often wrong conjectures rather than carefully hedged claims. A great mistake reaches further than a correct but timid statement, because it illuminates more terrain in failing — it forces the field to articulate why the conjecture fails and in so doing sharpens its own concepts. Dyson's own career included proposals that went nowhere alongside insights that changed physics; he concluded that scientific creativity requires a willingness to be wrong in interesting ways, since only interesting mistakes generate the productive friction that moves understanding forward.",
-      "source": {
-          "title": "Disturbing the Universe",
-          "author": "Freeman Dyson",
-          "year": 1979
-      },
-      "tags": [
-          "science",
-          "creativity",
-          "learning"
-      ]
+    "id": "literature-24",
+    "title": "Lightness is not superficiality but the power to lift weight",
+    "body": "In his first memo, Calvino distinguishes lightness from frivolity: the greatest writers approach heavy subjects — death, guilt, suffering — not by adding more weight but by finding the angle from which the subject almost floats. Perseus could only cut off Medusa's head by looking at her reflection in a mirror, which Calvino reads as the writer's method: engage the hardest things obliquely, finding the precise word that does not press down but lifts. This is a technical principle as much as an aesthetic one — dense, laborious writing often signals a writer who has not yet found the right approach, while the seemingly effortless sentence is usually the product of the most work.",
+    "source": {
+      "title": "Six Memos for the Next Millennium",
+      "author": "Italo Calvino",
+      "year": 1988
+    },
+    "tags": [
+      "literature",
+      "writing",
+      "creativity"
+    ]
   },
   {
-      "id": "statistics-05",
-      "title": "Dividing the world into two groups distorts almost everything you think you see",
-      "body": "Rosling called the 'gap instinct' — the reflexive tendency to sort data into two opposing groups with a chasm between them — the single most common source of factual error about global conditions. When people picture developed versus developing nations, or rich versus poor, they imagine a bimodal distribution with nothing in between, when the actual distribution is almost always a continuum with most people clustered in the middle. Correcting this instinct matters beyond accuracy: it changes what interventions seem useful, who counts as a potential partner, and which risks appear manageable. Good data forces you to replace dramatic two-part stories with less emotionally satisfying but far more actionable gradients.",
-      "source": {
-          "title": "Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think",
-          "author": "Hans Rosling",
-          "year": 2018
-      },
-      "tags": [
-          "statistics",
-          "cognition",
-          "worldview"
-      ]
+    "id": "science-20",
+    "title": "The mistakes of great scientists are more instructive than the caution of careful ones",
+    "body": "Dyson observed, watching figures like Oppenheimer, Bethe, and Feynman at work, that the most productive scientists made bold and often wrong conjectures rather than carefully hedged claims. A great mistake reaches further than a correct but timid statement, because it illuminates more terrain in failing — it forces the field to articulate why the conjecture fails and in so doing sharpens its own concepts. Dyson's own career included proposals that went nowhere alongside insights that changed physics; he concluded that scientific creativity requires a willingness to be wrong in interesting ways, since only interesting mistakes generate the productive friction that moves understanding forward.",
+    "source": {
+      "title": "Disturbing the Universe",
+      "author": "Freeman Dyson",
+      "year": 1979
+    },
+    "tags": [
+      "science",
+      "creativity",
+      "learning"
+    ]
+  },
+  {
+    "id": "statistics-05",
+    "title": "Dividing the world into two groups distorts almost everything you think you see",
+    "body": "Rosling called the 'gap instinct' — the reflexive tendency to sort data into two opposing groups with a chasm between them — the single most common source of factual error about global conditions. When people picture developed versus developing nations, or rich versus poor, they imagine a bimodal distribution with nothing in between, when the actual distribution is almost always a continuum with most people clustered in the middle. Correcting this instinct matters beyond accuracy: it changes what interventions seem useful, who counts as a potential partner, and which risks appear manageable. Good data forces you to replace dramatic two-part stories with less emotionally satisfying but far more actionable gradients.",
+    "source": {
+      "title": "Factfulness: Ten Reasons We're Wrong About the World — and Why Things Are Better Than You Think",
+      "author": "Hans Rosling",
+      "year": 2018
+    },
+    "tags": [
+      "statistics",
+      "cognition",
+      "worldview"
+    ]
+  },
+  {
+    "id": "mindset-07",
+    "title": "Change is situational; transition is the inner reorientation it requires",
+    "body": "Bridges drew a crucial distinction between change (the external event — a new job, a move, a loss) and transition (the psychological process of adapting to it). Change happens fast; transition takes time, and it begins not with the new situation but with an ending — the letting go of whatever defined us before. Many people fail not because they resist the external change but because they skip the ending phase, rushing toward the new without grieving or releasing the old. The neutral zone between ending and new beginning is not a void to be crossed quickly but a place of psychological work that cannot be bypassed without cost.",
+    "source": {
+      "title": "Transitions: Making Sense of Life’s Changes",
+      "author": "William Bridges",
+      "year": 1980
+    },
+    "tags": [
+      "mindset",
+      "change",
+      "psychology"
+    ]
+  },
+  {
+    "id": "time-08",
+    "title": "The faster we move, the less we remember",
+    "body": "Kundera opens his short novel with an observation that seems paradoxical: there is a secret bond between slowness and memory, and between speed and forgetting. When we move slowly through an experience we wish to retain, we are unconsciously encoding it; when we rush through something we would rather escape, speed becomes the mechanism of erasure. This is not merely a subjective impression but a structural feature of how memory consolidates — vivid recall requires time and attention. The contemporary obsession with speed is, among other things, a quiet engine of forgetting.",
+    "source": {
+      "title": "Slowness",
+      "author": "Milan Kundera",
+      "year": 1995
+    },
+    "tags": [
+      "time",
+      "memory",
+      "attention"
+    ]
+  },
+  {
+    "id": "sociology-11",
+    "title": "Dirt is matter out of place — what we call pollution reveals our categories",
+    "body": "Douglas argued that what a society classifies as dirty, impure, or taboo is not a response to actual physical danger but to conceptual disorder: dirt is simply anything that violates the categorical scheme by which a culture organizes its world. Shoes are not dirty in themselves; they are dirty on a dining table because they belong to a different cognitive category. This insight extends far beyond hygiene — moral disgust, racial anxieties, and dietary prohibitions all operate by the same logic of boundary-maintenance. To understand what a culture fears, look not at what it avoids but at the ordering system those avoidances are protecting.",
+    "source": {
+      "title": "Purity and Danger",
+      "author": "Mary Douglas",
+      "year": 1966
+    },
+    "tags": [
+      "sociology",
+      "anthropology",
+      "culture"
+    ]
+  },
+  {
+    "id": "philosophy-30",
+    "title": "Knowing how is not the same as knowing that",
+    "body": "Ryle drew a fundamental distinction between ‘knowing that’ (propositional knowledge — facts, rules, principles) and ‘knowing how’ (dispositional knowledge — skill, practice, ability). The philosophical mistake he called the ghost in the machine assumes that behind every skilled action there must be a corresponding mental act of consulting internal rules. But a skilled cyclist does not apply principles of balance; a witty conversationalist is not retrieving rules for wit. This distinction matters practically: you cannot acquire a skill merely by studying its theory, and experts who try to articulate their knowledge often find they know far more than they can say.",
+    "source": {
+      "title": "The Concept of Mind",
+      "author": "Gilbert Ryle",
+      "year": 1949
+    },
+    "tags": [
+      "philosophy",
+      "learning",
+      "skill"
+    ]
+  },
+  {
+    "id": "communication-06",
+    "title": "In the crowd, the fear of being touched reverses into its opposite",
+    "body": "Canetti observed that within a crowd, people experience a sudden ‘discharge’ of the normal distinctions that separate them from one another in daily life. In ordinary circumstances, we guard against being touched by strangers; inside a crowd, that fear reverses — proximity becomes a refuge rather than a threat. This psychological reversal is what gives crowds their pull and their danger: individuals willingly surrender the separateness that normally defines them in exchange for belonging to something larger. Canetti’s insight is that the crowd is not an aberration of human psychology but a deeply desired state that ordinary social arrangements merely suppress.",
+    "source": {
+      "title": "Crowds and Power",
+      "author": "Elias Canetti",
+      "year": 1960
+    },
+    "tags": [
+      "communication",
+      "psychology",
+      "society"
+    ]
   }
 ]
