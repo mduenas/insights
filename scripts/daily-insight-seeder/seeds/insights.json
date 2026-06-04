@@ -6054,5 +6054,80 @@
       "psychology",
       "society"
     ]
+  },
+  {
+    "id": "biology-15",
+    "title": "Population Thinking Defeated Essentialism",
+    "body": "Before Darwin, naturalists thought in types — the ideal form of a species was real, and individual variation was mere noise. Ernst Mayr called the Darwinian shift to 'population thinking' one of the most profound conceptual changes in the history of science: variation among individuals is the reality, and the average is only an abstraction. This distinction matters far beyond biology — it challenges any reasoning that treats a category as though it had a fixed essence rather than a distribution of real, differing members.",
+    "source": {
+      "title": "The Growth of Biological Thought",
+      "author": "Ernst Mayr",
+      "year": 1982
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "thinking"
+    ]
+  },
+  {
+    "id": "science-21",
+    "title": "Science Advances by Breaking Its Own Rules",
+    "body": "Feyerabend surveyed the history of science and found that every major breakthrough — from Galileo's defense of heliocentrism to Einstein's relativity — involved violating the accepted standards of evidence and rationality of its day. No single methodology can account for this history; the only principle that does not inhibit progress is, as he put it, 'anything goes.' This is not a license for sloppiness but a call for epistemic humility: our current methods are provisional tools, not timeless guarantees of truth.",
+    "source": {
+      "title": "Against Method",
+      "author": "Paul Feyerabend",
+      "year": 1975
+    },
+    "tags": [
+      "science",
+      "philosophy",
+      "methodology"
+    ]
+  },
+  {
+    "id": "sociology-12",
+    "title": "Myth Turns History into Nature",
+    "body": "Barthes showed that myths — in advertising, sport, politics, and everyday objects — work not by lying but by erasing their own historical origins. A myth presents what is culturally constructed and contingent as though it were simply natural, self-evident, and eternal. The world enters language as a complex of acts; myth gives back a natural image of these acts. Once you learn to see how myths operate, the taken-for-granted world becomes legible as a set of choices that could always have been otherwise.",
+    "source": {
+      "title": "Mythologies",
+      "author": "Roland Barthes",
+      "year": 1957
+    },
+    "tags": [
+      "sociology",
+      "culture",
+      "language"
+    ]
+  },
+  {
+    "id": "design-08",
+    "title": "The Whole Behaves in Ways Its Parts Cannot",
+    "body": "Fuller coined 'synergy' to name something familiar yet underappreciated: integrated systems routinely exhibit behaviors that cannot be predicted by studying any of their components in isolation. Chrome steel is stronger than the sum of its constituents would suggest; a living cell does things no molecule anticipates. Fuller argued that this principle should govern design itself — start with the whole system and work inward, because any approach that begins with parts and tries to assemble them into a whole will miss the emergent properties that make the whole worth building.",
+    "source": {
+      "title": "Operating Manual for Spaceship Earth",
+      "author": "Buckminster Fuller",
+      "year": 1969
+    },
+    "tags": [
+      "design",
+      "systems",
+      "thinking"
+    ]
+  },
+  {
+    "id": "history-19",
+    "title": "Every Present Moment Can Redeem the Past",
+    "body": "Benjamin rejected the idea that history moves in a straight line toward progress; instead, each present moment contains the possibility of suddenly illuminating what came before — giving voice to the defeated and the forgotten. He called this charged instant Jetztzeit, 'now-time,' a rupture in the continuum where unrealized possibilities of the past could be seized. For Benjamin, the task of the historian and the revolutionary were the same: to blast open the false continuity of 'things as they are' and recover what history left unfinished.",
+    "source": {
+      "title": "Theses on the Philosophy of History",
+      "author": "Walter Benjamin",
+      "year": 1940
+    },
+    "tags": [
+      "history",
+      "philosophy",
+      "time"
+    ]
   }
 ]
