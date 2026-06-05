@@ -6129,5 +6129,80 @@
       "philosophy",
       "time"
     ]
+  },
+  {
+    "id": "mathematics-18",
+    "title": "Strange loops give rise to minds",
+    "body": "When a system grows complex enough to refer back to itself, something qualitatively new emerges — meaning, pattern, and eventually selfhood. Hofstadter argued that consciousness is not a simple entity but a tangled hierarchy: a pattern that perceives and models itself across multiple levels of description. The same self-referential structure appears in Gödel's incompleteness theorems, Bach's canons, and Escher's impossible drawings — which is why these seemingly unrelated domains illuminate each other so strikingly.",
+    "source": {
+      "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "author": "Douglas Hofstadter",
+      "year": 1979
+    },
+    "tags": [
+      "mathematics",
+      "consciousness",
+      "systems"
+    ]
+  },
+  {
+    "id": "psychology-21",
+    "title": "The mark of intelligence is the willingness to rethink",
+    "body": "Organizational psychologist Adam Grant found that confident humility — holding strong opinions loosely and actively seeking disconfirming evidence — is one of the most reliable predictors of good judgment over time. Most people defend their beliefs as an expression of identity, treating challenges to their views as personal attacks. The best thinkers instead approach their own conclusions like hypotheses to be stress-tested: rethinking is not a weakness but the mechanism by which anyone continues to improve.",
+    "source": {
+      "title": "Think Again: The Power of Knowing What You Don't Know",
+      "author": "Adam Grant",
+      "year": 2021
+    },
+    "tags": [
+      "psychology",
+      "learning",
+      "humility"
+    ]
+  },
+  {
+    "id": "science-22",
+    "title": "Reification turns a useful abstraction into a false object",
+    "body": "Stephen Jay Gould documented how scientists repeatedly fell into the error of treating statistical summaries — like a single IQ score — as if they were tangible objects that could be located, measured, and ranked. Once an abstraction is reified, it becomes tempting to build hierarchies upon it, attaching social significance to what is really a convenient compression of complex data. Recognizing reification — in science, business, or everyday reasoning — is one of the most protective habits of careful thinking.",
+    "source": {
+      "title": "The Mismeasure of Man",
+      "author": "Stephen Jay Gould",
+      "year": 1981
+    },
+    "tags": [
+      "science",
+      "critical-thinking",
+      "bias"
+    ]
+  },
+  {
+    "id": "economics-26",
+    "title": "Dead capital cannot work for the living",
+    "body": "Peruvian economist Hernando de Soto observed that billions of people own homes and land whose value they can never leverage, because informal ownership lacks legal documentation. Without formal property rights, assets are 'dead capital' — they cannot serve as collateral, be subdivided, or be sold to strangers, leaving them permanently outside the formal economy. What separates wealthy nations from poor ones is not the absence of resources but the absence of the legal architecture that converts physical assets into financial capital.",
+    "source": {
+      "title": "The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else",
+      "author": "Hernando de Soto",
+      "year": 2000
+    },
+    "tags": [
+      "economics",
+      "property",
+      "development"
+    ]
+  },
+  {
+    "id": "creativity-16",
+    "title": "Interpretation is revenge on art",
+    "body": "Susan Sontag argued that the reflexive drive to decode art — to extract its hidden meaning — impoverishes the immediate sensory experience of the work itself. By explaining what a painting or film 'really means,' critics replace the rich, unruly presence of the artwork with a more manageable idea. The more valuable critical task, she proposed, is to describe precisely how a work affects you rather than what it stands for, recovering direct experience before abstraction drains it of vitality.",
+    "source": {
+      "title": "Against Interpretation and Other Essays",
+      "author": "Susan Sontag",
+      "year": 1966
+    },
+    "tags": [
+      "creativity",
+      "art",
+      "criticism"
+    ]
   }
 ]
