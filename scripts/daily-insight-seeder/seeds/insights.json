@@ -6204,5 +6204,80 @@
       "art",
       "criticism"
     ]
+  },
+  {
+    "id": "science-23",
+    "title": "The Four Idols Block the Path to Truth",
+    "body": "Bacon catalogued four systematic distortions of the mind that he called idols: the Idols of the Tribe (biases common to all humans), the Cave (individual biases from upbringing and temperament), the Marketplace (confusions created by imprecise language), and the Theatre (uncritical acceptance of received philosophical systems). These idols operate silently, making errors feel like insights and prejudices feel like conclusions. Bacon's account was the first systematic taxonomy of cognitive bias, written three and a half centuries before modern psychology confirmed most of his categories empirically. The path to genuine knowledge, he argued, begins not with brilliant theories but with the patient recognition of how systematically the mind deceives itself.",
+    "source": {
+      "title": "Novum Organum",
+      "author": "Francis Bacon",
+      "year": 1620
+    },
+    "tags": [
+      "science",
+      "thinking",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "linguistics-10",
+    "title": "The Map Is Not the Territory",
+    "body": "Korzybski coined this axiom to warn against the habitual error of confusing our representations of reality — words, labels, theories, and mental models — with the reality those representations describe. A map that perfectly mirrored the territory would be the territory itself and therefore useless; the same is true of every abstraction. The danger is not that we use maps — we must — but that we forget we are using them and mistake the symbol for the thing it stands for. Every ideology, assumption, and institution that has resisted revision in the face of new evidence is a map being held hostage for the territory.",
+    "source": {
+      "title": "Science and Sanity",
+      "author": "Alfred Korzybski",
+      "year": 1933
+    },
+    "tags": [
+      "linguistics",
+      "thinking",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "ethics-09",
+    "title": "Nothing Truly Useful Can Be Dishonorable",
+    "body": "Cicero argued against the view — common then as now — that practical advantage and moral duty sometimes diverge and that clever people know when to choose the expedient over the honorable. His position was that any action seeming profitable only because its dishonorable character is overlooked is not truly profitable at all: once its full consequences are reckoned — what it does to one's character, reputation, and relationships — the apparent advantage dissolves. This is not naive idealism but a rigorous long-run accounting that short-term calculation routinely ignores. Cicero's deeper claim is that the question 'will this work?' is inseparable from the question 'is this right?'",
+    "source": {
+      "title": "De Officiis",
+      "author": "Marcus Tullius Cicero",
+      "year": -44
+    },
+    "tags": [
+      "ethics",
+      "philosophy",
+      "leadership"
+    ]
+  },
+  {
+    "id": "sociology-13",
+    "title": "The Mass Man Enjoys Civilization Without Earning It",
+    "body": "Ortega distinguished between the person who makes great demands on themselves — who accepts difficulty as a price of excellence — and the 'mass man,' who enjoys the rights and comforts of civilization while refusing to accept any of its responsibilities. The mass man experiences the modern world as natural, like air or sunlight, rather than as a fragile and hard-won achievement that requires constant effort to sustain. Ortega's concern was not economic class but psychological type: any person who takes progress for granted while contributing nothing to it belongs to the mass, regardless of wealth or education. The civilizations most at risk, he warned, are those in which this attitude becomes the majority disposition.",
+    "source": {
+      "title": "The Revolt of the Masses",
+      "author": "José Ortega y Gasset",
+      "year": 1930
+    },
+    "tags": [
+      "sociology",
+      "civilization",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "literature-25",
+    "title": "In Some Places, Reality Has Always Outrun Fiction",
+    "body": "In his Nobel acceptance speech, García Márquez catalogued the documented extravagances of Latin American history — a liberator who died in poverty in a borrowed shirt, a general who fathered seventeen sons by seventeen different women, a dictator who ordered the sea moved two kilometers — and argued that these were not embellishments but facts. His point was that magical realism is not an escape from reality but a rigorous fidelity to it: in Latin America, documented history has persistently exceeded what the most daring fiction dared to invent. The literary mode he pioneered is less a stylistic technique than an honest accounting of a world where the extraordinary was never truly exceptional.",
+    "source": {
+      "title": "The Solitude of Latin America",
+      "author": "Gabriel García Márquez",
+      "year": 1982
+    },
+    "tags": [
+      "literature",
+      "creativity",
+      "imagination"
+    ]
   }
 ]
