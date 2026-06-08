@@ -6360,4 +6360,84 @@
       "morality"
     ]
   }
+,
+  {
+    "id": "linguistics-10",
+    "title": "Saying Something Can Make It So",
+    "body": "Austin noticed that many utterances are not descriptions of the world but actions in themselves — 'I promise,' 'I name this ship,' 'I hereby resign' do not report events but constitute them. He called these 'performatives' and showed that language has a dimension of doing that grammarians and philosophers had systematically overlooked. The distinction matters practically: when language fails not because it is false but because the conditions for its use are not met — a promise extracted under coercion, a verdict delivered by someone without authority — something has gone wrong that truth and falsehood alone cannot capture.",
+    "source": {
+      "title": "How to Do Things with Words",
+      "author": "J.L. Austin",
+      "year": 1962
+    },
+    "tags": [
+      "linguistics",
+      "philosophy",
+      "language"
+    ]
+  }
+,
+  {
+    "id": "neuroscience-08",
+    "title": "Reading Recycles Ancient Brain Circuits",
+    "body": "Writing was invented too recently — roughly 5,000 years ago — for the brain to have evolved dedicated machinery for it. Dehaene's research revealed that the brain co-opts a region in the left visual cortex, originally shaped by evolution to recognize objects and faces, and retrains it to identify letters and words. This 'neuronal recycling' means literacy is not a natural capacity but a cultural achievement that physically rewires the brain, which is why learning to read requires explicit instruction and why dyslexia maps to specific fault lines in that repurposed circuit rather than to general intelligence.",
+    "source": {
+      "title": "Reading in the Brain",
+      "author": "Stanislas Dehaene",
+      "year": 2009
+    },
+    "tags": [
+      "neuroscience",
+      "learning",
+      "language"
+    ]
+  }
+,
+  {
+    "id": "anthropology-08",
+    "title": "Hunter-Gatherers Were the Original Leisure Class",
+    "body": "The standard story of human progress assumes that pre-agricultural life was a grinding struggle for survival. Sahlins challenged this with ethnographic data showing that foraging societies typically met their material needs in three to five hours of work per day, leaving the rest for sleep, conversation, and ritual. They achieved this not by producing more but by wanting less: subsistence affluence comes from limiting desire rather than maximizing output. This inversion of the conventional narrative raises an unsettling question — if earlier peoples solved the economic problem by curtailing wants, what does endless growth reveal about our own assumptions?",
+    "source": {
+      "title": "Stone Age Economics",
+      "author": "Marshall Sahlins",
+      "year": 1972
+    },
+    "tags": [
+      "anthropology",
+      "economics",
+      "history"
+    ]
+  }
+,
+  {
+    "id": "education-09",
+    "title": "Any Subject Can Be Taught Honestly at Any Age",
+    "body": "Bruner's hypothesis — that the intellectual structure of any discipline can be conveyed truthfully to a child at any stage of development — reshaped curriculum theory. The key is representing ideas in forms suited to the learner's current mode of thought: first through physical action and manipulation, then through imagery, and finally through abstract symbol. This 'spiral curriculum' returns to the same ideas at increasing levels of formality, so that early understanding is incomplete rather than wrong — a genuine foundation rather than a misconception to be later corrected.",
+    "source": {
+      "title": "The Process of Education",
+      "author": "Jerome Bruner",
+      "year": 1960
+    },
+    "tags": [
+      "education",
+      "learning",
+      "psychology"
+    ]
+  }
+,
+  {
+    "id": "action-06",
+    "title": "Power Is Not What You Have but What the Enemy Thinks You Have",
+    "body": "Alinsky codified decades of community organizing into tactical rules for challenging concentrated power. The most counterintuitive: effective power is largely perceived power. When an organized group projects confidence, opponents respond to the imagined threat as though it were fully realized — and that response itself generates real leverage. Alinsky's deeper point was that organizations, not charismatic individuals, are the durable vehicles of change, and that the slow, unglamorous work of building them is the precondition of every lasting political victory.",
+    "source": {
+      "title": "Rules for Radicals",
+      "author": "Saul Alinsky",
+      "year": 1971
+    },
+    "tags": [
+      "action",
+      "leadership",
+      "power"
+    ]
+  }
 ]
