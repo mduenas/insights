@@ -6439,5 +6439,60 @@
       "leadership",
       "power"
     ]
+  },
+  {
+    "id": "philosophy-32",
+    "title": "Perfect skill follows the grain of things",
+    "body": "Zhuangzi's parable of Cook Ding, who carves an ox so effortlessly that his blade never dulls, illustrates the Taoist ideal of wu wei — acting in accord with the natural structure of reality rather than imposing force upon it. The cook says he works with his mind rather than his eye, gliding through joints and hollows already there. For Zhuangzi, true mastery is not the domination of nature but a deep attentiveness to it: perception and yielding, not will.",
+    "source": {
+      "title": "Zhuangzi",
+      "author": "Zhuangzi",
+      "year": -300
+    },
+    "tags": ["philosophy", "taoism", "mastery"]
+  },
+  {
+    "id": "anthropology-09",
+    "title": "Legibility is a form of power — and a form of blindness",
+    "body": "James C. Scott showed that states have historically simplified complex social realities — land tenure, forests, names, cities — into standardized, measurable forms to make them easier to tax and administer. This drive for legibility routinely destroyed the local, practical knowledge (what Scott called mētis) that communities had accumulated over generations. Many modern catastrophes, from collectivized agriculture to top-down urban renewal, resulted from imposing an abstract, legible grid onto irreducibly complex human reality.",
+    "source": {
+      "title": "Seeing Like a State",
+      "author": "James C. Scott",
+      "year": 1998
+    },
+    "tags": ["anthropology", "politics", "knowledge"]
+  },
+  {
+    "id": "sociology-14",
+    "title": "Mass movements trade on self-contempt, not conviction",
+    "body": "Eric Hoffer observed that fervent believers in mass movements — political, religious, or nationalist — are not driven primarily by love of the cause but by a spoiled relationship with their own lives. People who feel their individual existence is irredeemably frustrated eagerly dissolve it into a collective identity. This explains why the content of a doctrine matters less than the psychological need it fills, and why true believers can shift effortlessly from one movement to another.",
+    "source": {
+      "title": "The True Believer",
+      "author": "Eric Hoffer",
+      "year": 1951
+    },
+    "tags": ["sociology", "psychology", "politics"]
+  },
+  {
+    "id": "identity-10",
+    "title": "The master's tools will never dismantle the master's house",
+    "body": "Audre Lorde argued that genuine liberation cannot be achieved by adopting the frameworks and methods of the very systems one seeks to challenge. When marginalized groups use inherited conceptual tools uncritically, they can manage limited change within the existing order but cannot threaten its foundations. Survival is not transformation — meaningful change requires building from one's own experience, difference, and vision, rather than seeking admission into another's structure.",
+    "source": {
+      "title": "Sister Outsider: Essays and Speeches",
+      "author": "Audre Lorde",
+      "year": 1984
+    },
+    "tags": ["identity", "feminism", "social-change"]
+  },
+  {
+    "id": "literature-26",
+    "title": "A story is sequence; a plot is causality",
+    "body": "E.M. Forster drew a fundamental distinction in narrative art: 'The king died and then the queen died' is a story — events arranged in time. 'The king died, and then the queen died of grief' is a plot — events connected by cause. The reader's intelligence is engaged only when causality is present, when we ask not just 'what next?' but 'why?' This small grammatical shift captures something essential about how meaning is constructed from raw events.",
+    "source": {
+      "title": "Aspects of the Novel",
+      "author": "E.M. Forster",
+      "year": 1927
+    },
+    "tags": ["literature", "storytelling", "narrative"]
   }
 ]
