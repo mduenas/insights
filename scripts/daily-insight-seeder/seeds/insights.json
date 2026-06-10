@@ -6494,5 +6494,60 @@
       "year": 1927
     },
     "tags": ["literature", "storytelling", "narrative"]
+  },
+  {
+    "id": "psychology-23",
+    "title": "We borrow our desires from each other",
+    "body": "Girard discovered through studying great novelists that human desire is not spontaneous or original — it is always mediated by a model, someone whose desires we unconsciously imitate. We want what others want not because of the object's intrinsic value but because a person we admire wants it. This 'mimetic desire' creates both the bonds and the rivalries that structure social life. Recognizing the borrowed nature of our desires is the first step toward choosing what we actually want for reasons we can call our own.",
+    "source": {
+      "title": "Deceit, Desire, and the Novel",
+      "author": "René Girard",
+      "year": 1961
+    },
+    "tags": ["psychology", "desire", "self-awareness"]
+  },
+  {
+    "id": "history-20",
+    "title": "History's finest clues are the things people tried to hide",
+    "body": "Ginzburg showed that the inadvertent, the unguarded, and the suppressed — the detail no one thought to censor — are often more revealing than official records. In reconstructing a sixteenth-century miller's cosmology from Inquisition transcripts, the very inconsistencies and strange formulations that make a document awkward to read are traces of authentic experience. This 'evidential paradigm' — reading the margins of the record rather than its center — applies wherever truth must be reconstructed from partial traces: in medicine, art history, and detective work alike.",
+    "source": {
+      "title": "The Cheese and the Worms",
+      "author": "Carlo Ginzburg",
+      "year": 1976
+    },
+    "tags": ["history", "methodology", "knowledge"]
+  },
+  {
+    "id": "ethics-10",
+    "title": "Society is a contract between the dead, the living, and the unborn",
+    "body": "Burke argued that political society is not a commercial transaction to be dissolved at will but a partnership stretched across time — binding the accumulated wisdom of the dead to the needs of the living and the inheritance owed to those not yet born. To discard institutions simply because they are old is to sever this intergenerational thread and squander knowledge that cannot be quickly recovered. Change should improve rather than erase, since each generation builds on ground it did not lay and cannot fully understand.",
+    "source": {
+      "title": "Reflections on the Revolution in France",
+      "author": "Edmund Burke",
+      "year": 1790
+    },
+    "tags": ["ethics", "history", "politics"]
+  },
+  {
+    "id": "creativity-17",
+    "title": "Attention is the beginning of devotion",
+    "body": "Oliver spent decades observing the natural world with an intensity she described as devotional. She argued that true attention — not distracted glancing but sustained, unhurried looking — is an act of reverence that opens the perceiver to what is actually there. Artists, scientists, and anyone who makes things must first learn to see without agenda. The first and hardest work of the creative life is not expressing ideas but clearing the lens through which the world is received.",
+    "source": {
+      "title": "Upstream",
+      "author": "Mary Oliver",
+      "year": 2016
+    },
+    "tags": ["creativity", "mindfulness", "observation"]
+  },
+  {
+    "id": "science-24",
+    "title": "Knowledge is not a loose-leaf notebook of facts",
+    "body": "Bronowski insisted that science is not the accumulation of isolated data but an act of the imagination: the creative leap that connects observations into a coherent picture of how things work. Science and art share the same fundamental operation — the recognition of hidden patterns and the construction of symbolic forms that make the invisible visible. To understand science as mere fact-collection is to misunderstand both its power and its beauty; every great discovery is, at its heart, an aesthetic act.",
+    "source": {
+      "title": "The Ascent of Man",
+      "author": "Jacob Bronowski",
+      "year": 1973
+    },
+    "tags": ["science", "creativity", "knowledge"]
   }
 ]
