@@ -6549,5 +6549,80 @@
       "year": 1973
     },
     "tags": ["science", "creativity", "knowledge"]
+  },
+  {
+    "id": "psychology-24",
+    "title": "Civilization is purchased at the cost of instinctual renunciation",
+    "body": "Freud argued that every advance in civilization requires the partial suppression of instinctual drives, particularly aggression and erotic desire. Culture channels these energies into work, art, and law — a process he called sublimation — but the unconscious never fully surrenders them. The result is a permanent structural tension: the same forces that must be restrained to sustain civilization are the ones that generate its dynamism. This hidden cost explains, for Freud, why material progress so rarely produces the sense of happiness we expect it to bring.",
+    "source": {
+      "title": "Civilization and Its Discontents",
+      "author": "Sigmund Freud",
+      "year": 1930
+    },
+    "tags": [
+      "psychology",
+      "civilization",
+      "culture"
+    ]
+  },
+  {
+    "id": "philosophy-33",
+    "title": "The owl of Minerva takes flight only at dusk",
+    "body": "Hegel wrote that philosophy arrives too late to prescribe how the world should be — it can only comprehend what has already taken shape. The owl of Minerva, ancient symbol of wisdom, spreads its wings only when day is done: we understand a historical era only as it is passing away, not while it is still being formed. The significance of events, institutions, and ideas cannot be grasped while they are still unfolding. Every generation thinks it lives in unprecedented times; every subsequent generation sees clearly what was actually happening.",
+    "source": {
+      "title": "Elements of the Philosophy of Right",
+      "author": "G.W.F. Hegel",
+      "year": 1820
+    },
+    "tags": [
+      "philosophy",
+      "history",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "science-25",
+    "title": "Nature's book is written in the language of mathematics",
+    "body": "Galileo proposed that the universe is a book written in mathematical characters — triangles, circles, and other geometrical figures — and that without learning this language it is humanly impossible to understand a single word of it. This was not a metaphor but a methodological manifesto: if the regularities of nature can be expressed quantitatively, then mathematics is not a tool imposed on the world from outside but the native language in which natural law is stated. This reorientation from qualitative description to quantitative measurement is the founding act of modern science.",
+    "source": {
+      "title": "The Assayer",
+      "author": "Galileo Galilei",
+      "year": 1623
+    },
+    "tags": [
+      "science",
+      "mathematics",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "history-21",
+    "title": "No one alive can be called happy until their end is known",
+    "body": "Herodotus records how the sage Solon told the mighty Croesus that fortune is inherently unstable: the person who seems most blessed has often merely not yet encountered their reversal. Calling a living person happy is premature — it names the entire arc of a life from its middle. Croesus dismissed this counsel, then lost his kingdom, his son, and nearly his life to Cyrus of Persia. Herodotus uses the story as a recurring frame: great power and sudden catastrophe are not opposites but neighbors, and the interval between them can be shockingly brief.",
+    "source": {
+      "title": "The Histories",
+      "author": "Herodotus",
+      "year": -440
+    },
+    "tags": [
+      "history",
+      "wisdom",
+      "fortune"
+    ]
+  },
+  {
+    "id": "courage-08",
+    "title": "Courage is not the absence of fear but the triumph over it",
+    "body": "Mandela wrote that he was often afraid during his years of struggle and imprisonment, but he learned to act on principle regardless. He distinguished between feeling fear — unavoidable and human — and surrendering to it, which is a choice. The brave person is not the one who feels no fear but the one who conquers it, taking action when the outcome is uncertain and the personal cost is severe. Mandela regarded this distinction as the essential difference between someone who fights for change and someone who merely waits for conditions to improve.",
+    "source": {
+      "title": "Long Walk to Freedom",
+      "author": "Nelson Mandela",
+      "year": 1994
+    },
+    "tags": [
+      "courage",
+      "resilience",
+      "leadership"
+    ]
   }
 ]
