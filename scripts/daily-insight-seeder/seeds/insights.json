@@ -6739,5 +6739,80 @@
       "persuasion",
       "decision-making"
     ]
+  },
+  {
+    "id": "philosophy-34",
+    "title": "The Bullshitter Is More Dangerous Than the Liar",
+    "body": "Frankfurt distinguished the liar from the bullshitter by their relationship to truth: the liar knows the truth and deliberately evades it, while the bullshitter does not care about truth at all. This indifference is what makes bullshit uniquely corrosive — it does not merely mislead on particular facts but erodes the shared framework within which facts can matter. A culture saturated in bullshit does not simply believe false things; it loses the capacity to distinguish true from false altogether. Frankfurt's analysis suggests that dishonesty is less dangerous than the wholesale abandonment of the norm of honesty itself.",
+    "source": {
+      "title": "On Bullshit",
+      "author": "Harry Frankfurt",
+      "year": 2005
+    },
+    "tags": [
+      "philosophy",
+      "communication",
+      "ethics"
+    ]
+  },
+  {
+    "id": "creativity-18",
+    "title": "We Do Not See What Is There — We See What We Expect",
+    "body": "Gombrich showed that perception in art, as in life, is not a neutral recording of the world but a hypothesis-testing process shaped by schemas and prior expectations. The artist who tries to paint 'what they see' is in fact making countless decisions shaped by the visual conventions of their time and culture — conventions so familiar they become invisible. This is why art history is not merely decorative: it is a record of how differently humans have learned to see. To change how people see, you must first change the schemas through which they look.",
+    "source": {
+      "title": "Art and Illusion: A Study in the Psychology of Pictorial Representation",
+      "author": "Ernst Gombrich",
+      "year": 1960
+    },
+    "tags": [
+      "creativity",
+      "perception",
+      "psychology"
+    ]
+  },
+  {
+    "id": "economics-28",
+    "title": "Cooperation Can Evolve Without Central Authority",
+    "body": "Axelrod ran computer tournaments in which various strategies competed in iterated prisoner's dilemmas, and found that the simplest cooperative strategy — tit-for-tat, which begins by cooperating and thereafter mirrors the opponent's last move — consistently outperformed more sophisticated rivals. The key ingredient was not altruism but iteration: the prospect of future encounters makes defection costly and cooperation self-sustaining. This result changed how economists, biologists, and political scientists understood cooperation, showing that stable collaborative norms can emerge from purely self-interested agents without contracts, governments, or shared moral codes.",
+    "source": {
+      "title": "The Evolution of Cooperation",
+      "author": "Robert Axelrod",
+      "year": 1984
+    },
+    "tags": [
+      "economics",
+      "cooperation",
+      "strategy"
+    ]
+  },
+  {
+    "id": "history-22",
+    "title": "Class Is Something That Happens, Not Something That Is",
+    "body": "Thompson rejected the structuralist tendency to treat social class as a fixed category imposed by economic position, insisting instead that class is a historical relationship — something people make as they live and work together and as they define themselves against each other. The English working class was not the automatic product of industrialization; it was formed through experience, culture, language, and struggle that could have gone differently. This methodological shift — from class as structure to class as process — opened up space for the voices of ordinary people and gave agency back to history's forgotten participants.",
+    "source": {
+      "title": "The Making of the English Working Class",
+      "author": "E.P. Thompson",
+      "year": 1963
+    },
+    "tags": [
+      "history",
+      "sociology",
+      "identity"
+    ]
+  },
+  {
+    "id": "ethics-11",
+    "title": "Indifference to Distant Strangers Is a Moral Position",
+    "body": "Appiah argued that the ancient ideal of cosmopolitanism — being a citizen of the world — is not merely aspirational rhetoric but a practical ethical demand: because our choices ripple across borders, we are already in relationships of consequence with people we will never know. This does not require abandoning local loyalties or cultural particularity; cosmopolitanism is compatible with deep attachment to one's own community. What it rules out is the belief that the suffering of strangers is morally irrelevant simply because they are distant. In an interdependent world, indifference to the far-away is itself a moral choice — just not a defensible one.",
+    "source": {
+      "title": "Cosmopolitanism: Ethics in a World of Strangers",
+      "author": "Kwame Anthony Appiah",
+      "year": 2006
+    },
+    "tags": [
+      "ethics",
+      "identity",
+      "society"
+    ]
   }
 ]
