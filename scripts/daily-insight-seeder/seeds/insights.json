@@ -6814,5 +6814,80 @@
       "identity",
       "society"
     ]
+  },
+  {
+    "id": "literature-27",
+    "title": "The infinite hides in the ordinary",
+    "body": "Tagore's poetry reveals that the eternal can be encountered in the smallest, most familiar moments — a blade of grass, the cry of a bird at dusk, a stranger's passing glance. To live fully is to cultivate this receptiveness, letting the mundane become a doorway to wonder. By attending carefully to what seems insignificant, we expand our capacity for gratitude and discover that nothing ordinary is truly ordinary.",
+    "source": {
+      "title": "Gitanjali",
+      "author": "Rabindranath Tagore",
+      "year": 1913
+    },
+    "tags": [
+      "wonder",
+      "presence",
+      "spirituality"
+    ]
+  },
+  {
+    "id": "history-23",
+    "title": "Reason itself is the revolutionary act",
+    "body": "Paine argued that monarchy and inherited privilege owe their power not to natural right but to ignorance and unexamined habit. When ordinary people are given plain arguments, stripped of the jargon of courts and clergy, they will see self-evident truths that centuries of deference had concealed. Democratizing access to clear reasoning is therefore not merely a political strategy — it is the founding act of a free society.",
+    "source": {
+      "title": "Common Sense",
+      "author": "Thomas Paine",
+      "year": 1776
+    },
+    "tags": [
+      "democracy",
+      "reason",
+      "courage"
+    ]
+  },
+  {
+    "id": "biology-16",
+    "title": "Hidden patterns govern visible outcomes",
+    "body": "By patiently counting peas across tens of thousands of plants, Mendel revealed that invisible factors — now called genes — determine physical traits in mathematically predictable ratios. The laws governing inheritance had always been there, waiting to be uncovered by careful observation and quantitative thinking. Nature speaks in patterns; the scientist's task is to listen long enough to hear them.",
+    "source": {
+      "title": "Experiments on Plant Hybridization",
+      "author": "Gregor Mendel",
+      "year": 1866
+    },
+    "tags": [
+      "genetics",
+      "science",
+      "observation"
+    ]
+  },
+  {
+    "id": "science-26",
+    "title": "Divided knowledge impoverishes both halves",
+    "body": "Snow observed that scientists and literary intellectuals had drifted so far apart they could no longer communicate, each dismissing the other's domain as irrelevant or decorative. This split weakens both: science without humanistic judgment loses its ethical bearings, and the humanities without scientific literacy become detached from the material world that shapes human life. The deepest insights almost always arise at the boundary between disciplines.",
+    "source": {
+      "title": "The Two Cultures",
+      "author": "C.P. Snow",
+      "year": 1959
+    },
+    "tags": [
+      "interdisciplinary",
+      "knowledge",
+      "culture"
+    ]
+  },
+  {
+    "id": "philosophy-35",
+    "title": "What is essential is invisible to the eye",
+    "body": "The fox's parting gift to the Little Prince was a paradox: the things that matter most — love, loyalty, care — cannot be weighed or measured, only felt through time and attention. We live in a world that privileges what can be counted, yet the deepest values resist quantification entirely. Tending to invisible bonds is not a sentimental distraction from real life; it is the very substance of it.",
+    "source": {
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943
+    },
+    "tags": [
+      "love",
+      "meaning",
+      "values"
+    ]
   }
 ]
