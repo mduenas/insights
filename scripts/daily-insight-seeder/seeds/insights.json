@@ -6889,5 +6889,80 @@
       "meaning",
       "values"
     ]
+  },
+  {
+    "id": "ecology-10",
+    "title": "Think Like a Mountain",
+    "body": "When Aldo Leopold watched a wolf die, he saw green fire fade from her eyes and realized that hunters who eliminated wolves were thinking in years, not centuries. Without wolves, deer overpopulate and strip mountainsides bare, turning lush slopes into eroded rock. True ecological understanding demands we reason on timescales far longer than a human lifetime, attending to consequences that no single generation will live to witness.",
+    "source": {
+      "title": "A Sand County Almanac",
+      "author": "Aldo Leopold",
+      "year": 1949
+    },
+    "tags": [
+      "ecology",
+      "systems-thinking",
+      "nature"
+    ]
+  },
+  {
+    "id": "mathematics-19",
+    "title": "Find a Simpler Problem First",
+    "body": "Pólya's central heuristic for mathematical problem-solving was not to attack a hard problem directly but to first identify a friendlier analogue — simpler, more concrete, or more familiar. By solving that version, we build intuition and often discover that the original yields to the same method. This meta-skill of transforming a problem before tackling it outlasts any particular theorem and transfers across every domain of inquiry.",
+    "source": {
+      "title": "How to Solve It",
+      "author": "George Pólya",
+      "year": 1945
+    },
+    "tags": [
+      "mathematics",
+      "problem-solving",
+      "learning"
+    ]
+  },
+  {
+    "id": "relationships-09",
+    "title": "Repair Attempts Define Lasting Bonds",
+    "body": "Psychologist John Gottman's decades of research found that what distinguishes enduring relationships from failing ones is not the absence of conflict but the presence of repair attempts — the small jokes, apologies, or gestures that interrupt escalating tension. Even clumsy repair attempts succeed when there is an underlying reservoir of goodwill. It is the willingness to reach across the divide, not conflict-free harmony, that sustains intimacy over time.",
+    "source": {
+      "title": "The Seven Principles for Making Marriage Work",
+      "author": "John Gottman",
+      "year": 1999
+    },
+    "tags": [
+      "relationships",
+      "communication",
+      "conflict"
+    ]
+  },
+  {
+    "id": "history-24",
+    "title": "History Is Told from a Mountaintop",
+    "body": "Zinn argued that conventional historical narratives are assembled from the vantage point of the victorious — generals, presidents, industrialists — while the experiences of enslaved people, laborers, and indigenous communities vanish into footnotes. To understand the full arc of events, we must actively seek the view from below. The choice of whose story to center is never neutral; it determines what futures we believe are possible.",
+    "source": {
+      "title": "A People's History of the United States",
+      "author": "Howard Zinn",
+      "year": 1980
+    },
+    "tags": [
+      "history",
+      "power",
+      "perspective"
+    ]
+  },
+  {
+    "id": "mindset-08",
+    "title": "Truth Is What Works",
+    "body": "For William James, truth is not a static mirror of an independent reality but a living process: an idea becomes true insofar as it helps us navigate experience successfully. This does not mean anything goes — beliefs must survive contact with evidence, consequences, and other minds. The pragmatist shift is to ask not 'Does this correspond to some abstract fact?' but 'What practical difference does holding this belief make to how I live?'",
+    "source": {
+      "title": "Pragmatism",
+      "author": "William James",
+      "year": 1907
+    },
+    "tags": [
+      "philosophy",
+      "pragmatism",
+      "mindset"
+    ]
   }
 ]
