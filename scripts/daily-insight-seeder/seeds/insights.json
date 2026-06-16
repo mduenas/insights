@@ -6964,5 +6964,80 @@
       "pragmatism",
       "mindset"
     ]
+  },
+  {
+    "id": "science-27",
+    "title": "Life Exploits the Edge of Chaos",
+    "body": "Kauffman's research into complex adaptive systems revealed that the most adaptive and creative behavior — whether in biology, economics, or evolution — tends to occur at the boundary between rigid order and pure randomness. Systems too ordered become brittle; those too random dissolve into incoherence. The 'edge of chaos' is the fertile middle ground where structure and surprise coexist, and where evolution can explore without collapsing into noise.",
+    "source": {
+      "title": "At Home in the Universe: The Search for Laws of Self-Organization and Complexity",
+      "author": "Stuart Kauffman",
+      "year": 1995
+    },
+    "tags": [
+      "complexity",
+      "evolution",
+      "systems"
+    ]
+  },
+  {
+    "id": "mindset-09",
+    "title": "Washing Dishes Is an Act of Meditation",
+    "body": "Thich Nhat Hanh taught that mindfulness is not reserved for the meditation cushion but available in every ordinary act. When we wash dishes solely to get them clean, we rush through the task absent from our own lives. But when we wash each dish with full attention, the act itself becomes a moment of dwelling in the present. The miracle, he wrote, is not to walk on water but to walk on the green earth fully awake.",
+    "source": {
+      "title": "The Miracle of Mindfulness",
+      "author": "Thich Nhat Hanh",
+      "year": 1975
+    },
+    "tags": [
+      "mindfulness",
+      "presence",
+      "attention"
+    ]
+  },
+  {
+    "id": "creativity-19",
+    "title": "Man Is Fully Human Only When He Plays",
+    "body": "Schiller identified two competing drives in human nature: the sensuous drive, which binds us to pleasure and the material world, and the formal drive, which compels us toward reason and moral law. Neither alone is sufficient. The play drive — activated in aesthetic experience — reconciles them, producing a freedom that is neither coerced nor merely impulsive. For Schiller, art was not decoration but the site where humanity becomes most fully itself.",
+    "source": {
+      "title": "Letters on the Aesthetic Education of Man",
+      "author": "Friedrich Schiller",
+      "year": 1795
+    },
+    "tags": [
+      "aesthetics",
+      "creativity",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "philosophy-36",
+    "title": "Knowledge That Does Not Change You Has Not Been Understood",
+    "body": "Al-Ghazali argued that genuine understanding is inseparable from transformation. If knowing a truth does not alter how one lives, one has encountered only its words, not its reality. He saw purely academic theology as spiritually dangerous — capable of producing eloquent arguments while leaving the soul unchanged. For Al-Ghazali, the purpose of knowledge was not debate but the gradual reorientation of the whole person toward what matters most.",
+    "source": {
+      "title": "The Revival of the Religious Sciences",
+      "author": "Al-Ghazali",
+      "year": 1107
+    },
+    "tags": [
+      "wisdom",
+      "learning",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "values-09",
+    "title": "Emotion Is as Valid a Path to Truth as Reason",
+    "body": "Senghor's Negritude philosophy challenged the Enlightenment assumption that dispassionate reason alone constitutes knowledge. He argued that African ways of knowing — empathic, embodied, and communal — represent a distinct epistemology, not a deficiency. Where European rationalism sought to master the world through analysis and detachment, African humanism sought to participate in it through feeling and relation. For Senghor, emotion and reason were not opposites but twin paths to human wholeness.",
+    "source": {
+      "title": "On African Socialism",
+      "author": "Léopold Sédar Senghor",
+      "year": 1964
+    },
+    "tags": [
+      "philosophy",
+      "culture",
+      "knowledge"
+    ]
   }
 ]
