@@ -7039,5 +7039,85 @@
       "culture",
       "knowledge"
     ]
+  },
+  {
+    "id": "history-25",
+    "title": "We Define First, Then See",
+    "body": "Walter Lippmann observed that we navigate the world not through direct experience but through 'pictures in our heads' — simplified mental models built from culture, habit, and prior belief. We notice what matches our preconceptions and filter out the rest, which is why two witnesses to the same event can give irreconcilable accounts. This reversal of the assumed order — definition before perception — is the founding insight of modern media criticism and cognitive bias research.",
+    "source": {
+      "title": "Public Opinion",
+      "author": "Walter Lippmann",
+      "year": 1922
+    },
+    "tags": [
+      "perception",
+      "cognition",
+      "bias",
+      "media"
+    ]
+  },
+  {
+    "id": "economics-29",
+    "title": "Nature Makes No Jumps — and Neither Does the Economy",
+    "body": "Alfred Marshall placed 'natura non facit saltum' (nature makes no jumps) on the title page of his foundational treatise, borrowing from Darwin to argue that markets and human skills accumulate through slow, continuous processes rather than sudden leaps. Industrial capacities, consumer habits, and institutional structures are deeply embedded and resist rapid disruption. Understanding economic change, Marshall insisted, requires the patience of the naturalist rather than the speed of the engineer.",
+    "source": {
+      "title": "Principles of Economics",
+      "author": "Alfred Marshall",
+      "year": 1890
+    },
+    "tags": [
+      "economics",
+      "evolution",
+      "markets",
+      "continuity"
+    ]
+  },
+  {
+    "id": "literature-28",
+    "title": "Discovery Is Not New Places but New Eyes",
+    "body": "In his vast meditation on memory and time, Proust argued that genuine novelty comes not from external travel but from a transformation in the quality of attention itself. The same street walked a thousand times can suddenly reveal depths invisible to a distracted observer. What we experience as boredom with the world is usually the staleness of our own perception — and the task of art is to restore the strangeness that familiarity has worn away.",
+    "source": {
+      "title": "In Search of Lost Time, Vol. 5: The Captive",
+      "author": "Marcel Proust",
+      "year": 1923
+    },
+    "tags": [
+      "perception",
+      "attention",
+      "creativity",
+      "memory"
+    ]
+  },
+  {
+    "id": "science-28",
+    "title": "Scientific Truth Advances One Funeral at a Time",
+    "body": "Max Planck, a founder of quantum theory, reflected late in life that new scientific ideas rarely win by persuading established scientists — those who built careers on the old framework almost never abandon it. Paradigm change happens as the old guard retires and a younger generation, without prior commitments, finds the new view self-evident. Progress in science is therefore as much a social and generational process as a purely intellectual one.",
+    "source": {
+      "title": "Scientific Autobiography and Other Papers",
+      "author": "Max Planck",
+      "year": 1950
+    },
+    "tags": [
+      "science",
+      "progress",
+      "paradigms",
+      "institutions"
+    ]
+  },
+  {
+    "id": "creativity-20",
+    "title": "Life Imitates Art Far More Than Art Imitates Life",
+    "body": "Oscar Wilde's provocative inversion of the mimesis doctrine holds that imagination, not observation, shapes how we experience reality. We see sunsets through Turner's eyes; we recognize romantic suffering because novels gave us the vocabulary. Art does not hold a mirror to the world — it creates the very lenses through which the world becomes visible. Originality, for Wilde, is the supreme virtue precisely because it expands what life can be.",
+    "source": {
+      "title": "The Decay of Lying",
+      "author": "Oscar Wilde",
+      "year": 1889
+    },
+    "tags": [
+      "creativity",
+      "art",
+      "imagination",
+      "perception"
+    ]
   }
 ]
