@@ -7119,5 +7119,80 @@
       "imagination",
       "perception"
     ]
+  },
+  {
+    "id": "philosophy-37",
+    "title": "We Are Always Already Thrown Into the World",
+    "body": "Heidegger called the basic condition of human existence Geworfenheit — thrownness: we find ourselves already in a world we did not choose, with a language, a history, a body, a time, and circumstances not of our making. This is not a problem to be solved but the very structure of being human. Rather than paralysis, Heidegger argues thrownness is what makes authentic existence possible — only by owning the situation we have been thrown into, rather than fleeing into distraction or convention, can we truly choose who we will be.",
+    "source": {
+      "title": "Being and Time",
+      "author": "Martin Heidegger",
+      "year": 1927
+    },
+    "tags": [
+      "philosophy",
+      "existentialism",
+      "authenticity"
+    ]
+  },
+  {
+    "id": "science-29",
+    "title": "The Same Laws That Govern the Apple Govern the Stars",
+    "body": "Newton's Principia demonstrated something shocking: the force that pulls a falling apple toward the earth is the same force that holds the moon in its orbit and the planets in their paths. For the first time in history, terrestrial and celestial physics were unified under a single mathematical law. This principle of universality — that nature's fundamental rules do not change based on where you look — became the cornerstone of modern science and the deepest justification for the belief that reality is everywhere intelligible.",
+    "source": {
+      "title": "Mathematical Principles of Natural Philosophy",
+      "author": "Isaac Newton",
+      "year": 1687
+    },
+    "tags": [
+      "science",
+      "mathematics",
+      "discovery"
+    ]
+  },
+  {
+    "id": "literature-29",
+    "title": "Fail Again, Fail Better",
+    "body": "In Worstward Ho, Beckett reduced the entire practice of creative struggle to a few words: 'Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.' The phrase is not an injunction to succeed; it accepts failure as the permanent condition of anyone attempting something at the edge of their ability. Progress is not reaching the goal but failing with greater precision — narrowing the gap between intention and execution and doing so again, without illusion, without despair.",
+    "source": {
+      "title": "Worstward Ho",
+      "author": "Samuel Beckett",
+      "year": 1983
+    },
+    "tags": [
+      "literature",
+      "creativity",
+      "resilience"
+    ]
+  },
+  {
+    "id": "sociology-15",
+    "title": "Power Rules Most Effectively Through Common Sense",
+    "body": "Gramsci showed that dominant groups maintain their position not primarily through force but through cultural hegemony — the ability to have their particular values and worldview accepted as universal common sense by those they govern. Laws and police secure compliance; hegemony secures consent. The governed come to see the existing order as natural, inevitable, and in their own interest. This analysis explains why structural change is so difficult: the first obstacle is not the state's power but the internalized assumptions in the minds of ordinary people.",
+    "source": {
+      "title": "Prison Notebooks",
+      "author": "Antonio Gramsci",
+      "year": 1948
+    },
+    "tags": [
+      "sociology",
+      "politics",
+      "power"
+    ]
+  },
+  {
+    "id": "neuroscience-09",
+    "title": "The Body Knows Before the Mind Does",
+    "body": "Merleau-Ponty argued that the body is not a machine the mind inhabits but the very medium through which we are present to the world. Before any conscious reflection, the skilled typist's fingers already know the keyboard; the carpenter's hands anticipate the grain of the wood. This bodily intelligence — what he called the body schema — is not a lower or primitive form of knowledge but the foundation on which all higher cognition rests. To know something in your bones is not a metaphor; it is how knowledge actually works.",
+    "source": {
+      "title": "Phenomenology of Perception",
+      "author": "Maurice Merleau-Ponty",
+      "year": 1945
+    },
+    "tags": [
+      "neuroscience",
+      "embodiment",
+      "cognition"
+    ]
   }
 ]
