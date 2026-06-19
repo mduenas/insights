@@ -7194,5 +7194,80 @@
       "embodiment",
       "cognition"
     ]
+  },
+  {
+    "id": "learning-11",
+    "title": "Expertise Lives in Reflection, Not in Rules",
+    "body": "Schön observed that skilled professionals — architects, therapists, engineers — rarely solve problems by applying explicit theories from textbooks. Instead they engage in 'reflection-in-action': a real-time conversation with the situation in which they frame the problem, try an approach, notice the back-talk of the situation, and reframe on the fly. This is not improvisation but a disciplined form of inquiry embedded in doing. The gap between formal knowledge and professional competence is bridged not by more rules but by the cultivated capacity to learn from what the situation itself is saying.",
+    "source": {
+      "title": "The Reflective Practitioner",
+      "author": "Donald Schön",
+      "year": 1983
+    },
+    "tags": [
+      "learning",
+      "expertise",
+      "reflection"
+    ]
+  },
+  {
+    "id": "mathematics-20",
+    "title": "Mathematics Is an Art, Not a Calculation",
+    "body": "Lockhart argued that mathematics, as practiced by mathematicians, is an imaginative art — the construction of imaginary worlds governed by pure logic, explored for beauty and surprise. A proof is not a verification but a story; a theorem is not a rule but a discovery. The discipline taught in schools strips away all creativity in favor of mechanical procedure, presenting the finished monument without any of the struggle and delight that built it. When we reduce mathematics to computation, we don't simplify the subject — we replace it with something else entirely.",
+    "source": {
+      "title": "A Mathematician's Lament",
+      "author": "Paul Lockhart",
+      "year": 2009
+    },
+    "tags": [
+      "mathematics",
+      "creativity",
+      "education"
+    ]
+  },
+  {
+    "id": "habits-10",
+    "title": "Your Environment Chooses Before You Do",
+    "body": "Wood's research showed that nearly half of our daily behaviors are habitual — executed automatically in response to environmental cues, bypassing conscious deliberation entirely. The brain stores habits in the basal ganglia, a region of procedural memory rather than conscious thought, which is why willpower is such an unreliable tool for lasting change. When context is stable, the habit runs; when context shifts — a new city, a rearranged kitchen, a changed commute — the habit loses its trigger and deliberate choice rushes back in. The practical implication: redesign your surroundings rather than relying on resolve.",
+    "source": {
+      "title": "Good Habits, Bad Habits",
+      "author": "Wendy Wood",
+      "year": 2019
+    },
+    "tags": [
+      "habits",
+      "behavior",
+      "environment"
+    ]
+  },
+  {
+    "id": "neuroscience-10",
+    "title": "Every Act Has a Thousand Causes, Not One",
+    "body": "Sapolsky's synthesis of neuroscience, endocrinology, and evolutionary biology reveals that any human behavior is the final note of a long causal chord: what happened a second ago, what you dreamed last night, what your mother experienced during pregnancy, what your ancestors endured across millennia. Asking why someone acted as they did and stopping at one layer — 'they chose to,' or 'their amygdala fired,' or 'their culture told them to' — is like asking why a car moved and answering only 'the engine.' Understanding behavior requires holding multiple explanatory levels simultaneously rather than collapsing to the nearest and most satisfying one.",
+    "source": {
+      "title": "Behave: The Biology of Humans at Our Best and Worst",
+      "author": "Robert Sapolsky",
+      "year": 2017
+    },
+    "tags": [
+      "neuroscience",
+      "behavior",
+      "biology"
+    ]
+  },
+  {
+    "id": "resilience-09",
+    "title": "Resilience Is Ordinary, Not Extraordinary",
+    "body": "Masten's decades of research on children navigating poverty, war, and trauma upended the assumption that resilience is a rare quality of unusually strong individuals. What she found instead was that resilience is the expected outcome when the ordinary adaptive systems of human development — caring relationships, cognitive skills, a sense of agency — are protected or restored. The children who thrived were not exceptional; they were connected. This reframing shifts focus from identifying resilient individuals to building the communities and relationships that make resilience possible for anyone.",
+    "source": {
+      "title": "Ordinary Magic: Resilience in Development",
+      "author": "Ann Masten",
+      "year": 2015
+    },
+    "tags": [
+      "resilience",
+      "psychology",
+      "development"
+    ]
   }
 ]
