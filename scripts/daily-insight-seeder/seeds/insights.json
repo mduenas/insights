@@ -7269,5 +7269,80 @@
       "psychology",
       "development"
     ]
+  },
+  {
+    "id": "neuroscience-11",
+    "title": "Fear Is Learned Before It Can Be Thought",
+    "body": "LeDoux traced the neural pathways of fear and discovered that sensory signals reach the amygdala via a rapid, low-fidelity route that bypasses the cortex — the brain triggers a fear response before conscious thought begins. Emotional conditioning can therefore occur without awareness and can persist long after the rational mind understands that the original threat has passed. This is why cognitive understanding alone rarely cures phobias or trauma: the fear memory is stored in a system that does not speak the language of reflection, and must be addressed at the level where the learning originally happened.",
+    "source": {
+      "title": "The Emotional Brain",
+      "author": "Joseph LeDoux",
+      "year": 1996
+    },
+    "tags": [
+      "neuroscience",
+      "emotion",
+      "psychology"
+    ]
+  },
+  {
+    "id": "statistics-07",
+    "title": "Statistics Made Science Honest About Uncertainty",
+    "body": "Salsburg traces how Ronald Fisher, Egon Pearson, and Jerzy Neyman invented the tools — hypothesis tests, randomized experiments, confidence intervals — that forced twentieth-century science to quantify what it did not know. Before these methods, researchers drew firm conclusions from small, unrepeated observations; afterward, a result had to survive a probabilistic gauntlet before it could claim significance. Science did not become less ambitious; it became more honest about the gap between data and proof.",
+    "source": {
+      "title": "The Lady Tasting Tea",
+      "author": "David Salsburg",
+      "year": 2001
+    },
+    "tags": [
+      "statistics",
+      "science",
+      "methodology"
+    ]
+  },
+  {
+    "id": "mathematics-21",
+    "title": "Primes Are Both Utterly Random and Secretly Ordered",
+    "body": "Du Sautoy traces the two-century hunt for a pattern in the prime numbers — the atoms of arithmetic — and finds something paradoxical at their heart. Primes appear to scatter without pattern among the integers, yet the Riemann Hypothesis proposes that their distribution is governed by a hidden music: the non-trivial zeros of the zeta function align in a way that implies an invisible order beneath the apparent chaos. Mathematics' hardest unsolved problem sits at the intersection of randomness and structure, which is why resolving it would reveal something fundamental about the nature of number itself.",
+    "source": {
+      "title": "The Music of the Primes",
+      "author": "Marcus du Sautoy",
+      "year": 2003
+    },
+    "tags": [
+      "mathematics",
+      "number-theory",
+      "mystery"
+    ]
+  },
+  {
+    "id": "courage-09",
+    "title": "You May Encounter Defeats, But Must Not Be Defeated",
+    "body": "Angelou's memoir traces her path from childhood trauma and years of voluntary silence to the discovery that her own voice could be both weapon and shelter. The distinction she drew — between suffering a defeat in a moment and becoming a defeated person — runs through everything she wrote. Resilience, for Angelou, was not about the absence of falls or the erasure of pain, but about insisting that suffering does not have the final word on who you are. Each return to language, to community, and to creation was itself an act of courage before it was anything else.",
+    "source": {
+      "title": "I Know Why the Caged Bird Sings",
+      "author": "Maya Angelou",
+      "year": 1969
+    },
+    "tags": [
+      "courage",
+      "resilience",
+      "identity"
+    ]
+  },
+  {
+    "id": "mythology-08",
+    "title": "Myths Think Themselves Through Us",
+    "body": "Lévi-Strauss argued that myths are not primitive attempts at science or history but a distinct mode of thought that operates through binary oppositions — raw and cooked, nature and culture, life and death — and mediates between them. When he said myths 'think themselves in men without men knowing it,' he meant that the underlying logical structures operate below the level of conscious intent, and recur across unconnected cultures because they reflect deep patterns in human cognition. To study myth, for Lévi-Strauss, is ultimately to study the architecture of the mind itself.",
+    "source": {
+      "title": "Myth and Meaning",
+      "author": "Claude Lévi-Strauss",
+      "year": 1978
+    },
+    "tags": [
+      "mythology",
+      "anthropology",
+      "cognition"
+    ]
   }
 ]
