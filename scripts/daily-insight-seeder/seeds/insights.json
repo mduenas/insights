@@ -7344,5 +7344,80 @@
       "anthropology",
       "cognition"
     ]
+  },
+  {
+    "id": "literature-30",
+    "title": "In the beginning was the Deed",
+    "body": "When Goethe's Faust struggles to translate the opening of the Gospel of John, he rejects 'In the beginning was the Word' and settles on 'In the beginning was the Deed' — insisting that action, not language, is the true foundation of meaning. For Goethe, understanding that stops short of action remains incomplete; an idea only becomes real when it takes form in the world. This is not a rejection of thought but a claim that thought and doing are a single motion, each requiring the other.",
+    "source": {
+      "title": "Faust, Part One",
+      "author": "Johann Wolfgang von Goethe",
+      "year": 1808
+    },
+    "tags": [
+      "action",
+      "meaning",
+      "literature"
+    ]
+  },
+  {
+    "id": "literature-31",
+    "title": "The readiness is all",
+    "body": "Hamlet, contemplating mortality before the duel that will kill him, distills a lifetime of hesitation into five words: 'The readiness is all.' Shakespeare's insight is that we cannot control outcomes, only our inner preparation for whatever arrives. To be ready — not to force, hasten, or avoid — is the only genuine power we possess in the face of what life demands of us.",
+    "source": {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "year": 1601
+    },
+    "tags": [
+      "mortality",
+      "acceptance",
+      "readiness"
+    ]
+  },
+  {
+    "id": "leadership-14",
+    "title": "Invert, always invert",
+    "body": "Munger borrowed the mathematician Carl Jacobi's maxim — 'invert, always invert' — and made it a cornerstone of clear thinking. Rather than asking how to achieve a goal directly, first ask how to reliably fail at it, then avoid those conditions. This backward approach reveals hidden obstacles and foolish assumptions that forward thinking misses entirely, making decision-making far more robust.",
+    "source": {
+      "title": "Poor Charlie's Almanack",
+      "author": "Charlie Munger",
+      "year": 2005
+    },
+    "tags": [
+      "thinking",
+      "decision-making",
+      "problem-solving"
+    ]
+  },
+  {
+    "id": "mythology-09",
+    "title": "Perseverance is the other name for homecoming",
+    "body": "Odysseus spends ten years fighting to return to Ithaca after the fall of Troy, facing monsters, gods, and temptations that offer comfort at the cost of his identity. Homer's epic teaches that the journey home — to one's values, people, and self — is never simply geographical but always a moral and psychological struggle. The ability to say no to what is easy, again and again across years, is what separates those who arrive from those who drift.",
+    "source": {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "year": -800
+    },
+    "tags": [
+      "perseverance",
+      "identity",
+      "mythology"
+    ]
+  },
+  {
+    "id": "science-30",
+    "title": "What breathes fire into the equations?",
+    "body": "Hawking's question cuts to the heart of modern physics: even a perfect set of equations leaves the deepest question unanswered — why does anything exist for those equations to describe? Mathematics can capture the structure of reality, but it cannot explain why those particular rules apply to anything at all. The question divides scientific explanation from philosophical understanding, reminding us that even the most powerful theories leave a gap at their foundation.",
+    "source": {
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "year": 1988
+    },
+    "tags": [
+      "science",
+      "philosophy",
+      "cosmology"
+    ]
   }
 ]
