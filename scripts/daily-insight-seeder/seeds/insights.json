@@ -7419,5 +7419,80 @@
       "philosophy",
       "cosmology"
     ]
+  },
+  {
+    "id": "focus-08",
+    "title": "We Tell Ourselves Stories in Order to Live",
+    "body": "Didion opens her collection with a compressed theory of consciousness: the mind insists on narrative coherence even when events refuse to arrange themselves into sense. We are meaning-making creatures before we are anything else, and the stories we construct allow us to act in a world that is otherwise too chaotic to navigate. The danger she maps is the underside of this gift — when the explanatory story we rely on stops matching what is actually happening, the self begins to fragment along with it. Learning to notice when your own narrative is failing, rather than defending it until it collapses, may be the most critical form of self-awareness.",
+    "source": {
+      "title": "The White Album",
+      "author": "Joan Didion",
+      "year": 1979
+    },
+    "tags": [
+      "focus",
+      "identity",
+      "narrative"
+    ]
+  },
+  {
+    "id": "sociology-16",
+    "title": "Every Image of the Other Is Also a Self-Portrait",
+    "body": "Said argued that the vast body of Western scholarship, literature, and art about the 'Orient' — its mysticism, timelessness, and sensuality — was not a description of actual places but a projection that served Western dominance. The Orient as a concept was produced by the West and revealed far more about European anxieties and self-images than about the societies being represented. Once you see this mechanism at work in one place, you see it everywhere: every culture's image of the 'other' is simultaneously a self-portrait, a set of choices about what to displace outside the boundary of 'us.' Knowledge and power, Said showed, are never cleanly separated.",
+    "source": {
+      "title": "Orientalism",
+      "author": "Edward Said",
+      "year": 1978
+    },
+    "tags": [
+      "sociology",
+      "culture",
+      "power"
+    ]
+  },
+  {
+    "id": "philosophy-38",
+    "title": "Objective Facts Cannot Capture Subjective Experience",
+    "body": "Nagel's famous essay asks what it is like to be a bat — a creature that perceives the world through echolocation. His point is not that bats are fascinating but that no amount of third-person, physical description of bat neurology can capture the first-person, felt quality of bat experience. Even a complete theory of the brain, Nagel argued, would leave something out: consciousness as it is lived from the inside. This is the 'hard problem' — not explaining how the brain processes information, but explaining why any of that processing is accompanied by subjective experience at all. The gap between map and territory applies not just to the world but to the self.",
+    "source": {
+      "title": "Mortal Questions",
+      "author": "Thomas Nagel",
+      "year": 1979
+    },
+    "tags": [
+      "philosophy",
+      "consciousness",
+      "mind"
+    ]
+  },
+  {
+    "id": "psychology-25",
+    "title": "Atrocity Requires Ordinary People More Than Monsters",
+    "body": "Milgram's obedience experiments showed that a large majority of ordinary volunteers — teachers, clerks, engineers — would deliver what they believed to be dangerous electric shocks to a stranger, simply because an authority figure in a white coat told them to continue. The findings demolished the comfortable hypothesis that evil requires evil people: it requires legitimate-seeming authority, incremental escalation, and the psychological shift from agent to instrument. Milgram called this the 'agentic state' — a mode in which people stop evaluating their actions and begin executing instructions. The most important moral safeguard, his work implies, is the habit of asking whether you are still the author of your own actions.",
+    "source": {
+      "title": "Obedience to Authority",
+      "author": "Stanley Milgram",
+      "year": 1974
+    },
+    "tags": [
+      "psychology",
+      "ethics",
+      "authority"
+    ]
+  },
+  {
+    "id": "productivity-06",
+    "title": "The Maker and the Critic Must Remain Separate",
+    "body": "Auden argued that every artist harbors two distinct persons: the Maker who generates and the Critic who judges — and that sustained creative work depends on keeping them functionally apart. When the Critic intrudes too soon, demanding coherence before anything genuine has formed, the Maker is silenced. Only after the Maker has had unimpeded time to produce should the Critic arrive: clear-eyed, unattached, willing to discard what does not serve. This sequential rhythm — full generation first, ruthless evaluation second — appears across creative disciplines and explains why 'just write the bad draft' is not merely permission to be sloppy but a structural prescription for how good work actually emerges.",
+    "source": {
+      "title": "The Dyer's Hand and Other Essays",
+      "author": "W.H. Auden",
+      "year": 1962
+    },
+    "tags": [
+      "productivity",
+      "creativity",
+      "writing"
+    ]
   }
 ]
