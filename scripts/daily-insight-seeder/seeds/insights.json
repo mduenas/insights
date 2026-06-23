@@ -7494,5 +7494,80 @@
       "creativity",
       "writing"
     ]
+  },
+  {
+    "id": "philosophy-39",
+    "title": "The Experience Machine Reveals What Pleasure Cannot Buy",
+    "body": "Nozick asks you to imagine a machine that could give you any experience you desired — the pleasure of writing a great novel, forging deep friendships, achieving fame — while your body floated in a tank, all of it perfectly simulated. The fact that most people refuse to plug in permanently, he argues, tells us something important: we don't just want pleasurable experiences, we want to actually do things, to actually be certain kinds of people, and to be in contact with a reality deeper than simulation. This thought experiment is a decisive challenge to hedonism — the view that only pleasure and pain matter — and to any theory that reduces human flourishing to subjective states alone. It suggests that authenticity, agency, and genuine connection are goods in themselves, not merely because of how they feel.",
+    "source": {
+      "title": "Anarchy, State, and Utopia",
+      "author": "Robert Nozick",
+      "year": 1974
+    },
+    "tags": [
+      "philosophy",
+      "ethics",
+      "happiness"
+    ]
+  },
+  {
+    "id": "sociology-17",
+    "title": "Laws Must Fit the Society They Govern",
+    "body": "Montesquieu argued that there is no single correct set of laws that can be transplanted universally; instead, laws derive their spirit from the climate, religion, economy, customs, and scale of the polity they govern. A republic requires civic virtue; a monarchy requires honor; a despotism requires fear — and each form of government corrupts in characteristic ways when its animating principle weakens. His comparative method — studying actual societies rather than deriving rules from abstract first principles — was one of the founding gestures of social science. His analysis of separated executive, legislative, and judicial powers directly shaped the constitutions of the United States and France.",
+    "source": {
+      "title": "The Spirit of Laws",
+      "author": "Montesquieu",
+      "year": 1748
+    },
+    "tags": [
+      "sociology",
+      "politics",
+      "governance"
+    ]
+  },
+  {
+    "id": "psychology-26",
+    "title": "Public Opinion Is Manufactured, Not Formed",
+    "body": "Bernays argued that the 'conscious and intelligent manipulation of the organized habits and opinions of the masses' is an unavoidable feature of democratic society — and that those who operate this hidden mechanism constitute an 'invisible government.' Drawing on his uncle Sigmund Freud's insights about unconscious motivation, he developed techniques that appeal to group identity and emotion rather than rational argument. The uncomfortable implication is that what feels like spontaneous public opinion is frequently the product of deliberate engineering by PR professionals, advertisers, and political operatives. Recognizing this mechanism is the prerequisite for questioning it.",
+    "source": {
+      "title": "Propaganda",
+      "author": "Edward Bernays",
+      "year": 1928
+    },
+    "tags": [
+      "psychology",
+      "media",
+      "persuasion"
+    ]
+  },
+  {
+    "id": "mathematics-22",
+    "title": "No Voting System Can Be Perfectly Fair",
+    "body": "Arrow's impossibility theorem proves mathematically that no ranked-choice voting system can simultaneously satisfy a small set of conditions that almost everyone would regard as reasonable: if all voters prefer A to B then society should too; the ranking of A versus B should not depend on a third irrelevant alternative; and no single voter should function as a dictator. The proof shows these conditions are mutually incompatible for any group of three or more alternatives. Rather than a cause for despair, Arrow's result is a call for humility: there is no perfect aggregation of preferences, only trade-offs, and every voting system embeds particular choices about which fairness criterion to sacrifice.",
+    "source": {
+      "title": "Social Choice and Individual Values",
+      "author": "Kenneth Arrow",
+      "year": 1951
+    },
+    "tags": [
+      "mathematics",
+      "politics",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "time-09",
+    "title": "Lived Time Cannot Be Divided Into Moments",
+    "body": "Bergson distinguished between clock time — which carves duration into countable, spatial units like points on a line — and lived duration (durée), which flows as an undivided continuum in which past and present interpenetrate rather than merely succeed each other. When you listen to a melody, you do not hear a series of separate notes but a whole unfolding at once, each note colored by everything that preceded it. Bergson argued that science's quantified time is a useful abstraction but misses the essence of conscious life, where memory and anticipation fuse into each present moment. This insight shaped Einstein's conversations about relativity, Proust's narrative technique, and virtually every 20th-century philosopher of mind.",
+    "source": {
+      "title": "Time and Free Will",
+      "author": "Henri Bergson",
+      "year": 1889
+    },
+    "tags": [
+      "philosophy",
+      "time",
+      "consciousness"
+    ]
   }
 ]
