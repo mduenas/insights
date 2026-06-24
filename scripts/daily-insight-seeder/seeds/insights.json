@@ -7569,5 +7569,80 @@
       "time",
       "consciousness"
     ]
+  },
+  {
+    "id": "communication-07",
+    "title": "Genuine agreement requires shared understanding, not just shared words",
+    "body": "Habermas distinguishes between strategic action — using communication to get what you want — and communicative action, in which participants genuinely aim to reach mutual understanding. Most conflict persists not because people lack common interest but because they talk past each other, each treating the other as an obstacle rather than a partner in meaning-making. Communicative rationality is the capacity to give and respond to reasons openly, without domination or deception. Where this capacity flourishes, genuine consensus becomes possible even among people with very different starting points.",
+    "source": {
+      "title": "The Theory of Communicative Action",
+      "author": "Jürgen Habermas",
+      "year": 1981
+    },
+    "tags": [
+      "communication",
+      "philosophy",
+      "reason"
+    ]
+  },
+  {
+    "id": "psychology-21",
+    "title": "There is a second moral voice that speaks in care, not rules",
+    "body": "Gilligan challenged Lawrence Kohlberg's dominant theory that moral development progresses from obedience to abstract principles of justice. Through interviews with women, she identified a different moral voice — one that centers relationships, responsiveness, and responsibility for particular others rather than universal rules. Neither voice is superior; together they represent two complementary ways of seeing moral life. Recognizing both makes us better at navigating the real-world tensions between fairness and connection.",
+    "source": {
+      "title": "In a Different Voice",
+      "author": "Carol Gilligan",
+      "year": 1982
+    },
+    "tags": [
+      "ethics",
+      "psychology",
+      "relationships"
+    ]
+  },
+  {
+    "id": "sociology-13",
+    "title": "The wealth of modernity is matched by its risks",
+    "body": "Beck argued that industrial society succeeded so thoroughly that it created a new kind of threat: systemic risks — pollution, financial contagion, nuclear hazard — that cannot be confined to a single time, place, or social class. Unlike poverty, which strikes the vulnerable, these manufactured risks circle back to affect those who produced them. The result is a 'risk society' in which the political conflicts of the 21st century are not primarily about how to distribute goods but about how to prevent, distribute, and assign responsibility for bads.",
+    "source": {
+      "title": "Risk Society: Towards a New Modernity",
+      "author": "Ulrich Beck",
+      "year": 1986
+    },
+    "tags": [
+      "sociology",
+      "risk",
+      "modernity"
+    ]
+  },
+  {
+    "id": "philosophy-31",
+    "title": "The view from nowhere is both our greatest aspiration and a kind of illusion",
+    "body": "Nagel argues that human reason is distinguished by the capacity to step outside our personal perspective and try to see things objectively — from 'nowhere' in particular. This aspiration underlies science, ethics, and logic. Yet no one ever fully escapes having a point of view: consciousness, sensation, and meaning are irreducibly subjective. The deepest problems of philosophy arise at the collision point between the objective picture of the world that science constructs and the subjective experience that makes the world matter.",
+    "source": {
+      "title": "The View from Nowhere",
+      "author": "Thomas Nagel",
+      "year": 1986
+    },
+    "tags": [
+      "philosophy",
+      "consciousness",
+      "objectivity"
+    ]
+  },
+  {
+    "id": "ethics-09",
+    "title": "When markets decide what something is worth, they also change what it is",
+    "body": "Sandel identifies a shift from having a market economy to being a market society — one in which the logic of buying and selling infiltrates every domain of life, from health and education to friendship and civic duty. But markets are not neutral conveyors; they alter the character of the goods they touch. A civic honor bought is no longer an honor; a friendship maintained by payment ceases to be freely given. The real argument about markets is therefore not just about efficiency or distribution, but about which social goods money should be able to reach at all.",
+    "source": {
+      "title": "What Money Can't Buy: The Moral Limits of Markets",
+      "author": "Michael Sandel",
+      "year": 2012
+    },
+    "tags": [
+      "ethics",
+      "economics",
+      "values"
+    ]
   }
 ]
