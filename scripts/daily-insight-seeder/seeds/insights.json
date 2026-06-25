@@ -7644,5 +7644,80 @@
       "economics",
       "values"
     ]
+  },
+  {
+    "id": "statistics-08",
+    "title": "Exceptional Outcomes Always Drift Back Toward Average",
+    "body": "Galton discovered what he called 'regression toward mediocrity': tall parents tend to have children shorter than themselves, and short parents tend to have children taller — both groups drift toward the population mean. This statistical reality, now called regression to the mean, has profound practical consequences: a student who scores exceptionally well one week is likely to score closer to average the next, not because ability declined but because extreme scores partly reflect chance. Managers who praise exceptional performance and criticize poor performance will reliably observe improvement after criticism and decline after praise — and wrongly attribute both to their interventions rather than to statistical inevitability.",
+    "source": {
+      "title": "Natural Inheritance",
+      "author": "Francis Galton",
+      "year": 1889
+    },
+    "tags": [
+      "statistics",
+      "decision-making",
+      "cognition"
+    ]
+  },
+  {
+    "id": "productivity-07",
+    "title": "Efficiency Is Doing Things Right; Effectiveness Is Doing the Right Things",
+    "body": "Drucker argued that knowledge workers cannot be managed by output volume alone — the first question must always be whether they are working on the right things at all. An organization can be highly efficient at the wrong task, squandering resources in an orderly way. Effectiveness is the foundation: it requires defining what results actually matter, which is a judgment about purpose rather than method. Efficiency without effectiveness — doing the wrong thing well — is ultimately more wasteful than disorder, because it forecloses the opportunity to redirect toward something better.",
+    "source": {
+      "title": "The Effective Executive",
+      "author": "Peter Drucker",
+      "year": 1967
+    },
+    "tags": [
+      "productivity",
+      "leadership",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "wealth-08",
+    "title": "Private Vices Are the Engine of Public Prosperity",
+    "body": "Mandeville scandalized readers with his argument that the vices moralists condemned — luxury, vanity, and restless self-interest — are precisely what generate economic activity and collective prosperity. His 'Grumbling Hive' showed that bees who achieved perfect virtue promptly became poor: a society of thrifty, austere citizens creates no demand for artisans, no trade, no employment. This uncomfortable paradox — that individual moral failure can produce collective benefit — anticipates Adam Smith's invisible hand and forces a wedge between personal virtue and social good that moral philosophy has never fully closed.",
+    "source": {
+      "title": "The Fable of the Bees",
+      "author": "Bernard de Mandeville",
+      "year": 1714
+    },
+    "tags": [
+      "wealth",
+      "economics",
+      "ethics"
+    ]
+  },
+  {
+    "id": "focus-09",
+    "title": "Attention Is the Beginning of Moral Life",
+    "body": "Murdoch argued that morality is not primarily about choices made at dramatic moments of decision, but about the quality of attention we bring to other people in ordinary time. To attend to someone — really see them, rather than project our fears and fantasies onto them — is already a moral act, and the hardest one. 'The foundation of morality is not the will but the vision,' she wrote; moral improvement is not willpower applied to fixed circumstances but a transformation in what we are capable of seeing. Before we can act rightly, we must first learn to look rightly.",
+    "source": {
+      "title": "The Sovereignty of Good",
+      "author": "Iris Murdoch",
+      "year": 1970
+    },
+    "tags": [
+      "focus",
+      "ethics",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "linguistics-11",
+    "title": "Language Is a Cultural Tool, Not a Biological Instinct",
+    "body": "Everett's fieldwork with the Pirahã people of the Amazon challenged the dominant view that language is a hard-wired universal grammar encoded in the human brain. Pirahã lacks recursion — the ability to embed clauses within clauses — which Chomsky considered language's defining feature. Everett concluded that language is not a biological instinct but a cultural tool shaped by a community's values, needs, and history. What we take to be universal features of language may simply be features universal to the cultures that linguists have historically studied.",
+    "source": {
+      "title": "Language: The Cultural Tool",
+      "author": "Daniel Everett",
+      "year": 2012
+    },
+    "tags": [
+      "linguistics",
+      "culture",
+      "anthropology"
+    ]
   }
 ]
