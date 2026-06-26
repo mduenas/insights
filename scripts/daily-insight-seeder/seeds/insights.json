@@ -7719,5 +7719,80 @@
       "culture",
       "anthropology"
     ]
+  },
+{
+    "id": "learning-12",
+    "title": "Children learn best by making things, not by being taught",
+    "body": "Papert coined the term constructionism — distinct from Piaget's constructivism — to name the observation that people learn most powerfully when they are building something shareable: a program, a model, a poem, a machine. The artifact is not merely a product of learning but an instrument of it; having something to show others forces the maker to render thinking explicit and therefore correctable. Papert saw computers as the first medium in history that could put the tools of construction in children's hands at the scale of their ideas. The deeper claim is that the best learning environments are not designed for instruction but for making.",
+    "source": {
+      "title": "Mindstorms: Children, Computers, and Powerful Ideas",
+      "author": "Seymour Papert",
+      "year": 1980
+    },
+    "tags": [
+      "learning",
+      "education",
+      "creativity"
+    ]
+  },
+  {
+    "id": "sociology-18",
+    "title": "What the state can measure it tries to manage; what it cannot see it destroys",
+    "body": "Scott showed that modern states, in the name of improvement, consistently destroyed the local knowledge — what the ancient Greeks called metis — that made communities resilient. High-modernist planning projects, from collectivized agriculture to urban renewal, imposed simplified uniform schemes on complex adapted practices and failed catastrophically. The problem was not malice but epistemics: planners could only act on what they could see and count, and they systematically discounted everything that resisted measurement. Legibility is not neutral — making something visible to the state is often the first step toward its transformation into something the state can administer.",
+    "source": {
+      "title": "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed",
+      "author": "James Scott",
+      "year": 1998
+    },
+    "tags": [
+      "sociology",
+      "politics",
+      "systems"
+    ]
+  },
+  {
+    "id": "science-31",
+    "title": "Energy constraints are the inescapable foundation beneath every human achievement",
+    "body": "Smil spent decades tracing the material and energetic foundations of civilization, showing that advances in agriculture, industry, and information technology are all, at their root, advances in the capture and conversion of energy. Each shift in primary energy — wood to coal to oil to electricity — unlocks new scales of organization, complexity, and reach. Smil's corrective to techno-optimism is not pessimism but materialism: code does not run on intention, cities do not feed themselves on data, and the limits imposed by thermodynamics do not yield to disruption. Every civilization is, in the end, an energy system.",
+    "source": {
+      "title": "Energy and Civilization: A History",
+      "author": "Václav Smil",
+      "year": 2017
+    },
+    "tags": [
+      "science",
+      "history",
+      "systems"
+    ]
+  },
+  {
+    "id": "economics-30",
+    "title": "Human experience has become raw material for behavioral prediction markets",
+    "body": "Zuboff identified a new economic logic she called surveillance capitalism: the unilateral claiming of human experience as a raw material, translated into behavioral data, refined into prediction products, and sold to advertisers and others. Unlike industrial capitalism, which claimed nature as its raw material, surveillance capitalism claims human life itself — attention, behavior, affect, personality. What makes this distinctive is that users do not exchange their data; it is taken without negotiation as a byproduct of services that appear free. The result is an asymmetry of knowledge and power unprecedented in any nominally democratic society.",
+    "source": {
+      "title": "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power",
+      "author": "Shoshana Zuboff",
+      "year": 2019
+    },
+    "tags": [
+      "economics",
+      "technology",
+      "society"
+    ]
+  },
+  {
+    "id": "mathematics-23",
+    "title": "Mathematical truth is discovered, not invented",
+    "body": "Penrose returned to a Platonic argument that most working mathematicians implicitly accept but rarely examine: that mathematical objects — prime numbers, the Mandelbrot set, Hilbert spaces — exist independently of any mind that encounters them. The evidence he drew on was Gödel's incompleteness theorems: if mathematical truth were merely a product of formal systems we construct, there could be no true statements that transcend any given system, but Gödel showed exactly that such statements exist. Penrose's deeper claim is that this Platonic reality explains what Wigner called the unreasonable effectiveness of mathematics — the physical world and mathematics share an underlying order that neither humans nor their formal systems invented.",
+    "source": {
+      "title": "The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics",
+      "author": "Roger Penrose",
+      "year": 1989
+    },
+    "tags": [
+      "mathematics",
+      "philosophy",
+      "mind"
+    ]
   }
 ]
