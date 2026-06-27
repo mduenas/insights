@@ -7794,5 +7794,80 @@
       "philosophy",
       "mind"
     ]
+  },
+  {
+    "id": "sociology-19",
+    "title": "Affluence can suppress opposition more effectively than repression",
+    "body": "Marcuse argued that advanced industrial societies had discovered a form of social control more insidious than censorship or force: the provision of satisfactions. When a system can absorb radical opposition by commodifying it — packaging rebellion as a style, dissent as a consumer option — it neutralizes critique not by defeating it but by assimilating it. A society that provides comfort, entertainment, and endless choice may be more effective at closing off genuine alternatives than one that openly denies them. The troubling implication is that the very feeling of freedom can be the subtlest form of unfreedom.",
+    "source": {
+      "title": "One-Dimensional Man",
+      "author": "Herbert Marcuse",
+      "year": 1964
+    },
+    "tags": [
+      "sociology",
+      "politics",
+      "culture"
+    ]
+  },
+  {
+    "id": "history-26",
+    "title": "We can truly know history because we made it",
+    "body": "Vico challenged Descartes by proposing that mathematical certainty is possible precisely because mathematics is a human construction — we know it completely because we invented it. The same principle applies to history: human beings can understand the human past with a depth they can never achieve with the natural world, because the social world is itself a human product. This insight — that maker's knowledge is the deepest knowledge — anticipated later debates about the social sciences and remains a productive challenge to anyone who assumes that only the methods of natural science yield genuine understanding.",
+    "source": {
+      "title": "The New Science",
+      "author": "Giambattista Vico",
+      "year": 1725
+    },
+    "tags": [
+      "history",
+      "philosophy",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "time-10",
+    "title": "Civilization has conquered space; it has abandoned time",
+    "body": "Heschel argued that Western civilization is obsessed with space — building, acquiring, and conquering territory and objects — while the biblical tradition points toward a different mastery: the sanctification of time. The Sabbath is not a pause from work but the climax of the week, a cathedral built not in stone but in hours, where rest is not the absence of activity but a positive presence. Exhaustion and overextension are not failures of time management but symptoms of a culture that has no concept of time as something sacred — worth protecting not for what it produces but for what it is.",
+    "source": {
+      "title": "The Sabbath",
+      "author": "Abraham Joshua Heschel",
+      "year": 1951
+    },
+    "tags": [
+      "time",
+      "religion",
+      "culture"
+    ]
+  },
+  {
+    "id": "literature-32",
+    "title": "Routine collapses time; only the novel moment gives it back",
+    "body": "Mann's Hans Castorp arrives at a mountain sanatorium for three weeks and stays seven years, discovering that illness and enforced idleness invert our ordinary relationship with time. When every day brings new sensations and ideas, time expands to hold them; when routine erases the need for attention, weeks vanish without trace. This paradox — that the monotonous life feels longest while living it yet shortest in memory, while the rich experience feels swift but leaves thick deposits — is one of the deepest observations in the novel. What we call a full life is one whose days leave residue, not one whose days simply pass.",
+    "source": {
+      "title": "The Magic Mountain",
+      "author": "Thomas Mann",
+      "year": 1924
+    },
+    "tags": [
+      "literature",
+      "time",
+      "memory"
+    ]
+  },
+  {
+    "id": "science-32",
+    "title": "Facts are made, not found — follow science while it is being done",
+    "body": "Latour argued that the standard account of science — starting with finished facts and working backward to nature — inverts the actual process. Facts are produced through networks: allies recruited, instruments built, texts circulated, and objections defeated. A claim becomes a fact only when it is no longer worth disputing, at which point it retroactively appears to have always been self-evidently true. To understand how science works, Latour urged, follow a controversy in progress rather than reading a textbook — the finished product systematically erases the labor, choices, and contingencies that produced it.",
+    "source": {
+      "title": "Science in Action",
+      "author": "Bruno Latour",
+      "year": 1987
+    },
+    "tags": [
+      "science",
+      "epistemology",
+      "sociology"
+    ]
   }
 ]
