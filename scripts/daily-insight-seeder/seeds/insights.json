@@ -7869,5 +7869,80 @@
       "epistemology",
       "sociology"
     ]
+  },
+  {
+    "id": "psychology-27",
+    "title": "The Self Is Discovered Through Play, Not Instruction",
+    "body": "Winnicott proposed that a child develops genuine selfhood not by being taught or corrected but by playing in a safe-enough space where experience can be freely explored without consequence. He called this space 'potential space' — neither purely inner fantasy nor outer reality — and argued that creativity, culture, and psychotherapy all inhabit the same intermediate zone. The implication is radical: you cannot give someone an identity through direction; you can only create conditions in which identity can be found.",
+    "source": {
+      "title": "Playing and Reality",
+      "author": "Donald Winnicott",
+      "year": 1971
+    },
+    "tags": [
+      "psychology",
+      "creativity",
+      "identity"
+    ]
+  },
+  {
+    "id": "science-33",
+    "title": "Complex Systems Evolve to the Edge of Catastrophe",
+    "body": "Bak discovered that many natural systems — sandpiles, earthquakes, neural avalanches, extinction events — spontaneously organize to a critical state in which small perturbations can trigger cascades of any size, with no characteristic scale. He called this 'self-organized criticality,' arguing it explains why large disasters are not rare anomalies but the natural product of systems living at the threshold between order and collapse. A corollary with policy implications: aggressively suppressing small failures can store up the energy for catastrophic ones.",
+    "source": {
+      "title": "How Nature Works",
+      "author": "Per Bak",
+      "year": 1996
+    },
+    "tags": [
+      "science",
+      "complexity",
+      "systems"
+    ]
+  },
+  {
+    "id": "literature-33",
+    "title": "The Two Most Precious Words Are 'I Don't Know'",
+    "body": "In her Nobel lecture, Szymborska argued that 'I don't know' is not an admission of defeat but the generative source of all genuine inquiry. Scientists and poets alike begin from acknowledged ignorance; it is what sets them in motion and keeps the world open. Those who claim to know everything already have removed themselves from the adventure of discovery. For Szymborska, intellectual humility was not modesty but the precondition of imagination — any mind that regularly entertains it keeps itself alive.",
+    "source": {
+      "title": "The Poet and the World",
+      "author": "Wisława Szymborska",
+      "year": 1996
+    },
+    "tags": [
+      "literature",
+      "curiosity",
+      "creativity"
+    ]
+  },
+  {
+    "id": "economics-31",
+    "title": "Prosperity Without Growth Is the Real Economic Challenge",
+    "body": "Raworth argued that mainstream economics inherited the assumption of perpetual GDP growth from the mid-twentieth century and never questioned whether it remained valid on a finite planet. She proposed replacing the growth imperative with a 'doughnut': a social foundation below which no one should fall, and an ecological ceiling above which humanity cannot safely push. The goal of economic policy shifts from maximizing output to distributing well-being within planetary boundaries — a redesign of the economy's purpose rather than just its mechanics.",
+    "source": {
+      "title": "Doughnut Economics",
+      "author": "Kate Raworth",
+      "year": 2017
+    },
+    "tags": [
+      "economics",
+      "ecology",
+      "systems"
+    ]
+  },
+  {
+    "id": "anthropology-10",
+    "title": "Language Is Grooming at Scale",
+    "body": "Dunbar found a precise correlation between neocortex size and social group size across primates, suggesting that intelligence evolved primarily to manage complex relationships rather than to solve ecological problems. In humans, this cognitive ceiling — roughly 150 stable relationships — limits the communities we can sustain without institutional scaffolding. Language, Dunbar argued, arose as a more scalable form of social bonding: instead of grooming one-to-one through touch, we bond many-to-one through conversation and shared narrative, trading intimacy for reach.",
+    "source": {
+      "title": "Grooming, Gossip, and the Evolution of Language",
+      "author": "Robin Dunbar",
+      "year": 1996
+    },
+    "tags": [
+      "anthropology",
+      "evolution",
+      "language"
+    ]
   }
 ]
