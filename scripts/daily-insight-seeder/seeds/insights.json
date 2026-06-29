@@ -7944,5 +7944,80 @@
       "evolution",
       "language"
     ]
+  },
+  {
+    "id": "sociology-20",
+    "title": "A False Belief Can Make Itself True",
+    "body": "Merton named the 'self-fulfilling prophecy': a belief that is initially false but causes behavior that makes it come true. A bank run is the classic example — a rumor that a bank will fail triggers mass withdrawals that destroy a healthy institution. The same dynamic operates in stock markets, social hierarchies, and self-image: people labeled incapable often become incapable, not through any real deficiency but through the downstream effects of the label. Recognizing this loop is the first step toward disrupting it, and toward understanding why stereotypes are not merely descriptive but causally generative.",
+    "source": {
+      "title": "Social Theory and Social Structure",
+      "author": "Robert Merton",
+      "year": 1949
+    },
+    "tags": [
+      "sociology",
+      "psychology",
+      "belief"
+    ]
+  },
+  {
+    "id": "philosophy-40",
+    "title": "No Belief Is Immune from Revision",
+    "body": "Quine argued that our beliefs do not each correspond individually to a fragment of experience; instead they form a web where peripheral claims face experience directly while core beliefs — including the laws of logic — are shielded at the center. But the entire web adjusts when something fails: any belief, in principle, can be retained by revising others, and any belief can be abandoned. What we choose to preserve versus sacrifice is ultimately pragmatic. This holistic view of knowledge has profound implications for scientific revolutions and rational belief-change: there is no bedrock of certainties, only a floating raft we repair plank by plank while at sea.",
+    "source": {
+      "title": "Two Dogmas of Empiricism",
+      "author": "W.V.O. Quine",
+      "year": 1951
+    },
+    "tags": [
+      "philosophy",
+      "epistemology",
+      "science"
+    ]
+  },
+  {
+    "id": "science-34",
+    "title": "Nature Must Be Felt as Well as Known",
+    "body": "Humboldt insisted that science and aesthetic experience were complementary, not opposed. He argued that an accurate description of nature must convey its living interconnections — the way climate shapes vegetation, vegetation shapes fauna, and fauna shapes human culture — rather than isolating phenomena in sterile categories. He was among the first to gather data across continents and altitudes to show that nature operates as a unified whole. For Humboldt, the ultimate aim of science was not domination of nature but a deeper intimacy with it: knowledge that intensified, rather than replaced, wonder.",
+    "source": {
+      "title": "Cosmos",
+      "author": "Alexander von Humboldt",
+      "year": 1845
+    },
+    "tags": [
+      "science",
+      "ecology",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "psychology-28",
+    "title": "Behavior Is Always a Function of Person and Environment Together",
+    "body": "Lewin's foundational equation — B = f(P, E) — challenged both behaviorism and pure trait psychology. Human behavior cannot be explained by studying the person in isolation or the environment in isolation; it emerges from their dynamic interaction. What a person does in a meeting room differs from what they do at home not because a different person shows up, but because the 'life space' — the totality of facts that influence them at that moment — has changed. This insight redirected psychology toward the study of situations, nudges, and social architecture as much as toward personalities.",
+    "source": {
+      "title": "Field Theory in Social Science",
+      "author": "Kurt Lewin",
+      "year": 1951
+    },
+    "tags": [
+      "psychology",
+      "behavior",
+      "environment"
+    ]
+  },
+  {
+    "id": "mathematics-24",
+    "title": "A Machine Can Only Do What We Know How to Order It to Do",
+    "body": "In her landmark commentary on Babbage's Analytical Engine, Lovelace recognized both the machine's vast potential and its fundamental limit: it could operate only within the framework of operations supplied by human intelligence. While she envisioned the engine composing music and manipulating symbols beyond mere arithmetic, she also warned against anthropomorphizing it — it has no power of originating anything. This paired insight — that computation is both general-purpose and bounded by the knowledge of its programmers — remains at the center of every serious debate about artificial intelligence more than a century and a half later.",
+    "source": {
+      "title": "Notes on the Sketch of the Analytical Engine",
+      "author": "Ada Lovelace",
+      "year": 1843
+    },
+    "tags": [
+      "mathematics",
+      "technology",
+      "computation"
+    ]
   }
 ]
