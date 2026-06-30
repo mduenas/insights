@@ -7720,7 +7720,7 @@
       "anthropology"
     ]
   },
-{
+  {
     "id": "learning-12",
     "title": "Children learn best by making things, not by being taught",
     "body": "Papert coined the term constructionism — distinct from Piaget's constructivism — to name the observation that people learn most powerfully when they are building something shareable: a program, a model, a poem, a machine. The artifact is not merely a product of learning but an instrument of it; having something to show others forces the maker to render thinking explicit and therefore correctable. Papert saw computers as the first medium in history that could put the tools of construction in children's hands at the scale of their ideas. The deeper claim is that the best learning environments are not designed for instruction but for making.",
@@ -8018,6 +8018,81 @@
       "mathematics",
       "technology",
       "computation"
+    ]
+  },
+  {
+    "id": "anthropology-11",
+    "title": "Culture Is Born in Play",
+    "body": "Johan Huizinga demonstrated that play is not a derivative of culture but its generating force — law, poetry, philosophy, and war all first appeared as ritual contests before solidifying into serious institutions. The playful impulse, defined by its own rules, bounded space, and intrinsic satisfaction, precedes and underlies every enduring cultural form. When societies lose the capacity for genuine play, Huizinga warned, they forfeit the wellspring of creative renewal. Recognizing this reveals why protecting spaces of free, unproductive experimentation is not frivolous but foundational.",
+    "source": {
+      "title": "Homo Ludens: A Study of the Play-Element in Culture",
+      "author": "Johan Huizinga",
+      "year": 1938
+    },
+    "tags": [
+      "play",
+      "culture",
+      "creativity"
+    ]
+  },
+  {
+    "id": "psychology-29",
+    "title": "The Miscast Introvert",
+    "body": "Susan Cain's research revealed that up to half the population are introverts, yet the 'Extrovert Ideal' dominant in Western culture treats inward-orientation as a deficiency rather than a distinct cognitive style. Introverts tend toward sustained concentration, careful deliberation, and deep listening — qualities that produce outsized contributions in science, art, and writing. The organizational cost is not having introverts, but requiring them to perform extroversion at the expense of their genuine strengths. Redesigning workplaces and schools to accommodate both styles unlocks capacity that groupthink and open-plan offices habitually suppress.",
+    "source": {
+      "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+      "author": "Susan Cain",
+      "year": 2012
+    },
+    "tags": [
+      "introversion",
+      "personality",
+      "psychology"
+    ]
+  },
+  {
+    "id": "sociology-21",
+    "title": "The Tyranny of Meritocracy",
+    "body": "Alain de Botton argued that meritocratic societies, by insisting that outcomes reflect individual desert, impose a uniquely modern burden: failure becomes not misfortune but personal verdict. When success is attributed entirely to talent and effort, poverty is read as moral inadequacy and wealth as proof of virtue. This transforms ordinary losers in any competitive system into evidence against themselves, generating a pervasive status anxiety that pre-modern societies — which blamed fate, birth, or God — never produced. Understanding this mechanism offers a kind of immunity: circumstances shape outcomes far more than meritocracy admits.",
+    "source": {
+      "title": "Status Anxiety",
+      "author": "Alain de Botton",
+      "year": 2004
+    },
+    "tags": [
+      "status",
+      "meritocracy",
+      "society"
+    ]
+  },
+  {
+    "id": "biology-17",
+    "title": "Genes Predispose, They Do Not Determine",
+    "body": "Siddhartha Mukherjee's history of genetics revealed a central misconception: genes are not blueprints that fix outcomes but probabilistic dispositions that interact with environment, chance, and developmental timing. A gene 'for' a trait is more accurately a gene that shifts a probability under specific conditions, rarely acting alone and rarely acting simply. This probabilistic framing dissolves the fatalism of genetic determinism while preserving the genuine power of heredity. It also reframes personal identity: we inherit tendencies, not destinies.",
+    "source": {
+      "title": "The Gene: An Intimate History",
+      "author": "Siddhartha Mukherjee",
+      "year": 2016
+    },
+    "tags": [
+      "genetics",
+      "biology",
+      "identity"
+    ]
+  },
+  {
+    "id": "creativity-21",
+    "title": "Skill as a Form of Thinking",
+    "body": "Richard Sennett argued that the craftsman — anyone who pursues quality for its own sake — represents a way of engaging with the world that modernity has systematically devalued by separating hand from head. The thousands of deliberate repetitions required to master a craft build embodied intelligence that purely conceptual study cannot replicate. Each small refinement in technique forces the practitioner to understand more precisely what they are doing and why. This makes craft not merely a way of making things but a way of knowing them.",
+    "source": {
+      "title": "The Craftsman",
+      "author": "Richard Sennett",
+      "year": 2008
+    },
+    "tags": [
+      "craft",
+      "skill",
+      "mastery"
     ]
   }
 ]
