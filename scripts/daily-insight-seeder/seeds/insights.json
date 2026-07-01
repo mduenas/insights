@@ -8094,5 +8094,80 @@
       "skill",
       "mastery"
     ]
+  },
+  {
+    "id": "leadership-15",
+    "title": "Authority Exists Only When It Is Accepted",
+    "body": "Barnard challenged the traditional view that authority flows downward from superior to subordinate, arguing instead that a directive has authority only if the person receiving it accepts it as binding on their behavior. This 'acceptance theory' revealed that managers lead not through formal rank but through earned credibility and communicated purpose — workers quietly reject directives that fall outside their zone of indifference to organizational demands. Understanding this shifts the question of leadership from 'How do I issue orders?' to 'How do I build the conditions under which people willingly cooperate?' It remains the foundation of every modern theory of organizational culture.",
+    "source": {
+      "title": "The Functions of the Executive",
+      "author": "Chester I. Barnard",
+      "year": 1938
+    },
+    "tags": [
+      "leadership",
+      "authority",
+      "organization"
+    ]
+  },
+  {
+    "id": "psychology-30",
+    "title": "Assumptions About People Shape How You Lead Them",
+    "body": "McGregor identified two opposing sets of assumptions managers hold about workers: Theory X holds that people are inherently lazy, avoid responsibility, and must be coerced; Theory Y holds that work is natural, people seek responsibility when given the chance, and self-direction flourishes under the right circumstances. These assumptions are self-fulfilling — managers who treat employees as passive instruments tend to create the very passivity they expect, while those who design work for autonomy and growth tend to unlock it. McGregor's deeper point was that management practice is never neutral; embedded within every organizational structure is a hidden set of beliefs about human nature.",
+    "source": {
+      "title": "The Human Side of Enterprise",
+      "author": "Douglas McGregor",
+      "year": 1960
+    },
+    "tags": [
+      "psychology",
+      "leadership",
+      "management"
+    ]
+  },
+  {
+    "id": "productivity-08",
+    "title": "Work Expands to Fill the Time Available",
+    "body": "Parkinson observed that bureaucracies grow regardless of the actual amount of work to be done — officials multiply subordinates, generate work for each other, and consume resources at a rate unrelated to output or need. His corollary is equally precise: if a task is given two weeks, it will take two weeks, even if it could be completed in two hours. The practical implication is that artificial constraints — tighter deadlines, smaller teams, reduced time allocations — often improve quality rather than sacrificing it, by forcing prioritization and eliminating the infinite elaborations that unlimited time encourages.",
+    "source": {
+      "title": "Parkinson's Law",
+      "author": "C. Northcote Parkinson",
+      "year": 1957
+    },
+    "tags": [
+      "productivity",
+      "time",
+      "organizations"
+    ]
+  },
+  {
+    "id": "science-35",
+    "title": "Only Variety Can Absorb Variety",
+    "body": "Ashby's Law of Requisite Variety holds that for any system to regulate another, the regulator must have at least as many distinct responses available as the system has disturbances it can produce. A simple thermostat can govern a simple heater because their ranges match; a simple rule cannot govern a complex adaptive system, because complexity defeats simplicity. The law has deep implications for management, ecology, and governance: the only reliable path to stability in a varied environment is to increase the flexibility and responsiveness of whoever or whatever is doing the controlling.",
+    "source": {
+      "title": "An Introduction to Cybernetics",
+      "author": "W. Ross Ashby",
+      "year": 1956
+    },
+    "tags": [
+      "science",
+      "systems",
+      "complexity"
+    ]
+  },
+  {
+    "id": "literature-34",
+    "title": "Creation Without Care Is Its Own Cruelty",
+    "body": "Shelley's creature is not undone by being assembled from dead flesh or rejected by society — it is undone by the moment Victor Frankenstein flees the room the instant the creature opens its eyes, unable to bear the responsibility of what he has made. Every tragedy that follows in the novel flows from that single act of abandonment: without education, companionship, or belonging, the creature becomes what neglect makes of any conscious being. Shelley's real subject is not the horror of bringing something to life but the ethics of it — the obligation of creators to their creations does not end when the making does.",
+    "source": {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "year": 1818
+    },
+    "tags": [
+      "literature",
+      "creativity",
+      "ethics"
+    ]
   }
 ]
