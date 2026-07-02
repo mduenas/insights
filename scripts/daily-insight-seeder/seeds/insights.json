@@ -8169,5 +8169,80 @@
       "creativity",
       "ethics"
     ]
+  },
+  {
+    "id": "philosophy-41",
+    "title": "Every Man Carries the Whole of Human Condition within Him",
+    "body": "Montaigne invented the essay form as a tool for examining his own mind and found that self-observation reveals not a fixed identity but a restless, contradictory, ever-shifting process. He argued that to study oneself honestly is to study the human condition in its fullest form, since each of us carries the whole range of human possibility within reach. The value of this exercise was not self-absorption but self-knowledge as a precondition for understanding others. Montaigne's radical candor — writing about his own failures, doubts, and physical particulars — modeled a way of knowing that prizes honest observation over systematic theory.",
+    "source": {
+      "title": "Essays",
+      "author": "Michel de Montaigne",
+      "year": 1580
+    },
+    "tags": [
+      "philosophy",
+      "self-knowledge",
+      "humanism"
+    ]
+  },
+  {
+    "id": "biology-18",
+    "title": "Science Is the Art of the Soluble",
+    "body": "Medawar argued that the greatest scientific talent is not raw intelligence but the judgment to ask questions that can actually be answered with existing methods and tools. An insoluble problem is not a noble challenge but a waste of resources. Good scientists are opportunists who match their curiosity to what the current state of knowledge makes tractable. This insight reframes scientific genius: it is less about having audacious ideas and more about the disciplined elimination of questions that cannot yet be answered, leaving behind only those that can.",
+    "source": {
+      "title": "The Art of the Soluble",
+      "author": "Peter Medawar",
+      "year": 1967
+    },
+    "tags": [
+      "science",
+      "creativity",
+      "problem-solving"
+    ]
+  },
+  {
+    "id": "sociology-22",
+    "title": "Judge a Society by What It Does, Not What It Professes",
+    "body": "Martineau, who helped establish the methods of empirical sociology, traveled through the United States in the 1830s to test whether its stated ideals matched its social reality. She found a deep and persistent gap: a society that proclaimed liberty while practicing slavery, and equality while enforcing rigid class and gender hierarchies. Her method was to observe actual behavior — who sat where, who spoke and who was silenced, who owned and who was owned — rather than to read constitutions and speeches. She concluded that a society is understood only by comparing its proclaimed values to its lived arrangements, and that the gap between the two is always the most revealing measurement.",
+    "source": {
+      "title": "Society in America",
+      "author": "Harriet Martineau",
+      "year": 1837
+    },
+    "tags": [
+      "sociology",
+      "ethics",
+      "observation"
+    ]
+  },
+  {
+    "id": "mathematics-25",
+    "title": "A Well-Framed Problem Is Already Half-Solved",
+    "body": "In 1900, Hilbert presented 23 open problems he believed would define the direction of mathematics in the coming century — and he was largely right. His deeper insight was about the nature of productive inquiry: a problem well-posed, with clear conditions and a definite criterion for what counts as a solution, is already partly solved because it organizes effort and tells you what evidence to seek. Vague problems produce vague progress; sharp questions produce sharp answers. This logic applies as much to science, business, and personal decision-making as to pure mathematics — most confusion persists because the question has not been made precise enough to be answerable.",
+    "source": {
+      "title": "Mathematical Problems",
+      "author": "David Hilbert",
+      "year": 1900
+    },
+    "tags": [
+      "mathematics",
+      "problem-solving",
+      "clarity"
+    ]
+  },
+  {
+    "id": "education-10",
+    "title": "Education Introduces the Young to a World That Already Exists",
+    "body": "Arendt argued that education is not primarily about instilling values or transmitting skills — it is about introducing a new generation to a world that was here before them and will outlast them. Parents bring children into life, but educators present those children with the common world: its history, institutions, arts, and shared meanings. This responsibility is weighty precisely because the world being handed on is imperfect; educators must love both the child and the world enough to hold each accountable to the other. For Arendt, the crisis in modern education was that adults had abdicated this custodial relationship, leaving children to inherit a world without learning how to care for it.",
+    "source": {
+      "title": "Between Past and Future",
+      "author": "Hannah Arendt",
+      "year": 1961
+    },
+    "tags": [
+      "education",
+      "philosophy",
+      "responsibility"
+    ]
   }
 ]
