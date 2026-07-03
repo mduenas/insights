@@ -8244,5 +8244,85 @@
       "philosophy",
       "responsibility"
     ]
+  },
+  {
+    "id": "anthropology-12",
+    "title": "Culture Is a Lens That Hides Itself",
+    "body": "Ruth Benedict's wartime study of Japanese society revealed that every culture is a coherent system of values and assumptions that feels invisible to those living inside it. The same act — incurring a debt, showing deference, expressing shame — can carry entirely opposite moral weight depending on the cultural framework in which it occurs. Comparing radically different societies is less an exercise in othering and more a method for discovering the hidden axioms of one's own culture, the ones so obvious they are never stated.",
+    "source": {
+      "title": "The Chrysanthemum and the Sword: Patterns of Japanese Culture",
+      "author": "Ruth Benedict",
+      "year": 1946
+    },
+    "tags": [
+      "anthropology",
+      "culture",
+      "society",
+      "perspective"
+    ]
+  },
+  {
+    "id": "statistics-09",
+    "title": "We Are Wired to See Patterns That Aren't There",
+    "body": "Leonard Mlodinow demonstrates that human intuition evolved to detect patterns — a lifesaving shortcut in a world of genuine signals but a liability when evaluating streaks, runs, and one-time events. A hot hand in basketball, a CEO's stellar first year, or a fund manager's five-year outperformance can all be statistically indistinguishable from random flukes. Recognizing the 'drunkard's walk' in our own life narratives — the lurching, random-seeming path that we later narrate as purposeful — is the beginning of honest self-appraisal.",
+    "source": {
+      "title": "The Drunkard's Walk: How Randomness Rules Our Lives",
+      "author": "Leonard Mlodinow",
+      "year": 2008
+    },
+    "tags": [
+      "statistics",
+      "randomness",
+      "probability",
+      "cognitive-bias"
+    ]
+  },
+  {
+    "id": "resilience-10",
+    "title": "Effort Counts Twice",
+    "body": "Angela Duckworth's research formalizes an uncomfortable insight: talent × effort = skill, and skill × effort = achievement — effort appears twice in the equation. Natural ability sets a starting rate of improvement, but sustained application of effort is what compounds skill into real-world results over years. The grittiest people are not those who endure misery through willpower but those who have found a pursuit compelling enough to keep them returning after setbacks, driven by a long-term goal that feels personally meaningful.",
+    "source": {
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth",
+      "year": 2016
+    },
+    "tags": [
+      "resilience",
+      "perseverance",
+      "achievement",
+      "motivation"
+    ]
+  },
+  {
+    "id": "education-11",
+    "title": "Learning Happens by Making, Not Receiving",
+    "body": "Seymour Papert extended Piaget's constructivism into constructionism: people build understanding most durably when they create something shareable, not when knowledge is poured into them. Programming a computer to draw a spiral forces a child to think like a mathematician — not because a teacher explained the geometry but because the child had to encode it precisely enough for a machine to execute it. The artifact is the proof of understanding; without something made, instruction leaves only the appearance of knowledge.",
+    "source": {
+      "title": "Mindstorms: Children, Computers, and Powerful Ideas",
+      "author": "Seymour Papert",
+      "year": 1980
+    },
+    "tags": [
+      "education",
+      "learning",
+      "constructivism",
+      "creativity"
+    ]
+  },
+  {
+    "id": "economics-32",
+    "title": "Poverty Is a Series of Specific, Solvable Problems",
+    "body": "Abhijit Banerjee and Esther Duflo's fieldwork across dozens of countries found that the poor are not irrational or passive — they navigate complex economic trade-offs under severe constraints, often making shrewd micro-decisions with limited information. Global poverty persists not because of a single systemic cause but because of identifiable failures in credit markets, health information, education access, and insurance. Replacing grand ideological solutions with careful, randomized trials of specific interventions has repeatedly produced results that neither aid enthusiasts nor free-market skeptics predicted.",
+    "source": {
+      "title": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
+      "author": "Abhijit V. Banerjee and Esther Duflo",
+      "year": 2011
+    },
+    "tags": [
+      "economics",
+      "poverty",
+      "development",
+      "evidence-based"
+    ]
   }
 ]
