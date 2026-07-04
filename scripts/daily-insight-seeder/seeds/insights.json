@@ -8324,5 +8324,80 @@
       "development",
       "evidence-based"
     ]
+  },
+  {
+    "id": "economics-33",
+    "title": "Status Is Purchased by Conspicuous Waste",
+    "body": "Veblen argued that in leisure-class societies, goods are consumed not primarily for their utility but as public demonstrations of wealth and rank. The very fact that an item is expensive and impractical becomes its social value — a diamond ring signals more than a cubic zirconia precisely because it represents a costlier waste. This mechanism, which Veblen called 'conspicuous consumption,' pervades everything from fashion to philanthropy, redirecting vast economic resources toward display rather than use. Recognizing the pattern is the first step toward making spending decisions on one's own terms rather than society's.",
+    "source": {
+      "title": "The Theory of the Leisure Class",
+      "author": "Thorstein Veblen",
+      "year": 1899
+    },
+    "tags": [
+      "economics",
+      "status",
+      "behavior"
+    ]
+  },
+  {
+    "id": "learning-13",
+    "title": "Learning Moves in Three Rhythms: Romance, Precision, Generalization",
+    "body": "Whitehead proposed that every genuine act of learning passes through three stages. Romance is the initial encounter — vivid, exciting, and full of possibility but imprecise. Precision follows: the discipline of acquiring exact knowledge, which can feel like confinement but is necessary for mastery. Finally, generalization reaps what romance sowed, applying exact knowledge freely and creatively across new territory. Forcing precision before romance kills curiosity; staying in romance without precision produces superficiality. The educator's art is timing these transitions well.",
+    "source": {
+      "title": "The Aims of Education",
+      "author": "Alfred North Whitehead",
+      "year": 1929
+    },
+    "tags": [
+      "learning",
+      "education",
+      "creativity"
+    ]
+  },
+  {
+    "id": "history-27",
+    "title": "Justice Has Meaning Only Between Equals",
+    "body": "In the Melian Dialogue, Thucydides records the Athenian generals' frank declaration: the standard of justice applies only between parties of equal power; where there is no equality, the stronger do what they can and the weaker suffer what they must. Thucydides did not endorse this view — his entire history is a warning against the hubris it licenses — but he saw that pretending otherwise produces a more dangerous self-deception. Naming power honestly, rather than dressing it in the language of right, is the beginning of a more durable and honest politics.",
+    "source": {
+      "title": "History of the Peloponnesian War",
+      "author": "Thucydides",
+      "year": -431
+    },
+    "tags": [
+      "history",
+      "politics",
+      "power"
+    ]
+  },
+  {
+    "id": "leadership-16",
+    "title": "Power-With Creates More Than Power-Over Can Command",
+    "body": "Follett distinguished between two fundamentally different kinds of power: 'power-over,' the capacity to coerce or dominate, and 'power-with,' the capacity to act jointly through genuine integration of differing interests. She argued that the most productive organizations are built on the latter — not compromise, in which each side surrenders something, but integration, in which a new solution emerges that neither party had envisioned alone. This insight, developed decades before modern organizational psychology, presaged everything from participatory management to principled negotiation.",
+    "source": {
+      "title": "Dynamic Administration",
+      "author": "Mary Parker Follett",
+      "year": 1941
+    },
+    "tags": [
+      "leadership",
+      "power",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "biology-19",
+    "title": "Life's Greatest Leap Was an Act of Cooperation",
+    "body": "Margulis demonstrated that the complex cells making up all animals, plants, and fungi are not individual organisms but ancient partnerships: mitochondria and chloroplasts were once free-living bacteria that merged — rather than competed — with their host cells roughly two billion years ago. This endosymbiotic theory, rejected for decades before becoming foundational biology, overturned the assumption that evolutionary progress is driven primarily by competition. Cooperation, merger, and the pooling of capabilities across radically different lineages have been just as powerful an engine of complexity as Darwinian struggle.",
+    "source": {
+      "title": "Symbiotic Planet",
+      "author": "Lynn Margulis",
+      "year": 1998
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "cooperation"
+    ]
   }
 ]
