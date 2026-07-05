@@ -8399,5 +8399,80 @@
       "evolution",
       "cooperation"
     ]
+  },
+  {
+    "id": "creativity-22",
+    "title": "The gift must always move",
+    "body": "Hyde distinguishes between gift economies — where value circulates through giving — and market economies, where value is captured and held. Art belongs fundamentally to the gift economy: a poem or painting that is merely bought and sold loses the very quality that made it art in the first place. When creative work is received as a gift, it generates an obligation to pass something on — to create, to teach, to inspire. The artist who tries to live entirely within the market economy discovers that commodifying the work often kills the source.",
+    "source": {
+      "title": "The Gift: Creativity and the Artist in the Modern World",
+      "author": "Lewis Hyde",
+      "year": 1983
+    },
+    "tags": [
+      "creativity",
+      "economics",
+      "culture"
+    ]
+  },
+  {
+    "id": "anthropology-13",
+    "title": "Human intelligence is mostly borrowed",
+    "body": "Henrich's research shows that individual human cognition is far less powerful than we assume: isolated individuals — even highly educated ones — consistently fail at tasks that traditional communities solve effortlessly through accumulated cultural knowledge. Our species' real advantage is not raw intelligence but our exceptional capacity for cumulative culture: copying, combining, and improving on the knowledge of previous generations. No single mind invented the techniques for navigating by stars, preserving meat in the Arctic, or identifying which plants are edible. The humbling implication is that our success depends less on being smart than on being well-embedded in a community of knowers.",
+    "source": {
+      "title": "The Secret of Our Success",
+      "author": "Joseph Henrich",
+      "year": 2016
+    },
+    "tags": [
+      "anthropology",
+      "culture",
+      "learning"
+    ]
+  },
+  {
+    "id": "literature-35",
+    "title": "We impoverish ourselves by forgetting what we once knew",
+    "body": "Robinson argues that contemporary culture suffers from a kind of willful amnesia: it has discarded humanist and theological traditions without bothering to engage honestly with what those traditions actually said. The result is a shrinkage of our conceptual vocabulary precisely at the moment when we face the largest questions — about consciousness, value, and how to live. Dismissing intellectual inheritances as mere superstition does not liberate thought; it narrows it. To recover seriousness, she argues, we must go back and actually read the texts we have been so confident to leave behind.",
+    "source": {
+      "title": "The Death of Adam: Essays on Modern Thought",
+      "author": "Marilynne Robinson",
+      "year": 1998
+    },
+    "tags": [
+      "literature",
+      "humanism",
+      "culture"
+    ]
+  },
+  {
+    "id": "neuroscience-12",
+    "title": "Mind is not in the brain; it is in the action",
+    "body": "Varela and his colleagues challenged the dominant computational model of cognition — the idea that the mind is information processing carried out by the brain alone. Instead, they argued for enactivism: mind arises through the ongoing dynamic interaction of a living body with its environment, not through internal representations. Knowing is a kind of doing. This view shifts attention from what is stored in the head to how a living organism actively enacts a world through movement, perception, and engagement — with profound implications for understanding learning, skill, and what it means to truly understand something.",
+    "source": {
+      "title": "The Embodied Mind: Cognitive Science and Human Experience",
+      "author": "Francisco Varela, Evan Thompson, and Eleanor Rosch",
+      "year": 1991
+    },
+    "tags": [
+      "neuroscience",
+      "cognition",
+      "embodiment"
+    ]
+  },
+  {
+    "id": "sociology-23",
+    "title": "Poverty is not a character flaw but a structural trap",
+    "body": "Ehrenreich spent months working minimum-wage jobs — as a waitress, a hotel housekeeper, and a Walmart associate — and discovered that the standard narrative of poverty-as-laziness could not survive contact with reality. The working poor she encountered were industrious and resourceful, often holding multiple jobs; what kept them poor was a system in which wages had decoupled from the actual cost of housing, food, and transportation. The deeper finding is structural: the economy produces poverty as a feature, not an aberration, because low-wage labor is essential to its functioning and the market ensures that work pays too little to sustain a dignified life. Naming this honestly is the prerequisite for changing it.",
+    "source": {
+      "title": "Nickel and Dimed: On (Not) Getting By in America",
+      "author": "Barbara Ehrenreich",
+      "year": 2001
+    },
+    "tags": [
+      "sociology",
+      "economics",
+      "poverty"
+    ]
   }
 ]
