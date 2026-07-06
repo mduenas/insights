@@ -8474,5 +8474,80 @@
       "economics",
       "poverty"
     ]
+  },
+  {
+    "id": "education-12",
+    "title": "Learning Should Follow the Order of Nature",
+    "body": "Comenius argued in his Great Didactic that effective teaching mirrors nature's own sequences: seeds before roots, roots before trunk, trunk before branches. Each concept must be mastered before the next is introduced, and nothing abstract should precede the concrete experience on which it rests. He insisted that education is universal — every human being, regardless of social class, is capable of learning everything necessary for human flourishing if instruction is properly ordered and graduated. This vision of systematic, inclusive pedagogy shaped nearly every classroom model that followed over the next four centuries.",
+    "source": {
+      "title": "Didactica Magna",
+      "author": "Johann Amos Comenius",
+      "year": 1657
+    },
+    "tags": [
+      "education",
+      "learning",
+      "pedagogy"
+    ]
+  },
+  {
+    "id": "communication-08",
+    "title": "Persuasion Begins Where Shared Identity Is Found",
+    "body": "Burke proposed that rhetoric's deepest mechanism is not argument but identification — the forging of common ground between speaker and audience before any exchange of reasons begins. Where classical rhetoric aimed to change minds through evidence and logic, Burke saw a prior necessity: creating the shared 'we' that makes agreement possible at all. Division, not ignorance, is the baseline human condition; language is perpetually at work bridging it. The most effective communicators do not lead with their conclusions but with the terms that construct a shared identity capable of receiving them.",
+    "source": {
+      "title": "A Rhetoric of Motives",
+      "author": "Kenneth Burke",
+      "year": 1950
+    },
+    "tags": [
+      "communication",
+      "rhetoric",
+      "psychology"
+    ]
+  },
+  {
+    "id": "resilience-11",
+    "title": "Resilience Is Woven from Relationships, Not Forged Alone",
+    "body": "Cyrulnik, drawing on his own survival of wartime deportation as a child and decades of clinical psychiatry, reframed resilience as a dynamic relational process rather than an innate personal trait. Damaged people do not recover by being inherently tough; they rebuild around a 'resilience tutor' — a person, a text, a memory, or even an imagined relationship — that provides enough meaning to weave a new narrative from broken experience. Because resilience requires at least one attachment that holds, improving outcomes after trauma means investing in the quality of surrounding relationships and not merely in the individual's inner resources.",
+    "source": {
+      "title": "Un merveilleux malheur",
+      "author": "Boris Cyrulnik",
+      "year": 1999
+    },
+    "tags": [
+      "resilience",
+      "psychology",
+      "relationships"
+    ]
+  },
+  {
+    "id": "neuroscience-13",
+    "title": "The Narrator in Your Brain Is Making It Up As It Goes",
+    "body": "Gazzaniga's split-brain experiments revealed that the left hemisphere acts as an 'interpreter' — a module that continuously fabricates plausible explanations for behaviors initiated elsewhere in the brain. When the right hemisphere acted on a command it alone had received, the left hemisphere, entirely unaware of the instruction, invented a confident reason for the action without hesitation. What feels like deliberate reasoning and unified selfhood is largely post-hoc narration. The interpreter does not merely report what happened; it authors a coherent story whether or not one exists, which is why introspection is an unreliable guide to our actual motivations.",
+    "source": {
+      "title": "The Social Brain: Discovering the Networks of the Mind",
+      "author": "Michael Gazzaniga",
+      "year": 1985
+    },
+    "tags": [
+      "neuroscience",
+      "psychology",
+      "consciousness"
+    ]
+  },
+  {
+    "id": "action-07",
+    "title": "Every System Has Exactly One Constraint That Controls Its Output",
+    "body": "Goldratt's Theory of Constraints holds that in any goal-seeking system — a factory, a hospital, a software team — throughput is always determined by a single weakest link. Improving any other part of the system, however impressive locally, does not increase overall output; only elevating the true bottleneck does. Worse, efforts invested in non-constraints can destabilize the system by pushing more work toward the chokepoint than it can absorb. The continuous operational task is therefore to identify the binding constraint, subordinate everything else to it, and — only after exploiting it fully — decide whether to expand its capacity.",
+    "source": {
+      "title": "The Goal: A Process of Ongoing Improvement",
+      "author": "Eliyahu Goldratt",
+      "year": 1984
+    },
+    "tags": [
+      "action",
+      "productivity",
+      "systems"
+    ]
   }
 ]
