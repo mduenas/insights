@@ -8699,5 +8699,90 @@
       "quality",
       "aesthetics"
     ]
+  },
+  {
+    "id": "statistics-10",
+    "title": "Plot First, Then Ask",
+    "body": "Before fitting models or testing hypotheses, explore the raw data visually — scatter plots, histograms, residuals. Tukey argued that the greatest value of a picture is when it forces us to notice what we never expected to see. Statistical assumptions can blind us to the data's actual shape; visual exploration comes first, and formal confirmation follows.",
+    "source": {
+      "title": "Exploratory Data Analysis",
+      "author": "John W. Tukey",
+      "year": 1977
+    },
+    "tags": [
+      "statistics",
+      "data",
+      "visualization",
+      "exploration",
+      "science"
+    ]
+  },
+  {
+    "id": "design-10",
+    "title": "Good Design Is as Little Design as Possible",
+    "body": "Dieter Rams argued that restraint — removing the superfluous — is the highest expression of design skill. Less is not a deprivation but a ruthless clarity about what actually matters. The best objects concentrate function into the minimum necessary form, leaving nothing arbitrary and nothing to distract. Complexity is easy; simplicity demands mastery.",
+    "source": {
+      "title": "Less But Better",
+      "author": "Dieter Rams",
+      "year": 1995
+    },
+    "tags": [
+      "design",
+      "simplicity",
+      "minimalism",
+      "craftsmanship",
+      "creativity"
+    ]
+  },
+  {
+    "id": "linguistics-12",
+    "title": "Language Does More Than Transmit Information",
+    "body": "Roman Jakobson identified six simultaneous functions of any utterance — including a poetic function that draws attention to the form of the message itself rather than its referent. When language becomes aesthetically charged, it does not merely describe reality; it restructures how speaker and listener perceive it. Poetry and rhetoric are therefore not ornaments added to content but instruments that actively shape cognition and feeling.",
+    "source": {
+      "title": "Linguistics and Poetics",
+      "author": "Roman Jakobson",
+      "year": 1960
+    },
+    "tags": [
+      "linguistics",
+      "language",
+      "perception",
+      "poetry",
+      "communication"
+    ]
+  },
+  {
+    "id": "wealth-09",
+    "title": "Ideas and Rhetoric Shape Economies as Much as Incentives",
+    "body": "Deirdre McCloskey challenged the standard account that property rights and capital accumulation alone produced modern prosperity. What changed in 18th-century northwest Europe, she argued, was the social dignity granted to merchants and innovators — a shift in rhetoric toward valuing bourgeois enterprise. When a society begins to admire and speak well of commerce and improvement, it unleashes the human creativity that transforms material conditions far beyond what incentive structures alone could accomplish.",
+    "source": {
+      "title": "Bourgeois Dignity",
+      "author": "Deirdre McCloskey",
+      "year": 2010
+    },
+    "tags": [
+      "economics",
+      "history",
+      "ideas",
+      "culture",
+      "prosperity"
+    ]
+  },
+  {
+    "id": "mindset-10",
+    "title": "We Can Outgrow Our Own Minds",
+    "body": "Robert Kegan proposed that adult development proceeds through distinct orders of consciousness, each encompassing and transforming the previous one. At the conventional level, we are subject to our roles and social expectations — unable to see them as objects of reflection. Maturing into a more complex mind means discovering that what once ran us, our values and assumptions, can become something we hold rather than something that holds us. Most people, Kegan found, are regularly asked by modern life to operate at a level of mental complexity they have not yet fully reached.",
+    "source": {
+      "title": "The Evolving Self",
+      "author": "Robert Kegan",
+      "year": 1982
+    },
+    "tags": [
+      "psychology",
+      "development",
+      "mindset",
+      "growth",
+      "self-awareness"
+    ]
   }
 ]
