@@ -8784,5 +8784,80 @@
       "growth",
       "self-awareness"
     ]
+  },
+  {
+    "id": "philosophy-44",
+    "title": "To love is to will the good of another",
+    "body": "Aquinas defined love not as a feeling but as an act of will — a deliberate orientation toward what is genuinely good for another person, independent of what pleases us in them. This distinguishes love from preference or attachment: it persists when the beloved is absent, difficult, or changed. Because it is an act of will rather than a reaction to circumstances, love of this kind can be cultivated like any virtue, deepening through repeated choice and attention.",
+    "source": {
+      "title": "Summa Theologica",
+      "author": "Thomas Aquinas",
+      "year": 1274
+    },
+    "tags": [
+      "philosophy",
+      "love",
+      "virtue"
+    ]
+  },
+  {
+    "id": "sociology-24",
+    "title": "Reality is maintained by the company we keep",
+    "body": "Berger and Luckmann showed that even our most taken-for-granted beliefs about reality depend on continual confirmation from others. Our sense of who we are, what is true, and what matters requires ongoing social reinforcement through conversation, ritual, and shared practice. This is why changing deeply held beliefs is not simply an intellectual exercise — it requires finding new communities whose daily interactions sustain a different picture of the world.",
+    "source": {
+      "title": "The Social Construction of Reality",
+      "author": "Peter L. Berger and Thomas Luckmann",
+      "year": 1966
+    },
+    "tags": [
+      "sociology",
+      "identity",
+      "community"
+    ]
+  },
+  {
+    "id": "literature-37",
+    "title": "The way to love anything is to realize it might be lost",
+    "body": "Chesterton observed that awareness of potential loss is what transforms ordinary things into cherished ones. A person who truly grasps that any moment could be the last of its kind will find richness in what others pass over without notice. This is not pessimism but a form of gratitude sharpened by awareness of impermanence — the very fragility of life is what makes it worth attending to.",
+    "source": {
+      "title": "Tremendous Trifles",
+      "author": "G.K. Chesterton",
+      "year": 1909
+    },
+    "tags": [
+      "literature",
+      "gratitude",
+      "impermanence"
+    ]
+  },
+  {
+    "id": "relationships-10",
+    "title": "An honorable human relationship demands truth",
+    "body": "Rich argued that truth-telling is not simply a moral principle but an act of respect — for oneself and for others. When we withhold the truth from people we claim to care about, we treat them as incapable of bearing reality. The discomfort of honest communication is the price of genuine connection; relationships built on protective omission gradually hollow out, becoming performances rather than encounters between real selves.",
+    "source": {
+      "title": "On Lies, Secrets, and Silence",
+      "author": "Adrienne Rich",
+      "year": 1979
+    },
+    "tags": [
+      "relationships",
+      "honesty",
+      "integrity"
+    ]
+  },
+  {
+    "id": "psychology-32",
+    "title": "Some losses deny us the closure we need to grieve",
+    "body": "Boss identified a form of loss she called 'ambiguous loss' — situations in which someone is physically present but psychologically absent, or physically gone but psychologically still alive in the minds of those left behind. Unlike death, ambiguous loss provides no clear marker that allows mourning to begin and end. It creates a frozen grief that neither resolves nor transforms, because the relationship never definitively closes. Naming this pattern helps people stop waiting for a resolution that may never come and begin, instead, to live alongside the uncertainty.",
+    "source": {
+      "title": "Ambiguous Loss",
+      "author": "Pauline Boss",
+      "year": 1999
+    },
+    "tags": [
+      "psychology",
+      "grief",
+      "resilience"
+    ]
   }
 ]
