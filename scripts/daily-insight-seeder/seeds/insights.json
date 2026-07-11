@@ -8859,5 +8859,90 @@
       "grief",
       "resilience"
     ]
+  },
+  {
+    "id": "music-02",
+    "title": "There Is No Such Thing as Silence",
+    "body": "John Cage entered an anechoic chamber expecting to experience total silence and instead heard two sounds: one high, one low. The engineer told him the high sound was his nervous system and the low sound was his blood circulating. Cage concluded that silence is not the absence of sound but simply the absence of intended sound — and that every ambient noise is therefore potential music. This realization dissolved the boundary between art and life, inviting attentiveness to whatever is actually happening rather than waiting for something special to begin.",
+    "source": {
+      "title": "Silence: Lectures and Writings",
+      "author": "John Cage",
+      "year": 1961
+    },
+    "tags": [
+      "music",
+      "perception",
+      "creativity",
+      "attention",
+      "art"
+    ]
+  },
+  {
+    "id": "systems-02",
+    "title": "Changing the Goal Changes the System",
+    "body": "Donella Meadows identified leverage points — places where a small shift produces large changes across a system. Most people intervene at the weakest levels: adjusting numbers, tweaking flows. But among the most powerful levers is changing the goal the system is optimizing for. A company measuring growth above everything else will use every other element to pursue growth; change that goal and the entire system reorients. The deepest interventions are therefore not behavioral but purposive.",
+    "source": {
+      "title": "Thinking in Systems",
+      "author": "Donella H. Meadows",
+      "year": 2008
+    },
+    "tags": [
+      "systems",
+      "change",
+      "strategy",
+      "leadership",
+      "complexity"
+    ]
+  },
+  {
+    "id": "ecology-12",
+    "title": "The Land Ethic Enlarges the Moral Community",
+    "body": "Aldo Leopold argued that ethics has historically expanded its circle — from obligations to individuals, to families, to societies — and that the next logical extension is to the land community: soils, waters, plants, and animals. A land ethic does not prevent humans from using natural resources but insists they do so with the same restraint they accept toward one another. Leopold's criterion was direct: a thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community; it is wrong when it tends otherwise.",
+    "source": {
+      "title": "A Sand County Almanac",
+      "author": "Aldo Leopold",
+      "year": 1949
+    },
+    "tags": [
+      "ecology",
+      "ethics",
+      "nature",
+      "community",
+      "environment"
+    ]
+  },
+  {
+    "id": "anthropology-14",
+    "title": "The Bricoleur Builds New Things from Old Pieces",
+    "body": "Lévi-Strauss contrasted the engineer, who starts from a concept and acquires resources precisely fitted to it, with the bricoleur, who works with whatever heterogeneous materials are at hand, recombining them in response to each new problem. Mythical thought, he argued, operates like the bricoleur: it does not begin with a blank slate but rearranges existing categories and images into new structures of meaning. Far from being primitive, this mode of thinking is a rigorous logic of the concrete that parallels scientific reasoning without depending on abstraction.",
+    "source": {
+      "title": "The Savage Mind",
+      "author": "Claude Lévi-Strauss",
+      "year": 1962
+    },
+    "tags": [
+      "anthropology",
+      "creativity",
+      "thinking",
+      "mythology",
+      "culture"
+    ]
+  },
+  {
+    "id": "identity-11",
+    "title": "Every Encounter Is a Performance",
+    "body": "Erving Goffman observed that social life resembles theater: whenever we enter another person's presence, we begin managing impressions, emphasizing some aspects of ourselves and concealing others. This is not hypocrisy but the fundamental structure of social interaction — every situation has a front stage, where we perform for an audience, and a backstage, where we relax the performance. Impression management is the mechanism by which social order is maintained, cooperation made possible, and identity continually negotiated in real time.",
+    "source": {
+      "title": "The Presentation of Self in Everyday Life",
+      "author": "Erving Goffman",
+      "year": 1959
+    },
+    "tags": [
+      "identity",
+      "sociology",
+      "psychology",
+      "relationships",
+      "behavior"
+    ]
   }
 ]
