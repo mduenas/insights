@@ -8944,5 +8944,80 @@
       "relationships",
       "behavior"
     ]
+  },
+  {
+    "id": "law-01",
+    "title": "The life of the law has not been logic; it has been experience",
+    "body": "Holmes argued that law cannot be understood as a geometric system of axioms applied deductively — it is a living record of how each society has responded to its circumstances. The felt necessities of each era, its dominant moral theories, and even the intuitions of judges shape legal doctrine far more than formal reasoning. This insight moved jurisprudence from pure philosophy toward history and social science, making Holmes the founding figure of legal realism.",
+    "source": {
+      "title": "The Common Law",
+      "author": "Oliver Wendell Holmes Jr.",
+      "year": 1881
+    },
+    "tags": [
+      "law",
+      "history",
+      "pragmatism"
+    ]
+  },
+  {
+    "id": "philosophy-45",
+    "title": "Understanding is not method but a fusion of horizons",
+    "body": "Gadamer argued that genuine understanding arises not from suspending one's perspective to achieve neutral objectivity, but through a 'fusion of horizons' — the interpreter's present context merges with the world embedded in a text or tradition, and both are transformed in the encounter. Our historical situatedness is not an obstacle to truth but its indispensable medium. The pretension to stand outside all tradition produces not objectivity but a blindness to the assumptions that already govern interpretation.",
+    "source": {
+      "title": "Truth and Method",
+      "author": "Hans-Georg Gadamer",
+      "year": 1960
+    },
+    "tags": [
+      "philosophy",
+      "hermeneutics",
+      "understanding"
+    ]
+  },
+  {
+    "id": "architecture-01",
+    "title": "Form ever follows function",
+    "body": "Sullivan's credo became the animating principle of modern design: a building's form should emerge from its purpose, not from borrowed historical ornament. He observed this pattern throughout nature — the eagle's wing, the oak tree, the shell — where function and form are inseparable expressions of the same life. The principle was adopted far beyond architecture, becoming a standard for industrial design, engineering, and software, wherever the question of how something should look must answer first to the question of what it must do.",
+    "source": {
+      "title": "The Tall Office Building Artistically Considered",
+      "author": "Louis Sullivan",
+      "year": 1896
+    },
+    "tags": [
+      "architecture",
+      "design",
+      "creativity"
+    ]
+  },
+  {
+    "id": "science-37",
+    "title": "The experimenter who does not know what they are looking for will not understand what they find",
+    "body": "Claude Bernard's foundational treatise established that productive experiment requires a guiding hypothesis: the mind must be prepared to recognize and interpret what it encounters. Observation alone, however patient, cannot transform into discovery without the theoretical framework that tells the observer what would count as evidence. His work gave medicine the experimental rigor of chemistry, showing that clinical progress depends on the disciplined interplay between hypothesis and observation, not on data accumulated without theory.",
+    "source": {
+      "title": "An Introduction to the Study of Experimental Medicine",
+      "author": "Claude Bernard",
+      "year": 1865
+    },
+    "tags": [
+      "science",
+      "method",
+      "medicine"
+    ]
+  },
+  {
+    "id": "literature-38",
+    "title": "The artist forges in silence what has not yet been named",
+    "body": "At the close of 'A Portrait of the Artist as a Young Man,' Stephen Dedalus articulates his vocation: to escape the nets of nationality, language, and religion and use silence, exile, and cunning to give his people access to truths about themselves that have not yet been shaped into form. Joyce frames artistic creation not as personal expression but as a moral act — the artist does not mirror society but precedes it, making possible forms of consciousness that could not otherwise exist. The writer's first loyalty is to the uncreated, not to what is already understood.",
+    "source": {
+      "title": "A Portrait of the Artist as a Young Man",
+      "author": "James Joyce",
+      "year": 1916
+    },
+    "tags": [
+      "literature",
+      "creativity",
+      "identity"
+    ]
   }
 ]
