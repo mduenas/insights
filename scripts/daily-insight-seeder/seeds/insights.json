@@ -9020,4 +9020,80 @@
       "identity"
     ]
   }
+,
+  {
+    "id": "biology-20",
+    "title": "Every organism inhabits its own private world of perception",
+    "body": "Jakob von Uexküll showed that different species do not share a common environment — each inhabits its own Umwelt, a subjective perceptual world built from the signals its sensory apparatus can detect. A tick lives in a world of only three cues: the smell of butyric acid from mammal skin, the warmth of blood, and the hairiness of the landing surface. Everything else in the universe is simply absent from its world. This concept dismantles the naive assumption that perception is a mirror of reality; instead, each organism actively constructs the world it inhabits from the narrow slice of information its biology selects. The implication extends beyond biology: any perceiving system — including a human mind or an organization — responds not to reality as it is but to the reality it is built to notice.",
+    "source": {
+      "title": "A Foray into the Worlds of Animals and Humans",
+      "author": "Jakob von Uexküll",
+      "year": 1934
+    },
+    "tags": [
+      "biology",
+      "perception",
+      "cognition"
+    ]
+  },
+  {
+    "id": "literature-36",
+    "title": "There is only one right word, and the task is to find it",
+    "body": "Flaubert spent entire days searching for what he called le mot juste — the single exact word that would capture what he meant, as opposed to the many approximate words that would merely gesture at it. In his correspondence he insisted that whatever you want to say, there is only one noun to express it, only one verb to put it in motion, only one adjective to qualify it. This seemingly technical demand had a moral dimension: to settle for the approximate word is to settle for an approximate thought, which is to settle for an approximate truth. The work of revision — cutting, testing, discarding — was not a refinement of expression but a discipline of thinking. Precision in language was, for Flaubert, a form of honesty.",
+    "source": {
+      "title": "The Letters of Gustave Flaubert",
+      "author": "Gustave Flaubert",
+      "year": 1857
+    },
+    "tags": [
+      "literature",
+      "writing",
+      "precision"
+    ]
+  },
+  {
+    "id": "psychology-32",
+    "title": "Cohesion and conformity pressure cause groups to make catastrophically bad decisions",
+    "body": "Irving Janis analyzed a series of major foreign policy disasters — the Bay of Pigs invasion, the failure to anticipate Pearl Harbor, the escalation in Korea — and found a common pattern he named groupthink. Highly cohesive, insulated groups under directive leadership suppressed internal dissent, overestimated their own morality and invulnerability, and stereotyped adversaries as weak or irrational. Individual members who privately harbored doubts kept silent to preserve group harmony. The very qualities that made these groups feel confident — mutual trust, shared identity, strong leadership — became the mechanisms of their worst failures. Janis found that the antidote was structural: appointing a devil's advocate, seeking outside evaluation, and explicitly rewarding dissent rather than penalizing it.",
+    "source": {
+      "title": "Victims of Groupthink",
+      "author": "Irving Janis",
+      "year": 1972
+    },
+    "tags": [
+      "psychology",
+      "decision-making",
+      "groups"
+    ]
+  },
+  {
+    "id": "mathematics-26",
+    "title": "Every symmetry in nature corresponds to a conserved quantity",
+    "body": "Emmy Noether proved in 1915 that for every continuous symmetry of a physical system, there is a corresponding quantity that is conserved. The symmetry of physical laws under shifts in time — the fact that the laws of physics are the same today as tomorrow — implies conservation of energy. Symmetry under displacement in space implies conservation of momentum. Symmetry under rotation implies conservation of angular momentum. This theorem unified what had seemed like separate empirical discoveries into a single mathematical principle. Einstein called it one of the most important mathematical theorems ever proved in relation to physics. Noether achieved this at a moment when the University of Göttingen refused to grant her a regular faculty position because she was a woman.",
+    "source": {
+      "title": "Invariante Variationsprobleme",
+      "author": "Emmy Noether",
+      "year": 1918
+    },
+    "tags": [
+      "mathematics",
+      "physics",
+      "symmetry"
+    ]
+  },
+  {
+    "id": "ethics-12",
+    "title": "The ethical aim is to live well with and for others in just institutions",
+    "body": "Paul Ricoeur distilled what he called the ethical aim into three inseparable dimensions: aiming at the good life (not merely following rules), with and for others (because selfhood is constitutively relational), in just institutions (because interpersonal ethics alone cannot reach the anonymous third). This structure resists both Kantian formalism, which abstracts morality from particular relationships, and pure virtue ethics, which risks confining ethics to intimate spheres. For Ricoeur, an institution is just when it distributes rights, duties, and opportunities in ways that could be recognized as fair by those who stand to receive the least favorable share. Self-esteem, mutual recognition, and justice are not three separate projects but three aspects of the same aspiration — and each collapses without the others.",
+    "source": {
+      "title": "Oneself as Another",
+      "author": "Paul Ricoeur",
+      "year": 1990
+    },
+    "tags": [
+      "ethics",
+      "justice",
+      "relationships"
+    ]
+  }
 ]
