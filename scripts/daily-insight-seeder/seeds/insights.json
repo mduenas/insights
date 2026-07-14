@@ -9095,5 +9095,80 @@
       "justice",
       "relationships"
     ]
+  },
+  {
+    "id": "philosophy-46",
+    "title": "The meaning of an idea is nothing but its conceivable practical effects",
+    "body": "Peirce's pragmatic maxim holds that any distinction in thought that makes no difference in conceivable practical experience is no distinction at all. To clarify what a concept means, ask what observable differences it would make — and if no difference can be found, the question is empty. This principle cuts through centuries of metaphysical puzzles by anchoring meaning in action rather than in abstract essence, making philosophy directly answerable to experience.",
+    "source": {
+      "title": "How to Make Our Ideas Clear",
+      "author": "Charles S. Peirce",
+      "year": 1878
+    },
+    "tags": [
+      "philosophy",
+      "pragmatism",
+      "meaning"
+    ]
+  },
+  {
+    "id": "economics-35",
+    "title": "Rising land values concentrate wealth without creating it",
+    "body": "Henry George observed that economic progress in industrial societies paradoxically produced as much poverty as prosperity. As cities grew wealthier, rising land values captured the gains — delivering unearned income to landowners while wages and capital returns stagnated. Because land cannot be created by human effort and its value arises entirely from the surrounding community, George argued that taxing unearned land value rather than labor or enterprise would both fund public goods and eliminate the speculation that traps workers in poverty.",
+    "source": {
+      "title": "Progress and Poverty",
+      "author": "Henry George",
+      "year": 1879
+    },
+    "tags": [
+      "economics",
+      "inequality",
+      "land"
+    ]
+  },
+  {
+    "id": "literature-39",
+    "title": "What a writer omits is as powerful as what they say",
+    "body": "Hemingway's iceberg theory holds that a skilled writer can omit any part of their story, provided they truly know it, and the reader will still sense its weight beneath the surface. The dignity and power of a work depend not on what is displayed but on what is knowingly withheld. This principle extends beyond prose: the most resonant art, argument, or design often derives its force from restraint — from what is left unsaid but unmistakably felt.",
+    "source": {
+      "title": "Death in the Afternoon",
+      "author": "Ernest Hemingway",
+      "year": 1932
+    },
+    "tags": [
+      "literature",
+      "writing",
+      "restraint"
+    ]
+  },
+  {
+    "id": "sociology-25",
+    "title": "The self is constructed through the eyes of others",
+    "body": "Mead argued that consciousness and selfhood are not private, pre-social possessions — they emerge through social interaction. We come to see ourselves by adopting others' perspectives toward us, and ultimately by internalizing the standpoint of the 'generalized other': the community whose norms and expectations we carry internally. This means there is no self prior to society; self-awareness itself is a social achievement, built through countless exchanges with the people around us.",
+    "source": {
+      "title": "Mind, Self, and Society",
+      "author": "George Herbert Mead",
+      "year": 1934
+    },
+    "tags": [
+      "sociology",
+      "identity",
+      "social psychology"
+    ]
+  },
+  {
+    "id": "science-38",
+    "title": "Information tools should follow the associative trails the mind naturally makes",
+    "body": "In a landmark 1945 essay, Bush argued that dominant methods of organizing knowledge — hierarchical indexes and classification systems — are artificial and alien to human thought. The mind operates by association: one idea triggers the next through personal trails of connection, not alphabetical categories. Bush imagined a device called the memex that would let users store and traverse their own associative links through any body of material. This vision anticipated hypertext and the internet by decades and remains the animating idea behind how we design systems for knowledge retrieval.",
+    "source": {
+      "title": "As We May Think",
+      "author": "Vannevar Bush",
+      "year": 1945
+    },
+    "tags": [
+      "science",
+      "technology",
+      "knowledge"
+    ]
   }
 ]
