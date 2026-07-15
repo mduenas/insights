@@ -9019,8 +9019,7 @@
       "creativity",
       "identity"
     ]
-  }
-,
+  },
   {
     "id": "biology-20",
     "title": "Every organism inhabits its own private world of perception",
@@ -9169,6 +9168,81 @@
       "science",
       "technology",
       "knowledge"
+    ]
+  },
+  {
+    "id": "systems-03",
+    "title": "Thinking spreads beyond the skull",
+    "body": "Edwin Hutchins showed that human cognition is not confined to individual minds but is distributed across people, tools, and the environment. A ship's navigation depends not on any one officer's brain but on charts, instruments, and coordinated social practice. When we study — or design — complex systems, we must treat the entire social and material arrangement as the cognitive unit, not the individuals within it.",
+    "source": {
+      "title": "Cognition in the Wild",
+      "author": "Edwin Hutchins",
+      "year": 1995
+    },
+    "tags": [
+      "systems",
+      "cognition",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "law-02",
+    "title": "Law must have an inner morality",
+    "body": "Lon Fuller argued that law is not simply any set of rules backed by coercive power. To qualify as genuine law, rules must meet eight procedural standards: they must be general, publicly promulgated, prospective, clear, consistent, possible to obey, stable over time, and actually enforced as written. A legal system that chronically fails these requirements degenerates into arbitrary command. The inner morality of law is what gives legal obligation its distinctive authority.",
+    "source": {
+      "title": "The Morality of Law",
+      "author": "Lon L. Fuller",
+      "year": 1964
+    },
+    "tags": [
+      "law",
+      "governance",
+      "ethics"
+    ]
+  },
+  {
+    "id": "psychology-33",
+    "title": "Situations shape behavior more than character",
+    "body": "Philip Zimbardo's Stanford Prison Experiment demonstrated that ordinary, psychologically healthy people could enact cruelty and abuse when placed within institutional roles designed to encourage it. This situationist insight challenges the common assumption that harmful acts simply reflect harmful personalities. Systems, roles, and contexts carry moral weight alongside individual character — which means changing behavior often requires changing environments, not just individuals.",
+    "source": {
+      "title": "The Lucifer Effect: Understanding How Good People Turn Evil",
+      "author": "Philip Zimbardo",
+      "year": 2007
+    },
+    "tags": [
+      "psychology",
+      "ethics",
+      "social behavior"
+    ]
+  },
+  {
+    "id": "economics-36",
+    "title": "Every choice architecture has a default",
+    "body": "Thaler and Sunstein showed that the way options are presented — which is the default, how alternatives are ordered, what is made visually salient — profoundly shapes decisions even when people are entirely free to choose otherwise. Neutral design is a myth: every choice environment nudges people in some direction. Recognizing this gives designers and policymakers a responsibility to be deliberate about which behaviors their defaults encourage.",
+    "source": {
+      "title": "Nudge: Improving Decisions About Health, Wealth, and Happiness",
+      "author": "Richard H. Thaler and Cass R. Sunstein",
+      "year": 2008
+    },
+    "tags": [
+      "economics",
+      "decision making",
+      "behavioral science"
+    ]
+  },
+  {
+    "id": "philosophy-47",
+    "title": "Classifications loop back into the people they classify",
+    "body": "Ian Hacking described the 'looping effect of human kinds': when people are labeled with a category — a psychiatric diagnosis, a social role, an identity — they can come to understand and present themselves differently, which in turn alters the category itself. Unlike rocks or electrons, human classifications are not stable natural kinds; they feed back into the phenomena they describe. This makes the social and human sciences fundamentally more ethically fraught than the natural sciences.",
+    "source": {
+      "title": "The Social Construction of What?",
+      "author": "Ian Hacking",
+      "year": 1999
+    },
+    "tags": [
+      "philosophy",
+      "sociology",
+      "epistemology"
     ]
   }
 ]
