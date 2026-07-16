@@ -9244,5 +9244,80 @@
       "sociology",
       "epistemology"
     ]
+  },
+  {
+    "id": "law-03",
+    "title": "The life of the law has not been logic; it has been experience",
+    "body": "Holmes observed that legal doctrine does not develop through pure logical deduction from first principles, but through the accumulated weight of practical experience, felt necessities, and moral intuitions that shift across time. The law reflects what a society actually needs at a given historical moment, not what abstract reason alone demands. This insight grounds jurisprudence in living human experience rather than in timeless axioms, and it explains why law must always be reinterpreted in light of new circumstances.",
+    "source": {
+      "title": "The Common Law",
+      "author": "Oliver Wendell Holmes Jr.",
+      "year": 1881
+    },
+    "tags": [
+      "law",
+      "history",
+      "pragmatism"
+    ]
+  },
+  {
+    "id": "economics-37",
+    "title": "Good economics accounts for the unseen as well as the seen",
+    "body": "Bastiat showed that every economic policy creates two kinds of effects: the immediate, visible result and the hidden, indirect consequence that never happens or unfolds elsewhere. A bad economist sees only the first; a good economist sees both. Breaking a window creates work for the glazier but destroys the wealth that would have been spent on something else — the shopkeeper is poorer, not richer. This 'broken window fallacy' exposes how superficial it is to judge outcomes only by what is directly observable.",
+    "source": {
+      "title": "That Which Is Seen, and That Which Is Not Seen",
+      "author": "Frédéric Bastiat",
+      "year": 1850
+    },
+    "tags": [
+      "economics",
+      "reasoning",
+      "trade-offs"
+    ]
+  },
+  {
+    "id": "literature-40",
+    "title": "Prescience is a prison: knowing the future forecloses it",
+    "body": "In the Dune universe, Herbert explored what it would mean to have perfect foresight — and concluded it is a trap, not a gift. A leader who can see every possible future is compelled to walk a narrow, predetermined path and loses the capacity for genuine choice. Herbert used this as a meditation on charisma and totalitarianism: messianic certainty, however well-intentioned, destroys the spontaneous variability that makes civilization adaptable. The novel argues that uncertainty is not a flaw to be overcome but the very condition of human freedom.",
+    "source": {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year": 1965
+    },
+    "tags": [
+      "literature",
+      "leadership",
+      "freedom"
+    ]
+  },
+  {
+    "id": "science-39",
+    "title": "The goal of science is economy of thought, not ultimate truth",
+    "body": "Mach argued that scientific theories are not descriptions of reality but instruments for economical thinking — the most compact possible summary of our observations. A law of nature is a rule that lets us anticipate experience with a minimum of mental effort; it is useful, not true in some deeper metaphysical sense. This principle of economy of thought prefigured later pragmatist and instrumentalist philosophies of science and challenged the idea that science is closing in on a final picture of the universe.",
+    "source": {
+      "title": "The Science of Mechanics",
+      "author": "Ernst Mach",
+      "year": 1883
+    },
+    "tags": [
+      "science",
+      "philosophy",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "education-13",
+    "title": "Education should teach people how to think, not what to think",
+    "body": "Sayers argued in her influential 1947 lecture that modern education had abandoned the ancient Trivium — grammar, logic, and rhetoric — which together train the mind to absorb information, detect fallacy, and communicate clearly. Without these tools, students accumulate facts but lack the capacity to evaluate them. She warned that a population drilled in subject matter but untrained in reasoning is easily manipulated, because it cannot distinguish a valid argument from a persuasive one. The Trivium aimed not to fill a vessel but to forge an instrument.",
+    "source": {
+      "title": "The Lost Tools of Learning",
+      "author": "Dorothy L. Sayers",
+      "year": 1947
+    },
+    "tags": [
+      "education",
+      "reasoning",
+      "rhetoric"
+    ]
   }
 ]
