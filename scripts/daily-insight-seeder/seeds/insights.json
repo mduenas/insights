@@ -9320,4 +9320,80 @@
       "rhetoric"
     ]
   }
+,
+{
+    "id": "action-08",
+    "title": "Some systems grow stronger through disorder",
+    "body": "Nassim Taleb coined 'antifragile' to describe systems that don't merely resist shocks but actually improve because of them — the opposite of fragile, and more than merely robust. A muscle trained through resistance, an immune system shaped by exposure, an enterprise refined by competitive pressure: each gains from the very volatility that would break a fragile counterpart. Building antifragility into organizations or habits means preserving enough slack and variety to convert disruption into a source of improvement rather than a source of ruin.",
+    "source": {
+      "title": "Antifragile: Things That Gain from Disorder",
+      "author": "Nassim Nicholas Taleb",
+      "year": 2012
+    },
+    "tags": [
+      "action",
+      "resilience",
+      "uncertainty"
+    ]
+  },
+  {
+    "id": "music-03",
+    "title": "Music reaches parts of the brain that words cannot",
+    "body": "Oliver Sacks documented patients with severe amnesia who could no longer form new memories yet could still learn and sing new songs — and Parkinson's patients who, unable to walk unaided, could walk in rhythm to music. These cases reveal that music is not a cultural ornament layered over cognition but is deeply embedded in the brain's motor, emotional, and mnemonic architecture. Sacks concluded that our bond with music may outlast nearly every other cognitive faculty because it is not learned in the usual sense; it is biological, woven into us before language.",
+    "source": {
+      "title": "Musicophilia: Tales of Music and the Brain",
+      "author": "Oliver Sacks",
+      "year": 2007
+    },
+    "tags": [
+      "music",
+      "neuroscience",
+      "identity"
+    ]
+  },
+  {
+    "id": "systems-04",
+    "title": "Feedback loops, not events, govern how systems behave",
+    "body": "Donella Meadows showed that most puzzling, counterintuitive behavior in the world — economic booms and busts, ecological collapses, policy failures — arises from feedback loops that connect an action back to its own consequences over time. A balancing loop seeks equilibrium, like a thermostat correcting a temperature drift; a reinforcing loop amplifies change, like compound interest or a rumor spreading. Knowing which loops dominate a system at a given moment tells you far more about its future trajectory than any snapshot of its current state, and finding where loops can be shifted reveals where leverage actually lives.",
+    "source": {
+      "title": "Thinking in Systems: A Primer",
+      "author": "Donella H. Meadows",
+      "year": 2008
+    },
+    "tags": [
+      "systems",
+      "complexity",
+      "feedback"
+    ]
+  },
+  {
+    "id": "architecture-02",
+    "title": "Urban vitality comes from diversity, not order",
+    "body": "Jane Jacobs observed that the safest and most vibrant city neighborhoods were not those planned for uniformity but those that mixed old buildings with new, homes with shops, and drew pedestrians onto the street at every hour. Sidewalk life created informal surveillance — 'eyes on the street' — that no police force could replicate. When planners demolished dense, mixed-use blocks in favor of towers set in open plazas, they destroyed the very conditions that made neighborhoods work, replacing organic complexity with a sterile order that residents fled. Vitality, Jacobs argued, emerges from density and difference, not from design imposed from above.",
+    "source": {
+      "title": "The Death and Life of Great American Cities",
+      "author": "Jane Jacobs",
+      "year": 1961
+    },
+    "tags": [
+      "architecture",
+      "community",
+      "design"
+    ]
+  },
+  {
+    "id": "mindset-11",
+    "title": "Between stimulus and response lies a freedom no one can take",
+    "body": "Viktor Frankl survived four Nazi concentration camps and observed that even under extreme deprivation some prisoners retained an inner life that their captors could not reach. He concluded that between any stimulus and its response lies a space in which a human being can choose their attitude — a freedom that cannot be stripped away by force. Those who located meaning in their suffering were more likely to endure it. From this he developed logotherapy: the insight that meaning, not pleasure or power, is the deepest human motivation, and that it can be found even where everything else has been taken.",
+    "source": {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "year": 1946
+    },
+    "tags": [
+      "mindset",
+      "meaning",
+      "freedom"
+    ]
+  }
 ]
