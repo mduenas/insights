@@ -9319,9 +9319,8 @@
       "reasoning",
       "rhetoric"
     ]
-  }
-,
-{
+  },
+  {
     "id": "action-08",
     "title": "Some systems grow stronger through disorder",
     "body": "Nassim Taleb coined 'antifragile' to describe systems that don't merely resist shocks but actually improve because of them — the opposite of fragile, and more than merely robust. A muscle trained through resistance, an immune system shaped by exposure, an enterprise refined by competitive pressure: each gains from the very volatility that would break a fragile counterpart. Building antifragility into organizations or habits means preserving enough slack and variety to convert disruption into a source of improvement rather than a source of ruin.",
@@ -9394,6 +9393,81 @@
       "mindset",
       "meaning",
       "freedom"
+    ]
+  },
+  {
+    "id": "music-04",
+    "title": "Most people listen with only half their attention",
+    "body": "Copland identified three planes of musical listening — the sensuous (sound as pleasure), the expressive (emotional and narrative), and the sheerly musical (structure, form, and development). Most listeners remain on the first plane, enjoying music without engaging its architecture. Copland's insight is that trained listening is an act of active creation: the listener who hears how a fugue develops or a theme transforms is co-creating the meaning of the work, not merely receiving it.",
+    "source": {
+      "title": "What to Listen for in Music",
+      "author": "Aaron Copland",
+      "year": 1939
+    },
+    "tags": [
+      "music",
+      "attention",
+      "creativity"
+    ]
+  },
+  {
+    "id": "systems-05",
+    "title": "Life is a pattern of relationships, not a collection of parts",
+    "body": "Capra synthesized insights from physics, biology, and ecology to argue that all living systems — from cells to ecosystems — are fundamentally networks of relationships. The key property of life is not located in any component but in the pattern of interactions that constitutes the whole. This shift from parts to patterns, from substance to form, is the central conceptual revolution of systems thinking, and it requires learning to reason about webs of cause and effect rather than isolated variables.",
+    "source": {
+      "title": "The Web of Life",
+      "author": "Fritjof Capra",
+      "year": 1996
+    },
+    "tags": [
+      "systems",
+      "ecology",
+      "complexity"
+    ]
+  },
+  {
+    "id": "psychology-34",
+    "title": "Not all stress destroys — some builds you",
+    "body": "Selye introduced the distinction between distress (harmful, overwhelming stress) and eustress (stimulating, growth-promoting stress). The physiological mechanisms are identical; what differs is whether the demand exceeds your capacity or matches it just enough to stretch and strengthen you. Selye argued that a life without any stress would be a life without challenge, achievement, or development — the goal is not the elimination of stress but its calibration.",
+    "source": {
+      "title": "The Stress of Life",
+      "author": "Hans Selye",
+      "year": 1956
+    },
+    "tags": [
+      "psychology",
+      "stress",
+      "performance"
+    ]
+  },
+  {
+    "id": "habits-11",
+    "title": "Self-control draws from a single reservoir that depletes with use",
+    "body": "Baumeister's experiments demonstrated that the self draws on a shared mental resource when making decisions, resisting temptation, suppressing emotion, or exercising restraint — and each act of control leaves less available for the next challenge. The practical implication is profound: habits and environment design are not crutches but strategic conservation of a finite resource. Reducing the number of daily decisions you must fight through is not laziness; it is directing your willpower toward the choices that matter most.",
+    "source": {
+      "title": "Willpower: Rediscovering the Greatest Human Strength",
+      "author": "Roy Baumeister and John Tierney",
+      "year": 2011
+    },
+    "tags": [
+      "habits",
+      "self-control",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "history-28",
+    "title": "Compressing time reveals patterns invisible in the present",
+    "body": "Gaddis compared historians to geologists and ecologists: all three use the method of compressing vast stretches of time into a surveyable landscape, which is the only way to detect long-term processes imperceptible at human speed. A military campaign, a cultural shift, or a market crash that seems decisive in real time may look like a minor ripple across centuries — or the reverse. This deliberate shift in temporal scale is not escapism; it is a precondition for understanding the forces actually shaping the world.",
+    "source": {
+      "title": "The Landscape of History",
+      "author": "John Lewis Gaddis",
+      "year": 2002
+    },
+    "tags": [
+      "history",
+      "perspective",
+      "time"
     ]
   }
 ]
