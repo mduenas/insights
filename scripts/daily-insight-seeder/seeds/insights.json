@@ -9469,5 +9469,85 @@
       "perspective",
       "time"
     ]
+  },
+  {
+    "id": "architecture-03",
+    "title": "Complexity and Contradiction Make Architecture Alive",
+    "body": "Robert Venturi argued against modernism's dogma of simplicity, insisting that 'less is a bore.' The richest buildings accommodate tension rather than eliminate it — they are simultaneously formal and informal, closed and open, monumental and ordinary. This 'both/and' sensibility recognizes that architecture exists in a social and historical context, and that pretending otherwise produces buildings that are technically pure but humanly hollow.",
+    "source": {
+      "title": "Complexity and Contradiction in Architecture",
+      "author": "Robert Venturi",
+      "year": 1966
+    },
+    "tags": [
+      "architecture",
+      "design",
+      "complexity",
+      "aesthetics"
+    ]
+  },
+  {
+    "id": "law-04",
+    "title": "Better That Ten Guilty Escape Than One Innocent Suffer",
+    "body": "William Blackstone articulated the asymmetric logic at the heart of Anglo-American criminal law: wrongly convicting an innocent person is a deeper harm to society than acquitting a guilty one, so the burden of proof must fall entirely on the prosecution. This principle is not sentimentality but structural design — a system optimized for conviction rates undermines the very purpose of courts. Blackstone's ratio has been debated for two centuries, but its core logic still governs the standard of 'beyond reasonable doubt.'",
+    "source": {
+      "title": "Commentaries on the Laws of England",
+      "author": "William Blackstone",
+      "year": 1769
+    },
+    "tags": [
+      "law",
+      "justice",
+      "ethics",
+      "rights"
+    ]
+  },
+  {
+    "id": "music-05",
+    "title": "Musical Pleasure Lives Between Expectation and Surprise",
+    "body": "Daniel Levitin showed that the brain processes music through its predictive systems — the same neural machinery that anticipates the next word in a sentence. A melody builds a pattern, and the listener's nervous system continuously generates predictions about what comes next; when the music both honors and gently subverts those predictions, dopamine flows. This explains why total novelty feels jarring and total predictability feels dull — great music navigates the precise edge between them.",
+    "source": {
+      "title": "This Is Your Brain on Music",
+      "author": "Daniel J. Levitin",
+      "year": 2006
+    },
+    "tags": [
+      "music",
+      "neuroscience",
+      "psychology",
+      "creativity"
+    ]
+  },
+  {
+    "id": "systems-06",
+    "title": "Distributed Systems Outlast Centralized Ones",
+    "body": "Kevin Kelly observed that nature's most adaptive systems — immune networks, ecosystems, hive intelligence — share a common design: no master controller, just many simple agents following local rules whose interactions generate complex, responsive behavior. Centralized control optimizes for efficiency under predictable conditions; distributed control optimizes for survival when conditions change unexpectedly. The architecture that makes a system controllable in calm weather makes it fragile in storms.",
+    "source": {
+      "title": "Out of Control",
+      "author": "Kevin Kelly",
+      "year": 1994
+    },
+    "tags": [
+      "systems",
+      "complexity",
+      "emergence",
+      "organization"
+    ]
+  },
+  {
+    "id": "stoic-09",
+    "title": "Philosophy That Does Not Change Behavior Is Merely Entertainment",
+    "body": "Musonius Rufus, the Roman Stoic teacher of Epictetus, argued that philosophy is not an intellectual discipline but a training regimen for living. To discuss justice beautifully while behaving unjustly is worse than ignorance, he taught, because the person is doubly lost — they believe themselves educated while remaining entirely unchanged. As an athlete trains the body through repeated practice, the philosopher must train character through daily choices, discomfort deliberately embraced, and virtue consistently enacted.",
+    "source": {
+      "title": "Lectures and Sayings",
+      "author": "Musonius Rufus",
+      "year": 70
+    },
+    "tags": [
+      "stoic",
+      "philosophy",
+      "practice",
+      "virtue"
+    ]
   }
 ]
