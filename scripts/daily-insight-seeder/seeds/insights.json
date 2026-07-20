@@ -9549,5 +9549,80 @@
       "practice",
       "virtue"
     ]
+  },
+  {
+    "id": "systems-07",
+    "title": "Complex systems punish the intuitive fix and reward the counterintuitive one",
+    "body": "Forrester demonstrated through simulation that social systems — cities, economies, corporations — routinely produce outcomes opposite to the intentions of policy makers. A housing project built to reduce poverty can accelerate neighborhood decline by displacing the working poor who anchored local commerce. A medication that relieves a symptom can remove the signal that would have prompted a cure. Feedback loops, long delays between action and consequence, and the system's own tendency to compensate for interventions make intuitive solutions unreliable guides. The place where leverage actually exists is almost never where the problem appears.",
+    "source": {
+      "title": "Counterintuitive Behavior of Social Systems",
+      "author": "Jay W. Forrester",
+      "year": 1971
+    },
+    "tags": [
+      "systems",
+      "complexity",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "architecture-04",
+    "title": "The eyes see only a surface; a body inhabits a world",
+    "body": "Pallasmaa argued that modernist architecture, optimized for photographs rather than for bodies, produced spaces that look compelling but feel lifeless. We do not experience buildings through vision alone — we hear their acoustics, feel the texture of their floors under our feet, sense the thermal mass of their walls, and breathe their particular air. A corridor of polished glass and steel may be visually striking but haptic-ally cold; a stone church weathered by centuries communicates through materials and shadow in ways no rendering can replicate. Architecture that forgets the body fails the person who must live inside it.",
+    "source": {
+      "title": "The Eyes of the Skin: Architecture and the Senses",
+      "author": "Juhani Pallasmaa",
+      "year": 1996
+    },
+    "tags": [
+      "architecture",
+      "senses",
+      "design"
+    ]
+  },
+  {
+    "id": "law-05",
+    "title": "A legal system is more than rules — it is rules about rules",
+    "body": "Hart showed that what distinguishes a legal system from a mere collection of commands and customs is a second layer: secondary rules that govern the primary rules themselves. Rules of recognition tell officials which norms count as binding law; rules of change allow the system to add, remove, or alter primary rules; rules of adjudication determine who resolves disputes and how. Without these secondary rules, a society has nothing more than habits of obedience enforced by threats — it has no law in any meaningful sense. Hart's analysis explains why legal systems can be self-correcting and authoritative in ways that personal commands cannot.",
+    "source": {
+      "title": "The Concept of Law",
+      "author": "H.L.A. Hart",
+      "year": 1961
+    },
+    "tags": [
+      "law",
+      "philosophy",
+      "institutions"
+    ]
+  },
+  {
+    "id": "habits-12",
+    "title": "Satisfying consequences stamp behavior in; unsatisfying ones stamp it out",
+    "body": "Thorndike's Law of Effect, derived from watching cats learn to escape puzzle boxes by trial and error, established the foundational mechanism of habit: any response that produces a satisfying state of affairs in a given situation becomes more likely to recur in that situation, while any response that produces an annoying state becomes less likely. The animal does not reason about the connection — the repetition is automatic and gradual, written into behavior by the cumulative weight of outcomes. This principle, articulated in 1898 and confirmed a century later by neuroscience, underlies every habit loop, behavior modification protocol, and reward-based learning system ever devised.",
+    "source": {
+      "title": "Animal Intelligence: Experimental Studies",
+      "author": "Edward L. Thorndike",
+      "year": 1911
+    },
+    "tags": [
+      "habits",
+      "psychology",
+      "learning"
+    ]
+  },
+  {
+    "id": "time-07",
+    "title": "Acceleration does not free time — it consumes the time it creates",
+    "body": "Rosa showed that technological acceleration — faster transportation, instant communication, automated production — does not produce leisure. Instead, each advance raises the pace of life to fill the new capacity: we travel more, communicate more, and produce more, arriving at a culture perpetually short of time despite its abundance of time-saving devices. The paradox is structural: in a competitive society, anyone who opts out of acceleration falls behind, so all actors are compelled to speed up even when everyone would prefer to slow down. Modernity's promise of time sovereignty has become its opposite — a treadmill that runs faster the harder we run.",
+    "source": {
+      "title": "Social Acceleration: A New Theory of Modernity",
+      "author": "Hartmut Rosa",
+      "year": 2013
+    },
+    "tags": [
+      "time",
+      "modernity",
+      "technology"
+    ]
   }
 ]
