@@ -9624,5 +9624,80 @@
       "modernity",
       "technology"
     ]
+  },
+  {
+    "id": "architecture-05",
+    "title": "A house is a machine for living in",
+    "body": "Le Corbusier's radical declaration challenged ornamental tradition by insisting that every structural element must serve a function. Just as a steamship is designed around operational requirements, a home should be organized around real human needs — light, air, and movement — rather than inherited stylistic conventions. This principle launched modernism in architecture and forced designers to ask before all else: what is this building actually for?",
+    "source": {
+      "title": "Towards a New Architecture",
+      "author": "Le Corbusier",
+      "year": 1923
+    },
+    "tags": [
+      "architecture",
+      "design",
+      "modernism"
+    ]
+  },
+  {
+    "id": "music-06",
+    "title": "There are two kinds of music: good music and the other kind",
+    "body": "Ellington spent a lifetime refusing to be contained by genre, insisting the only meaningful distinction in music was quality — whether a piece moved you, surprised you, or rewarded repeated listening. This standard dissolves boundaries between jazz, classical, folk, and popular forms, treating artistic categories as administrative conveniences rather than measures of worth. The same principle applies to any creative field: the first question is never 'what genre is this?' but 'is it good?'",
+    "source": {
+      "title": "Music is My Mistress",
+      "author": "Duke Ellington",
+      "year": 1973
+    },
+    "tags": [
+      "music",
+      "creativity",
+      "quality"
+    ]
+  },
+  {
+    "id": "habits-13",
+    "title": "Variable rewards produce the most persistent behavior",
+    "body": "Skinner's experiments revealed that intermittent, unpredictable rewards generate behavior far more resistant to extinction than consistent rewards. A subject rewarded after an unpredictable number of responses will continue far longer without reinforcement than one rewarded every time. This variable-ratio effect explains the grip of gambling, social media, and any system built around uncertain positive feedback — designers of compelling systems have long applied what Skinner first demonstrated in the laboratory.",
+    "source": {
+      "title": "The Behavior of Organisms",
+      "author": "B.F. Skinner",
+      "year": 1938
+    },
+    "tags": [
+      "psychology",
+      "habits",
+      "behavior"
+    ]
+  },
+  {
+    "id": "systems-08",
+    "title": "The righter you do the wrong thing, the wronger you become",
+    "body": "Ackoff argued that most organizational failure stems not from doing things poorly but from doing the wrong things efficiently. If a city's congestion is caused by sprawl, widening roads — however expertly — deepens the real problem. Solving the wrong problem correctly is worse than failing to solve the right one, because it consumes resources and entrenches false assumptions. The first obligation of any problem-solver is to verify they have identified the right problem before optimizing a solution.",
+    "source": {
+      "title": "The Art of Problem Solving",
+      "author": "Russell L. Ackoff",
+      "year": 1978
+    },
+    "tags": [
+      "systems",
+      "problem-solving",
+      "strategy"
+    ]
+  },
+  {
+    "id": "literature-41",
+    "title": "Negative capability: remaining in uncertainty without grasping for answers",
+    "body": "Keats coined 'negative capability' to describe the quality he admired most in great writers — the capacity to stay inside uncertainty, mystery, and doubt without an irritable reaching after fact and reason. Most minds flee ambiguity by settling too quickly on explanations. The poet, scientist, or leader who can dwell in unresolved complexity long enough to see it whole gains access to truths that the premature resolver forecloses. Keats saw this not as passivity but as a disciplined openness — the precondition for genuine discovery.",
+    "source": {
+      "title": "Letters of John Keats",
+      "author": "John Keats",
+      "year": 1817
+    },
+    "tags": [
+      "literature",
+      "creativity",
+      "uncertainty"
+    ]
   }
 ]
