@@ -9699,5 +9699,85 @@
       "creativity",
       "uncertainty"
     ]
+  },
+  {
+    "id": "law-06",
+    "title": "Code is law: software architecture governs online behavior as effectively as statutes",
+    "body": "Lessig observed that the technical architecture of cyberspace — its code — determines what users can and cannot do more reliably than any enacted statute. A platform that makes anonymous communication impossible enforces an identity norm no legislature imposed; one that defaults to sharing makes intellectual property difficult to protect. To understand power on the internet, you must study not only its laws but its protocols, defaults, and algorithms. The architects of digital systems are, whether they intend it or not, lawmakers.",
+    "source": {
+      "title": "Code and Other Laws of Cyberspace",
+      "author": "Lawrence Lessig",
+      "year": 1999
+    },
+    "tags": [
+      "law",
+      "technology",
+      "design",
+      "power"
+    ]
+  },
+  {
+    "id": "music-07",
+    "title": "Music makes the invisible structure of time audible",
+    "body": "Barenboim argued that music is the only art form that exists entirely in time, and therefore gives us a unique way to experience duration — not as formless passage but as organized structure. Each note acquires meaning only from its relationship to what came before and what follows; without memory and anticipation, music collapses into isolated sounds. This temporal interdependence makes listening a form of active cognition: to follow a phrase is to hold the past in mind while moving toward an expected resolution. Music trains us to think in sequences rather than snapshots.",
+    "source": {
+      "title": "Music Quickens Time",
+      "author": "Daniel Barenboim",
+      "year": 2008
+    },
+    "tags": [
+      "music",
+      "time",
+      "listening",
+      "cognition"
+    ]
+  },
+  {
+    "id": "systems-09",
+    "title": "Organization, not substance, is what makes a whole greater than its parts",
+    "body": "Bertalanffy founded General System Theory to explain why living things cannot be understood by analyzing components in isolation. The properties that matter — adaptability, reproduction, self-regulation — emerge from the way parts are organized and interact, not from what those parts are made of. This organizational perspective cuts across disciplinary boundaries: the same formal principles can govern ant colonies, corporations, and ecosystems. It suggests that science's analytical habit of dissection, however powerful, systematically misses the level at which biology's most interesting questions reside.",
+    "source": {
+      "title": "General System Theory",
+      "author": "Ludwig von Bertalanffy",
+      "year": 1968
+    },
+    "tags": [
+      "systems",
+      "biology",
+      "emergence",
+      "organization"
+    ]
+  },
+  {
+    "id": "action-09",
+    "title": "The meaning of an idea lies entirely in its practical consequences",
+    "body": "Peirce's pragmatic maxim holds that two ideas with identical practical consequences in every conceivable situation have identical meaning — regardless of how different they sound. A concept that makes no difference to how one acts, experiments, or predicts is an empty concept. This principle became the cornerstone of American pragmatism, transforming philosophy from disputes about ultimate metaphysical realities into an inquiry about what ideas actually do in the world. It gives priority to consequences over essences and to the laboratory over the armchair.",
+    "source": {
+      "title": "How to Make Our Ideas Clear",
+      "author": "Charles Sanders Peirce",
+      "year": 1878
+    },
+    "tags": [
+      "philosophy",
+      "pragmatism",
+      "meaning",
+      "action"
+    ]
+  },
+  {
+    "id": "design-11",
+    "title": "When form and content are inseparable, the solution feels inevitable",
+    "body": "Rand argued that great design is not decoration applied to function but the integration of the two into a unity that feels necessary rather than chosen. A well-designed object or symbol communicates by being exactly what it is; any alternative arrangement feels arbitrary by comparison. This standard — that a good design solution should seem inevitable in retrospect — gives designers a way to evaluate their work beyond personal taste. It places design in the same category as good writing: clarity achieved through the relentless elimination of the unnecessary.",
+    "source": {
+      "title": "Thoughts on Design",
+      "author": "Paul Rand",
+      "year": 1947
+    },
+    "tags": [
+      "design",
+      "creativity",
+      "form",
+      "aesthetics"
+    ]
   }
 ]
