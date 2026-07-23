@@ -9779,5 +9779,80 @@
       "form",
       "aesthetics"
     ]
+  },
+  {
+    "id": "architecture-06",
+    "title": "Silence is where the desire to express begins",
+    "body": "Louis Kahn described architecture as the translation of silence into light. Silence, for him, was not emptiness but fullness — the unmeasurable realm of what wants to be, before it takes form. Every building must begin with an understanding of its nature — what kind of space this institution wants to be — and that understanding arises only in silence, before the first line is drawn. When the building is finished, if it is true, the silence returns.",
+    "source": {
+      "title": "Talks with Students",
+      "author": "Louis Kahn",
+      "year": 1969
+    },
+    "tags": [
+      "architecture",
+      "creativity",
+      "design"
+    ]
+  },
+  {
+    "id": "systems-10",
+    "title": "The purpose of a system is what it does",
+    "body": "Stafford Beer's axiom — POSIWID — cuts through stated missions and official mandates. To understand any organization, observe its actual outputs rather than its design documents or stated goals. A welfare system that reliably produces dependency is, functionally, a dependency system; a prison that consistently generates recidivism is a recidivism system. Closing the gap between intention and function requires seeing the system as it behaves, not as its architects hoped it would.",
+    "source": {
+      "title": "Brain of the Firm",
+      "author": "Stafford Beer",
+      "year": 1972
+    },
+    "tags": [
+      "systems",
+      "organizations",
+      "design"
+    ]
+  },
+  {
+    "id": "action-10",
+    "title": "Intention is inseparable from description",
+    "body": "G.E.M. Anscombe argued that we cannot ask simply whether an action was intentional — only whether it was intentional under some description. The same movement of a hand might be intentional as 'operating a pump' but not as 'poisoning the water supply,' even if both descriptions are simultaneously true. This insight carries deep ethical weight: moral responsibility depends not only on what we do but on how we understand what we are doing in the moment of acting.",
+    "source": {
+      "title": "Intention",
+      "author": "G.E.M. Anscombe",
+      "year": 1957
+    },
+    "tags": [
+      "philosophy",
+      "ethics",
+      "action"
+    ]
+  },
+  {
+    "id": "philosophy-48",
+    "title": "Fortune's wheel turns without pause or mercy",
+    "body": "Boethius, writing while awaiting execution, personified Fortune as a wheel that constantly revolves — raising some and crushing others without regard to merit. The insight is not resignation but clarity: those who mistake Fortune's gifts for their own possessions suffer most when the wheel inevitably turns. True good, he argued following Plato, can only be found in what cannot be taken away — the mind's relationship to reason, virtue, and what is eternal.",
+    "source": {
+      "title": "The Consolation of Philosophy",
+      "author": "Boethius",
+      "year": 524
+    },
+    "tags": [
+      "philosophy",
+      "resilience",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "psychology-35",
+    "title": "Conditioning shapes responses that operate below awareness",
+    "body": "Ivan Pavlov's discovery that dogs could be trained to salivate at the sound of a bell — not from hunger but from learned association — revealed a fundamental mechanism of animal and human learning. Organisms automatically learn to anticipate events that reliably follow one another, forming conditioned responses that bypass deliberate thought. This insight underpins our understanding of how habits, fears, and desires are formed, and why changing behavior often requires deliberately restructuring the environment rather than relying on willpower.",
+    "source": {
+      "title": "Conditioned Reflexes",
+      "author": "Ivan Pavlov",
+      "year": 1927
+    },
+    "tags": [
+      "psychology",
+      "learning",
+      "habits"
+    ]
   }
 ]
