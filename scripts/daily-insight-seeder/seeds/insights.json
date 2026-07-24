@@ -9854,5 +9854,80 @@
       "learning",
       "habits"
     ]
+  },
+  {
+    "id": "mathematics-27",
+    "title": "Every powerful system contains truths it cannot prove",
+    "body": "Kurt Gödel demonstrated that any formal system rich enough to express basic arithmetic will contain true statements that are unprovable within that system — a result so unexpected it shook the foundations of mathematics. This incompleteness doesn't mean mathematics is broken; it means no single formal framework can capture all mathematical truth. The insight extends beyond logic: any bounded system of rules, no matter how elaborate, will face questions it cannot resolve from within its own structure.",
+    "source": {
+      "title": "On Formally Undecidable Propositions of Principia Mathematica and Related Systems",
+      "author": "Kurt Gödel",
+      "year": 1931
+    },
+    "tags": [
+      "mathematics",
+      "logic",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "ecology-13",
+    "title": "Poison one thread and the whole web unravels",
+    "body": "Rachel Carson's investigation of synthetic pesticides revealed that harming one link in an ecosystem sends consequences cascading upward through the food chain — birds die not from direct spraying but from eating contaminated insects, and predators vanish when their prey disappears. This principle of ecological interconnection overturned the assumption that a living system could be engineered in one place while leaving the rest untouched. The same logic applies beyond nature: in any tightly coupled system, targeted interventions produce effects that are diffuse, delayed, and often opposite to what was intended.",
+    "source": {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "year": 1962
+    },
+    "tags": [
+      "ecology",
+      "systems",
+      "interdependence"
+    ]
+  },
+  {
+    "id": "leadership-17",
+    "title": "Fog and friction are inherent to every real contest",
+    "body": "Carl von Clausewitz coined 'the fog of war' to describe the irreducible uncertainty commanders face in battle — incomplete intelligence, unreliable reports, and unpredictable human behavior make even simple plans hard to execute. Alongside the fog comes friction: the countless small impediments that slow, distort, and drain real operations compared to the clean logic of plans drawn on maps. Leaders who design only for ideal conditions will be defeated by reality; robust preparation means building reserves for what cannot be foreseen.",
+    "source": {
+      "title": "On War",
+      "author": "Carl von Clausewitz",
+      "year": 1832
+    },
+    "tags": [
+      "leadership",
+      "strategy",
+      "uncertainty"
+    ]
+  },
+  {
+    "id": "creativity-24",
+    "title": "The unconscious does its best work while you look away",
+    "body": "Henri Poincaré observed that his most important mathematical insights arrived not during deliberate effort but in moments of relaxed distraction — stepping onto a bus, walking along a cliff — after sustained periods of concentrated study. He theorized that intense conscious work loads the mind with material which the unconscious then recombines freely while attention is elsewhere. The practical implication is that rest and unstructured time are not opposed to creative output but are essential stages within it; incubation is when ideas crystallize below the surface.",
+    "source": {
+      "title": "Science and Method",
+      "author": "Henri Poincaré",
+      "year": 1908
+    },
+    "tags": [
+      "creativity",
+      "intuition",
+      "problem-solving"
+    ]
+  },
+  {
+    "id": "sociology-26",
+    "title": "Social capital erodes silently, decade by decade",
+    "body": "Robert Putnam documented a long, quiet decline in American civic life: people were joining fewer clubs, attending fewer community meetings, and even bowling — once a deeply social activity — increasingly alone rather than in leagues. The data showed that social capital, the networks of trust and reciprocity that allow communities to cooperate, had been depleting for a generation without triggering any single alarming event. Communities rich in social capital recover faster from disasters, produce healthier citizens, and sustain stronger economies; its invisible erosion is no less costly for being gradual.",
+    "source": {
+      "title": "Bowling Alone: The Collapse and Revival of American Community",
+      "author": "Robert D. Putnam",
+      "year": 2000
+    },
+    "tags": [
+      "sociology",
+      "community",
+      "trust"
+    ]
   }
 ]
