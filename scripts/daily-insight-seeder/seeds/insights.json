@@ -9929,5 +9929,85 @@
       "community",
       "trust"
     ]
+  },
+  {
+    "id": "music-08",
+    "title": "Dissonance becomes consonance through familiarity",
+    "body": "Schoenberg's concept of the 'emancipation of dissonance' holds that what sounds jarring or wrong is often merely unfamiliar — given enough exposure, listeners come to perceive dissonance as resolution. He argued that the twelve-tone method was not a departure from musical logic but its natural extension, following the implications of Western harmony to their conclusion. What audiences called noise in 1911 became, for trained ears, a new language of expression. The boundary between order and chaos in any domain is mostly a matter of acclimatization.",
+    "source": {
+      "title": "Style and Idea",
+      "author": "Arnold Schoenberg",
+      "year": 1950
+    },
+    "tags": [
+      "music",
+      "creativity",
+      "perception",
+      "innovation"
+    ]
+  },
+  {
+    "id": "architecture-07",
+    "title": "Architecture is presence before it is form",
+    "body": "Zumthor describes atmosphere as the first thing we perceive when entering a building — before we analyze the columns, ceiling height, or materials. This immediate, almost unconscious impression is architecture's most powerful effect: it can make us feel sheltered or exposed, energized or calm, welcomed or alien. The great challenge of design is to craft these intangible qualities intentionally, making emotional experience the subject of the work rather than its byproduct. A building that photographs beautifully but feels wrong to inhabit has failed at its primary task.",
+    "source": {
+      "title": "Atmospheres",
+      "author": "Peter Zumthor",
+      "year": 2006
+    },
+    "tags": [
+      "architecture",
+      "design",
+      "atmosphere",
+      "embodiment"
+    ]
+  },
+  {
+    "id": "law-07",
+    "title": "Rights are trumps against the majority",
+    "body": "Dworkin argues that individual rights cannot be overridden simply because doing so would benefit a greater number of people. A right, properly understood, is a trump card that individuals hold against utilitarian calculations — it limits what governments and majorities may do even when the collective benefit is real. This does not make rights absolute, but it means that rights conflicts must be resolved within a different moral grammar than aggregate welfare. A society that treats rights as merely strong preferences will eventually discover it has none.",
+    "source": {
+      "title": "Taking Rights Seriously",
+      "author": "Ronald Dworkin",
+      "year": 1977
+    },
+    "tags": [
+      "law",
+      "ethics",
+      "rights",
+      "justice"
+    ]
+  },
+  {
+    "id": "mythology-10",
+    "title": "Everything changes; nothing is lost",
+    "body": "Ovid's great poem catalogues transformation after transformation — gods becoming animals, humans becoming rivers, grief hardening into stone — yet the underlying theme is not loss but continuity: nothing in the universe truly perishes, it only changes form. This cosmological insight, voiced through myth, anticipates conservation principles in physics and the cycling of matter through biological systems. The self that fears change misunderstands nature's fundamental grammar, which is not stasis but endless becoming. What we mourn as endings are often translations into a new mode of being.",
+    "source": {
+      "title": "Metamorphoses",
+      "author": "Ovid",
+      "year": 8
+    },
+    "tags": [
+      "mythology",
+      "change",
+      "transformation",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "productivity-09",
+    "title": "Four hours of deep work is often a full day",
+    "body": "Pang's research into the lives of prolific scientists, writers, and thinkers reveals a counterintuitive pattern: the most productive people rarely sustain more than four to five hours of genuinely creative, focused effort per day. Darwin walked and rested; Dickens wrote in the morning and rambled in the afternoon. The remainder of the day is not wasted — deliberate rest, physical activity, and unhurried time replenish the cognitive resources that deep work depletes. Working longer hours past this threshold produces diminishing returns and eventually degrades the quality of all work.",
+    "source": {
+      "title": "Rest: Why You Get More Done When You Work Less",
+      "author": "Alex Soojung-Kim Pang",
+      "year": 2016
+    },
+    "tags": [
+      "productivity",
+      "rest",
+      "creativity",
+      "habits"
+    ]
   }
 ]
