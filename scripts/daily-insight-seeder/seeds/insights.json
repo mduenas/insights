@@ -10009,5 +10009,85 @@
       "creativity",
       "habits"
     ]
+  },
+  {
+    "id": "literature-42",
+    "title": "Make the familiar strange to see it truly",
+    "body": "Le Guin argued that science fiction's power lies not in predicting the future but in defamiliarizing the present — by displacing contemporary anxieties and power structures into invented worlds, a writer can examine them with a directness that realist fiction rarely permits. Her own novels explored gender, colonialism, and anarchism through invented societies precisely because that frame of strangeness enabled a cleaner, less defensive engagement with what was actually being said. What looks like escape from reality is often a route back to its core, stripped of the defenses we ordinarily maintain against uncomfortable truths.",
+    "source": {
+      "title": "The Language of the Night: Essays on Fantasy and Science Fiction",
+      "author": "Ursula K. Le Guin",
+      "year": 1979
+    },
+    "tags": [
+      "literature",
+      "imagination",
+      "perspective",
+      "creativity"
+    ]
+  },
+  {
+    "id": "psychology-36",
+    "title": "Early advantages compound into apparent destiny",
+    "body": "Gladwell's analysis of elite Canadian hockey players revealed that a disproportionate share were born in January, February, and March — early in the annual age-cutoff year for youth leagues. A child a few months older has a modest size and coordination advantage at age six, which attracts more coaching attention and placement on better teams, building greater skill and opening access to higher programs. After a decade of compounding, the original accident of birth date looks indistinguishable from innate talent. Systems that sort people early tend to amplify initial differences rather than identify underlying potential.",
+    "source": {
+      "title": "Outliers: The Story of Success",
+      "author": "Malcolm Gladwell",
+      "year": 2008
+    },
+    "tags": [
+      "psychology",
+      "success",
+      "systems",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "ecology-14",
+    "title": "A landscape yields its truth only to those who attend without agenda",
+    "body": "Lopez spent years studying how Arctic peoples developed not just practical survival knowledge but an entire ethical worldview shaped by the conditions of their landscape. Close, patient observation — learning which snow would hold a sled, reading the tracks of animals across wind-hardened ice, noticing subtle shifts in light and weather — cultivated a form of attention that was simultaneously a form of respect. He argues that any landscape, natural or intellectual, yields its deepest patterns only to observers who are willing to be corrected by what they find rather than merely confirmed by it.",
+    "source": {
+      "title": "Arctic Dreams: Imagination and Desire in a Northern Landscape",
+      "author": "Barry Lopez",
+      "year": 1986
+    },
+    "tags": [
+      "ecology",
+      "attention",
+      "knowledge",
+      "observation"
+    ]
+  },
+  {
+    "id": "habits-14",
+    "title": "Endurance is a skill the body teaches the mind",
+    "body": "Murakami began running the same year he began writing novels and over decades concluded that the two practices trained the same underlying capacity — the ability to sustain focused effort through discomfort, day after day, across years and decades. He argues that talent determines the ceiling of what you might achieve, but concentration and endurance determine how much of that ceiling you actually reach. The encouraging implication is that unlike talent, these qualities are not fixed at birth; they can be deliberately cultivated, and the body turns out to be one of the most effective laboratories for training the mind.",
+    "source": {
+      "title": "What I Talk About When I Talk About Running",
+      "author": "Haruki Murakami",
+      "year": 2007
+    },
+    "tags": [
+      "habits",
+      "creativity",
+      "discipline",
+      "endurance"
+    ]
+  },
+  {
+    "id": "communication-09",
+    "title": "Control comes not from restricting information but from flooding it",
+    "body": "Gibson argued that Orwell's model of totalitarian control — a state monopolizing truth through an official Ministry — had been outpaced by a more effective mechanism: producing such an abundance of information that no citizen can reliably distinguish signal from noise. In this environment, truth is not forbidden but simply harder to find than distraction; compliance is maintained not through fear but through cognitive overload and exhaustion. The practical consequence for anyone navigating the modern information landscape is that the question has shifted from 'is this permitted?' to 'is this real?' — a harder question with no authority to appeal to.",
+    "source": {
+      "title": "Distrust That Particular Flavor",
+      "author": "William Gibson",
+      "year": 2012
+    },
+    "tags": [
+      "communication",
+      "technology",
+      "information",
+      "power"
+    ]
   }
 ]
