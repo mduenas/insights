@@ -10089,5 +10089,80 @@
       "information",
       "power"
     ]
+  },
+  {
+    "id": "communication-10",
+    "title": "One cannot not communicate",
+    "body": "In any social setting, every behavior — including silence, stillness, and inaction — carries the value of a message. Watzlawick and his colleagues established that communication is not optional: the very attempt to stop communicating sends a message of its own. This first axiom shifts attention from what we intend to say toward what others inevitably receive, making relationship and context as consequential as the words we choose.",
+    "source": {
+      "title": "Pragmatics of Human Communication",
+      "author": "Paul Watzlawick",
+      "year": 1967
+    },
+    "tags": [
+      "communication",
+      "relationships",
+      "behavior"
+    ]
+  },
+  {
+    "id": "psychology-37",
+    "title": "Self-control is a strategy, not a virtue",
+    "body": "Mischel's decades of marshmallow research revealed that children who resisted temptation did so not through brute willpower but by mentally transforming the tempting object — imagining it as a cloud, covering their eyes, or distracting themselves with a song. Self-control is learnable because it is fundamentally a cognitive skill: the capacity to shift how we mentally represent what we are trying to resist. This finding dissolves the dichotomy between discipline as innate character and discipline as something that can be deliberately cultivated.",
+    "source": {
+      "title": "The Marshmallow Test: Mastering Self-Control",
+      "author": "Walter Mischel",
+      "year": 2014
+    },
+    "tags": [
+      "psychology",
+      "self-control",
+      "habits"
+    ]
+  },
+  {
+    "id": "mathematics-28",
+    "title": "Determinism does not guarantee predictability",
+    "body": "Chaos theory reveals that systems governed by perfectly deterministic laws can produce behavior that is practically unpredictable over time. Tiny differences in initial conditions amplify exponentially until future states diverge completely — not because the universe is random, but because our knowledge of starting conditions is always imperfect. Stewart's work clarifies a critical distinction: understanding the rules of a system is not the same as being able to forecast its trajectory, a gap with implications far beyond mathematics.",
+    "source": {
+      "title": "Does God Play Dice? The New Mathematics of Chaos",
+      "author": "Ian Stewart",
+      "year": 1989
+    },
+    "tags": [
+      "mathematics",
+      "chaos",
+      "uncertainty"
+    ]
+  },
+  {
+    "id": "ecology-15",
+    "title": "Organisms perceive possibilities, not raw data",
+    "body": "Gibson challenged the view that perception begins with fragmentary sensory signals that the brain assembles into a picture of the world. Instead, he argued that animals directly detect the action possibilities — affordances — that the environment offers: a branch affords grasping, a cliff edge affords falling. Meaning is not added by the mind after the fact; it is woven into the animal-environment relationship from the outset. This reframing has reshaped cognitive science, design, and our understanding of how behavior is embedded in place.",
+    "source": {
+      "title": "The Ecological Approach to Visual Perception",
+      "author": "James Gibson",
+      "year": 1979
+    },
+    "tags": [
+      "ecology",
+      "perception",
+      "cognition"
+    ]
+  },
+  {
+    "id": "sociology-27",
+    "title": "Space is a silent language no one teaches you to read",
+    "body": "Hall coined the term proxemics to describe how cultures encode meaning in the physical distances people maintain in social situations. The gap between two speakers in a meeting carries information about power, trust, and relationship that neither party consciously calculates — and the rules differ dramatically across cultures. What registers as friendly and open in one setting reads as intrusive or cold in another. Because these norms operate below awareness, misreading them generates misunderstanding without anyone knowing why the interaction went wrong.",
+    "source": {
+      "title": "The Hidden Dimension",
+      "author": "Edward T. Hall",
+      "year": 1966
+    },
+    "tags": [
+      "sociology",
+      "culture",
+      "communication"
+    ]
   }
 ]
