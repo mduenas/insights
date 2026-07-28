@@ -10164,5 +10164,80 @@
       "culture",
       "communication"
     ]
+  },
+  {
+    "id": "productivity-10",
+    "title": "The disciplined pursuit of less",
+    "body": "Essentialism is not about getting more done in less time — it is about getting only the right things done. When we give ourselves permission to stop trying to do it all, we can make our highest possible contribution toward the things that actually matter. Every request, opportunity, and task must pass the filter: is this truly essential? By ruthlessly eliminating the non-essential, we trade shallow busyness for meaningful progress.",
+    "source": {
+      "title": "Essentialism: The Disciplined Pursuit of Less",
+      "author": "Greg McKeown",
+      "year": 2014
+    },
+    "tags": [
+      "productivity",
+      "focus",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "music-09",
+    "title": "Jazz teaches you to be free within a form",
+    "body": "The jazz musician must simultaneously respect the structure of a composition and improvise freely within it. This creative tension — individual expression constrained by collective agreement — mirrors the challenge in every collaborative endeavor. Marsalis argues that jazz offers a democratic model: diverse voices, each fully expressed, building something none could create alone. Swing only happens when everyone listens as much as they play.",
+    "source": {
+      "title": "Moving to Higher Ground: How Jazz Can Change Your Life",
+      "author": "Wynton Marsalis",
+      "year": 2008
+    },
+    "tags": [
+      "music",
+      "creativity",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "architecture-08",
+    "title": "Buildings learn from their inhabitants over time",
+    "body": "Stewart Brand identified six layers of change in any building — from the geologically stable site to the daily flux of furniture — each operating at a different pace. When fast layers are forced to change slow ones, or slow layers constrain fast ones, the building tears itself apart. This layered model extends well beyond architecture: healthy organizations, ecosystems, and technologies all depend on nested structures that can each evolve at their own rate without destabilizing the layers beneath.",
+    "source": {
+      "title": "How Buildings Learn: What Happens After They're Built",
+      "author": "Stewart Brand",
+      "year": 1994
+    },
+    "tags": [
+      "architecture",
+      "systems",
+      "design"
+    ]
+  },
+  {
+    "id": "mindset-12",
+    "title": "Your biggest opponent is the voice in your own head",
+    "body": "Gallwey observed that athletes perform best when Self 2 — the intuitive, embodied body-mind — is trusted over Self 1, the critical, anxious inner commentator. Over-analyzing, berating yourself for errors, and trying too hard are all forms of self-interference that block the natural expression of skill. The inner game, mastering the relationship between these two selves, is the real competition in any discipline, not the opponent across the net.",
+    "source": {
+      "title": "The Inner Game of Tennis",
+      "author": "W. Timothy Gallwey",
+      "year": 1974
+    },
+    "tags": [
+      "mindset",
+      "performance",
+      "psychology"
+    ]
+  },
+  {
+    "id": "courage-10",
+    "title": "Your position never gives you the right to command, only the obligation to serve",
+    "body": "Hammarskjöld, Secretary-General of the United Nations during some of the Cold War's most dangerous crises, filled his private journal with meditations on duty, solitude, and sacrifice. He insisted that true leadership rests not on authority over others but on an unconditional commitment to something larger than oneself. The courage to act rightly when no one is watching — to serve without recognition or reward — is, in his view, the highest form of integrity available to any person in public life.",
+    "source": {
+      "title": "Markings",
+      "author": "Dag Hammarskjöld",
+      "year": 1964
+    },
+    "tags": [
+      "courage",
+      "leadership",
+      "service"
+    ]
   }
 ]
