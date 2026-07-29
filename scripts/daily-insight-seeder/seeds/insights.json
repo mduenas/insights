@@ -10239,5 +10239,80 @@
       "leadership",
       "service"
     ]
+  },
+  {
+    "id": "learning-14",
+    "title": "Experts think in chunks, not in steps",
+    "body": "Barbara Oakley's synthesis of cognitive science shows that expertise is built by compressing repeated procedures into compact mental units called chunks. A novice solving a math problem laboriously traces every logical step; an expert recognizes a familiar pattern and retrieves the solution almost instantly. This means deliberate practice matters not just for repetition but for the mental reorganization it produces — transforming slow sequential reasoning into fast, fluent recognition.",
+    "source": {
+      "title": "A Mind for Numbers",
+      "author": "Barbara Oakley",
+      "year": 2014
+    },
+    "tags": [
+      "learning",
+      "cognition",
+      "expertise"
+    ]
+  },
+  {
+    "id": "time-11",
+    "title": "Speed is a habit, not a necessity",
+    "body": "Carl Honoré documents how the modern world became obsessed with doing everything faster — faster eating, faster working, faster living — and how this acceleration quietly erodes quality, pleasure, and meaning. The cult of speed is self-reinforcing: hurry creates more tasks than it clears. Slowing down, paradoxically, often produces better results and deeper satisfaction, because full attention is itself a form of productivity that velocity destroys.",
+    "source": {
+      "title": "In Praise of Slowness",
+      "author": "Carl Honoré",
+      "year": 2004
+    },
+    "tags": [
+      "time",
+      "focus",
+      "culture"
+    ]
+  },
+  {
+    "id": "courage-11",
+    "title": "Freedom is the willingness to be disliked",
+    "body": "Drawing on Alfred Adler's psychology, Kishimi and Koga argue that the desire for approval is the primary obstacle to personal freedom. When you live to satisfy others' expectations, you hand over the controls of your own life. True autonomy requires accepting that some people will disapprove of your choices — and choosing anyway. The goal is not to seek recognition but to contribute authentically, which naturally separates you from needing validation to act.",
+    "source": {
+      "title": "The Courage to Be Disliked",
+      "author": "Ichiro Kishimi and Fumitake Koga",
+      "year": 2013
+    },
+    "tags": [
+      "courage",
+      "freedom",
+      "psychology"
+    ]
+  },
+  {
+    "id": "ecology-16",
+    "title": "Forests are social networks, not collections of individuals",
+    "body": "Peter Wohlleben's careful observations of forest ecosystems revealed that trees share nutrients and distress signals through underground fungal networks — what scientists call mycorrhizal webs. Older 'mother trees' channel sugars to seedlings growing in their shade, while threatened trees emit chemical compounds that their neighbors absorb and respond to. This reframes forests not as competition for resources but as communities of mutual support, challenging the assumption that individualism is the dominant logic of nature.",
+    "source": {
+      "title": "The Hidden Life of Trees",
+      "author": "Peter Wohlleben",
+      "year": 2015
+    },
+    "tags": [
+      "ecology",
+      "biology",
+      "systems"
+    ]
+  },
+  {
+    "id": "mathematics-29",
+    "title": "Mathematical truth is made, not found",
+    "body": "Philip Davis and Reuben Hersh challenged the Platonist view that mathematicians discover eternal truths in an abstract realm by arguing that mathematics is a human, social, and historically situated practice. Proofs are accepted because communities of mathematicians find them convincing, not because they access some transcendent verification. This perspective explains why mathematical standards shift over time and why errors persist unnoticed for decades — mathematics is a living conversation, not a fixed monument.",
+    "source": {
+      "title": "The Mathematical Experience",
+      "author": "Philip J. Davis and Reuben Hersh",
+      "year": 1981
+    },
+    "tags": [
+      "mathematics",
+      "philosophy",
+      "science"
+    ]
   }
 ]
