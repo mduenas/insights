@@ -10394,5 +10394,88 @@
       "resilience",
       "leadership"
     ]
+  },
+  {
+    "id": "values-10",
+    "title": "Knowing yourself is worth more than knowing the stars",
+    "body": "Thomas à Kempis argued that vast learning in theology or philosophy profits nothing if the learner lacks humility and self-command. A simple person who serves faithfully advances further than a proud scholar who can discourse on the heavens but cannot govern their own desires. This inversion challenges the assumption that accumulating knowledge automatically produces a better life; it insists instead that how we live what we know matters more than how much we know.",
+    "source": {
+      "title": "The Imitation of Christ",
+      "author": "Thomas à Kempis",
+      "year": 1418
+    },
+    "tags": [
+      "values",
+      "humility",
+      "self-knowledge",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "sociology-28",
+    "title": "When labor is alien to the worker, humanity itself is lost",
+    "body": "Marx described alienation as the condition in which the worker's own activity becomes a foreign and hostile power: the product of labor confronts the laborer as something external, belonging to someone else. What should be the free expression of human creative capacity is reduced to a mere means of physical survival. This estrangement from the act of production then radiates outward — the worker feels separated from other people and from any sense of shared human purpose, turning collective life into a competition of isolated individuals.",
+    "source": {
+      "title": "Economic and Philosophic Manuscripts of 1844",
+      "author": "Karl Marx",
+      "year": 1844
+    },
+    "tags": [
+      "sociology",
+      "work",
+      "alienation",
+      "economics"
+    ]
+  },
+  {
+    "id": "creativity-25",
+    "title": "Imagination does not escape reality — it presses back against it",
+    "body": "Wallace Stevens argued that imagination is not a flight from the world but humanity's primary instrument for engaging with it. In an era that privileges the measurable and the factual, the poet and artist do not ornament what is already known — they reveal what the bare data cannot supply: the felt texture of experience, the meaning behind events. Without imagination, Stevens warned, reality becomes oppressive and fixed; with it, we become active participants in determining what reality means rather than passive recipients of it.",
+    "source": {
+      "title": "The Necessary Angel: Essays on Reality and the Imagination",
+      "author": "Wallace Stevens",
+      "year": 1951
+    },
+    "tags": [
+      "creativity",
+      "imagination",
+      "poetry",
+      "art",
+      "meaning"
+    ]
+  },
+  {
+    "id": "stoic-10",
+    "title": "Ancient philosophy was a set of practices, not a set of opinions",
+    "body": "Pierre Hadot demonstrated that the Stoic, Epicurean, and Platonic schools of antiquity were less concerned with producing correct theories than with transforming the self through lived disciplines. Exercises such as keeping a philosophical journal, meditating on one's mortality, or practicing undivided attention were not supplements to the philosophy — they were its core. When philosophy became a purely academic discipline focused on commentary and argument, Hadot argued, it lost the very function it was designed to serve: enabling a person to live differently and more freely.",
+    "source": {
+      "title": "Philosophy as a Way of Life",
+      "author": "Pierre Hadot",
+      "year": 1995
+    },
+    "tags": [
+      "stoic",
+      "philosophy",
+      "practice",
+      "self-transformation",
+      "attention"
+    ]
+  },
+  {
+    "id": "time-12",
+    "title": "Every medium is biased toward time or toward space",
+    "body": "Harold Innis observed that communications technologies are never neutral carriers of content — each one favors either temporal depth or spatial reach. Stone inscriptions and parchment manuscripts preserve meaning across centuries but travel poorly; radio and print spread swiftly across empires but decay quickly in cultural memory. Time-biased media sustain tradition, continuity, and religion; space-biased media sustain administration, commerce, and centralized power. The medium that comes to dominate a civilization quietly reshapes what that civilization is able to value, remember, and imagine.",
+    "source": {
+      "title": "The Bias of Communication",
+      "author": "Harold Innis",
+      "year": 1951
+    },
+    "tags": [
+      "time",
+      "communication",
+      "media",
+      "culture",
+      "history"
+    ]
   }
 ]
