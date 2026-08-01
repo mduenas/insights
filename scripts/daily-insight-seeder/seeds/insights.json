@@ -10477,5 +10477,80 @@
       "culture",
       "history"
     ]
+  },
+  {
+    "id": "law-08",
+    "title": "Judges make law as much as find it",
+    "body": "Cardozo revealed that judicial decisions are not mechanically derived from fixed rules but require judges to weigh four competing methods: logic, history, custom, and social welfare. The honest judge acknowledges this creative role rather than pretending to discover a pre-existing answer. This insight illuminates how all expert judgment in complex domains involves similar hidden discretion.",
+    "source": {
+      "title": "The Nature of the Judicial Process",
+      "author": "Benjamin Cardozo",
+      "year": 1921
+    },
+    "tags": [
+      "law",
+      "judgment",
+      "expertise"
+    ]
+  },
+  {
+    "id": "music-10",
+    "title": "The recording studio is not a lesser stage but a superior medium",
+    "body": "Glenn Gould argued that microphone and recording technology created a fundamentally new relationship between performer and listener — one that paradoxically allows for more intimacy than any concert hall. By retiring from live performance in 1964, Gould staked his career on this conviction. Technology, he showed, can deepen rather than diminish art when it allows the artist to pursue perfection on their own terms rather than performing for a crowd.",
+    "source": {
+      "title": "The Glenn Gould Reader",
+      "author": "Glenn Gould",
+      "year": 1984
+    },
+    "tags": [
+      "music",
+      "technology",
+      "creativity"
+    ]
+  },
+  {
+    "id": "identity-12",
+    "title": "Each person carries their own destiny within them",
+    "body": "Hesse wrote that life offers each of us only one true goal: to arrive at ourselves. The outer events of our lives — successes, failures, relationships — are merely the raw material for this inward journey. What we resist becoming often turns out to be the very thing we are most deeply meant to be. Self-knowledge begins not with study of the world but with the courage to turn toward what is most uncomfortable within us.",
+    "source": {
+      "title": "Demian",
+      "author": "Hermann Hesse",
+      "year": 1919
+    },
+    "tags": [
+      "identity",
+      "self-knowledge",
+      "growth"
+    ]
+  },
+  {
+    "id": "economics-38",
+    "title": "Comparative advantage makes cooperation beneficial even for the stronger party",
+    "body": "Ricardo demonstrated that trade benefits all parties even when one is superior at producing everything. If England makes cloth more efficiently than Portugal, and Portugal makes wine more efficiently than England, both gain by specializing and trading — and crucially, this holds even if one country is better at both products. The principle overturned the intuition that the stronger party has nothing to gain from cooperating with weaker ones, and it remains one of the few genuinely counterintuitive insights in social science.",
+    "source": {
+      "title": "On the Principles of Political Economy and Taxation",
+      "author": "David Ricardo",
+      "year": 1817
+    },
+    "tags": [
+      "economics",
+      "cooperation",
+      "specialization"
+    ]
+  },
+  {
+    "id": "values-11",
+    "title": "Energy is eternal delight",
+    "body": "Blake challenged the Enlightenment's privileging of reason over passion, arguing that the creative energy humans suppress in the name of virtue is the very source of vitality and meaning. His 'Proverbs of Hell' are not endorsements of evil but a polemic against the deadening force of repression — the insight that what we call sin is often simply energy and imagination denied their proper expression. Both the tiger and the lamb are necessary; no wholeness comes from eliminating one.",
+    "source": {
+      "title": "The Marriage of Heaven and Hell",
+      "author": "William Blake",
+      "year": 1793
+    },
+    "tags": [
+      "values",
+      "creativity",
+      "imagination"
+    ]
   }
 ]
