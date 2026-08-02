@@ -10553,4 +10553,84 @@
       "imagination"
     ]
   }
+,
+  {
+    "id": "biology-21",
+    "title": "Robustness enables exploration",
+    "body": "Natural selection preserves what works but cannot by itself explain how radically new innovations arise. Andreas Wagner showed that biological molecules inhabit vast 'neutral networks'—spaces where countless different sequences produce the same functional output. This robustness allows evolution to wander widely through genetic possibility without losing function, eventually discovering genuinely new capabilities. Stability and novelty are not opposites; robustness is precisely what makes exploration safe enough to attempt.",
+    "source": {
+      "title": "Arrival of the Fittest: How Nature Innovates",
+      "author": "Andreas Wagner",
+      "year": 2014
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "innovation",
+      "resilience"
+    ]
+  },
+  {
+    "id": "leadership-18",
+    "title": "The servant leads by serving first",
+    "body": "Robert Greenleaf argued that the defining question of leadership is not who holds authority but who enables growth. A servant-leader begins with the natural impulse to serve and only then consciously chooses to lead—reversing the usual aspiration to power. The best test is practical: do those served grow as persons? Do they become healthier, wiser, freer, and more capable of themselves becoming servants? Leadership measured by any lesser standard mistakes the instrument for the purpose.",
+    "source": {
+      "title": "Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness",
+      "author": "Robert K. Greenleaf",
+      "year": 1977
+    },
+    "tags": [
+      "leadership",
+      "service",
+      "empowerment"
+    ]
+  },
+  {
+    "id": "habits-15",
+    "title": "Routine is the scaffold of creative work",
+    "body": "Examining the working habits of 161 creative minds—from Beethoven to Kafka to Georgia O'Keeffe—Mason Currey found that most protected their creative hours through strict daily routines rather than waiting for inspiration. Fixed schedules, ritualized walks, and set work windows recur across centuries and disciplines. Far from constraining imagination, routine removes hundreds of trivial daily decisions, preserving cognitive energy for the one task that matters: the work itself.",
+    "source": {
+      "title": "Daily Rituals: How Artists Work",
+      "author": "Mason Currey",
+      "year": 2013
+    },
+    "tags": [
+      "habits",
+      "creativity",
+      "routine",
+      "productivity"
+    ]
+  },
+  {
+    "id": "mathematics-30",
+    "title": "Mathematics explores what must be, not merely what is",
+    "body": "Unlike physics or biology, mathematics studies the necessary consequences of freely chosen axioms—it is the science of all possible structures, not just the ones nature happens to use. Steven Strogatz argues this is precisely what makes mathematics so unreasonably useful: by exploring logical possibility without restriction, mathematicians stumble upon patterns that reality later turns out to need. The elegance of a proof and the utility of its conclusion are not in tension; they are two faces of the same underlying clarity.",
+    "source": {
+      "title": "The Joy of X: A Guided Tour of Math, from One to Infinity",
+      "author": "Steven Strogatz",
+      "year": 2012
+    },
+    "tags": [
+      "mathematics",
+      "logic",
+      "beauty",
+      "science"
+    ]
+  },
+  {
+    "id": "history-30",
+    "title": "Each generation must re-argue the case for collective life",
+    "body": "Tony Judt observed that Western societies entered an age of forgetting: arguments for public goods and social solidarity that were self-evident to mid-twentieth century reformers now seem to require exhausting justification. When we forget why roads, schools, and safety nets were built in the first place, we become vulnerable to dismantling them before we have imagined replacements. History does not run on autopilot—every generation must actively re-learn what it has inherited and why it matters.",
+    "source": {
+      "title": "Ill Fares the Land",
+      "author": "Tony Judt",
+      "year": 2010
+    },
+    "tags": [
+      "history",
+      "democracy",
+      "society",
+      "values"
+    ]
+  }
 ]
