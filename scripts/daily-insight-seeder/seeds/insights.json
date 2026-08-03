@@ -10552,8 +10552,7 @@
       "creativity",
       "imagination"
     ]
-  }
-,
+  },
   {
     "id": "biology-21",
     "title": "Robustness enables exploration",
@@ -10631,6 +10630,86 @@
       "democracy",
       "society",
       "values"
+    ]
+  },
+  {
+    "id": "ecology-17",
+    "title": "Deep ecology asks why, not merely how",
+    "body": "Næss distinguished 'shallow ecology,' which aims to protect nature primarily for human benefit within the framework of existing industrial assumptions, from 'deep ecology,' which interrogates those assumptions at their roots. Shallow ecology asks how to reduce pollution or conserve resources; deep ecology asks why modern civilization treats the rest of life as mere resource in the first place. Næss proposed 'biocentric equality' — the conviction that all living beings have inherent value regardless of their utility to humans. The practical consequence is that genuine environmental commitment demands rethinking the foundations of economics, agriculture, and urban life, rather than merely adding conservation policies on top of an unchanged system.",
+    "source": {
+      "title": "Ecology, Community and Lifestyle",
+      "author": "Arne Næss",
+      "year": 1989
+    },
+    "tags": [
+      "ecology",
+      "philosophy",
+      "nature",
+      "values"
+    ]
+  },
+  {
+    "id": "sociology-29",
+    "title": "Where you stand determines what you can see",
+    "body": "Mannheim argued that all thought — including social science itself — is perspectival: every idea is shaped by the class position, historical moment, and cultural situation of the thinker. This does not make all ideas equally wrong, but it means no thought is truly a view from nowhere. Mannheim called this 'relational thinking,' and distinguished it from mere relativism: different social positions give access to different partial truths, and a more complete understanding requires consciously integrating multiple perspectives. He suggested that the 'free-floating intelligentsia' had a special responsibility to hold competing standpoints simultaneously and resist the self-serving distortions that arise when any single group mistakes its own perspective for universal truth.",
+    "source": {
+      "title": "Ideology and Utopia",
+      "author": "Karl Mannheim",
+      "year": 1929
+    },
+    "tags": [
+      "sociology",
+      "philosophy",
+      "knowledge",
+      "bias"
+    ]
+  },
+  {
+    "id": "anthropology-15",
+    "title": "Transformation happens in the threshold, not the destination",
+    "body": "Turner's concept of liminality identifies the in-between state of transition as the crucible of genuine change. In a rite of passage, the initiate leaves their old social role, passes through a threshold zone where the old identity has dissolved but the new one has not yet formed, and only then is incorporated into a new status. Turner observed that this liminal state is profoundly ambiguous: the initiate is 'betwixt and between,' belonging to neither the old category nor the new. Yet it is precisely this dissolution of established structure that makes transformation possible — the insight extends far beyond ritual to any genuine change in identity, vocation, or understanding.",
+    "source": {
+      "title": "The Ritual Process: Structure and Anti-Structure",
+      "author": "Victor Turner",
+      "year": 1969
+    },
+    "tags": [
+      "anthropology",
+      "change",
+      "identity",
+      "ritual"
+    ]
+  },
+  {
+    "id": "philosophy-51",
+    "title": "Man is the symbolic animal",
+    "body": "Cassirer proposed that what distinguishes humans from other animals is not reason alone but the capacity to create and inhabit a world of symbols — language, myth, religion, art, and science. These are not mere representations of a pre-given reality but the very medium through which human reality is constituted. A culture is not a set of beliefs sitting atop a biological substrate; it is the symbolic universe within which every human being necessarily lives and moves. The implication for understanding others is significant: to enter another culture or another historical era requires learning to inhabit its symbolic world, seeing what its forms make visible and noticing what they render invisible.",
+    "source": {
+      "title": "An Essay on Man",
+      "author": "Ernst Cassirer",
+      "year": 1944
+    },
+    "tags": [
+      "philosophy",
+      "culture",
+      "language",
+      "humanity"
+    ]
+  },
+  {
+    "id": "linguistics-13",
+    "title": "Language is the carrier of a people's culture and self-understanding",
+    "body": "Ngugi argued that colonialism's most profound effect was not the extraction of physical resources but the colonization of the mind — achieved largely through the imposition of European languages as the medium of education, literature, and official life. When children are taught to read and think in a foreign tongue, the accumulated wisdom encoded in their mother language is severed from their intellectual development: they learn to see themselves and their history through borrowed eyes. Ngugi announced that he would no longer write fiction in English, turning instead to Gĩkũyũ, as both a political and philosophical act — an insistence that African languages are adequate vehicles for the most serious human thought. The question he raises applies wherever a language is marginalized: what is lost when a people can no longer express their deepest concerns in their own words?",
+    "source": {
+      "title": "Decolonising the Mind: The Politics of Language in African Literature",
+      "author": "Ngugi wa Thiong'o",
+      "year": 1986
+    },
+    "tags": [
+      "linguistics",
+      "culture",
+      "identity",
+      "language"
     ]
   }
 ]
