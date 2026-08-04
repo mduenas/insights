@@ -10711,5 +10711,85 @@
       "identity",
       "language"
     ]
+  },
+  {
+    "id": "philosophy-52",
+    "title": "Beauty is not a property of things but the eruption of the One into matter",
+    "body": "Plotinus held that beauty is not a feature objects simply possess the way they possess weight or color. It is the mark of the One — the ineffable source of all being — shining through a particular form and calling the soul back to its origin. When we encounter genuine beauty, we are not merely registering a pleasing sensory arrangement; we are catching a glimpse of reality's deepest nature reflected back at us. This is why beauty moves us with a force that seems out of proportion to the object itself: the soul is recognizing something it already knows from before its descent into matter.",
+    "source": {
+      "title": "Enneads",
+      "author": "Plotinus",
+      "year": 270
+    },
+    "tags": [
+      "philosophy",
+      "beauty",
+      "metaphysics",
+      "spirituality"
+    ]
+  },
+  {
+    "id": "economics-39",
+    "title": "In a panic, a lender of last resort must lend freely at a penalty rate",
+    "body": "Bagehot identified the paradox at the heart of financial crises: when fear spreads through a banking system, the rational response of each individual bank — hoarding cash — makes the system as a whole insolvent. The only institution that can break this spiral is one that stands above the system and can credibly commit to lend without limit to sound institutions against good collateral. The penalty rate matters: cheap emergency lending rewards recklessness and creates the expectation of future rescues, but lending at a premium steers only the genuinely illiquid, not the insolvent, to the central bank's window. Bagehot's formulation remains the operating principle of central banking in every crisis, even when it is not explicitly invoked.",
+    "source": {
+      "title": "Lombard Street: A Description of the Money Market",
+      "author": "Walter Bagehot",
+      "year": 1873
+    },
+    "tags": [
+      "economics",
+      "finance",
+      "banking",
+      "crisis"
+    ]
+  },
+  {
+    "id": "ethics-13",
+    "title": "Moral capacity is innate; moral achievement is cultivated",
+    "body": "Mencius proposed that every human being is born with four moral sprouts — the beginnings of benevolence, righteousness, propriety, and wisdom — just as seeds contain the potential for growth but not yet the plant. These are not fully formed virtues but tender inclinations: a person who witnesses a child about to fall into a well feels immediate alarm not from calculation but from natural moral feeling. Yet without cultivation through practice, reflection, and the shaping influence of good teachers and institutions, the sprouts wither. Mencius thus holds that human nature is good in potential, but that the work of becoming good is genuine work.",
+    "source": {
+      "title": "Mencius (Mengzi)",
+      "author": "Mencius",
+      "year": -320
+    },
+    "tags": [
+      "ethics",
+      "philosophy",
+      "virtue",
+      "human-nature"
+    ]
+  },
+  {
+    "id": "literature-44",
+    "title": "Satire is a mirror in which beholders see every face but their own",
+    "body": "Swift's preface to The Battle of the Books offered this observation as both a joke and a precise diagnosis of why satire fails to do what its practitioners intend. The reader who recognizes the folly being depicted immediately locates it in someone else; self-recognition requires not cleverness but honesty, which is in shorter supply than intelligence. Swift himself knew this: A Modest Proposal was taken literally by some readers who could not imagine that a rational-seeming argument could be ironic. The effectiveness of satire as social critique is structurally limited precisely by the mechanism through which it works: the readiness of the human mind to externalize what it most needs to internalize.",
+    "source": {
+      "title": "The Battle of the Books",
+      "author": "Jonathan Swift",
+      "year": 1704
+    },
+    "tags": [
+      "literature",
+      "satire",
+      "self-awareness",
+      "criticism"
+    ]
+  },
+  {
+    "id": "history-31",
+    "title": "Colonialism brutalizes even the civilization that practices it",
+    "body": "Césaire's argument in the Discourse on Colonialism was not only that colonialism harms its victims — that was understood by those it harmed — but that it infects the colonizer. A civilization that tolerates and systematizes conquest, enslavement, and the denial of humanity to others cannot keep those practices quarantined to its colonies; the logic bleeds back. Césaire drew the confronting line between European colonialism and European fascism: Hitler's crime, he argued, was applying to white Europeans the methods that had long been accepted when applied to Africans and Asians. A civilization cannot practice dehumanization abroad while remaining humane at home.",
+    "source": {
+      "title": "Discourse on Colonialism",
+      "author": "Aimé Césaire",
+      "year": 1950
+    },
+    "tags": [
+      "history",
+      "colonialism",
+      "power",
+      "ethics"
+    ]
   }
 ]
