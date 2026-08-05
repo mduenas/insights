@@ -10791,5 +10791,80 @@
       "power",
       "ethics"
     ]
+  },
+  {
+    "id": "literature-45",
+    "title": "Art makes the familiar strange so we can see it again",
+    "body": "Shklovsky identified habituation — the process by which repeated exposure to anything drains it of perceptible meaning — as the great enemy of conscious experience. Art's essential technique is defamiliarization (ostranenie): presenting objects or events in ways that impede automatic recognition and force genuinely fresh perception. The purpose of art is not to make us comfortable with the familiar but to restore the sensation of life itself, arresting the automatism that causes us to glide past our own experience without feeling it. To encounter a stone as stony again, as if for the first time, is precisely what art makes possible.",
+    "source": {
+      "title": "Theory of Prose",
+      "author": "Viktor Shklovsky",
+      "year": 1925
+    },
+    "tags": [
+      "literature",
+      "creativity",
+      "perception"
+    ]
+  },
+  {
+    "id": "science-41",
+    "title": "The shapes of living things are solutions to physical equations",
+    "body": "Thompson argued that biological forms — the spiral of a nautilus shell, the branching of a vein, the curvature of a horn — are not arbitrary products of evolution alone but expressions of physical forces and mathematical principles acting on growing matter. By demonstrating that the body plans of related species map onto one another through simple geometric transformations, he proposed a quantitative morphology that preceded modern computational biology by half a century. The deeper implication is that evolution does not invent forms freely; it works within the grain of physical possibility, and mathematics constrains the palette of life as surely as genetics does.",
+    "source": {
+      "title": "On Growth and Form",
+      "author": "D'Arcy Wentworth Thompson",
+      "year": 1917
+    },
+    "tags": [
+      "science",
+      "mathematics",
+      "biology"
+    ]
+  },
+  {
+    "id": "philosophy-53",
+    "title": "You cannot learn to ride a bicycle from an instruction manual",
+    "body": "Oakeshott distinguished between technical knowledge — explicit rules and principles that can be written down and transmitted as text — and practical knowledge, which can only be acquired through participation and habit and resists full articulation. The rationalist error is to believe that all significant knowledge can be reduced to the technical kind, and that correct practice follows mechanically from correct theory. In reality, practical wisdom accumulates in traditions, crafts, and institutions precisely because it cannot be fully captured in propositions; when rationalists try to govern or reform using only explicit principles, they inevitably damage the tacit knowledge embedded in the practices they are replacing.",
+    "source": {
+      "title": "Rationalism in Politics and Other Essays",
+      "author": "Michael Oakeshott",
+      "year": 1962
+    },
+    "tags": [
+      "philosophy",
+      "knowledge",
+      "politics"
+    ]
+  },
+  {
+    "id": "creativity-26",
+    "title": "The mind's deepest need is not to solve problems but to symbolize experience",
+    "body": "Langer argued that the dominant tradition in philosophy had misunderstood human nature by treating language as the only vehicle of thought. Symbolic transformation — turning experience into images, rituals, art, myth, and music — is not a decorative addition to rational thought but its ground and precondition. Art, on this view, is not ornamentation or emotional release; it is a distinct symbolic mode that presents the forms of feeling with a precision discursive language cannot match. Music in particular, Langer proposed, is a tonal analogue of emotive life: it makes audible the shapes of tension, release, longing, and resolution that constitute inner experience.",
+    "source": {
+      "title": "Philosophy in a New Key",
+      "author": "Susanne Langer",
+      "year": 1942
+    },
+    "tags": [
+      "creativity",
+      "philosophy",
+      "art"
+    ]
+  },
+  {
+    "id": "biology-22",
+    "title": "Development follows channels, not blueprints",
+    "body": "Waddington introduced the epigenetic landscape — an imagined terrain of valleys and ridges down which a developing cell rolls toward its eventual identity. The valleys represent stable developmental pathways he called creodes, and once a cell enters a valley it tends to remain on that trajectory even when perturbed by environmental or genetic disruption. This canalization explains why development is simultaneously robust and flexible: minor noise is absorbed, while major changes can redirect the outcome. The model anticipated the logic of gene regulatory networks by decades and remains a powerful way to think about how organisms reliably produce specific cell types despite constant molecular variation.",
+    "source": {
+      "title": "The Strategy of the Genes",
+      "author": "Conrad Waddington",
+      "year": 1957
+    },
+    "tags": [
+      "biology",
+      "development",
+      "systems"
+    ]
   }
 ]
