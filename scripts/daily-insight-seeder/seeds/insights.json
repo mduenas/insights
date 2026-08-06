@@ -10866,5 +10866,80 @@
       "development",
       "systems"
     ]
+  },
+  {
+    "id": "focus-10",
+    "title": "Your life is the sum of what you focus on",
+    "body": "Gallagher spent years researching the science of attention and concluded that what we attend to largely determines the quality of our experience. After a cancer diagnosis, she tested this personally by deliberately directing attention toward meaningful work rather than fear — and found her days transformed. The principle scales from the personal to the institutional: individuals, organizations, and cultures are ultimately shaped by the objects of their sustained focus, not by their stated intentions.",
+    "source": {
+      "title": "Rapt: Attention and the Focused Life",
+      "author": "Winifred Gallagher",
+      "year": 2009
+    },
+    "tags": [
+      "focus",
+      "attention",
+      "wellbeing"
+    ]
+  },
+  {
+    "id": "wealth-10",
+    "title": "The best time to sell a great company is almost never",
+    "body": "Fisher argued that investors systematically underestimate the long-term compounding power of truly excellent businesses. His 'scuttlebutt' method — gathering intelligence from competitors, customers, and suppliers before buying — was designed to identify companies worth holding for decades rather than quarters. In Fisher's view, the chief mistake of most investors is not buying the wrong companies but selling the right ones too soon, sacrificing compounding to avoid short-term discomfort.",
+    "source": {
+      "title": "Common Stocks and Uncommon Profits",
+      "author": "Philip Fisher",
+      "year": 1958
+    },
+    "tags": [
+      "wealth",
+      "investing",
+      "patience"
+    ]
+  },
+  {
+    "id": "architecture-09",
+    "title": "A building should be of the hill, not merely on it",
+    "body": "Wright's principle of organic architecture held that a structure should emerge from its site rather than be imposed upon it — the building and landscape becoming one continuous form. He believed that a house set atop land like a box on a shelf was a kind of dishonesty: it ignored the character of the ground, the prevailing light, and the natural materials at hand. True shelter, for Wright, grew from an intimate understanding of place, so that a building could only have come from that specific location and no other.",
+    "source": {
+      "title": "The Future of Architecture",
+      "author": "Frank Lloyd Wright",
+      "year": 1953
+    },
+    "tags": [
+      "architecture",
+      "design",
+      "nature"
+    ]
+  },
+  {
+    "id": "music-11",
+    "title": "To play Bach each morning is to be born again",
+    "body": "Casals, still practicing his cello daily at ninety-three, explained that he played Bach's suites every morning not from habit but from the joy of rediscovery — each day revealing something he had never quite heard before. He believed that music, practiced with full attention, resists exhaustion in a way that mere repetition cannot explain; it regenerates both the player and the piece. For Casals, mastery was not a destination that made practice unnecessary but the capacity that made practice endlessly rewarding.",
+    "source": {
+      "title": "Joys and Sorrows",
+      "author": "Pablo Casals",
+      "year": 1970
+    },
+    "tags": [
+      "music",
+      "practice",
+      "mastery"
+    ]
+  },
+  {
+    "id": "law-09",
+    "title": "Law requires an inner morality, not just outward commands",
+    "body": "Fuller argued that law is not merely a system of commands issued by those with power, but requires an internal moral structure to function as law at all. He identified eight conditions — including clarity, consistency, stability, and congruence between rules and their application — without which a legal system collapses into something that cannot guide conduct. A government that systematically violates these conditions is not producing bad law but no law; it is governing by arbitrary force, whatever it calls its edicts.",
+    "source": {
+      "title": "The Morality of Law",
+      "author": "Lon L. Fuller",
+      "year": 1964
+    },
+    "tags": [
+      "law",
+      "ethics",
+      "governance"
+    ]
   }
 ]
