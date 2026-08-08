@@ -10941,5 +10941,90 @@
       "ethics",
       "governance"
     ]
+  },
+  {
+    "id": "education-14",
+    "title": "Every mind has a different shape",
+    "body": "Gardner proposed that the human mind harbors at least seven distinct intelligences — linguistic, logical-mathematical, musical, spatial, bodily-kinesthetic, interpersonal, and intrapersonal — each with its own developmental trajectory and neural basis. Standard IQ tests capture only one or two of these, systematically undervaluing the musician, the athlete, the counselor, and the self-aware. Recognizing that intelligence is plural rather than singular shifts the question from 'How smart are you?' to 'In what ways are you smart?' — a reframe that opens possibilities education has long closed off.",
+    "source": {
+      "title": "Frames of Mind: The Theory of Multiple Intelligences",
+      "author": "Howard Gardner",
+      "year": 1983
+    },
+    "tags": [
+      "education",
+      "intelligence",
+      "learning",
+      "psychology",
+      "creativity"
+    ]
+  },
+  {
+    "id": "history-32",
+    "title": "Rome's secret weapon was citizenship",
+    "body": "Rome's most durable innovation was not its legions or engineering but its willingness to extend full citizenship — and eventually the full rights of Romans — to the peoples it conquered. By 212 CE, virtually every free inhabitant of the empire bore that status, blurring the line between conqueror and subject in ways unthinkable to Rome's rivals. Beard argues that this openness converted potential enemies into stakeholders. The pattern recurs whenever a political community survives by making room for the newcomer rather than fortifying walls against them.",
+    "source": {
+      "title": "SPQR: A History of Ancient Rome",
+      "author": "Mary Beard",
+      "year": 2015
+    },
+    "tags": [
+      "history",
+      "politics",
+      "leadership",
+      "identity",
+      "power"
+    ]
+  },
+  {
+    "id": "ethics-14",
+    "title": "Caring precedes principles",
+    "body": "Noddings built an ethics not on universal rules but on the concrete encounter between the one-caring and the cared-for, arguing that genuine moral response requires first attending fully to the specific person before you. Abstract principles are useful summaries of past caring, but they can never replace the direct perception of what this person, in this moment, actually needs. The shift from rule-following to receptive attention transforms ethics from a courtroom exercise into a relational practice, reshaping moral philosophy, nursing, and education by putting presence at the center of what it means to act rightly.",
+    "source": {
+      "title": "Caring: A Feminine Approach to Ethics and Moral Education",
+      "author": "Nel Noddings",
+      "year": 1984
+    },
+    "tags": [
+      "ethics",
+      "relationships",
+      "education",
+      "values",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "learning-15",
+    "title": "Smart people are often worst at learning",
+    "body": "Argyris observed that professionals trained to succeed are paradoxically resistant to the learning that requires acknowledging their own contribution to failure — what he called double-loop learning. Single-loop learning fixes errors within existing rules; double-loop learning questions the rules themselves and the assumptions behind them. Because highly educated people have rarely failed, they have no practiced response to being wrong, and when their strategies don't work, they defend their reasoning rather than revise it. The antidote is making one's own assumptions explicit and submitting them to the same scrutiny one would apply to any other evidence.",
+    "source": {
+      "title": "Teaching Smart People How to Learn",
+      "author": "Chris Argyris",
+      "year": 1991
+    },
+    "tags": [
+      "learning",
+      "psychology",
+      "leadership",
+      "habits",
+      "mindset"
+    ]
+  },
+  {
+    "id": "linguistics-14",
+    "title": "Knowing when to speak is as hard as knowing how",
+    "body": "Hymes coined 'communicative competence' to capture the knowledge a speaker needs beyond grammar — when to speak and when to stay silent, how to address different people, what topics are appropriate in which settings. A person can be grammatically fluent in a language and still fail socially without this cultural map. Hymes drew the idea from fieldwork in Native American speech communities, where the rules governing who may say what to whom were as elaborate and learnable as any verb conjugation. His insight made linguistics social: language is not just a code to decode but a set of practices embedded in community life.",
+    "source": {
+      "title": "Foundations in Sociolinguistics: An Ethnographic Approach",
+      "author": "Dell Hymes",
+      "year": 1974
+    },
+    "tags": [
+      "linguistics",
+      "communication",
+      "culture",
+      "language",
+      "education"
+    ]
   }
 ]
