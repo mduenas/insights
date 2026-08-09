@@ -11026,5 +11026,80 @@
       "language",
       "education"
     ]
+  },
+  {
+    "id": "statistics-11",
+    "title": "All models are wrong, but some are useful",
+    "body": "Every equation simplifies the world it describes, and every map omits territory. Box's insight is not a counsel of despair but of precision: the question is never whether a model is true, but whether its errors fall inside the range where it can still be trusted to guide decisions.",
+    "source": {
+      "title": "Science and Statistics",
+      "author": "George E.P. Box",
+      "year": 1976
+    },
+    "tags": [
+      "statistics",
+      "modeling",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "systems-11",
+    "title": "Cities and organisms obey the same hidden mathematics",
+    "body": "Geoffrey West discovered that metabolic rate, walking speed, patent rates, and dozens of other quantities scale with body or city size in predictable power laws. This universality suggests that growth and sustainability are governed by network geometry — not the particulars of any individual organism or civilization — and that the same principles constrain a mouse, a whale, a village, and a megalopolis alike.",
+    "source": {
+      "title": "Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies",
+      "author": "Geoffrey West",
+      "year": 2017
+    },
+    "tags": [
+      "systems",
+      "complexity",
+      "scaling"
+    ]
+  },
+  {
+    "id": "philosophy-54",
+    "title": "Evolution is not a ladder but a becoming toward consciousness",
+    "body": "Teilhard de Chardin proposed that evolution is not merely biological but cosmic — matter organizing itself toward ever-greater complexity and interiority. He called the collective layer of human thought the noosphere, a new sphere of mind enveloping the Earth as surely as the atmosphere envelops it, suggesting that the whole arc of existence bends toward something he called the Omega Point.",
+    "source": {
+      "title": "The Phenomenon of Man",
+      "author": "Pierre Teilhard de Chardin",
+      "year": 1955
+    },
+    "tags": [
+      "philosophy",
+      "evolution",
+      "consciousness"
+    ]
+  },
+  {
+    "id": "ecology-18",
+    "title": "Wildness is not a place but a quality of attention",
+    "body": "Gary Snyder argued that wildness persists inside every cultivated landscape — in the gaps, the weeds, the creatures that resist management. To practice the wild is not to escape civilization but to cultivate a mode of perception alert to these edges, where the managed world frays and something older, less governed, and more generative begins.",
+    "source": {
+      "title": "The Practice of the Wild",
+      "author": "Gary Snyder",
+      "year": 1990
+    },
+    "tags": [
+      "ecology",
+      "nature",
+      "perception"
+    ]
+  },
+  {
+    "id": "neuroscience-14",
+    "title": "The unconscious mind is older than language",
+    "body": "Cormac McCarthy argues that the human unconscious is far more ancient than speech and communicates through images, metaphor, and felt sense rather than sentences. Language is a late addition grafted onto a substrate that was already dreaming, solving problems, and forming hunches long before a single word was spoken — which is why the deepest insights often arrive sideways, in dreams and sudden recognitions, rather than through deliberate verbal reasoning.",
+    "source": {
+      "title": "The Kekulé Problem",
+      "author": "Cormac McCarthy",
+      "year": 2017
+    },
+    "tags": [
+      "neuroscience",
+      "unconscious",
+      "language"
+    ]
   }
 ]
