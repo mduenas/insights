@@ -1,0 +1,137 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && request.auth.token.admin == true;
+    }
+
+    function isOwner(uid) {
+      return isSignedIn() && request.auth.uid == uid;
+    }
+
+    function isNonEmptyString(value, maxLength) {
+      return value is string && value.size() > 0 && value.size() <= maxLength;
+    }
+
+    function isOptionalString(value, maxLength) {
+      return value == null || (value is string && value.size() <= maxLength);
+    }
+
+    function isNumber(value) {
+      return value is int || value is float;
+    }
+
+    function isValidSource(source) {
+      return source is map
+        && source.keys().hasOnly(["title", "author", "url", "year"])
+        && source.keys().hasAll(["title"])
+        && isNonEmptyString(source.title, 200)
+        && (!source.keys().hasAny(["author"]) || isOptionalString(source.author, 200))
+        && (!source.keys().hasAny(["url"]) || isOptionalString(source.url, 2000))
+        && (!source.keys().hasAny(["year"]) || source.year == null || source.year is int);
+    }
+
+    function isValidInsightDocument(doc, insightId) {
+      return doc.keys().hasOnly([
+          "id",
+          "title",
+          "titleLower",
+          "body",
+          "source",
+          "category",
+          "tags",
+          "linkedCommonInsightId",
+          "status",
+          "createdAt",
+          "updatedAt",
+          "userId"
+        ])
+        && doc.keys().hasAll([
+          "title",
+          "body",
+          "source",
+          "category",
+          "tags",
+          "status",
+          "createdAt",
+          "updatedAt"
+        ])
+        && (!doc.keys().hasAny(["id"]) || doc.id == insightId)
+        && isNonEmptyString(doc.title, 200)
+        && (!doc.keys().hasAny(["titleLower"]) || isOptionalString(doc.titleLower, 200))
+        && isNonEmptyString(doc.body, 10000)
+        && isValidSource(doc.source)
+        && doc.category in ["COMMON", "PERSONAL"]
+        && doc.tags is list
+        && doc.tags.size() <= 25
+        && (!doc.keys().hasAny(["linkedCommonInsightId"]) || isOptionalString(doc.linkedCommonInsightId, 128))
+        && doc.status in ["PENDING", "APPROVED", "REJECTED"]
+        && isNumber(doc.createdAt)
+        && isNumber(doc.updatedAt)
+        && (!doc.keys().hasAny(["userId"]) || isOptionalString(doc.userId, 128));
+    }
+
+    function isValidPersonalInsight(doc, uid, insightId) {
+      return isValidInsightDocument(doc, insightId)
+        && doc.category == "PERSONAL"
+        && doc.status == "APPROVED"
+        && doc.userId == uid;
+    }
+
+    function isValidFeedback(doc) {
+      return doc.keys().hasOnly(["message", "userId", "createdAt"])
+        && doc.keys().hasAll(["message", "userId", "createdAt"])
+        && isNonEmptyString(doc.message, 4000)
+        && doc.userId == request.auth.uid
+        && isNumber(doc.createdAt);
+    }
+
+    function isValidTopicRequest(doc) {
+      return doc.keys().hasOnly(["topic", "userId", "createdAt"])
+        && doc.keys().hasAll(["topic", "userId", "createdAt"])
+        && isNonEmptyString(doc.topic, 200)
+        && doc.userId == request.auth.uid
+        && isNumber(doc.createdAt);
+    }
+
+    match /insights/{insightId} {
+      allow read: if true;
+      allow create, update: if isAdmin() && isValidInsightDocument(request.resource.data, insightId);
+      allow delete: if isAdmin();
+    }
+
+    match /pending_insights/{insightId} {
+      allow read: if isAdmin();
+      allow create, update: if isAdmin() && isValidInsightDocument(request.resource.data, insightId);
+      allow delete: if isAdmin();
+    }
+
+    match /users/{uid} {
+      allow read, write: if false;
+
+      match /personal_insights/{insightId} {
+        allow read: if isOwner(uid);
+        allow create, update: if isOwner(uid) && isValidPersonalInsight(request.resource.data, uid, insightId);
+        allow delete: if isOwner(uid);
+      }
+    }
+
+    match /feedback/{feedbackId} {
+      allow create: if isSignedIn() && isValidFeedback(request.resource.data);
+      allow read, update, delete: if isAdmin();
+    }
+
+    match /topic_requests/{requestId} {
+      allow create: if isSignedIn() && isValidTopicRequest(request.resource.data);
+      allow read, update, delete: if isAdmin();
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
