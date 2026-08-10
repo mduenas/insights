@@ -11101,5 +11101,80 @@
       "unconscious",
       "language"
     ]
+  },
+  {
+    "id": "literature-46",
+    "title": "Man acts not from reason but to prove he can act at all",
+    "body": "In Notes from Underground, Dostoyevsky's narrator rejects the utilitarian calculus that humans act to maximize benefit, arguing instead that free will — even self-destructive will — is more fundamental than rational self-interest. The underground man would rather choose caprice and suffering than submit to the crystal palace of rational order, because submission would mean the end of genuine selfhood. For Dostoyevsky, this irrational remainder is not a defect to be corrected but the irreducible core of what it means to be a person.",
+    "source": {
+      "title": "Notes from Underground",
+      "author": "Fyodor Dostoyevsky",
+      "year": 1864
+    },
+    "tags": [
+      "freedom",
+      "human-nature",
+      "psychology"
+    ]
+  },
+  {
+    "id": "science-42",
+    "title": "The big idea was messaging, not objects",
+    "body": "Alan Kay, who designed the first modern object-oriented language at Xerox PARC, later reflected that he had named his paradigm badly: the real invention was not the object but the message. Each object should be like a biological cell — fully encapsulating its own state and interacting with the world only by sending and receiving messages — so that what matters is the protocol of communication, not the internal structure of the things communicating. This shift in emphasis, from 'what is this thing?' to 'what can I say to it?', proved the more generative basis for building large, evolving systems.",
+    "source": {
+      "title": "The Early History of Smalltalk",
+      "author": "Alan Kay",
+      "year": 1993
+    },
+    "tags": [
+      "computing",
+      "design",
+      "communication"
+    ]
+  },
+  {
+    "id": "sociology-30",
+    "title": "The cyborg does not seek purity — it lives through boundary crossing",
+    "body": "Haraway's 1985 manifesto proposed the cyborg as a political myth for the late twentieth century: a creature simultaneously human and machine, natural and artificial, exempt from the origin stories on which older politics depended. Rather than mourning the erosion of boundaries between organism and technology, she argued that living inside these transgressions opens forms of solidarity and meaning unavailable to identities built on purity. The cyborg is less a prediction about technology than a lens for seeing how we are already constituted by the tools, networks, and systems we inhabit.",
+    "source": {
+      "title": "Simians, Cyborgs, and Women: The Reinvention of Nature",
+      "author": "Donna Haraway",
+      "year": 1991
+    },
+    "tags": [
+      "technology",
+      "identity",
+      "boundaries"
+    ]
+  },
+  {
+    "id": "identity-13",
+    "title": "Reassembling the broken vessel requires a love greater than preserving it whole",
+    "body": "In his Nobel acceptance lecture, Walcott described the Caribbean experience of colonialism as the shattering of a vase — culture, language, and history broken into fragments scattered across the ocean. Yet he argued that this fragmentation was not simply loss: the act of reassembling the shards, of making art from the ruins, demands an attention and care that taking wholeness for granted never requires. The fragments become the form, and the culture that emerges from them is not a diminished copy of an original but something genuinely new and entirely its own.",
+    "source": {
+      "title": "The Antilles: Fragments of Epic Memory",
+      "author": "Derek Walcott",
+      "year": 1992
+    },
+    "tags": [
+      "identity",
+      "memory",
+      "creativity"
+    ]
+  },
+  {
+    "id": "economics-40",
+    "title": "When sellers know more than buyers, good products disappear from the market",
+    "body": "Akerlof's landmark 1970 paper showed that information asymmetry — one side of a transaction knowing more than the other — can cause markets to unravel entirely. In a used-car market where sellers know whether their car is sound but buyers cannot tell, buyers rationally offer only an average price; sellers of good cars withdraw rather than accept it; the average quality in the market drops; buyers lower their offers further; and the cycle continues until only the worst products remain. Akerlof called this mechanism adverse selection and showed it applies far beyond used cars: to health insurance, credit markets, and anywhere private information systematically distorts exchange.",
+    "source": {
+      "title": "The Market for Lemons: Quality Uncertainty and the Market Mechanism",
+      "author": "George Akerlof",
+      "year": 1970
+    },
+    "tags": [
+      "information",
+      "markets",
+      "trust"
+    ]
   }
 ]
