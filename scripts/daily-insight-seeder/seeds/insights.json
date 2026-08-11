@@ -11176,5 +11176,80 @@
       "markets",
       "trust"
     ]
+  },
+  {
+    "id": "systems-12",
+    "title": "Networks are not random — they follow power laws",
+    "body": "Barabási and his collaborators discovered that real-world networks — the internet, social connections, metabolic pathways — are not randomly wired but dominated by a few highly connected hubs whose frequency follows a power-law distribution. This scale-free structure makes networks simultaneously robust against random failures (most nodes have few connections and their loss is tolerable) and fragile against targeted attacks on the hubs. Understanding this hidden architecture reshapes how we think about resilience, influence, and cascading collapse in any connected system.",
+    "source": {
+      "title": "Linked: The New Science of Networks",
+      "author": "Albert-László Barabási",
+      "year": 2002
+    },
+    "tags": [
+      "systems",
+      "networks",
+      "complexity"
+    ]
+  },
+  {
+    "id": "music-12",
+    "title": "Musical meaning arises from violated expectations",
+    "body": "Meyer argued that music carries emotional weight not through sounds in isolation but through the tension between what a listener anticipates and what actually arrives. A melody is a series of predictions being confirmed, delayed, or subverted in time; the emotional charge of a piece lives in that gap between expectation and event. This insight links music directly to the cognitive architecture of anticipation and surprise that governs all narrative art — and explains why music heard for the first time and music deeply known can move us in entirely different ways.",
+    "source": {
+      "title": "Emotion and Meaning in Music",
+      "author": "Leonard B. Meyer",
+      "year": 1956
+    },
+    "tags": [
+      "music",
+      "emotion",
+      "cognition"
+    ]
+  },
+  {
+    "id": "architecture-10",
+    "title": "Density is the source of urban vitality, not its enemy",
+    "body": "Koolhaas's retroactive manifesto for Manhattan argued that the city's unprecedented density — programs stacked floor upon floor, incompatible uses forced into proximity — was not a problem to be planned away but the generative condition that produced modern urban culture. The culture of congestion made possible by the skyscraper allowed activities that would never coexist in a lower-density setting to collide and fertilize each other. The metropolis, for Koolhaas, is not a city gone wrong but a radical machine for manufacturing new kinds of human experience that only density can produce.",
+    "source": {
+      "title": "Delirious New York",
+      "author": "Rem Koolhaas",
+      "year": 1978
+    },
+    "tags": [
+      "architecture",
+      "urbanism",
+      "creativity"
+    ]
+  },
+  {
+    "id": "psychology-38",
+    "title": "Memory is reconstructive, not a faithful recording",
+    "body": "Loftus demonstrated through decades of controlled experiments that human memory does not function like a video playback: every act of recall is a reconstruction, shaped by post-event information, the phrasing of questions, and the expectations the rememberer brings to the moment. Her studies on eyewitness testimony showed that confident, vivid memories can be dramatically and systematically wrong — with real consequences for courts, investigations, and anyone who treats their past as stable ground. The practical implication is that we should hold our memories — especially emotional or high-stakes ones — with more epistemic humility than we naturally do.",
+    "source": {
+      "title": "Eyewitness Testimony",
+      "author": "Elizabeth Loftus",
+      "year": 1979
+    },
+    "tags": [
+      "psychology",
+      "memory",
+      "cognition"
+    ]
+  },
+  {
+    "id": "neuroscience-15",
+    "title": "Loneliness is a biological alarm, not a character flaw",
+    "body": "Cacioppo's research revealed that chronic loneliness is not merely an emotional state but a physiological one — triggering the same stress responses as physical pain and impairing immune function, sleep quality, and cognitive performance over time. The subjective experience of social isolation evolved as an early-warning signal, like hunger or thirst, to motivate reconnection before the costs of isolation became lethal. Treating loneliness as a personal failing rather than a health condition misses both its deep evolutionary biology and the seriousness of the modern epidemic it has become.",
+    "source": {
+      "title": "Loneliness: Human Nature and the Need for Social Connection",
+      "author": "John T. Cacioppo",
+      "year": 2008
+    },
+    "tags": [
+      "neuroscience",
+      "loneliness",
+      "health"
+    ]
   }
 ]
