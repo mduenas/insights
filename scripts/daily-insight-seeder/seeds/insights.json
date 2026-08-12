@@ -11251,5 +11251,80 @@
       "loneliness",
       "health"
     ]
+  },
+  {
+    "id": "science-43",
+    "title": "Doubt is the engine of scientific progress",
+    "body": "Feynman argued that science proceeds not by accumulating certainties but by cultivating doubt — the willingness to question any received idea, no matter how authoritative its source. What distinguishes science from other ways of knowing is not the answers it provides but the method it enforces: testing ideas against reality and accepting the verdict. A scientist who cannot say 'I don't know' or 'I was wrong' has stopped being a scientist. The freedom to doubt, Feynman insisted, is hard-won and must be actively preserved against the human preference for comfortable certainty.",
+    "source": {
+      "title": "The Character of Physical Law",
+      "author": "Richard Feynman",
+      "year": 1965
+    },
+    "tags": [
+      "science",
+      "doubt",
+      "inquiry"
+    ]
+  },
+  {
+    "id": "habits-16",
+    "title": "Motivation is unreliable — design your environment instead",
+    "body": "Fogg's research revealed that lasting behavior change almost never comes from willpower or motivation, which fluctuate unpredictably, but from engineering the context in which behavior occurs. When you make the desired action easier to start than to avoid, motivation becomes far less necessary. A habit anchored to an existing routine and shrunk to its smallest possible form is far more durable than a heroic intention without structural support. We change our lives less by deciding to and more by arranging the conditions that make the decision automatic.",
+    "source": {
+      "title": "Tiny Habits",
+      "author": "BJ Fogg",
+      "year": 2019
+    },
+    "tags": [
+      "habits",
+      "behavior",
+      "environment"
+    ]
+  },
+  {
+    "id": "mathematics-31",
+    "title": "Mathematical thinking is seeing the hidden structure of the world",
+    "body": "Ellenberg argues that mathematics is not a collection of formulas to memorize but a way of reasoning about uncertainty, pattern, and relationship that applies far beyond classrooms. The person who learned to think mathematically can spot when a persuasive-sounding argument is logically hollow, recognize when a statistic has been stripped of the context that makes it meaningful, and ask the questions that expose the assumptions everyone else accepted. Mathematical thinking, at its core, is just thinking clearly — which is why its absence is so costly and its cultivation so valuable.",
+    "source": {
+      "title": "How Not to Be Wrong",
+      "author": "Jordan Ellenberg",
+      "year": 2014
+    },
+    "tags": [
+      "mathematics",
+      "reasoning",
+      "critical-thinking"
+    ]
+  },
+  {
+    "id": "leadership-19",
+    "title": "Power-with is more effective than power-over",
+    "body": "Follett distinguished between coercive power, which compels compliance through threat or authority, and co-active power, which multiplies capacity by aligning purpose across people. Organizations built on hierarchy and command are not just ethically inferior but practically weaker — they suppress the intelligence and initiative of most participants. The leader's real task is integration: finding solutions that satisfy the genuine interests of all parties rather than forcing one side to yield to another. A conflict resolved by domination remains unresolved; one resolved by integration creates something new that neither side could have produced alone.",
+    "source": {
+      "title": "Dynamic Administration",
+      "author": "Mary Parker Follett",
+      "year": 1941
+    },
+    "tags": [
+      "leadership",
+      "power",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "philosophy-55",
+    "title": "Attention is the rarest and purest form of generosity",
+    "body": "Weil argued that truly paying attention to another person — setting aside your own thoughts, needs, and interpretations to receive them fully — is among the most demanding and undervalued acts available to us. Most of what we call listening is really waiting for our turn to speak; real attention erases the listener temporarily and makes space for the other. She extended this idea to intellectual and spiritual work: the capacity for sustained, patient attention is the same capacity that makes compassion possible, because both require subordinating the self to what is actually present rather than what we expect or wish to find.",
+    "source": {
+      "title": "Gravity and Grace",
+      "author": "Simone Weil",
+      "year": 1947
+    },
+    "tags": [
+      "philosophy",
+      "attention",
+      "generosity"
+    ]
   }
 ]
