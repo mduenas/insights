@@ -11326,5 +11326,80 @@
       "attention",
       "generosity"
     ]
+  },
+  {
+    "id": "mindset-13",
+    "title": "Accurate thinking requires the courage to update, not just the capacity to reason",
+    "body": "Galef distinguishes the soldier mindset, which deploys reasoning as a weapon to defend a position already held, from the scout mindset, which deploys reasoning as a tool to map what is actually true regardless of preference. Her study of expert forecasters found that predictive accuracy correlates less strongly with intelligence than with the habit of saying 'I was wrong' and revising accordingly. The obstacle to clearer thinking, she argues, is rarely insufficient analytical skill; it is insufficient motivation — caring more about having been right than about discovering what is right.",
+    "source": {
+      "title": "The Scout Mindset: Why Some People See Things Clearly and Others Don't",
+      "author": "Julia Galef",
+      "year": 2021
+    },
+    "tags": [
+      "mindset",
+      "reasoning",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "values-12",
+    "title": "Justice is violated when one good comes to dominate all others",
+    "body": "Walzer argued that every society distributes multiple kinds of goods — wealth, power, education, honor, health — and that each good has its own internal logic and appropriate sphere of distribution. Injustice occurs not simply when someone gets too little of one good, but when a good from one sphere, particularly money, invades and dominates goods that belong to others, as when the rich purchase better justice, medical care, or democratic influence. A just society maintains the boundaries between spheres so that success in one domain does not automatically purchase advantage in all others.",
+    "source": {
+      "title": "Spheres of Justice: A Defense of Pluralism and Equality",
+      "author": "Michael Walzer",
+      "year": 1983
+    },
+    "tags": [
+      "values",
+      "justice",
+      "politics"
+    ]
+  },
+  {
+    "id": "communication-11",
+    "title": "Misunderstanding arises less from bad faith than from different conversational goals",
+    "body": "Tannen showed that conversation serves two fundamentally different functions: rapport-talk, which builds intimacy and connection, and report-talk, which exchanges information and establishes status. Both functions are legitimate, but individuals and groups differ in which they treat as primary — so the same exchange can leave one person feeling dismissed and another feeling interrogated, each convinced the other has violated the purpose of conversation. Recognizing that the other person is following a different conversational logic, rather than acting in bad faith, transforms frustrating exchanges into solvable problems.",
+    "source": {
+      "title": "You Just Don't Understand: Women and Men in Conversation",
+      "author": "Deborah Tannen",
+      "year": 1990
+    },
+    "tags": [
+      "communication",
+      "relationships",
+      "psychology"
+    ]
+  },
+  {
+    "id": "resilience-12",
+    "title": "Resilience after loss is the norm, not the exception",
+    "body": "Bonanno's decades of bereavement research overturned the assumption that severe loss inevitably produces prolonged grief and that recovery requires professional intervention. His longitudinal data showed that the most common trajectory after devastating loss is resilience — stable functioning throughout — not a progression through the stages popularized by grief counseling. This finding does not minimize loss, but it challenges the medicalization of grief and suggests that the most useful support is often steady presence rather than treatment of what is, in most people, not a disorder.",
+    "source": {
+      "title": "The Other Side of Sadness: What the New Science of Bereavement Tells Us About Life After Loss",
+      "author": "George Bonanno",
+      "year": 2009
+    },
+    "tags": [
+      "resilience",
+      "psychology",
+      "loss"
+    ]
+  },
+  {
+    "id": "biology-23",
+    "title": "Organisms do not adapt to environments — they actively construct them",
+    "body": "Lewontin argued against the standard evolutionary picture of organisms as passive objects shaped by a pre-existing environment, pointing out that organisms actively alter, build, and define the very conditions that in turn select them. Beavers transform streams, bacteria change atmospheric chemistry, and humans reshape entire landscapes — in each case, the 'environment' is partly a product of the organism living in it. Evolutionary causation therefore runs in both directions at once, meaning that heredity, organism, and environment are not three separate variables but one entangled process.",
+    "source": {
+      "title": "The Triple Helix: Gene, Organism, and Environment",
+      "author": "Richard Lewontin",
+      "year": 2000
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "ecology"
+    ]
   }
 ]
