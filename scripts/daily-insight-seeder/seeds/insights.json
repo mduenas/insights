@@ -11401,5 +11401,80 @@
       "evolution",
       "ecology"
     ]
+  },
+  {
+    "id": "sociology-31",
+    "title": "Gender is performed, not expressed",
+    "body": "Butler argued that gender is not a fixed inner essence waiting to be revealed but a set of repeated, stylized acts that produce the illusion of a stable identity. Drag, parody, and gender nonconformity expose this mechanism — showing that what appears natural is actually constructed through social repetition over time. If gender is performed, then it can be performed differently, opening space for resistance that does not require appealing to some more 'authentic' self beneath the performance.",
+    "source": {
+      "title": "Gender Trouble: Feminism and the Subversion of Identity",
+      "author": "Judith Butler",
+      "year": 1990
+    },
+    "tags": [
+      "sociology",
+      "identity",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "history-33",
+    "title": "Power reveals character — it does not transform it",
+    "body": "Caro's biography of Robert Moses traced how a reformer became an autocrat, not because power corrupted him but because it amplified traits already present: genius for bureaucratic maneuvering, contempt for opposition, and impatience with democratic process. Power does not create new character flaws — it removes the institutional constraints that kept existing ones in check. The lesson for organizations is that structure, not individual virtue, is what reliably limits the abuse of authority.",
+    "source": {
+      "title": "The Power Broker: Robert Moses and the Fall of New York",
+      "author": "Robert Caro",
+      "year": 1974
+    },
+    "tags": [
+      "history",
+      "leadership",
+      "power"
+    ]
+  },
+  {
+    "id": "literature-47",
+    "title": "To live fully is to be other than yourself",
+    "body": "Pessoa's posthumous masterpiece meditates on the impossibility of a unified self — whoever we were yesterday is already a stranger to whoever we are today. He invented dozens of literary personas, or 'heteronyms,' each with distinct biographies, philosophies, and prose styles, treating self-multiplication not as pathology but as the most honest response to the strangeness of consciousness. The self, for Pessoa, is always a temporary fiction we inhabit rather than a fixed essence we possess.",
+    "source": {
+      "title": "The Book of Disquiet",
+      "author": "Fernando Pessoa",
+      "year": 1982
+    },
+    "tags": [
+      "literature",
+      "identity",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "ecology-19",
+    "title": "Ecological stability is a trap, not a virtue",
+    "body": "Holling's adaptive cycle model shows that ecosystems move through four recurring phases: rapid growth, conservation, release, and reorganization. Long stability — the conservation phase — actually makes systems brittle, because accumulated resources and rigid connections leave no capacity to adapt when conditions change. Collapse releases stored capital and creates the conditions for renewal at a different scale. This pattern recurs in economies, organizations, and careers: prolonged success without disruption often precedes the hardest falls.",
+    "source": {
+      "title": "Resilience and Stability of Ecological Systems",
+      "author": "C.S. Holling",
+      "year": 1973
+    },
+    "tags": [
+      "ecology",
+      "systems",
+      "resilience"
+    ]
+  },
+  {
+    "id": "biology-24",
+    "title": "Forests share resources through underground networks",
+    "body": "Simard's research revealed that trees in a forest are connected through vast fungal mycorrhizal networks through which they exchange carbon, water, and chemical distress signals. Old 'mother trees' at the center of these webs actively direct more carbon toward struggling seedlings — particularly their own kin — and send chemical warnings when under attack by insects or disease. The forest is not a collection of competing individuals but a community of mutual support governed by relationships invisible at the surface.",
+    "source": {
+      "title": "Finding the Mother Tree: Discovering the Wisdom of the Forest",
+      "author": "Suzanne Simard",
+      "year": 2021
+    },
+    "tags": [
+      "biology",
+      "ecology",
+      "systems"
+    ]
   }
 ]
