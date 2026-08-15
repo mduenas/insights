@@ -11476,5 +11476,80 @@
       "ecology",
       "systems"
     ]
+  },
+  {
+    "id": "economics-41",
+    "title": "Exchange is the engine of human prosperity",
+    "body": "Trade enables specialization, and specialization enables innovation. When two people exchange goods or ideas, both can end up better off — unlike in zero-sum competition. Ridley argues that the cumulative effect of billions of such exchanges over millennia explains why humans have become uniquely capable of sustained innovation: ideas, like genes in sexual reproduction, can combine to produce offspring better than either parent. The resulting prosperity is not the work of any single genius or government but an emergent property of the trading network itself.",
+    "source": {
+      "title": "The Rational Optimist: How Prosperity Evolves",
+      "author": "Matt Ridley",
+      "year": 2010
+    },
+    "tags": [
+      "economics",
+      "trade",
+      "innovation"
+    ]
+  },
+  {
+    "id": "sociology-32",
+    "title": "Crisis reveals the cooperative core of human nature",
+    "body": "Across historical disasters — wartime bombings, hurricanes, floods — people consistently band together, share resources, and help strangers rather than descending into the looting and panic depicted in popular fiction. Bregman traces this pattern through dozens of catastrophes and argues that the 'veneer theory' — the idea that civilization is a thin mask over a brutish nature — is empirically false. Human beings evolved for cooperation as much as competition, and it is precisely this social instinct that surfaces most powerfully when ordinary structures break down.",
+    "source": {
+      "title": "Humankind: A Hopeful History",
+      "author": "Rutger Bregman",
+      "year": 2020
+    },
+    "tags": [
+      "sociology",
+      "human-nature",
+      "cooperation"
+    ]
+  },
+  {
+    "id": "habits-17",
+    "title": "Progress in complex systems requires embracing failure",
+    "body": "In fast-changing or poorly understood domains, no one is clever enough to design optimal solutions in advance. Harford shows that the most successful adaptive systems — from biological evolution to thriving economies — rely on variation and selection: generating many small experiments, failing fast and cheaply, and doubling down on what works. The critical discipline is not avoiding failure but ensuring that failures remain survivable, visible, and informative. Organizations and individuals that treat failure as shameful tend to hide it, which prevents exactly the learning they need.",
+    "source": {
+      "title": "Adapt: Why Success Always Starts with Failure",
+      "author": "Tim Harford",
+      "year": 2011
+    },
+    "tags": [
+      "habits",
+      "learning",
+      "adaptation"
+    ]
+  },
+  {
+    "id": "philosophy-56",
+    "title": "Burnout is the illness of a society that demands achievement",
+    "body": "Unlike older disciplinary societies that oppressed through external prohibition, the modern achievement society has internalized its pressure: the subject is no longer told what they must not do but what they can do — and this apparent freedom becomes its own form of coercion. Han argues that depression and burnout are not signs of individual weakness but structural symptoms of a culture that has replaced obligation with optimization and obedience with self-exploitation. The exhausted person blames themselves for failing to perform, which is exactly what the system requires.",
+    "source": {
+      "title": "The Burnout Society",
+      "author": "Byung-Chul Han",
+      "year": 2015
+    },
+    "tags": [
+      "philosophy",
+      "psychology",
+      "achievement"
+    ]
+  },
+  {
+    "id": "values-13",
+    "title": "Beauty impels us toward justice",
+    "body": "When we encounter something beautiful, we are not passive observers but are moved to copy, share, or preserve it — and to ensure that others have access to it too. Scarry argues that this compulsion to replicate what we find beautiful is morally significant: recognizing that a beautiful thing did not have to exist yet does makes us more sensitive to the preciousness of other fragile things, including people. The aesthetic experience of beauty, properly attended to, is therefore a form of moral training that primes us toward fairness and care.",
+    "source": {
+      "title": "On Beauty and Being Just",
+      "author": "Elaine Scarry",
+      "year": 1999
+    },
+    "tags": [
+      "values",
+      "aesthetics",
+      "ethics"
+    ]
   }
 ]
