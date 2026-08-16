@@ -11551,5 +11551,80 @@
       "aesthetics",
       "ethics"
     ]
+  },
+  {
+    "id": "statistics-12",
+    "title": "Our intuitions about probability are systematically wrong",
+    "body": "Paulos documented how innumeracy — the mathematical equivalent of illiteracy — causes otherwise educated people to misread risk, overestimate coincidence, and be swayed by misleading statistics. The human mind evolved for small-scale social reasoning, not for grasping exponential growth or the laws of large numbers; this mismatch makes us vulnerable to lottery fallacies, medical misinformation, and poor risk assessment. Understanding even a handful of probabilistic concepts — base rates, regression to the mean, the birthday problem — dramatically improves the quality of everyday decisions.",
+    "source": {
+      "title": "Innumeracy: Mathematical Illiteracy and Its Consequences",
+      "author": "John Allen Paulos",
+      "year": 1988
+    },
+    "tags": [
+      "mathematics",
+      "statistics",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "neuroscience-16",
+    "title": "Consciousness is the last to know what the brain has decided",
+    "body": "Eagleman draws on decades of neuroscience to show that the vast majority of mental processing occurs below the threshold of awareness. The brain initiates movements, recognizes faces, and generates emotions before the conscious self is aware of them, and consciousness often serves as a retrospective narrator constructing explanations for what has already happened. This undermines the folk notion of a unified, deliberating self in full control; we are better described as a committee of competing processes, with awareness serving as the press secretary rather than the CEO.",
+    "source": {
+      "title": "Incognito: The Secret Lives of the Brain",
+      "author": "David Eagleman",
+      "year": 2011
+    },
+    "tags": [
+      "neuroscience",
+      "consciousness",
+      "psychology"
+    ]
+  },
+  {
+    "id": "literature-48",
+    "title": "Dignity achieved through self-erasure may be the deepest loss of all",
+    "body": "Stevens, the butler-narrator of Ishiguro's novel, has organized his entire life around professional dignity — the suppression of every personal impulse in service of an ideal. Through a journey of memory, Ishiguro reveals that this devotion has cost Stevens everything he might have loved, and the recognition arrives too late to change course. The novel asks whether dedication to any institution or cause can justify the surrender of moral judgment, and whether a life can be called well-lived if its most authentic possibilities were never allowed to surface.",
+    "source": {
+      "title": "The Remains of the Day",
+      "author": "Kazuo Ishiguro",
+      "year": 1989
+    },
+    "tags": [
+      "literature",
+      "identity",
+      "regret"
+    ]
+  },
+  {
+    "id": "music-13",
+    "title": "Gradual process is the piece, not a means to the piece",
+    "body": "Reich argued that compositions built on slow, audible transformations are fundamentally different from music where structure is hidden: in process music, the pattern of change is itself the content, and a listener who follows along can hear the whole process unfolding in real time. This removes the gap between the work and its perception — there is no meaning behind the surface to decode. The idea migrated beyond music into architecture, software, and design: the value of making processes legible so that participants can locate themselves within a larger arc of change.",
+    "source": {
+      "title": "Writings on Music, 1965-2000",
+      "author": "Steve Reich",
+      "year": 2002
+    },
+    "tags": [
+      "music",
+      "creativity",
+      "process"
+    ]
+  },
+  {
+    "id": "science-44",
+    "title": "Complex systems lie at the edge between order and chaos",
+    "body": "Gell-Mann, co-discoverer of the quark, argued that the most interesting phenomena in nature — life, intelligence, language, economies — are complex adaptive systems that occupy a zone between perfect order and total randomness. Too much regularity produces rigid, brittle structures with no capacity to surprise; too much disorder produces noise with no structure to learn from. Adaptation and creativity require a delicate middle ground where patterns can form, be disrupted, and reconfigure. This edge, he suggested, is where biological evolution, cultural innovation, and scientific discovery all live.",
+    "source": {
+      "title": "The Quark and the Jaguar: Adventures in the Simple and the Complex",
+      "author": "Murray Gell-Mann",
+      "year": 1994
+    },
+    "tags": [
+      "science",
+      "complexity",
+      "systems"
+    ]
   }
 ]
