@@ -11626,5 +11626,80 @@
       "complexity",
       "systems"
     ]
+  },
+  {
+    "id": "law-10",
+    "title": "Law is the behavior of officials, not the rules on the page",
+    "body": "Karl Llewellyn, the central figure in American legal realism, argued that law is not the statutes and doctrines found in books but the actual decisions and behaviors of judges and officials. Predicting legal outcomes therefore requires studying judicial behavior — temperament, institutional pressures, social context — not just parsing written rules. Law is a social practice before it is a logical system, and the gap between doctrine and outcome is where legal knowledge actually lives.",
+    "source": {
+      "title": "The Bramble Bush: On Our Law and Its Study",
+      "author": "Karl Llewellyn",
+      "year": 1951
+    },
+    "tags": [
+      "law",
+      "systems",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "music-14",
+    "title": "Musical tones are forces, not just sounds",
+    "body": "Victor Zuckerkandl demonstrated that what we hear in music is not a sequence of passive sounds but a field of dynamic forces pulling toward or away from resolution. Each tone in a scale generates a specific tension — the seventh degree leans urgently toward the tonic, a dissonant chord feels unstable because its tones are in mutual conflict. This is why music can convey motion, yearning, and release without depicting any physical object. To listen to music is not to track sounds through time but to feel forces move.",
+    "source": {
+      "title": "Sound and Symbol: Music and the External World",
+      "author": "Victor Zuckerkandl",
+      "year": 1956
+    },
+    "tags": [
+      "music",
+      "perception",
+      "creativity"
+    ]
+  },
+  {
+    "id": "ethics-15",
+    "title": "A person who deliberates too carefully about saving their spouse has thought one thought too many",
+    "body": "Bernard Williams argued that the great systematic moral theories — utilitarianism and Kantianism alike — demand a degree of impartial abstraction that severs the commitments constitutive of a human life. If someone pauses to weigh their drowning spouse against a stranger before deciding whom to save, something has gone badly wrong. Our deep attachments to particular people and projects are not moral failures to be transcended; they are part of what makes a life worth living and a self worth having. Ethics must account for the particularity of actual lives, not dissolve it into universal formulas.",
+    "source": {
+      "title": "Ethics and the Limits of Philosophy",
+      "author": "Bernard Williams",
+      "year": 1985
+    },
+    "tags": [
+      "ethics",
+      "philosophy",
+      "identity"
+    ]
+  },
+  {
+    "id": "sociology-33",
+    "title": "Tactics are the art of making do in spaces you do not own",
+    "body": "Michel de Certeau distinguished between strategies — the rational operations of institutions that occupy stable, bounded territory — and tactics, the improvised moves of individuals navigating environments controlled by others. A tactic has no home base; it seizes opportunities moment by moment, using the system's resources for ends the system did not intend. Reading, walking a city, and cooking are all tactical arts — ways of poaching meaning from the dominant order. Power designs the space; people make it signify something else.",
+    "source": {
+      "title": "The Practice of Everyday Life",
+      "author": "Michel de Certeau",
+      "year": 1984
+    },
+    "tags": [
+      "sociology",
+      "power",
+      "creativity"
+    ]
+  },
+  {
+    "id": "linguistics-15",
+    "title": "Language is not a garment over thought — it is the mold in which thought is cast",
+    "body": "Edward Sapir argued that language does not label a pre-existing world of thoughts but actively shapes the contours of experience by determining which distinctions are habitual and automatic. A speech community that grammatically marks evidentiality — whether information is seen, heard, or inferred — trains its speakers to track the source of knowledge as a matter of course. The categories built into a language are therefore an implicit epistemology, a collective decision about what counts as real enough to be recorded in every utterance. We do not escape this framework by knowing it is there; we can only enrich it.",
+    "source": {
+      "title": "Language: An Introduction to the Study of Speech",
+      "author": "Edward Sapir",
+      "year": 1921
+    },
+    "tags": [
+      "linguistics",
+      "cognition",
+      "culture"
+    ]
   }
 ]
