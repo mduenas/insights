@@ -11701,5 +11701,80 @@
       "cognition",
       "culture"
     ]
+  },
+  {
+    "id": "mathematics-32",
+    "title": "Beauty is the first test in mathematics",
+    "body": "There is no permanent place in the world for ugly mathematics, Hardy argued. Mathematical elegance — the sense that a proof achieves its result by the most inevitable route — is not a decorative luxury but a reliable guide: beautiful proofs tend to reveal deep truths, while cumbersome ones often betray a hidden and more natural approach that has yet to be found.",
+    "source": {
+      "title": "A Mathematician's Apology",
+      "author": "G.H. Hardy",
+      "year": 1940
+    },
+    "tags": [
+      "mathematics",
+      "aesthetics",
+      "truth"
+    ]
+  },
+  {
+    "id": "creativity-27",
+    "title": "Creativity is not a gift but a habit",
+    "body": "The most consistently creative people are not simply more inspired — they have built rituals that prime the mind for imaginative work every day. By treating creativity as a skill that responds to daily practice rather than an unpredictable visitation, you place it within your own control. Tharp herself begins every workday with a fixed ritual precisely to remove the question of whether to start from the equation entirely.",
+    "source": {
+      "title": "The Creative Habit: Learn It and Use It for Life",
+      "author": "Twyla Tharp",
+      "year": 2003
+    },
+    "tags": [
+      "creativity",
+      "habits",
+      "practice"
+    ]
+  },
+  {
+    "id": "wealth-11",
+    "title": "Inclusive institutions create virtuous cycles of prosperity",
+    "body": "Nations grow rich not because of geography or culture but because of the institutions they build. Inclusive institutions — those that distribute power broadly and protect property rights — create incentives for innovation and investment, compounding over time. Extractive institutions concentrate gains at the top, choke off the dynamism that sustains growth, and trap societies in cycles of stagnation.",
+    "source": {
+      "title": "Why Nations Fail",
+      "author": "Daron Acemoglu and James A. Robinson",
+      "year": 2012
+    },
+    "tags": [
+      "economics",
+      "institutions",
+      "history"
+    ]
+  },
+  {
+    "id": "psychology-39",
+    "title": "We change our beliefs to match our actions more often than vice versa",
+    "body": "When people act in ways that conflict with their stated beliefs, the resulting discomfort — cognitive dissonance — typically resolves not by changing the behavior but by revising the belief. This overturns the intuitive picture of rational deliberation: the story we tell about ourselves is often constructed after the fact to justify what we have already done, rather than the reverse.",
+    "source": {
+      "title": "A Theory of Cognitive Dissonance",
+      "author": "Leon Festinger",
+      "year": 1957
+    },
+    "tags": [
+      "psychology",
+      "self-deception",
+      "motivation"
+    ]
+  },
+  {
+    "id": "relationships-11",
+    "title": "The security of early bonds shapes all later intimacy",
+    "body": "Bowlby proposed that humans are born with an innate drive to form close emotional bonds with caregivers, and that the security of those early bonds creates an internal working model of others as reliable and the self as worthy of care. This template does not simply fade — it echoes through adult attachment, trust, and resilience, explaining why early relational experiences cast such long shadows.",
+    "source": {
+      "title": "Attachment and Loss, Volume 1: Attachment",
+      "author": "John Bowlby",
+      "year": 1969
+    },
+    "tags": [
+      "relationships",
+      "psychology",
+      "development"
+    ]
   }
 ]
