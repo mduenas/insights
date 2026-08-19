@@ -11777,4 +11777,80 @@
       "development"
     ]
   }
+,
+  {
+    "id": "philosophy-57",
+    "title": "Each monad is a living mirror of the universe",
+    "body": "Leibniz argued that every simple substance perceives the entire universe from its own unique vantage point. Rather than being isolated atoms, fundamental units of reality are perspectival — each one reflects the whole from its particular angle. This means that variety and individuality are not opposed to unity but are its very expression: multiplicity is how a single universe knows itself through countless distinct viewpoints. No two perspectives are identical, yet all reflect the same underlying whole.",
+    "source": {
+      "title": "Monadology",
+      "author": "Gottfried Wilhelm Leibniz",
+      "year": 1714
+    },
+    "tags": [
+      "philosophy",
+      "metaphysics",
+      "perspective"
+    ]
+  },
+  {
+    "id": "learning-16",
+    "title": "Learned ignorance is the beginning of wisdom",
+    "body": "Nicholas of Cusa coined the paradox of docta ignorantia — learned ignorance: genuine knowledge reveals the limits of what we can know. As understanding deepens, the horizon of mystery expands, not contracts. The scholar who believes they have mastered a subject has only confirmed their incompleteness; the one who grasps the true scale of the unknown has begun to approach wisdom. Ignorance, embraced honestly, is not a failure of inquiry but its most honest foundation.",
+    "source": {
+      "title": "On Learned Ignorance (De Docta Ignorantia)",
+      "author": "Nicholas of Cusa",
+      "year": 1440
+    },
+    "tags": [
+      "learning",
+      "humility",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "science-45",
+    "title": "In an infinite universe, every point is the center",
+    "body": "Bruno was among the first thinkers to argue that the cosmos is infinite and without a fixed center or edge. In a boundless universe, there is no privileged vantage point: wherever you stand, you are equidistant from all edges — which is to say, every position is equally the center. This insight anticipates the deepest implication of the Copernican revolution: no observer occupies a uniquely privileged position, whether in space or in knowledge.",
+    "source": {
+      "title": "On the Infinite Universe and Worlds (De l'Infinito, Universo e Mondi)",
+      "author": "Giordano Bruno",
+      "year": 1584
+    },
+    "tags": [
+      "science",
+      "cosmology",
+      "perspective"
+    ]
+  },
+  {
+    "id": "philosophy-58",
+    "title": "Every great thought oppresses before it liberates",
+    "body": "Cioran observed that the most transformative ideas do not arrive as comfortable revelations but as disturbances — they unsettle before they clarify. A thought that demands nothing of us changes nothing in us. Only when an idea confronts us with the full weight of what it requires does it become capable of reshaping how we live. The oppressive quality of genuine insight is not a flaw in its delivery but the very mechanism by which it works.",
+    "source": {
+      "title": "The Temptation to Exist (La Tentation d'exister)",
+      "author": "E.M. Cioran",
+      "year": 1956
+    },
+    "tags": [
+      "philosophy",
+      "wisdom",
+      "transformation"
+    ]
+  },
+  {
+    "id": "ecology-20",
+    "title": "A hidden greening power animates all living things",
+    "body": "Hildegard of Bingen described a force she called viriditas — a greening power — that animates all living things and connects them to a single source of renewal. This twelfth-century concept anticipates modern ecological thinking: health, growth, and flourishing are not isolated properties of separate organisms but expressions of an underlying relational vitality. When any part of the living world is diminished, the whole suffers a loss of its greening capacity, and restoration requires attending to the whole, not only the damaged part.",
+    "source": {
+      "title": "Scivias",
+      "author": "Hildegard of Bingen",
+      "year": 1151
+    },
+    "tags": [
+      "ecology",
+      "spirituality",
+      "interconnection"
+    ]
+  }
 ]
