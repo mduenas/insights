@@ -11776,8 +11776,7 @@
       "psychology",
       "development"
     ]
-  }
-,
+  },
   {
     "id": "philosophy-57",
     "title": "Each monad is a living mirror of the universe",
@@ -11851,6 +11850,81 @@
       "ecology",
       "spirituality",
       "interconnection"
+    ]
+  },
+  {
+    "id": "systems-13",
+    "title": "Complex thought is not the enemy of clarity, but its precondition",
+    "body": "Morin argued that the urge to simplify is often an obstacle to genuine understanding. When we strip away ambiguity, context, and interaction to obtain a clean model, we discard the features that make a system behave as it does. Navigating complexity requires holding contradictory frameworks simultaneously rather than collapsing them prematurely into one. Clarity achieved through oversimplification is not clarity but a more confident form of error.",
+    "source": {
+      "title": "Introduction to Complex Thought",
+      "author": "Edgar Morin",
+      "year": 1990
+    },
+    "tags": [
+      "systems",
+      "complexity",
+      "thinking"
+    ]
+  },
+  {
+    "id": "philosophy-59",
+    "title": "Technique has become the milieu in which we live",
+    "body": "Ellul argued that modern technology is not a tool humans wield but an autonomous environment that shapes human behavior and values. We have not mastered technique; it has mastered us, transforming means into ends and reducing every human concern to a question of efficiency. The danger is not that machines will rebel but that we will come to measure everything — including virtue, beauty, and justice — by technical standards.",
+    "source": {
+      "title": "The Technological Society",
+      "author": "Jacques Ellul",
+      "year": 1954
+    },
+    "tags": [
+      "technology",
+      "freedom",
+      "modernity"
+    ]
+  },
+  {
+    "id": "economics-42",
+    "title": "Exit and voice are the two levers of accountability",
+    "body": "Hirschman showed that when organizations or institutions decline, members face two basic responses: exit (leaving for an alternative) or voice (demanding change from within). Exit is clean and efficient but deprives the organization of its most capable critics; voice is messy but the only mechanism capable of reform. Loyalty determines which lever gets pulled — and well-designed institutions need both working together.",
+    "source": {
+      "title": "Exit, Voice, and Loyalty",
+      "author": "Albert O. Hirschman",
+      "year": 1970
+    },
+    "tags": [
+      "economics",
+      "institutions",
+      "accountability"
+    ]
+  },
+  {
+    "id": "literature-49",
+    "title": "All language was once metaphor",
+    "body": "Barfield argued in Poetic Diction that the words we now treat as literal descriptions were once vivid metaphors — and that tracing the evolution of language reveals the evolution of human consciousness. What we call dead metaphors were once live perceptions; early people did not say the wind was 'spirited' as a figure of speech but because spirit and breath and wind were felt as one reality. Poetry is the act of making language breathe again.",
+    "source": {
+      "title": "Poetic Diction: A Study in Meaning",
+      "author": "Owen Barfield",
+      "year": 1928
+    },
+    "tags": [
+      "language",
+      "consciousness",
+      "literature"
+    ]
+  },
+  {
+    "id": "sociology-34",
+    "title": "Whoever controls speed controls power",
+    "body": "Virilio argued that the history of politics is inseparable from the history of velocity. The state is not merely a territory but an engine of acceleration — those who can move armies, capital, and information fastest dominate those who cannot. Modern warfare and modern geopolitics are competitions in speed as much as in strength, and the fastest actor defines the terms on which everyone else must respond.",
+    "source": {
+      "title": "Speed and Politics",
+      "author": "Paul Virilio",
+      "year": 1977
+    },
+    "tags": [
+      "power",
+      "technology",
+      "politics"
     ]
   }
 ]
