@@ -11926,5 +11926,80 @@
       "technology",
       "politics"
     ]
+  },
+  {
+    "id": "architecture-11",
+    "title": "All architecture must serve firmness, commodity, and delight",
+    "body": "Vitruvius, writing for Augustus, laid down the three indispensable qualities of good building: firmitas (structural soundness), utilitas (practical usefulness), and venustas (beauty). The triad has survived two millennia because it names a genuine tension rather than resolving it — a building can be structurally sound but useless, or useful but ugly, or beautiful but dangerous. Good architecture requires all three in balance, and any built work that satisfies fewer than all three is incomplete in exactly the way the missing quality names.",
+    "source": {
+      "title": "De Architectura",
+      "author": "Vitruvius",
+      "year": -15
+    },
+    "tags": [
+      "architecture",
+      "design",
+      "classical"
+    ]
+  },
+  {
+    "id": "music-15",
+    "title": "Classical form is a drama of tension and release, not a decorative container",
+    "body": "Rosen argued that the genius of the Classical style — in Haydn, Mozart, and Beethoven — lies not in the elegance of its forms but in the dramatic energy those forms were designed to generate and resolve. Sonata form is not a blueprint to be filled in but a set of harmonic and rhythmic expectations against which composers build suspense, postpone satisfaction, and make resolution feel earned. Understanding this transforms listening from passive recognition of structure into active anticipation — the musical equivalent of following a plot.",
+    "source": {
+      "title": "The Classical Style: Haydn, Mozart, Beethoven",
+      "author": "Charles Rosen",
+      "year": 1971
+    },
+    "tags": [
+      "music",
+      "form",
+      "aesthetics"
+    ]
+  },
+  {
+    "id": "mythology-11",
+    "title": "The sacred king dies so the land may be renewed",
+    "body": "Frazer's vast comparative study uncovered a pattern recurring across ancient Mediterranean, Near Eastern, and African cultures: the king was ritually identified with the fertility of the earth, and when his powers waned through age or symbolic defeat he was sacrificed so that a vigorous successor could restore cosmic order. Frazer argued this death-and-renewal logic underlies not only ancient kingship but the structure of Greek tragedy and the vegetation gods of the mystery religions. Whether or not every comparison holds, he showed that similar symbolic problems tend to produce similar symbolic solutions across unconnected cultures.",
+    "source": {
+      "title": "The Golden Bough",
+      "author": "James George Frazer",
+      "year": 1890
+    },
+    "tags": [
+      "mythology",
+      "ritual",
+      "anthropology"
+    ]
+  },
+  {
+    "id": "anthropology-16",
+    "title": "Dirt is matter out of place",
+    "body": "Douglas proposed that what a culture calls 'dirty' or 'polluting' is not an intrinsic property of the matter itself but a function of its relationship to a system of categories. Shoes are not inherently dirty, but shoes on the kitchen table are — they violate the boundary between outdoors and food preparation. Pollution rules and taboos are therefore a map of the cognitive order a society is trying to protect; where contamination is feared, something socially or cosmologically significant is being defended. This reframes disgust from a biological reflex into a cultural grammar.",
+    "source": {
+      "title": "Purity and Danger: An Analysis of Concepts of Pollution and Taboo",
+      "author": "Mary Douglas",
+      "year": 1966
+    },
+    "tags": [
+      "anthropology",
+      "culture",
+      "cognition"
+    ]
+  },
+  {
+    "id": "linguistics-16",
+    "title": "Every word carries the traces of every mouth that ever spoke it",
+    "body": "Bakhtin argued that language is never a neutral medium: every word comes pre-loaded with the accents, intentions, and evaluations of prior speakers, and every utterance is shaped in advance by the anticipated response of the person it addresses. There is no such thing as a purely private or context-free word — even internal speech is dialogic, directed toward an imagined other. The novel, for Bakhtin, was the literary form that made this multiplicity of voices explicit, staging the collision of distinct speech worlds without forcing them into a single authoritative voice.",
+    "source": {
+      "title": "The Dialogic Imagination",
+      "author": "Mikhail Bakhtin",
+      "year": 1981
+    },
+    "tags": [
+      "linguistics",
+      "language",
+      "literature"
+    ]
   }
 ]
