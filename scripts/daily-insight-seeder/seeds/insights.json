@@ -12001,5 +12001,85 @@
       "language",
       "literature"
     ]
+  },
+  {
+    "id": "sociology-35",
+    "title": "Society Grows Without a Gardener",
+    "body": "Adam Ferguson observed that civilization's most vital institutions—language, markets, common law, and social customs—arose not from any deliberate plan but from the uncoordinated actions of countless individuals each pursuing their own narrow purposes. He called this the result of human action but not of human design. This insight, a century before Darwin, anticipated the theory of emergent order: complex, functional structures can self-organize without a directing intelligence, and attempts to impose a master plan from above often destroy what makes them work.",
+    "source": {
+      "title": "An Essay on the History of Civil Society",
+      "author": "Adam Ferguson",
+      "year": 1767
+    },
+    "tags": [
+      "sociology",
+      "systems",
+      "institutions",
+      "emergent-order"
+    ]
+  },
+  {
+    "id": "economics-43",
+    "title": "Mild Preferences Produce Extreme Outcomes",
+    "body": "Thomas Schelling showed with a simple model that even when individuals are largely tolerant—preferring only that a small fraction of their neighbors share their characteristics—the aggregate result tends toward near-total segregation. The macro pattern vastly exaggerates the micro preference. This gap between individual intent and collective outcome is one of the most sobering lessons in social science: patterns that look like collective decisions may be no one's deliberate choice, and good intentions at the individual level offer no guarantee of good outcomes at the social level.",
+    "source": {
+      "title": "Micromotives and Macrobehavior",
+      "author": "Thomas C. Schelling",
+      "year": 1978
+    },
+    "tags": [
+      "economics",
+      "sociology",
+      "game-theory",
+      "systems"
+    ]
+  },
+  {
+    "id": "linguistics-17",
+    "title": "A Word's History Is a History of Conflict",
+    "body": "Raymond Williams traced how key terms such as culture, industry, democracy, and class changed meaning across centuries—not through semantic drift alone but through real social contests over power, identity, and value. Each word deposits layers of past argument inside it, making ordinary language a compressed archive of unresolved disputes. To recover what a word once meant is often to recover a debate that quietly shaped the world we now inhabit, and to see how the current meaning arrived by winning that debate rather than by being simply correct.",
+    "source": {
+      "title": "Keywords: A Vocabulary of Culture and Society",
+      "author": "Raymond Williams",
+      "year": 1976
+    },
+    "tags": [
+      "linguistics",
+      "sociology",
+      "history",
+      "language"
+    ]
+  },
+  {
+    "id": "philosophy-60",
+    "title": "Security Arrives When You Stop Demanding It",
+    "body": "Alan Watts argued that the relentless pursuit of permanence and certainty is itself the source of anxiety: by clinging to fixed states we transform life's natural flow into a source of dread. The harder we try to secure ourselves against change, the more acutely we feel the vulnerability we are trying to escape. True stability is not a condition to be achieved but a posture toward impermanence—one that accepts rather than resists the fact that every experience, including the self, is perpetually in motion.",
+    "source": {
+      "title": "The Wisdom of Insecurity",
+      "author": "Alan Watts",
+      "year": 1951
+    },
+    "tags": [
+      "philosophy",
+      "mindset",
+      "resilience",
+      "impermanence"
+    ]
+  },
+  {
+    "id": "law-11",
+    "title": "Rights Matter Most When Trading Them Is Costly",
+    "body": "Ronald Coase showed that if people could bargain without any friction—no information costs, no negotiation delays, no enforcement problems—the initial assignment of property rights would not affect economic efficiency: parties would always trade their way to the optimal outcome regardless of who started with the entitlement. The real lesson is the contrapositive: since real-world bargaining always carries costs, how rights are initially assigned matters enormously. Law, in this frame, shapes outcomes not by declaring a final truth but by setting the baseline from which costly negotiations depart.",
+    "source": {
+      "title": "The Problem of Social Cost",
+      "author": "Ronald H. Coase",
+      "year": 1960
+    },
+    "tags": [
+      "law",
+      "economics",
+      "institutions",
+      "transaction-costs"
+    ]
   }
 ]
