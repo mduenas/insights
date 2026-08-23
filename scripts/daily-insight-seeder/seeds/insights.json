@@ -12081,5 +12081,85 @@
       "institutions",
       "transaction-costs"
     ]
+  },
+  {
+    "id": "philosophy-61",
+    "title": "Do not show your wounded finger",
+    "body": "Gracián observed that whatever you reveal as your greatest sensitivity becomes an invitation for every provocation. When we openly display our insecurities, fears, or points of pride, we hand others a precise map to hurt or manipulate us. The art of composure is not deception but protection: it reserves the inner life and denies adversaries the leverage they would otherwise exploit. Prudence, in Gracián's account, is the master virtue from which all practical wisdom flows.",
+    "source": {
+      "title": "The Art of Worldly Wisdom",
+      "author": "Baltasar Gracián",
+      "year": 1647
+    },
+    "tags": [
+      "philosophy",
+      "wisdom",
+      "self-mastery",
+      "strategy"
+    ]
+  },
+  {
+    "id": "history-34",
+    "title": "Culture creates; civilization administers",
+    "body": "Spengler drew a sharp distinction between a living culture—which generates original myths, philosophies, and art from a deep existential impulse—and a civilization, which is that same culture in its late, petrified phase: technically masterful and expansive, but no longer capable of origination. Every great civilization eventually reaches a point where it replicates inherited forms rather than creating new ones, substituting organization for inspiration and governance for meaning. Whether or not one accepts his cyclical determinism, the pattern invites honest reflection on whether any given institution is still animated by its founding purpose or merely maintaining the structure that purpose once required.",
+    "source": {
+      "title": "The Decline of the West",
+      "author": "Oswald Spengler",
+      "year": 1918
+    },
+    "tags": [
+      "history",
+      "civilization",
+      "culture",
+      "institutions"
+    ]
+  },
+  {
+    "id": "science-46",
+    "title": "It thinks, therefore something is",
+    "body": "Lichtenberg was perhaps the first writer to note that Descartes' famous cogito smuggles in an unjustified assumption. Just as we say 'it rains' without implying a distinct agent who does the raining, we might more honestly say 'it thinks' rather than asserting a unified 'I' as the author of thought. This quiet notebook aphorism prefigured by nearly two centuries the findings of modern neuroscience—that the self may be less a cause of mental events than a narrative the brain constructs after the fact. What Lichtenberg noticed in a flash of grammatical clarity, cognitive science has spent decades attempting to explain.",
+    "source": {
+      "title": "The Waste Books",
+      "author": "Georg Christoph Lichtenberg",
+      "year": 1799
+    },
+    "tags": [
+      "science",
+      "philosophy",
+      "consciousness",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "sociology-36",
+    "title": "Community is organic; association is mechanical",
+    "body": "Tönnies distinguished two modes of human togetherness that define the tensions of modern life. Gemeinschaft—community—is rooted in shared feeling, kinship, custom, and mutual belonging; its members are ends in themselves. Gesellschaft—civil society or association—is rooted in contract, rational interest, and the exchange of services; its members are means to each other's purposes. Modernization involves a broad shift from the first to the second, and many forms of contemporary alienation reflect the erosion of bonds that once gave daily life its sense of organic wholeness. Tönnies did not simply condemn this transition but insisted we name precisely what is gained and what is irreversibly lost in it.",
+    "source": {
+      "title": "Community and Civil Society",
+      "author": "Ferdinand Tönnies",
+      "year": 1887
+    },
+    "tags": [
+      "sociology",
+      "community",
+      "modernity",
+      "alienation"
+    ]
+  },
+  {
+    "id": "identity-14",
+    "title": "The Renaissance invented the individual",
+    "body": "Burckhardt argued that the Italian Renaissance produced something unprecedented in Western history: a human being who understood themselves as a unique individual rather than primarily as a member of a collective—a family, guild, class, or church. For the first time in the modern West, people began to consciously fashion an identity, treating their own life as an aesthetic and moral project. This was not mere vanity but a profound shift in the structure of self-consciousness that has shaped every subsequent era. The modern assumption that each person possesses a singular inner life to discover and express is not a universal human feature but a historical invention with a traceable origin.",
+    "source": {
+      "title": "The Civilization of the Renaissance in Italy",
+      "author": "Jacob Burckhardt",
+      "year": 1860
+    },
+    "tags": [
+      "history",
+      "identity",
+      "individualism",
+      "renaissance"
+    ]
   }
 ]
