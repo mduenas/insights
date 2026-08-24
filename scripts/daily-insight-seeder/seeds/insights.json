@@ -12161,5 +12161,85 @@
       "individualism",
       "renaissance"
     ]
+  },
+  {
+    "id": "biology-25",
+    "title": "The Gene Does Not Determine the Trait",
+    "body": "Richard Lewontin argued in The Triple Helix that genes, organisms, and environments form an inseparable triad: no gene specifies a particular trait in isolation, because its expression depends on what other genes are present, what developmental environment surrounds them, and what signals the organism encounters across its lifetime. The search for the gene 'for' intelligence, aggression, or creativity is therefore a category error. Causality in living systems is distributed across all three levels simultaneously, and pulling on any single strand misrepresents the entire weave.",
+    "source": {
+      "title": "The Triple Helix: Gene, Organism, and Environment",
+      "author": "Richard C. Lewontin",
+      "year": 2000
+    },
+    "tags": [
+      "biology",
+      "genetics",
+      "evolution",
+      "systems"
+    ]
+  },
+  {
+    "id": "action-11",
+    "title": "Good Enough Can Be the Optimal Choice",
+    "body": "Herbert Simon coined 'satisficing' to describe how real decision-makers search for solutions: rather than computing all possibilities and selecting the global maximum—which is usually impossible—they set an aspiration threshold and stop when they find an option that meets it. This is not a failure of rationality but a rational response to bounded resources, including limited time, information, and cognitive capacity. The aspiration level itself adapts upward when solutions come easily and downward when they do not, making satisficing a self-regulating rather than static strategy.",
+    "source": {
+      "title": "Administrative Behavior: A Study of Decision-Making Processes in Administrative Organization",
+      "author": "Herbert A. Simon",
+      "year": 1947
+    },
+    "tags": [
+      "action",
+      "decision-making",
+      "psychology",
+      "rationality"
+    ]
+  },
+  {
+    "id": "creativity-28",
+    "title": "Routine Is the Engine of Originality",
+    "body": "Twyla Tharp argues that creativity is not a gift that strikes unpredictably but a practice sustained by ritual: the same time, the same place, the same preparatory sequence that signals the mind to enter a receptive state. Originality depends on a stockpile of accumulated material—images, movements, ideas, memories—that only disciplined daily work can build. Waiting for inspiration without preparation is not freedom; it is simply a way of ensuring that when inspiration arrives, there is nothing ready for it to work with.",
+    "source": {
+      "title": "The Creative Habit: Learn It and Use It for Life",
+      "author": "Twyla Tharp",
+      "year": 2003
+    },
+    "tags": [
+      "creativity",
+      "habits",
+      "discipline",
+      "process"
+    ]
+  },
+  {
+    "id": "statistics-13",
+    "title": "The Average Patient Does Not Exist",
+    "body": "David Spiegelhalter illustrates that population averages often describe no individual accurately: when a study reports that a treatment reduces risk by a given percentage, that single number conceals wide variation in response—some patients benefit greatly, others not at all, and some may be harmed. Communicating risk as a point estimate is convenient but systematically misleading. Statistical literacy means asking not only what the average effect is but what the full distribution of effects looks like and which part of the population you most closely resemble.",
+    "source": {
+      "title": "The Art of Statistics: How to Learn from Data",
+      "author": "David Spiegelhalter",
+      "year": 2019
+    },
+    "tags": [
+      "statistics",
+      "medicine",
+      "data",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "education-15",
+    "title": "Schools Teach That Learning Requires Permission",
+    "body": "Ivan Illich argued that compulsory schooling trains children not primarily in knowledge but in the expectation that genuine learning requires institutional certification—a licensed teacher, an accredited institution, a recognized credential. This subtle lesson quietly undermines the capacity for self-directed inquiry that education is supposed to cultivate. The hidden curriculum of modern schooling, Illich claimed, is that value comes packaged in institutionally approved commodities, and the person who has not received that packaging is taught to doubt whether they have truly learned at all.",
+    "source": {
+      "title": "Deschooling Society",
+      "author": "Ivan Illich",
+      "year": 1971
+    },
+    "tags": [
+      "education",
+      "institutions",
+      "learning",
+      "society"
+    ]
   }
 ]
