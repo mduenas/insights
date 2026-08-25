@@ -12241,5 +12241,85 @@
       "learning",
       "society"
     ]
+  },
+  {
+    "id": "mathematics-33",
+    "title": "Numbers Emerge from Games",
+    "body": "John Conway discovered that by analyzing combinatorial games — sequences of moves and countermoves — an entirely new number system emerges organically. These 'surreal numbers' encompass all real numbers, infinite ordinals, and infinitesimals within a single unified framework. What began as the study of structured play revealed a deeper architecture underlying arithmetic itself. The lesson extends beyond mathematics: genuine novelty often grows from treating play as seriously as work.",
+    "source": {
+      "title": "On Numbers and Games",
+      "author": "John H. Conway",
+      "year": 1976
+    },
+    "tags": [
+      "mathematics",
+      "play",
+      "abstraction",
+      "discovery"
+    ]
+  },
+  {
+    "id": "ecology-21",
+    "title": "The Ecosystem as Unit of Life",
+    "body": "Eugene Odum pioneered the insight that the ecosystem — not the individual organism or species — is the fundamental unit of ecological analysis. Energy flows, nutrient cycling, and species interactions create emergent properties that no single organism possesses alone. This shift in scale transformed ecology from natural history into a systems science, showing how stability and resilience arise from the dense web of dependencies linking producers, consumers, and decomposers. To understand any part, you must first map the whole it inhabits.",
+    "source": {
+      "title": "Fundamentals of Ecology",
+      "author": "Eugene P. Odum",
+      "year": 1953
+    },
+    "tags": [
+      "ecology",
+      "systems",
+      "emergence",
+      "interdependence"
+    ]
+  },
+  {
+    "id": "leadership-20",
+    "title": "Rivals as Resources",
+    "body": "Abraham Lincoln deliberately appointed his most formidable political rivals — men who had competed for the same presidency — to the most powerful positions in his cabinet. Rather than sidelining opposition, Lincoln understood that capable adversaries bring perspectives, networks, and credibility that loyal allies cannot. His willingness to harness competing ambitions into collective purpose defined both the strength of his administration and his own singular confidence as a leader. Greatness in leadership is often measured not by who you keep out, but by whom you can hold together.",
+    "source": {
+      "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
+      "author": "Doris Kearns Goodwin",
+      "year": 2005
+    },
+    "tags": [
+      "leadership",
+      "politics",
+      "collaboration",
+      "history"
+    ]
+  },
+  {
+    "id": "psychology-40",
+    "title": "The Essence of Enjoyment",
+    "body": "Our experience of pleasure is not simply a response to sensory input — it is profoundly shaped by what we believe something truly is. Paul Bloom calls this 'psychological essentialism': the same wine tastes better when we are told it is expensive; a painting moves us more when we know it is an original. What we think lies beneath the surface of an object — its history, origin, or authenticity — powerfully alters the pleasure we derive from it. We do not merely perceive the world; we interpret it, and interpretation reshapes experience.",
+    "source": {
+      "title": "How Pleasure Works: The New Science of Why We Like What We Like",
+      "author": "Paul Bloom",
+      "year": 2010
+    },
+    "tags": [
+      "psychology",
+      "perception",
+      "pleasure",
+      "essentialism"
+    ]
+  },
+  {
+    "id": "economics-44",
+    "title": "Early Advantage Compounds Into Lock-In",
+    "body": "In markets where success breeds success — through network effects, learning curves, or high switching costs — early movers create advantages that compound over time, eventually locking out rivals regardless of their merit. W. Brian Arthur showed that these 'increasing returns' industries do not converge to the single efficient equilibrium predicted by classical economics, but settle into whichever solution first gained traction. History, accident, and timing can matter more than quality in determining which technologies, standards, or platforms come to dominate. Efficiency is not what markets always select; momentum is.",
+    "source": {
+      "title": "Increasing Returns and Path Dependence in the Economy",
+      "author": "W. Brian Arthur",
+      "year": 1994
+    },
+    "tags": [
+      "economics",
+      "technology",
+      "competition",
+      "path-dependence"
+    ]
   }
 ]
