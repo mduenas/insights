@@ -12321,5 +12321,85 @@
       "competition",
       "path-dependence"
     ]
+  },
+  {
+    "id": "mathematics-34",
+    "title": "Mathematics Illuminates What It Was Never Designed to Explain",
+    "body": "The physicist Eugene Wigner observed that mathematical structures developed with no practical application in mind — complex numbers, non-Euclidean geometries, group theory — repeatedly turn out to describe physical reality with startling precision. This 'unreasonable effectiveness of mathematics,' as he called it, remains one of the deepest mysteries of science: why should abstract structures invented by the human mind fit the laws of nature so perfectly? It suggests that mathematics is not merely a tool invented for convenience, but perhaps a language in which the universe is already written, waiting to be read.",
+    "source": {
+      "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences",
+      "author": "Eugene Wigner",
+      "year": 1960
+    },
+    "tags": [
+      "mathematics",
+      "science",
+      "philosophy",
+      "mystery"
+    ]
+  },
+  {
+    "id": "biology-26",
+    "title": "Development Is Channeled by Hidden Landscapes",
+    "body": "Conrad Waddington imagined a ball rolling down a hillside whose valleys and ridges are sculpted by genetic and molecular forces — the 'epigenetic landscape.' Cells during development are the ball: nudged by signals, they roll into stable valleys (cell fates) that are hard to escape once entered. This image captured something profound — that development is not a rigid program but a dynamic process of narrowing possibilities, where environmental conditions can shift which valleys deepen or fill. Modern epigenetics has confirmed that these landscapes are partly heritable, meaning experience can shape the terrain for future generations.",
+    "source": {
+      "title": "The Strategy of the Genes",
+      "author": "Conrad H. Waddington",
+      "year": 1957
+    },
+    "tags": [
+      "biology",
+      "development",
+      "epigenetics",
+      "heredity"
+    ]
+  },
+  {
+    "id": "law-12",
+    "title": "Law Lives in Experience, Not Logic",
+    "body": "Oliver Wendell Holmes opened 'The Common Law' with a sentence that rewrote legal philosophy: 'The life of the law has not been logic: it has been experience.' He argued that courts do not mechanically deduce outcomes from fixed principles but adapt inherited rules to the felt necessities of each era — its moral theories, intuitions of public policy, and the shared prejudices of the age. Understanding law therefore means understanding history and society, not merely parsing statutes. A rule disconnected from the living conditions that gave it meaning becomes, at best, a ghost haunting a house that has been renovated around it.",
+    "source": {
+      "title": "The Common Law",
+      "author": "Oliver Wendell Holmes",
+      "year": 1881
+    },
+    "tags": [
+      "law",
+      "history",
+      "society",
+      "pragmatism"
+    ]
+  },
+  {
+    "id": "music-16",
+    "title": "Music Means What Words Cannot Say",
+    "body": "Leonard Bernstein argued that music communicates something irreducible to words — not a story, not a feeling with a name, but what he called 'the infinite and complex details of life, its ebbs and flows, the things we feel but cannot say.' The moment music is reduced to verbal paraphrase, something essential escapes. This is why musical understanding is not primarily an intellectual achievement but a bodily and emotional attunement: we hear it before we can analyze it, and the analysis, however precise, cannot substitute for what we heard. The meaning of music is musical.",
+    "source": {
+      "title": "The Joy of Music",
+      "author": "Leonard Bernstein",
+      "year": 1959
+    },
+    "tags": [
+      "music",
+      "communication",
+      "meaning",
+      "creativity"
+    ]
+  },
+  {
+    "id": "action-12",
+    "title": "Society Is a Partnership Across Time",
+    "body": "Edmund Burke argued that a society is not a contract among the living alone but a 'partnership between the dead, the living, and those who are yet to be born.' Each generation inherits accumulated wisdom, institutions, and moral habits from the past and holds them in trust for the future. To dismantle these wholesale in pursuit of abstract principles is to impoverish the present with the bankruptcy of the past and to dispossess the unborn of their inheritance. Genuine reform respects continuity — it works with the grain of inherited experience rather than against it, treating tradition as evidence rather than obstacle.",
+    "source": {
+      "title": "Reflections on the Revolution in France",
+      "author": "Edmund Burke",
+      "year": 1790
+    },
+    "tags": [
+      "history",
+      "society",
+      "tradition",
+      "reform"
+    ]
   }
 ]
