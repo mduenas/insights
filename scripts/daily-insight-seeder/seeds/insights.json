@@ -12401,5 +12401,85 @@
       "tradition",
       "reform"
     ]
+  },
+  {
+    "id": "education-16",
+    "title": "Not All Experience Teaches",
+    "body": "John Dewey's central warning is that experience alone does not guarantee growth—what matters is the quality of the experience. A mis-educative experience satisfies in the moment while closing the learner off from future possibilities: it breeds habits of mind that make certain questions unaskable and certain skills unlearnable. The test of an educative experience is not whether it feels productive but whether it opens conditions for further growth, which requires educators to think not just about what to teach but about the trajectories those experiences enable.",
+    "source": {
+      "title": "Experience and Education",
+      "author": "John Dewey",
+      "year": 1938
+    },
+    "tags": [
+      "education",
+      "learning",
+      "growth",
+      "habits"
+    ]
+  },
+  {
+    "id": "music-17",
+    "title": "The Melody That Outlasts the Mind",
+    "body": "Oliver Sacks observed across dozens of clinical cases that musical memory is neurologically privileged: it is encoded more broadly than factual memory and survives amnesia, dementia, and stroke that erase nearly everything else. A patient who cannot recognize family members may sing the hymns of childhood without missing a note. This resilience suggests that music is processed through multiple parallel systems—motor, emotional, and autobiographical at once—making it one of the last refuges the brain surrenders. For caregivers, Sacks argued, this is not merely consolation but a practical tool for reaching minds that language can no longer access.",
+    "source": {
+      "title": "Musicophilia: Tales of Music and the Brain",
+      "author": "Oliver Sacks",
+      "year": 2007
+    },
+    "tags": [
+      "music",
+      "neuroscience",
+      "memory",
+      "brain"
+    ]
+  },
+  {
+    "id": "statistics-14",
+    "title": "Prediction Fails When We Mistake Noise for Signal",
+    "body": "Nate Silver's central diagnosis of failed forecasting is that analysts overfit their models to historical data, finding patterns that reflect random variation rather than genuine causes. When every blip is treated as meaningful, the model learns the noise instead of the signal and performs worse on new data than a simpler model would. The solution is disciplined skepticism toward one's own findings—testing predictions against out-of-sample data and maintaining explicit uncertainty rather than projecting false confidence. Good forecasters are less defined by their models than by their willingness to update them when the world contradicts them.",
+    "source": {
+      "title": "The Signal and the Noise: Why So Many Predictions Fail—but Some Don't",
+      "author": "Nate Silver",
+      "year": 2012
+    },
+    "tags": [
+      "statistics",
+      "prediction",
+      "reasoning",
+      "uncertainty"
+    ]
+  },
+  {
+    "id": "architecture-12",
+    "title": "Safety Comes from Eyes on the Street",
+    "body": "Jane Jacobs argued that what makes a city street safe is not police patrols or design barriers but the continuous informal surveillance of a mixed-use neighborhood—the shopkeeper who sees everything from behind the counter, the resident who lingers on the stoop, the restaurant that draws foot traffic late into the evening. This 'eyes on the street' is only sustained when buildings serve many different purposes across many different hours, so that the sidewalk is never abandoned. The urban renewal projects of her era failed precisely because they imposed single uses—housing-only towers, office-only blocks—that emptied out at predictable times and left no one watching.",
+    "source": {
+      "title": "The Death and Life of Great American Cities",
+      "author": "Jane Jacobs",
+      "year": 1961
+    },
+    "tags": [
+      "architecture",
+      "design",
+      "cities",
+      "community"
+    ]
+  },
+  {
+    "id": "law-13",
+    "title": "Law Requires Rules About Rules",
+    "body": "H.L.A. Hart argued that the coercive theory of law—law as simply the commands of whoever holds power—cannot explain the systematic, self-referential character of mature legal systems. What distinguishes a legal order from mere gunpoint compliance is the presence of 'secondary rules': rules of recognition that identify what counts as valid law, rules of change that specify how law can be altered, and rules of adjudication that designate who can authoritatively settle disputes. These meta-rules are not incidental additions but the constitutive difference between a legal system and an armed gang—they make the law's authority something more than the credibility of its threats.",
+    "source": {
+      "title": "The Concept of Law",
+      "author": "H.L.A. Hart",
+      "year": 1961
+    },
+    "tags": [
+      "law",
+      "philosophy",
+      "institutions",
+      "governance"
+    ]
   }
 ]
