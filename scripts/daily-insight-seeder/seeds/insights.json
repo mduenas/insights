@@ -12481,5 +12481,85 @@
       "institutions",
       "governance"
     ]
+  },
+  {
+    "id": "philosophy-62",
+    "title": "Multiply Causes Only as Necessity Demands",
+    "body": "William of Ockham articulated a principle of parsimony that became one of the most durable heuristics in science and philosophy: among competing explanations that account for the same observations, the one that requires fewer assumptions is preferable. This is not mere aesthetic preference for elegance but an epistemic discipline — each additional entity or mechanism posited carries its own risk of error and demands its own justification. Ockham's razor does not forbid complexity; it requires that complexity earn its place. Every hypothesis that survives without its surplus parts has been made more honest.",
+    "source": {
+      "title": "Summa Logicae",
+      "author": "William of Ockham",
+      "year": 1323
+    },
+    "tags": [
+      "philosophy",
+      "epistemology",
+      "reasoning",
+      "simplicity"
+    ]
+  },
+  {
+    "id": "literature-50",
+    "title": "Persistent Self-Conception Can Bend the World Partway",
+    "body": "Cervantes builds a world in which a man who stubbornly insists on being a knight errant is, against all reason, occasionally treated as one. Don Quixote is mocked and beaten, yet also inspired and obeyed, depending on how forcefully he holds his self-conception. The novel suggests that identity is partly a negotiation between inner conviction and social response, and that those who refuse to release their self-image can, at significant personal cost, sometimes bend reality partway toward it. The line between delusion and determination turns out to be thinner than the sane world prefers to admit.",
+    "source": {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "year": 1605
+    },
+    "tags": [
+      "literature",
+      "identity",
+      "courage",
+      "perseverance"
+    ]
+  },
+  {
+    "id": "productivity-11",
+    "title": "A Team Running at Full Load Cannot Change What It Produces",
+    "body": "Tom DeMarco observed that organizations optimized to run at 100% capacity have no slack to absorb surprise or pursue improvement — every person and every hour is already spoken for. Slack, the deliberate under-utilization of time and talent, is not waste: it is the buffer that makes learning, adaptation, and creative work possible. A team at full load can produce at a known rate but cannot change what it produces; a team with some room can do both. The paradox DeMarco surfaces is that a little short-term inefficiency is precisely what allows efficiency to evolve.",
+    "source": {
+      "title": "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency",
+      "author": "Tom DeMarco",
+      "year": 2001
+    },
+    "tags": [
+      "productivity",
+      "leadership",
+      "organizations",
+      "change"
+    ]
+  },
+  {
+    "id": "anthropology-17",
+    "title": "Every Transition Passes Through a Threshold of Belonging Nowhere",
+    "body": "Arnold van Gennep identified that all major life transitions — birth, initiation, marriage, death — share a three-part structure: separation from an old status, a liminal period of suspension, and incorporation into a new one. The middle phase, which he named after the Latin word for threshold (limen), is a time of ambiguity when a person is neither what they were nor what they will become, suspended from the rules that govern ordinary social life. This framework revealed that disorientation is not an accident of change but structurally necessary: you cannot pass from one form to another without first ceasing to be either.",
+    "source": {
+      "title": "The Rites of Passage",
+      "author": "Arnold van Gennep",
+      "year": 1909
+    },
+    "tags": [
+      "anthropology",
+      "identity",
+      "change",
+      "transitions"
+    ]
+  },
+  {
+    "id": "courage-12",
+    "title": "Ideological Capture Arrives as a Series of Reasonable Adjustments",
+    "body": "Czesław Miłosz examined how gifted intellectuals under Stalinist systems gradually adapted their public speech — and eventually their private thinking — to the dominant ideology, not through sudden conversion but through incremental small compromises, each justifiable in isolation. He called this process Ketman, borrowing a term for strategic dissimulation: the mind learns to perform belief while reserving private doubts. The insight is that ideological capture rarely announces itself dramatically; it arrives as a series of apparently reasonable steps, each of which ratchets the person one position further from the stance they imagined they were only temporarily vacating.",
+    "source": {
+      "title": "The Captive Mind",
+      "author": "Czesław Miłosz",
+      "year": 1953
+    },
+    "tags": [
+      "courage",
+      "politics",
+      "integrity",
+      "intellectual-honesty"
+    ]
   }
 ]
