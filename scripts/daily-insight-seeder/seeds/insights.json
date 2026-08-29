@@ -12561,5 +12561,80 @@
       "integrity",
       "intellectual-honesty"
     ]
+  },
+  {
+    "id": "philosophy-63",
+    "title": "Everything flows and nothing stands still",
+    "body": "Heraclitus held that the cosmos is not a collection of stable things but an endless process of becoming: fire transforms into water, water into earth, and back again in a ceaseless cycle. The river appears to be the same river, yet it is always different water. Rather than finding this disturbing, Heraclitus saw flux as the hidden order — the Logos — that gives the world its coherence. Wisdom begins by recognizing that permanence is an illusion and that change is not disorder but the very structure of reality.",
+    "source": {
+      "title": "Fragments",
+      "author": "Heraclitus",
+      "year": -500
+    },
+    "tags": [
+      "philosophy",
+      "change",
+      "impermanence"
+    ]
+  },
+  {
+    "id": "values-14",
+    "title": "Self-sufficiency is the greatest of all wealth",
+    "body": "Epicurus sorted human desires into three kinds: natural and necessary (food, shelter, friendship), natural but unnecessary (elaborate pleasures), and empty and vain (fame, power, luxury). He argued that chasing the third kind creates chronic anxiety because such desires have no natural limit — satisfying one appetite simply produces another. The person who has learned to live well on little carries an inner abundance that external fortune cannot bestow or revoke, making them genuinely free.",
+    "source": {
+      "title": "Letter to Menoeceus",
+      "author": "Epicurus",
+      "year": -300
+    },
+    "tags": [
+      "values",
+      "happiness",
+      "simplicity"
+    ]
+  },
+  {
+    "id": "economics-45",
+    "title": "Risk can be quantified; true uncertainty cannot",
+    "body": "Frank Knight drew a distinction that reshapes how we think about decision-making: risk describes situations where outcomes are unknown but their probability distribution is knowable — like rolling a die — while uncertainty describes situations so novel that no meaningful probability can be assigned. Most consequential decisions in business and life involve Knightian uncertainty, not calculable risk. Recognizing the difference prevents the false comfort of treating genuinely unknown futures as if they were merely unsampled statistics.",
+    "source": {
+      "title": "Risk, Uncertainty and Profit",
+      "author": "Frank Knight",
+      "year": 1921
+    },
+    "tags": [
+      "economics",
+      "decision-making",
+      "uncertainty"
+    ]
+  },
+  {
+    "id": "science-47",
+    "title": "Change the frame and the complexity dissolves",
+    "body": "Copernicus showed that the labyrinthine system of epicycles needed to account for planetary motion under a geocentric model collapsed into simple ellipses once the sun was placed at the center. He did not discover new facts — he chose a better reference frame. The lesson extends far beyond astronomy: apparent complexity often signals a misplaced coordinate system. The willingness to abandon the observer's natural vantage point is frequently the move that makes a hard problem tractable.",
+    "source": {
+      "title": "On the Revolutions of the Celestial Spheres",
+      "author": "Nicolaus Copernicus",
+      "year": 1543
+    },
+    "tags": [
+      "science",
+      "perspective",
+      "problem-solving"
+    ]
+  },
+  {
+    "id": "creativity-29",
+    "title": "Art arises from inner necessity, not outer fashion",
+    "body": "Kandinsky argued that genuine artistic creation is not about technical mastery or market appeal but about inner necessity — the compulsion to express something that cannot be said any other way. He believed color and form carry direct emotional content independent of what they represent, so abstract work can speak as directly as figurative work, sometimes more so. Chasing contemporary taste, he warned, produces work that will age badly; following inner necessity produces work that remains alive because it was alive at birth.",
+    "source": {
+      "title": "Concerning the Spiritual in Art",
+      "author": "Wassily Kandinsky",
+      "year": 1911
+    },
+    "tags": [
+      "creativity",
+      "art",
+      "expression"
+    ]
   }
 ]
