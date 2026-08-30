@@ -12636,5 +12636,85 @@
       "art",
       "expression"
     ]
+  },
+  {
+    "id": "focus-11",
+    "title": "Attention shapes who we become, not just what we achieve",
+    "body": "Daniel Goleman identifies three distinct attentional systems that high performers draw on differently: inner focus, which grounds self-awareness and values; other focus, which enables genuine empathy and social intelligence; and outer focus, which reads the larger systems in which decisions play out. Most people overdevelop one mode at the expense of the others — leaders who excel technically but miss interpersonal cues, or socially adept people who cannot track systemic consequences. Sustained excellence, Goleman argues, requires cultivating all three simultaneously, because each compensates for blind spots the other two create. What we consistently attend to does more than influence our output; it gradually sculpts our perception, our values, and the person we are becoming.",
+    "source": {
+      "title": "Focus: The Hidden Driver of Excellence",
+      "author": "Daniel Goleman",
+      "year": 2013
+    },
+    "tags": [
+      "focus",
+      "attention",
+      "leadership",
+      "self-awareness"
+    ]
+  },
+  {
+    "id": "mathematics-35",
+    "title": "Teaching a novice forces you to find the truth beneath the convention",
+    "body": "Euler wrote the Elements of Algebra while completely blind, dictating it to a servant boy with no mathematical background. He kept revising until his amanuensis could follow every argument without confusion, and the result became one of the clearest algebra texts ever written. The constraint of an untrained listener was not a limitation but an epistemological instrument: when progress depended on genuine understanding rather than the appearance of it, Euler was forced to locate the actual logical structure beneath accumulated convention. The clearest thinkers, this method implies, are those who have most thoroughly explained their ideas to someone who could not afford to pretend.",
+    "source": {
+      "title": "Elements of Algebra",
+      "author": "Leonhard Euler",
+      "year": 1770
+    },
+    "tags": [
+      "mathematics",
+      "teaching",
+      "clarity",
+      "learning"
+    ]
+  },
+  {
+    "id": "leadership-21",
+    "title": "Adversity is the only honest test of character",
+    "body": "Plutarch paired twenty-three Greek and Roman leaders — Themistocles with Camillus, Alexander with Caesar — not to compare their victories but to trace what their conduct under pressure revealed about moral character. He observed that prosperity is a poor revealer: it shows who is lucky, bold, or charming, but rarely who is just or genuinely courageous. Adversity — exile, defeat, the chance to betray without consequence — exposes what a person actually values when convenience no longer aligns with principle. Plutarch's method implies that historical judgment, like personal judgment, should weight hardship chapters more heavily than triumph chapters when assessing a life.",
+    "source": {
+      "title": "Parallel Lives",
+      "author": "Plutarch",
+      "year": 100
+    },
+    "tags": [
+      "leadership",
+      "character",
+      "history",
+      "resilience"
+    ]
+  },
+  {
+    "id": "economics-46",
+    "title": "A single mathematical skeleton underlies all economic behavior",
+    "body": "Samuelson demonstrated that consumer choice, firm production decisions, and market equilibrium — problems economists had treated as separate — are all instances of the same mathematical structure: finding an extremum subject to constraints. Because the structure is identical across domains, any theorem proved in one carries over to the others, and anomalies that resist explanation in one sometimes dissolve when the same tools are applied elsewhere. This unification transformed economics from a collection of verbal arguments into a science with a coherent, transferable method, and opened the door to the mathematical revolution that reshaped the field in the second half of the twentieth century. The deeper lesson is that recognizing structural identity between problems is itself one of the most powerful moves in any discipline.",
+    "source": {
+      "title": "Foundations of Economic Analysis",
+      "author": "Paul Samuelson",
+      "year": 1947
+    },
+    "tags": [
+      "economics",
+      "mathematics",
+      "theory",
+      "systems"
+    ]
+  },
+  {
+    "id": "systems-14",
+    "title": "We respond to our image of the world, not the world itself",
+    "body": "Kenneth Boulding argued that all behavior — individual, organizational, and societal — is governed not by reality but by the actor's internal model of reality: the accumulated image built from experience, communication, and prior belief. A message does not change behavior by conveying facts; it changes behavior only insofar as it modifies the image. This means two people can receive identical information and respond in opposite ways because that information lands in different images. Organizations resist change not from inertia but because their members' images converge on a shared distortion that filters contradictory signals. Understanding why systems behave as they do requires mapping the images inside the people who drive them, not merely the incentives around them.",
+    "source": {
+      "title": "The Image: Knowledge in Life and Society",
+      "author": "Kenneth Boulding",
+      "year": 1956
+    },
+    "tags": [
+      "systems",
+      "decision-making",
+      "perception",
+      "organizations"
+    ]
   }
 ]
