@@ -12636,5 +12636,80 @@
       "art",
       "expression"
     ]
+  },
+  {
+    "id": "mindset-14",
+    "title": "Positive emotions broaden and build",
+    "body": "Barbara Fredrickson's broaden-and-build theory holds that positive emotions do not merely signal well-being — they actively expand the range of thoughts and actions a person considers, widening attention, curiosity, and creativity in the moment. Over time, this broadening effect accumulates into lasting psychological resources: resilience, social connection, and cognitive flexibility. Unlike negative emotions, which narrow focus for immediate survival, positive emotions are investments in future capacity. Cultivating them is not indulgence but a strategic act of self-development.",
+    "source": {
+      "title": "Positivity",
+      "author": "Barbara Fredrickson",
+      "year": 2009
+    },
+    "tags": [
+      "mindset",
+      "psychology",
+      "wellbeing"
+    ]
+  },
+  {
+    "id": "focus-11",
+    "title": "Your life is what you pay attention to",
+    "body": "Winifred Gallagher argues that attention is not merely a mental tool but the very substance of experience — what you focus on shapes your mood, your memory, and your sense of self. In a world engineered to fragment attention, the ability to direct it deliberately toward what matters is the foundational skill from which all others follow. Gallagher draws on neuroscience and psychology to show that the quality of a life is determined less by external events than by the quality of the attention brought to those events.",
+    "source": {
+      "title": "Rapt: Attention and the Focused Life",
+      "author": "Winifred Gallagher",
+      "year": 2009
+    },
+    "tags": [
+      "focus",
+      "attention",
+      "habits"
+    ]
+  },
+  {
+    "id": "literature-51",
+    "title": "All that you touch, you change",
+    "body": "Octavia Butler's fictional philosophy of Earthseed rests on a single premise: God is Change. Every action you take alters the world around you, and every alteration circles back to alter you. Butler uses this principle not as fatalism but as a call to intentionality — if change is constant and reciprocal, the only question is whether you shape it or let it shape you. The same insight animates her lifelong writing practice: she trained herself to write through doubt, illness, and poverty because she knew that the self she wished to become had to be actively constructed.",
+    "source": {
+      "title": "Parable of the Sower",
+      "author": "Octavia Butler",
+      "year": 1993
+    },
+    "tags": [
+      "literature",
+      "change",
+      "identity"
+    ]
+  },
+  {
+    "id": "identity-15",
+    "title": "The examined self is the only free self",
+    "body": "James Baldwin argued that identity is not a given but a construction, and that most people inherit an identity assembled for them by history, family, and society before they are old enough to question it. The act of examination — of confronting the fears, illusions, and received stories that form one's self-image — is not comfortable, but it is the only path to genuine selfhood. To refuse that examination is to remain imprisoned in a role someone else wrote. Baldwin modeled this in his own life: his essays are not arguments but raids on the unexamined, carried out in public.",
+    "source": {
+      "title": "The Fire Next Time",
+      "author": "James Baldwin",
+      "year": 1963
+    },
+    "tags": [
+      "identity",
+      "self-awareness",
+      "courage"
+    ]
+  },
+  {
+    "id": "economics-46",
+    "title": "Moral judgment begins with imaginative sympathy",
+    "body": "Before Adam Smith wrote about markets, he wrote about morality, and his central insight was that ethical judgment is not primarily rational but imaginative. We assess our own conduct by asking how an impartial spectator — someone informed but disinterested — would view it. This internalized observer is not a calculating machine but an empathetic one: we must imaginatively enter others' situations to understand whether our actions are praiseworthy. Smith's moral theory is often eclipsed by his economics, but it provides the social and psychological foundation that markets, in his view, could not supply for themselves.",
+    "source": {
+      "title": "The Theory of Moral Sentiments",
+      "author": "Adam Smith",
+      "year": 1759
+    },
+    "tags": [
+      "economics",
+      "ethics",
+      "empathy"
+    ]
   }
 ]
