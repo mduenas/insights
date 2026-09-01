@@ -12791,5 +12791,80 @@
       "perception",
       "organizations"
     ]
+  },
+  {
+    "id": "psychology-41",
+    "title": "Flow emerges at the edge of skill and challenge",
+    "body": "Csikszentmihalyi found that people enter a state of effortless concentration — which he called flow — when the difficulty of a task is closely matched to their level of skill. Too easy, and boredom sets in; too hard, and anxiety takes over. In flow, self-consciousness recedes, time distorts, and performance peaks without forcing attention. Designing activities so that difficulty scales with growing ability is one of the most reliable paths to sustained engagement and mastery.",
+    "source": {
+      "title": "Flow: The Psychology of Optimal Experience",
+      "author": "Mihaly Csikszentmihalyi",
+      "year": 1990
+    },
+    "tags": [
+      "psychology",
+      "performance",
+      "engagement"
+    ]
+  },
+  {
+    "id": "leadership-22",
+    "title": "The leader's first question is: who are we here to serve?",
+    "body": "Greenleaf coined the term servant leadership to describe a fundamental inversion of the conventional power pyramid: authority is legitimate only insofar as it advances the growth and wellbeing of those being led. A servant leader asks whether followers are becoming healthier, wiser, freer, and more capable — and whether the least privileged members of the group are better off. This posture is not weakness but a harder discipline than command, because it requires subordinating the ego to the mission of enabling others.",
+    "source": {
+      "title": "Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness",
+      "author": "Robert K. Greenleaf",
+      "year": 1977
+    },
+    "tags": [
+      "leadership",
+      "service",
+      "organizations"
+    ]
+  },
+  {
+    "id": "history-35",
+    "title": "Microbes have shaped empires more than generals have",
+    "body": "McNeill argued that epidemic disease — not strategy, technology, or ideology — has been the decisive force in many of history's pivotal moments, from the collapse of indigenous American civilizations after European contact to the repeated interruptions of classical campaigns by plague. Populations with long exposure to a pathogen carry immunological advantages that translate directly into military and demographic dominance over naive populations. Understanding history through the lens of disease ecology reorders the roles of chance, biology, and human agency in the past.",
+    "source": {
+      "title": "Plagues and Peoples",
+      "author": "William H. McNeill",
+      "year": 1976
+    },
+    "tags": [
+      "history",
+      "disease",
+      "ecology"
+    ]
+  },
+  {
+    "id": "habits-18",
+    "title": "Make the behavior so tiny it needs no motivation",
+    "body": "Fogg's research on behavior design showed that motivation is the wrong variable to optimize because it is unreliable and fluctuates with mood and circumstance. Instead, shrinking a desired behavior to its smallest possible form — two push-ups rather than twenty, one sentence rather than one page — removes the activation threshold entirely. Once a tiny behavior is anchored to an existing routine and celebrated immediately after, it grows on its own. Motivation follows success; it does not precede it.",
+    "source": {
+      "title": "Tiny Habits: The Small Changes That Change Everything",
+      "author": "B.J. Fogg",
+      "year": 2019
+    },
+    "tags": [
+      "habits",
+      "behavior",
+      "motivation"
+    ]
+  },
+  {
+    "id": "linguistics-18",
+    "title": "Vague language is both symptom and cause of muddled thought",
+    "body": "Orwell observed that political and professional prose had grown bloated with dying metaphors, unnecessary passives, and abstract nouns that obscure rather than communicate. His diagnosis was not merely aesthetic: he argued that lazy language actively prevents clear thinking, because ready-made phrases arrive pre-packaged with their conclusions and spare the writer the effort of reasoning through them. Choosing concrete, short words and active constructions forces the writer to know what they actually mean — and often reveals that they do not.",
+    "source": {
+      "title": "Politics and the English Language",
+      "author": "George Orwell",
+      "year": 1946
+    },
+    "tags": [
+      "linguistics",
+      "writing",
+      "clarity"
+    ]
   }
 ]
