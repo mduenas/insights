@@ -12866,5 +12866,80 @@
       "writing",
       "clarity"
     ]
+  },
+  {
+    "id": "habits-19",
+    "title": "Behavior begins before we decide",
+    "body": "Social psychologist John Bargh spent decades demonstrating that the majority of daily actions are initiated by unconscious processes triggered by environmental cues, well before conscious intention forms. This finding upends the folk model of behavior, in which the self deliberately chooses each action from a menu of options. The practical implication is that changing behavior requires engineering the environment that launches the automatic sequence, not simply resolving to act differently in an unchanged setting.",
+    "source": {
+      "title": "Before You Know It",
+      "author": "John Bargh",
+      "year": 2017
+    },
+    "tags": [
+      "habits",
+      "unconscious",
+      "environment"
+    ]
+  },
+  {
+    "id": "leadership-23",
+    "title": "Adaptive challenges demand more than expertise",
+    "body": "Ronald Heifetz drew a sharp distinction between technical problems, which have known solutions that experts can implement, and adaptive challenges, which require people to change their own values, beliefs, or behaviors. The most common leadership failure is misdiagnosing an adaptive challenge as a technical one — applying authority and expertise to a problem that only the people who hold it can solve. Real leadership creates conditions in which others can do the difficult, disorienting work of changing themselves.",
+    "source": {
+      "title": "Leadership Without Easy Answers",
+      "author": "Ronald Heifetz",
+      "year": 1994
+    },
+    "tags": [
+      "leadership",
+      "change",
+      "adaptive-thinking"
+    ]
+  },
+  {
+    "id": "biology-27",
+    "title": "Complex life required a singular energy breakthrough",
+    "body": "Biochemist Nick Lane argues that the emergence of the eukaryotic cell — the kind of cell with a nucleus that underlies all complex life — was not a gradual Darwinian improvement but a singular, improbable event powered by the thermodynamics of mitochondria. The energy available per gene in a bacterial cell is vanishingly small compared to a eukaryotic one, and this gap explains why bacteria, after four billion years, have never independently evolved complexity. The origin of complex life was less about survival of the fittest and more about a rare biochemical accident that cracked open an otherwise closed energy ceiling.",
+    "source": {
+      "title": "The Vital Question",
+      "author": "Nick Lane",
+      "year": 2015
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "energy"
+    ]
+  },
+  {
+    "id": "creativity-30",
+    "title": "Imagination thrives on idleness, not pressure",
+    "body": "Brenda Ueland argued that the creative imagination does not operate under the logic of effort and production — it requires long, unhurried periods of what she called moodling: free, dreamy rumination without agenda or deadline. People rarely have their best ideas at their desks; they have them while walking, bathing, or lying half-awake, because the unconscious mind needs slack to make unexpected connections. To hurry creativity is to misunderstand what creativity is.",
+    "source": {
+      "title": "If You Want to Write",
+      "author": "Brenda Ueland",
+      "year": 1938
+    },
+    "tags": [
+      "creativity",
+      "imagination",
+      "rest"
+    ]
+  },
+  {
+    "id": "mathematics-36",
+    "title": "Mathematical beauty is not in the eye of the beholder",
+    "body": "Rota, one of the twentieth century's most reflective mathematicians, argued that mathematical beauty is not a matter of taste but of understanding — a proof is beautiful when it reveals why something must be true, not merely that it is true. A beautiful proof produces what he called an 'aha' of recognition, the feeling that the result could not have been otherwise, and that seeing it reshapes one's understanding of the surrounding territory. This experience, reproducible across cultures and centuries, suggests mathematics has an aesthetic dimension as objective as its logical one.",
+    "source": {
+      "title": "Indiscrete Thoughts",
+      "author": "Gian-Carlo Rota",
+      "year": 1997
+    },
+    "tags": [
+      "mathematics",
+      "beauty",
+      "proof"
+    ]
   }
 ]
