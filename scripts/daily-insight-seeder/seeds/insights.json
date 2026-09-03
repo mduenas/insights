@@ -12941,5 +12941,80 @@
       "beauty",
       "proof"
     ]
+  },
+  {
+    "id": "psychology-42",
+    "title": "How you explain misfortune determines whether it defeats you",
+    "body": "Seligman identified three dimensions of explanatory style—permanence, pervasiveness, and personalization—that determine how a setback is mentally processed. A pessimistic style treats bad events as permanent, pervasive, and personal, compounding a single failure into generalized despair. Crucially, explanatory style is a learned habit of mind rather than a fixed trait, and deliberate retraining of inner self-talk after setbacks measurably reduces depression, improves physical health outcomes, and raises performance under pressure.",
+    "source": {
+      "title": "Learned Optimism",
+      "author": "Martin E. P. Seligman",
+      "year": 1991
+    },
+    "tags": [
+      "psychology",
+      "optimism",
+      "resilience"
+    ]
+  },
+  {
+    "id": "science-48",
+    "title": "Paradigm-breaking insight often arrives from an outsider",
+    "body": "Wegener, a meteorologist rather than a geologist, noticed that the coastlines of Africa and South America fit together like puzzle pieces and that identical fossil species appeared on both sides of the Atlantic. He synthesized these clues into the theory of continental drift decades before geophysics had the tools to confirm it—and the geological establishment rejected him throughout his career. His story illustrates how reigning professional frameworks can systematically resist evidence that doesn't fit, and how the person not fully invested in a paradigm sometimes sees it most clearly.",
+    "source": {
+      "title": "The Origin of Continents and Oceans",
+      "author": "Alfred Wegener",
+      "year": 1915
+    },
+    "tags": [
+      "science",
+      "discovery",
+      "paradigms"
+    ]
+  },
+  {
+    "id": "sociology-37",
+    "title": "The problem that has no name drains meaning from daily life",
+    "body": "Friedan documented a widespread malaise among educated women in postwar America who had fulfilled every social expectation—college, marriage, children, suburban home—yet felt a nameless dissatisfaction they were ashamed to voice. The 'feminine mystique' was the cultural ideology that defined women's identity entirely through their role as wives and mothers, denying them a self of their own. By naming this problem, Friedan made it discussable and showed that personal suffering can be socially constructed—a particular arrangement of roles producing systemic distress that no individual adjustment alone can cure.",
+    "source": {
+      "title": "The Feminine Mystique",
+      "author": "Betty Friedan",
+      "year": 1963
+    },
+    "tags": [
+      "sociology",
+      "identity",
+      "culture"
+    ]
+  },
+  {
+    "id": "biology-28",
+    "title": "Genomes are not static blueprints—they respond and rearrange",
+    "body": "McClintock spent decades studying how maize chromosomes move pieces of themselves around in response to stress, a discovery so far ahead of its time that it was largely ignored for thirty years. Her Nobel lecture argued that the genome is a dynamic, self-regulating system that actively responds to environmental challenge—not a fixed text being read, but something closer to a living conversation. The rediscovery of 'jumping genes' opened a new understanding of evolution, development, and disease, vindicating a career built on patient, intimate attention to individual organisms.",
+    "source": {
+      "title": "The Significance of Responses of the Genome to Challenge",
+      "author": "Barbara McClintock",
+      "year": 1983
+    },
+    "tags": [
+      "biology",
+      "genetics",
+      "discovery"
+    ]
+  },
+  {
+    "id": "communication-12",
+    "title": "Every audience decodes a message on its own terms",
+    "body": "Hall's influential model challenged the assumption that a message transmitted to a passive audience would be received as intended. He proposed three decoding positions: dominant (accepting the preferred meaning), negotiated (partially accepting it but filtering it through local conditions), and oppositional (rejecting it in favor of an alternative frame). The same text, identically broadcast, produces different meanings for different audiences depending on their social position and cultural frameworks. This insight shifted media studies from effects-based thinking toward meaning-making, with implications for advertising, journalism, and every act of communication.",
+    "source": {
+      "title": "Encoding/Decoding",
+      "author": "Stuart Hall",
+      "year": 1980
+    },
+    "tags": [
+      "communication",
+      "media",
+      "culture"
+    ]
   }
 ]
