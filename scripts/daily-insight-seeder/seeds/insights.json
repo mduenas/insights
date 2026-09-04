@@ -13016,5 +13016,80 @@
       "media",
       "culture"
     ]
+  },
+  {
+    "id": "psychology-43",
+    "title": "Experts recognize, they don't calculate",
+    "body": "Studies of firefighters, chess grandmasters, and military commanders revealed that skilled decision-makers rarely compare multiple options. Instead, they draw on experience to recognize a situation as familiar, then mentally simulate whether their first instinct will work — adjusting only if it won't. This recognition-primed decision model shows that expertise is pattern-matching compressed into intuition, not conscious deliberation.",
+    "source": {
+      "title": "Sources of Power: How People Make Decisions",
+      "author": "Gary Klein",
+      "year": 1998
+    },
+    "tags": [
+      "psychology",
+      "decision-making",
+      "expertise"
+    ]
+  },
+  {
+    "id": "economics-48",
+    "title": "Exit, voice, or loyalty: the only three responses to decline",
+    "body": "When an organization, firm, or institution deteriorates, members face three options: exit (leave), voice (complain and push for change), or loyalty (stay quiet and hope for improvement). Hirschman argued that the balance between exit and voice depends on the availability of alternatives and strength of attachment. A world where exit is always easy silences voice and erodes the very institutions that need critical feedback most.",
+    "source": {
+      "title": "Exit, Voice, and Loyalty",
+      "author": "Albert Hirschman",
+      "year": 1970
+    },
+    "tags": [
+      "economics",
+      "organizations",
+      "institutions"
+    ]
+  },
+  {
+    "id": "law-14",
+    "title": "Law has its own inner morality",
+    "body": "Fuller identified eight requirements a system of rules must meet to qualify as law at all: rules must be general, publicized, prospective, clear, non-contradictory, possible to obey, stable over time, and consistently enforced. A regime that systematically violates these procedural demands — through secret edicts, retroactive punishments, or impossible commands — is not a bad legal system; it is no legal system at all.",
+    "source": {
+      "title": "The Morality of Law",
+      "author": "Lon Fuller",
+      "year": 1964
+    },
+    "tags": [
+      "law",
+      "ethics",
+      "governance"
+    ]
+  },
+  {
+    "id": "anthropology-18",
+    "title": "Gift exchange builds what trade cannot",
+    "body": "The Kula ring — a vast inter-island cycle of shell ornaments among Melanesian peoples — puzzled economists because the gifts circulated endlessly without accumulating in anyone's hands. Malinowski showed that this was precisely the point: the exchange created durable alliances, obligation, and prestige across hundreds of miles of open ocean. Economic 'uselessness' was social indispensability.",
+    "source": {
+      "title": "Argonauts of the Western Pacific",
+      "author": "Bronislaw Malinowski",
+      "year": 1922
+    },
+    "tags": [
+      "anthropology",
+      "economics",
+      "social bonds"
+    ]
+  },
+  {
+    "id": "music-18",
+    "title": "Musical meaning is made of thwarted expectation",
+    "body": "Meyer argued that music generates emotion not through programmatic reference to the external world but through the play of expectation and delay. When a melody implies a resolution and withholds it, or resolves in an unexpected direction, listeners feel tension and release — the same cognitive mechanism underlying surprise, hope, and satisfaction in everyday life. Music is, at its core, structured suspense.",
+    "source": {
+      "title": "Emotion and Meaning in Music",
+      "author": "Leonard Meyer",
+      "year": 1956
+    },
+    "tags": [
+      "music",
+      "psychology",
+      "aesthetics"
+    ]
   }
 ]
