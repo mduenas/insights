@@ -13091,5 +13091,80 @@
       "psychology",
       "aesthetics"
     ]
+  },
+  {
+    "id": "neuroscience-17",
+    "title": "Introspection is a language, not a window",
+    "body": "Julian Jaynes argued that consciousness — the ability to introspect and narrate an inner life — is not a biological given but a cultural and linguistic invention that emerged only around 1000 BCE. Before that, he proposed, people heard their own cognitive directives as auditory hallucinations attributed to gods. Whether or not the historical claim holds, his deeper point stands: introspection does not give us transparent access to the mind but constructs a story about it, shaped by the metaphors our language supplies. What we think we observe inwardly, we partly invent.",
+    "source": {
+      "title": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
+      "author": "Julian Jaynes",
+      "year": 1976
+    },
+    "tags": [
+      "neuroscience",
+      "consciousness",
+      "language"
+    ]
+  },
+  {
+    "id": "biology-29",
+    "title": "We are drawn to life by a force written into our biology",
+    "body": "Edward O. Wilson coined 'biophilia' to name what he saw as an innate human affinity for other living organisms, shaped by millions of years of evolution inside living ecosystems. This is not cultural sentimentality but a biological fact: we find complexity in a forest or an aquarium absorbing in the same way we find an abstract pattern dull. Wilson argued that severing this connection — as industrial and digital life tend to do — carries real psychological and moral costs. Contact with living systems is not a luxury but a condition for full human functioning.",
+    "source": {
+      "title": "Biophilia",
+      "author": "Edward O. Wilson",
+      "year": 1984
+    },
+    "tags": [
+      "biology",
+      "ecology",
+      "wellbeing"
+    ]
+  },
+  {
+    "id": "learning-17",
+    "title": "Refusing distraction is a political act, not a personal indulgence",
+    "body": "Jenny Odell argues that genuine attention — the kind that goes deep into a subject, a place, or a person — has become radical in an era when every platform is engineered to skim and redirect awareness. To refuse that distraction is not laziness or self-care branding, but a deliberate stance against an economy that profits from the perpetual commodification of the human gaze. The recovery of concentrated attention, she contends, is the precondition for any meaningful work, community, or political engagement that extends beyond the next notification.",
+    "source": {
+      "title": "How to Do Nothing: Resisting the Attention Economy",
+      "author": "Jenny Odell",
+      "year": 2019
+    },
+    "tags": [
+      "attention",
+      "culture",
+      "technology"
+    ]
+  },
+  {
+    "id": "ecology-22",
+    "title": "The alphabet taught us to read the page instead of the land",
+    "body": "Drawing on phenomenology and ecology, David Abram argues that phonetic writing redirected human perception from the animate world — wind, bird calls, the changing shapes of clouds — to abstract marks on a flat surface. This cognitive shift was immensely powerful but carried an ecological cost: a culture that reads pages rather than landscapes loses the perceptual attunement needed to notice environmental change at the speed it occurs. Restoring ecological awareness, Abram suggests, may require recovering the older habit of treating the world itself as the primary text.",
+    "source": {
+      "title": "The Spell of the Sensuous",
+      "author": "David Abram",
+      "year": 1996
+    },
+    "tags": [
+      "ecology",
+      "language",
+      "perception"
+    ]
+  },
+  {
+    "id": "habits-20",
+    "title": "Paying attention changes what you pay attention to",
+    "body": "Jon Kabat-Zinn's foundational insight in developing mindfulness-based stress reduction is that attention itself is trainable, and that the quality of attention we bring to experience shapes what we notice, remember, and feel. When we deliberately slow down and observe without judgment, habitual patterns of reaction become visible and, for the first time, available for change. This is not a relaxation technique but a systematic method for transforming the relationship between observer and observed — which turns out to be the relationship between ourselves and almost everything we do.",
+    "source": {
+      "title": "Full Catastrophe Living",
+      "author": "Jon Kabat-Zinn",
+      "year": 1990
+    },
+    "tags": [
+      "mindfulness",
+      "habits",
+      "attention"
+    ]
   }
 ]
