@@ -13166,5 +13166,80 @@
       "habits",
       "attention"
     ]
+  },
+  {
+    "id": "biology-30",
+    "title": "Evolution leaps into the unexpected",
+    "body": "Eiseley spent years excavating fossils that represented life's great transitions and came away convinced that evolution is not a smooth gradient but a series of improbable leaps — moments when a genuinely new possibility appeared in the world. The transition from water to land, the emergence of warm-blooded metabolism, the arrival of reflective thought: each was, in his phrase, an unpredictable newness in the universe. This argues for humility about our power to forecast anything of genuine consequence, and for wonder at the present arrangement of things, which need not have been.",
+    "source": {
+      "title": "The Immense Journey",
+      "author": "Loren Eiseley",
+      "year": 1957
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "wonder"
+    ]
+  },
+  {
+    "id": "economics-49",
+    "title": "Dependency distorts both the one who depends and the one depended upon",
+    "body": "Gilman observed that human beings are the only species in which the female is economically dependent on the male — a condition produced not by biology but by social arrangement. This generates predictable distortions on both sides: women orient their development around pleasing rather than producing, while men carry an artificial burden that constrains their own range. She argued that universal economic participation is not merely a justice claim but an efficiency claim: a society that suppresses the productive capacities of half its members runs at a permanent structural deficit.",
+    "source": {
+      "title": "Women and Economics",
+      "author": "Charlotte Perkins Gilman",
+      "year": 1898
+    },
+    "tags": [
+      "economics",
+      "equality",
+      "social-structure"
+    ]
+  },
+  {
+    "id": "ecology-23",
+    "title": "Wilderness is not a luxury but a counterweight to the self",
+    "body": "Abbey spent a season as a park ranger in the Utah canyon country and argued that industrial civilization's habit of treating landscape as a resource destroys something psychologically necessary. Wildness — land that was not made for us and does not care about us — provides a corrective to the narcissism that dense human society inevitably produces. Time in genuinely wild country reminds us that the world is larger and older than our preoccupations, which is not a depressing thought but a liberating one. The threat to wilderness is therefore also a threat to the psychological substrate that keeps human beings oriented.",
+    "source": {
+      "title": "Desert Solitaire",
+      "author": "Edward Abbey",
+      "year": 1968
+    },
+    "tags": [
+      "ecology",
+      "solitude",
+      "wilderness"
+    ]
+  },
+  {
+    "id": "science-49",
+    "title": "Count what cannot be doubted, then let the numbers decide",
+    "body": "Harvey demonstrated that blood circulates — overturning 1,400 years of Galenic medicine — not by discovering new anatomy but by doing arithmetic. He calculated that the volume of blood the heart pumps per hour far exceeds the body's total weight, making the prevailing theory of continuous blood generation physically impossible. The valves in veins, permitting flow only toward the heart, then explained the mechanism. What made this revolutionary was quantification: numbers constrained the space of possible theories and made a comfortable ancient error untenable.",
+    "source": {
+      "title": "On the Motion of the Heart and Blood in Animals",
+      "author": "William Harvey",
+      "year": 1628
+    },
+    "tags": [
+      "science",
+      "discovery",
+      "empiricism"
+    ]
+  },
+  {
+    "id": "literature-52",
+    "title": "Tell the truth slant",
+    "body": "Dickinson argued that direct exposure to full, blinding truth can overwhelm and close the mind rather than open it — that the truth must dazzle gradually, or every man be blind. This applies far beyond poetry: a teacher who leads students to discover a principle retains them longer than one who states it; a storyteller who circles meaning gives the reader room to meet it. The indirect approach is not evasion but precision, a recognition that reception is part of the work, and that timing and angle determine whether an insight lands or bounces off.",
+    "source": {
+      "title": "The Complete Poems of Emily Dickinson",
+      "author": "Emily Dickinson",
+      "year": 1890
+    },
+    "tags": [
+      "literature",
+      "communication",
+      "truth"
+    ]
   }
 ]
