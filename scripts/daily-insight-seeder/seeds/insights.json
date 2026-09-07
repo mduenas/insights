@@ -13241,5 +13241,85 @@
       "communication",
       "truth"
     ]
+  },
+  {
+    "id": "linguistics-19",
+    "title": "We think in metaphors",
+    "body": "Conceptual metaphors like 'argument is war' or 'time is money' don't merely color our speech — they structure how we reason, feel, and act. These metaphors are largely inherited from culture and invisible to us, yet they determine which aspects of a concept we highlight and which we obscure. Becoming aware of the metaphors governing our thinking opens the possibility of choosing different ones, and with them, genuinely different ways of understanding experience.",
+    "source": {
+      "title": "Metaphors We Live By",
+      "author": "George Lakoff",
+      "year": 1980
+    },
+    "tags": [
+      "language",
+      "cognition",
+      "linguistics",
+      "thinking"
+    ]
+  },
+  {
+    "id": "stoic-11",
+    "title": "The dichotomy of control",
+    "body": "Epictetus taught that all things divide into two categories: those within our power — our opinions, impulses, desires, and aversions — and those not within our power, such as body, reputation, and external circumstances. Suffering reliably arises when we desire or fear what lies outside our control. By ruthlessly redirecting attention to what we can actually influence, we discover a freedom that no external force can take away.",
+    "source": {
+      "title": "Discourses",
+      "author": "Epictetus",
+      "year": 108
+    },
+    "tags": [
+      "stoicism",
+      "philosophy",
+      "control",
+      "freedom"
+    ]
+  },
+  {
+    "id": "design-12",
+    "title": "Good design has the quality of aliveness",
+    "body": "Alexander argued that successful buildings and cities share an irreducible quality he called 'aliveness' — a sense of belonging and rightness that arises not from stylistic novelty but from adherence to timeless spatial patterns. These patterns, from the scale of a city down to a window alcove, each solve a recurring human problem in its context. Design that ignores this accumulated wisdom in favor of abstract theory tends to feel dead, however technically sophisticated it may be.",
+    "source": {
+      "title": "A Pattern Language",
+      "author": "Christopher Alexander",
+      "year": 1977
+    },
+    "tags": [
+      "design",
+      "architecture",
+      "patterns",
+      "environment"
+    ]
+  },
+  {
+    "id": "mathematics-37",
+    "title": "Beauty is the first test of mathematical truth",
+    "body": "Hardy believed there is no permanent place in mathematics for ugly mathematics. The patterns of pure mathematics are, like those of a painter or poet, patterns of ideas — and beauty is the first test of their worth. A significant result is not merely correct; it has an inevitability, an economy, and an elegance that makes it feel discovered rather than invented. This aesthetic dimension of reasoning extends far beyond mathematics into any discipline that prizes deep understanding over surface correctness.",
+    "source": {
+      "title": "A Mathematician's Apology",
+      "author": "G.H. Hardy",
+      "year": 1940
+    },
+    "tags": [
+      "mathematics",
+      "beauty",
+      "creativity",
+      "truth"
+    ]
+  },
+  {
+    "id": "resilience-13",
+    "title": "Meaning is the last human freedom",
+    "body": "Drawing on his experience in Nazi concentration camps, Frankl observed that those who endured longest were not necessarily the strongest physically, but those who retained a sense of purpose or meaning. Even when everything else is stripped away — comfort, safety, community — the individual retains the freedom to choose their attitude toward unavoidable suffering. This capacity transforms suffering from something to be escaped into something that can be endured and even transcended.",
+    "source": {
+      "title": "Man's Search for Meaning",
+      "author": "Viktor Frankl",
+      "year": 1946
+    },
+    "tags": [
+      "resilience",
+      "meaning",
+      "psychology",
+      "freedom"
+    ]
   }
 ]
