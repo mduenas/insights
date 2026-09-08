@@ -13321,5 +13321,80 @@
       "psychology",
       "freedom"
     ]
+  },
+  {
+    "id": "mythology-12",
+    "title": "The Hero's Journey Has No Culture Barrier",
+    "body": "Campbell identified a single narrative pattern—the monomyth—recurring across myths, folktales, and religions from every corner of the world: a hero is called from ordinary life, crosses a threshold into an unknown realm, undergoes trials that transform them, and returns with a gift for the community. He argued this structure is not borrowed but independently invented because it maps the universal arc of human psychological development. Every story of departure and return, from Odysseus to the modern novel, is at root a story about becoming.",
+    "source": {
+      "title": "The Hero with a Thousand Faces",
+      "author": "Joseph Campbell",
+      "year": 1949
+    },
+    "tags": [
+      "mythology",
+      "narrative",
+      "transformation"
+    ]
+  },
+  {
+    "id": "education-17",
+    "title": "Children Absorb the World Before They Think About It",
+    "body": "Montessori observed that young children learn without the effort adults associate with study—they simply live in an environment and assimilate its language, customs, and attitudes into their very character. She called this capacity the 'absorbent mind,' a mental form active from birth that takes in impressions not as data to be stored but as structures that shape the self. The practical implication is that what surrounds a child during these early years becomes the child, not merely a lesson they have received.",
+    "source": {
+      "title": "The Absorbent Mind",
+      "author": "Maria Montessori",
+      "year": 1949
+    },
+    "tags": [
+      "education",
+      "childhood",
+      "learning"
+    ]
+  },
+  {
+    "id": "music-19",
+    "title": "Music Explains What Words Cannot Even Approach",
+    "body": "Bernstein spent a career arguing that music communicates meanings that lie outside the reach of language—not vague feelings but specific musical ideas that are as precise in their own medium as mathematics is in its. The great question he kept returning to was why certain combinations of sounds feel necessary, inevitable, right, while others feel incomplete or wrong. His answer pointed to a universal musical grammar embedded in human perception, one that makes Bach and the blues equally intelligible to a willing ear across centuries and cultures.",
+    "source": {
+      "title": "The Joy of Music",
+      "author": "Leonard Bernstein",
+      "year": 1959
+    },
+    "tags": [
+      "music",
+      "communication",
+      "beauty"
+    ]
+  },
+  {
+    "id": "relationships-12",
+    "title": "Every Conversation Is a Bid for Connection",
+    "body": "Gottman's research found that partners in close relationships constantly make small bids—questions, jokes, gestures, comments about something in the room—that are really requests for attention, affirmation, or emotional connection. Whether the other person 'turns toward' or 'turns away' from each of these micro-moments accumulates into the relational climate of the whole relationship over years. The health of a marriage or friendship is less about grand gestures during conflict than about the quality of attention given in thousands of ordinary moments.",
+    "source": {
+      "title": "The Seven Principles for Making Marriage Work",
+      "author": "John Gottman",
+      "year": 1999
+    },
+    "tags": [
+      "relationships",
+      "attention",
+      "communication"
+    ]
+  },
+  {
+    "id": "productivity-12",
+    "title": "Time Is the Scarcest Resource",
+    "body": "Drucker argued that effective executives do not start with tasks; they start by recording and analyzing where their time actually goes, because self-reported time use is almost always wrong. Only by confronting the honest log can one identify which activities waste time, which can be delegated, and which merit concentrated attention. Managing time well is less a matter of willpower than of diagnostic honesty—knowing the gap between where time is supposed to go and where it actually disappears.",
+    "source": {
+      "title": "The Effective Executive",
+      "author": "Peter F. Drucker",
+      "year": 1967
+    },
+    "tags": [
+      "productivity",
+      "time",
+      "self-management"
+    ]
   }
 ]
