@@ -13396,5 +13396,80 @@
       "time",
       "self-management"
     ]
+  },
+  {
+    "id": "resilience-14",
+    "title": "Some Things Thrive on Chaos",
+    "body": "Taleb distinguishes between three responses to volatility: the fragile breaks under shock, the robust survives unchanged, and the antifragile actually improves. Biological muscles, immune systems, and creative careers all belong to this third category—they need stressors, mistakes, and disorder to develop their full capacity. The practical implication is counterintuitive: removing all risk from a system does not protect it but weakens it, because the system loses the beneficial stress it needs to remain strong.",
+    "source": {
+      "title": "Antifragile: Things That Gain from Disorder",
+      "author": "Nassim Nicholas Taleb",
+      "year": 2012
+    },
+    "tags": [
+      "resilience",
+      "risk",
+      "adaptation"
+    ]
+  },
+  {
+    "id": "ecology-24",
+    "title": "A Meal Is a Condensed Ecological History",
+    "body": "Pollan traces four food chains—industrial, organic, local pastoral, and hunter-gatherer—to show that every meal carries the entire history of its ingredients' relationships with soil, sun, and labor. Modern food systems have severed the visible connections between eater and eaten, making it nearly impossible to know what we are actually choosing when we choose food. What arrives on a plate is never just calories; it is the condensed story of an ecological and economic system whose workings we are encouraged not to see.",
+    "source": {
+      "title": "The Omnivore's Dilemma",
+      "author": "Michael Pollan",
+      "year": 2006
+    },
+    "tags": [
+      "ecology",
+      "food",
+      "systems"
+    ]
+  },
+  {
+    "id": "literature-53",
+    "title": "Imagination Is Not Escapism but Exploration",
+    "body": "Le Guin argued against the dismissal of fantasy as mere escapism, insisting that speculative fiction performs the essential work of the thought experiment—it lets us enter worlds structured differently enough from our own that we can see our assumptions for the first time. The reader who travels to a world without gender, or without private property, returns with eyes newly adjusted to the unexamined arrangements of ordinary life. Fiction that seems farthest from reality can illuminate reality most sharply.",
+    "source": {
+      "title": "The Language of the Night",
+      "author": "Ursula K. Le Guin",
+      "year": 1979
+    },
+    "tags": [
+      "literature",
+      "imagination",
+      "perspective"
+    ]
+  },
+  {
+    "id": "communication-13",
+    "title": "Every Sentence Must Do One of Two Things",
+    "body": "Vonnegut's first rule for fiction writers was that every sentence must either reveal character or advance the action—anything else is waste that disrespects the reader's time. The principle extends well beyond storytelling: any communication that neither changes what the audience knows nor shifts what they feel about it should be cut. Economy of language is not a stylistic preference but a form of respect for the person receiving the words.",
+    "source": {
+      "title": "Bagombo Snuff Box",
+      "author": "Kurt Vonnegut",
+      "year": 1999
+    },
+    "tags": [
+      "writing",
+      "clarity",
+      "communication"
+    ]
+  },
+  {
+    "id": "biology-31",
+    "title": "Humans Are Drawn to Life by an Ancient Need",
+    "body": "Wilson coined biophilia to name what he identified as an innate human tendency to seek connection with other living systems—a pull not merely cultural but evolutionary, shaped over millions of years of intimate dependence on biological diversity. The hypothesis predicts that natural environments restore attention and reduce stress not because of any cultural meaning attached to them but because the nervous system was calibrated in such settings and returns to its baseline there. Designing cities, workspaces, and hospitals without this biological reality in mind treats an evolved need as a mere aesthetic preference.",
+    "source": {
+      "title": "Biophilia",
+      "author": "E.O. Wilson",
+      "year": 1984
+    },
+    "tags": [
+      "biology",
+      "nature",
+      "wellbeing"
+    ]
   }
 ]
