@@ -13471,5 +13471,80 @@
       "nature",
       "wellbeing"
     ]
+  },
+  {
+    "id": "economics-50",
+    "title": "Animal Spirits Drive Markets",
+    "body": "John Maynard Keynes coined the phrase \"animal spirits\" to describe the spontaneous optimism that drives investment beyond what cold calculation alone would justify. Entrepreneurs do not compute expected returns to the last decimal before acting; they act on a wave of confidence that the future will be manageable. When that confidence falters, even rational policy struggles to restore it. Economic activity is therefore inseparable from the psychology of those who undertake it.",
+    "source": {
+      "title": "The General Theory of Employment, Interest and Money",
+      "author": "John Maynard Keynes",
+      "year": 1936
+    },
+    "tags": [
+      "economics",
+      "psychology",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "architecture-13",
+    "title": "Patterns Shape Possibility",
+    "body": "Christopher Alexander observed that certain recurring spatial arrangements — what he called patterns — reliably support human well-being across cultures and centuries. A well-lit alcove invites quiet reading; a shared threshold encourages neighborly exchange. These patterns are not stylistic preferences but structural conditions that either enable or frustrate human flourishing. Good design begins not with aesthetics but with identifying which patterns a place actually needs.",
+    "source": {
+      "title": "A Pattern Language",
+      "author": "Christopher Alexander",
+      "year": 1977
+    },
+    "tags": [
+      "architecture",
+      "design",
+      "creativity"
+    ]
+  },
+  {
+    "id": "mathematics-38",
+    "title": "Intuition Precedes Proof",
+    "body": "Henri Poincaré observed that mathematical discovery rarely begins with logical deduction — it begins with a sudden intuition, a feeling that something must be true, which rigorous proof only confirms afterward. The unconscious mind performs a kind of combinatorial work below awareness, surfacing only the most promising ideas to conscious attention. For Poincaré, mathematical creativity is aesthetic before it is logical: a sense of beauty guides the search long before rigor can validate the result.",
+    "source": {
+      "title": "Science and Method",
+      "author": "Henri Poincaré",
+      "year": 1908
+    },
+    "tags": [
+      "mathematics",
+      "creativity",
+      "intuition"
+    ]
+  },
+  {
+    "id": "leadership-24",
+    "title": "Power-With, Not Power-Over",
+    "body": "Mary Parker Follett distinguished coercive power — imposing one's will on others — from what she called \"power-with,\" the jointly developed capacity of people working together toward a shared aim. True leadership, she argued, is not domination but the art of integrating diverse perspectives into a common purpose that no single person could have reached alone. Organizations that cultivate power-with rather than power-over become simultaneously more adaptive and more humane.",
+    "source": {
+      "title": "Creative Experience",
+      "author": "Mary Parker Follett",
+      "year": 1924
+    },
+    "tags": [
+      "leadership",
+      "collaboration",
+      "organization"
+    ]
+  },
+  {
+    "id": "philosophy-64",
+    "title": "Uprootedness Is the Gravest Danger",
+    "body": "Simone Weil argued that to be rooted — connected to a community, a tradition, and a place — is among the most fundamental of human needs, yet modern society systematically destroys these roots. A person who belongs nowhere becomes susceptible to any ideology that offers a surrogate home. Weil held that the first task of civilization is not to produce wealth or abstract freedom, but to provide the conditions in which people can genuinely belong somewhere and draw sustenance from that belonging.",
+    "source": {
+      "title": "The Need for Roots",
+      "author": "Simone Weil",
+      "year": 1949
+    },
+    "tags": [
+      "philosophy",
+      "identity",
+      "society"
+    ]
   }
 ]
