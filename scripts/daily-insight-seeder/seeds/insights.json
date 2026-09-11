@@ -13546,5 +13546,80 @@
       "identity",
       "society"
     ]
+  },
+  {
+    "id": "sociology-38",
+    "title": "Weak Ties Bridge Worlds",
+    "body": "Granovetter discovered that people find jobs and opportunities not through their closest friends but through acquaintances—people who inhabit different social worlds. Your close friends mostly know the same things you know and move in the same circles; it is the loose ties—the former colleague, the neighbor you occasionally run into—that connect you to information and contacts you would not otherwise reach. A network dense with strong ties becomes an echo chamber; weak ties are the bridges that carry novelty from one social cluster to another.",
+    "source": {
+      "title": "The Strength of Weak Ties",
+      "author": "Mark Granovetter",
+      "year": 1973
+    },
+    "tags": [
+      "sociology",
+      "networks",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "geography-01",
+    "title": "Space Becomes Place Through Experience",
+    "body": "Tuan distinguished between space—undifferentiated, abstract, open—and place, which is space transformed by human experience and attachment. A city encountered for the first time is disorienting space; after years of living there, particular streets and corners become places charged with personal history. We convert space into place by inhabiting it, naming it, caring for it, and letting it carry memory. This transformation is central to human life: to be human is to be a place-maker, turning an indifferent universe into something that feels, at least in part, like home.",
+    "source": {
+      "title": "Space and Place: The Perspective of Experience",
+      "author": "Yi-Fu Tuan",
+      "year": 1977
+    },
+    "tags": [
+      "geography",
+      "perception",
+      "meaning"
+    ]
+  },
+  {
+    "id": "economics-51",
+    "title": "Money Is Not Fungible in the Human Mind",
+    "body": "Thaler demonstrated that people violate the economic assumption that a dollar is a dollar by mentally sorting money into separate accounts—a vacation fund, an emergency reserve, mad money—and treating each by different rules regardless of equal purchasing power. A windfall feels like play money to be spent freely; the same sum earned through careful work feels precious and must be protected. This mental accounting explains why people simultaneously carry high-interest credit card debt and low-yield savings: one account is labeled 'debt' and the other 'security,' and they feel categorically different even though paying off the debt would strictly improve one's financial position. Recognizing these invisible ledgers is the first step toward managing them rationally.",
+    "source": {
+      "title": "Misbehaving: The Making of Behavioral Economics",
+      "author": "Richard Thaler",
+      "year": 2015
+    },
+    "tags": [
+      "economics",
+      "psychology",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "psychology-44",
+    "title": "The Tyranny of the Should Drives Neurosis",
+    "body": "Horney identified the relentless inner demands she called the 'tyranny of the should'—the idealized image of ourselves we feel we must live up to: I should always be confident, productive, loving, strong. This idealized self is not aspiration but compulsion, a rigid internal standard against which the real self constantly falls short. The gap between who we are and who we believe we should be produces shame, anxiety, and self-contempt rather than growth. The path toward psychological health is not climbing toward the idealized self but accepting and cultivating the actual self—its genuine capacities, real limits, and honest contradictions.",
+    "source": {
+      "title": "Neurosis and Human Growth",
+      "author": "Karen Horney",
+      "year": 1950
+    },
+    "tags": [
+      "psychology",
+      "self-acceptance",
+      "identity"
+    ]
+  },
+  {
+    "id": "science-50",
+    "title": "Adding People to a Late Project Makes It Later",
+    "body": "Brooks observed that software projects differ fundamentally from physical tasks: you cannot add workers and expect proportional speedup. Each new person must be trained by existing team members, consuming their productive time, while communication overhead grows quadratically with team size—a team of nine has thirty-six pairs to coordinate rather than one. Tasks that cannot be subdivided are unaffected by additional hands, and those that can give rapidly diminishing returns. Brooks's Law generalizes beyond software to any knowledge work where communication and coordination dominate: past a certain threshold, adding headcount slows a project rather than accelerating it.",
+    "source": {
+      "title": "The Mythical Man-Month: Essays on Software Engineering",
+      "author": "Frederick P. Brooks Jr.",
+      "year": 1975
+    },
+    "tags": [
+      "science",
+      "management",
+      "complexity"
+    ]
   }
 ]
