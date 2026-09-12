@@ -13396,5 +13396,85 @@
       "time",
       "self-management"
     ]
+  },
+  {
+    "id": "history-36",
+    "title": "Battle Is Not What Generals Describe",
+    "body": "Keegan argued that conventional military history, written from the perspective of commanders and headquarters, systematically omits the defining experience of warfare: what it is actually like to be a soldier in combat. By reconstructing the view from the ranks at Agincourt, Waterloo, and the Somme, he showed that the chaos, terror, and physical horror of battle bear little resemblance to the clean lines on tactical maps. Understanding any historical event requires asking not just what happened, but who experienced it, and from where.",
+    "source": {
+      "title": "The Face of Battle",
+      "author": "John Keegan",
+      "year": 1976
+    },
+    "tags": [
+      "history",
+      "warfare",
+      "perspective",
+      "experience"
+    ]
+  },
+  {
+    "id": "design-13",
+    "title": "Beauty in Daily Life Is Not a Luxury",
+    "body": "Morris contended that the separation of art from craft and labor was a symptom of industrial civilization's deepest failure: it had made ugliness the universal condition of ordinary life while reserving beauty for leisure and the wealthy. He believed that if work itself were skilled, purposeful, and enjoyable, the objects produced would naturally be beautiful, and that surrounding people with beautiful things is not an indulgence but a precondition of human dignity. The question of who gets to live among beautiful things is always also a question of justice.",
+    "source": {
+      "title": "Hopes and Fears for Art",
+      "author": "William Morris",
+      "year": 1882
+    },
+    "tags": [
+      "design",
+      "craft",
+      "beauty",
+      "work"
+    ]
+  },
+  {
+    "id": "literature-53",
+    "title": "Memory Is a Fiction We Tell Ourselves",
+    "body": "García Márquez opened his memoir by declaring that life is not what one lived, but what one remembers and how one remembers it in order to recount it. This is not a confession of unreliability but an insight into the nature of memory itself: recollection is always a reconstruction shaped by desire, loss, and the self one has since become. The author who wrote One Hundred Years of Solitude was also making a claim about how personal and collective history are formed — not as neutral recordings but as acts of imagination that carry their own moral weight.",
+    "source": {
+      "title": "Living to Tell the Tale",
+      "author": "Gabriel García Márquez",
+      "year": 2002
+    },
+    "tags": [
+      "memory",
+      "narrative",
+      "truth",
+      "autobiography"
+    ]
+  },
+  {
+    "id": "courage-13",
+    "title": "Reasonable Men Adapt; Unreasonable Men Change the World",
+    "body": "Shaw argued that the rational strategy for any individual is to conform to the world as it exists — to study its conditions and adjust accordingly. But social progress, by definition, cannot come from people who accept existing conditions as fixed; it can only come from those who persist in trying to make the world adapt to them instead. The unreasonable person is therefore, paradoxically, the engine of collective improvement, because progress requires demanding the impossible until enough of it becomes possible.",
+    "source": {
+      "title": "Man and Superman",
+      "author": "George Bernard Shaw",
+      "year": 1903
+    },
+    "tags": [
+      "courage",
+      "progress",
+      "change",
+      "leadership"
+    ]
+  },
+  {
+    "id": "learning-18",
+    "title": "Poetry Teaches the Mind to Hold Contradictions",
+    "body": "Heaney argued that the most valuable thing poetry does is not to resolve difficulty but to sustain it — to keep the mind inhabiting a tension rather than escaping into a premature answer. A poem enacts in its very form the experience of dwelling with competing truths, of honoring what cannot be settled. This is not a decorative function but a cognitive and moral one: a person trained by poetry to stay with ambiguity is better equipped for the actual texture of experience, where most important questions resist clean resolution.",
+    "source": {
+      "title": "The Government of the Tongue",
+      "author": "Seamus Heaney",
+      "year": 1988
+    },
+    "tags": [
+      "learning",
+      "poetry",
+      "ambiguity",
+      "thinking"
+    ]
   }
 ]
