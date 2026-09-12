@@ -13430,7 +13430,232 @@
     ]
   },
   {
+    "id": "resilience-14",
+    "title": "Some Things Thrive on Chaos",
+    "body": "Taleb distinguishes between three responses to volatility: the fragile breaks under shock, the robust survives unchanged, and the antifragile actually improves. Biological muscles, immune systems, and creative careers all belong to this third category—they need stressors, mistakes, and disorder to develop their full capacity. The practical implication is counterintuitive: removing all risk from a system does not protect it but weakens it, because the system loses the beneficial stress it needs to remain strong.",
+    "source": {
+      "title": "Antifragile: Things That Gain from Disorder",
+      "author": "Nassim Nicholas Taleb",
+      "year": 2012
+    },
+    "tags": [
+      "resilience",
+      "risk",
+      "adaptation"
+    ]
+  },
+  {
+    "id": "ecology-24",
+    "title": "A Meal Is a Condensed Ecological History",
+    "body": "Pollan traces four food chains—industrial, organic, local pastoral, and hunter-gatherer—to show that every meal carries the entire history of its ingredients' relationships with soil, sun, and labor. Modern food systems have severed the visible connections between eater and eaten, making it nearly impossible to know what we are actually choosing when we choose food. What arrives on a plate is never just calories; it is the condensed story of an ecological and economic system whose workings we are encouraged not to see.",
+    "source": {
+      "title": "The Omnivore's Dilemma",
+      "author": "Michael Pollan",
+      "year": 2006
+    },
+    "tags": [
+      "ecology",
+      "food",
+      "systems"
+    ]
+  },
+  {
     "id": "literature-53",
+    "title": "Imagination Is Not Escapism but Exploration",
+    "body": "Le Guin argued against the dismissal of fantasy as mere escapism, insisting that speculative fiction performs the essential work of the thought experiment—it lets us enter worlds structured differently enough from our own that we can see our assumptions for the first time. The reader who travels to a world without gender, or without private property, returns with eyes newly adjusted to the unexamined arrangements of ordinary life. Fiction that seems farthest from reality can illuminate reality most sharply.",
+    "source": {
+      "title": "The Language of the Night",
+      "author": "Ursula K. Le Guin",
+      "year": 1979
+    },
+    "tags": [
+      "literature",
+      "imagination",
+      "perspective"
+    ]
+  },
+  {
+    "id": "communication-13",
+    "title": "Every Sentence Must Do One of Two Things",
+    "body": "Vonnegut's first rule for fiction writers was that every sentence must either reveal character or advance the action—anything else is waste that disrespects the reader's time. The principle extends well beyond storytelling: any communication that neither changes what the audience knows nor shifts what they feel about it should be cut. Economy of language is not a stylistic preference but a form of respect for the person receiving the words.",
+    "source": {
+      "title": "Bagombo Snuff Box",
+      "author": "Kurt Vonnegut",
+      "year": 1999
+    },
+    "tags": [
+      "writing",
+      "clarity",
+      "communication"
+    ]
+  },
+  {
+    "id": "biology-31",
+    "title": "Humans Are Drawn to Life by an Ancient Need",
+    "body": "Wilson coined biophilia to name what he identified as an innate human tendency to seek connection with other living systems—a pull not merely cultural but evolutionary, shaped over millions of years of intimate dependence on biological diversity. The hypothesis predicts that natural environments restore attention and reduce stress not because of any cultural meaning attached to them but because the nervous system was calibrated in such settings and returns to its baseline there. Designing cities, workspaces, and hospitals without this biological reality in mind treats an evolved need as a mere aesthetic preference.",
+    "source": {
+      "title": "Biophilia",
+      "author": "E.O. Wilson",
+      "year": 1984
+    },
+    "tags": [
+      "biology",
+      "nature",
+      "wellbeing"
+    ]
+  },
+  {
+    "id": "economics-50",
+    "title": "Animal Spirits Drive Markets",
+    "body": "John Maynard Keynes coined the phrase \"animal spirits\" to describe the spontaneous optimism that drives investment beyond what cold calculation alone would justify. Entrepreneurs do not compute expected returns to the last decimal before acting; they act on a wave of confidence that the future will be manageable. When that confidence falters, even rational policy struggles to restore it. Economic activity is therefore inseparable from the psychology of those who undertake it.",
+    "source": {
+      "title": "The General Theory of Employment, Interest and Money",
+      "author": "John Maynard Keynes",
+      "year": 1936
+    },
+    "tags": [
+      "economics",
+      "psychology",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "architecture-13",
+    "title": "Patterns Shape Possibility",
+    "body": "Christopher Alexander observed that certain recurring spatial arrangements — what he called patterns — reliably support human well-being across cultures and centuries. A well-lit alcove invites quiet reading; a shared threshold encourages neighborly exchange. These patterns are not stylistic preferences but structural conditions that either enable or frustrate human flourishing. Good design begins not with aesthetics but with identifying which patterns a place actually needs.",
+    "source": {
+      "title": "A Pattern Language",
+      "author": "Christopher Alexander",
+      "year": 1977
+    },
+    "tags": [
+      "architecture",
+      "design",
+      "creativity"
+    ]
+  },
+  {
+    "id": "mathematics-38",
+    "title": "Intuition Precedes Proof",
+    "body": "Henri Poincaré observed that mathematical discovery rarely begins with logical deduction — it begins with a sudden intuition, a feeling that something must be true, which rigorous proof only confirms afterward. The unconscious mind performs a kind of combinatorial work below awareness, surfacing only the most promising ideas to conscious attention. For Poincaré, mathematical creativity is aesthetic before it is logical: a sense of beauty guides the search long before rigor can validate the result.",
+    "source": {
+      "title": "Science and Method",
+      "author": "Henri Poincaré",
+      "year": 1908
+    },
+    "tags": [
+      "mathematics",
+      "creativity",
+      "intuition"
+    ]
+  },
+  {
+    "id": "leadership-24",
+    "title": "Power-With, Not Power-Over",
+    "body": "Mary Parker Follett distinguished coercive power — imposing one's will on others — from what she called \"power-with,\" the jointly developed capacity of people working together toward a shared aim. True leadership, she argued, is not domination but the art of integrating diverse perspectives into a common purpose that no single person could have reached alone. Organizations that cultivate power-with rather than power-over become simultaneously more adaptive and more humane.",
+    "source": {
+      "title": "Creative Experience",
+      "author": "Mary Parker Follett",
+      "year": 1924
+    },
+    "tags": [
+      "leadership",
+      "collaboration",
+      "organization"
+    ]
+  },
+  {
+    "id": "philosophy-64",
+    "title": "Uprootedness Is the Gravest Danger",
+    "body": "Simone Weil argued that to be rooted — connected to a community, a tradition, and a place — is among the most fundamental of human needs, yet modern society systematically destroys these roots. A person who belongs nowhere becomes susceptible to any ideology that offers a surrogate home. Weil held that the first task of civilization is not to produce wealth or abstract freedom, but to provide the conditions in which people can genuinely belong somewhere and draw sustenance from that belonging.",
+    "source": {
+      "title": "The Need for Roots",
+      "author": "Simone Weil",
+      "year": 1949
+    },
+    "tags": [
+      "philosophy",
+      "identity",
+      "society"
+    ]
+  },
+  {
+    "id": "sociology-38",
+    "title": "Weak Ties Bridge Worlds",
+    "body": "Granovetter discovered that people find jobs and opportunities not through their closest friends but through acquaintances—people who inhabit different social worlds. Your close friends mostly know the same things you know and move in the same circles; it is the loose ties—the former colleague, the neighbor you occasionally run into—that connect you to information and contacts you would not otherwise reach. A network dense with strong ties becomes an echo chamber; weak ties are the bridges that carry novelty from one social cluster to another.",
+    "source": {
+      "title": "The Strength of Weak Ties",
+      "author": "Mark Granovetter",
+      "year": 1973
+    },
+    "tags": [
+      "sociology",
+      "networks",
+      "opportunity"
+    ]
+  },
+  {
+    "id": "geography-01",
+    "title": "Space Becomes Place Through Experience",
+    "body": "Tuan distinguished between space—undifferentiated, abstract, open—and place, which is space transformed by human experience and attachment. A city encountered for the first time is disorienting space; after years of living there, particular streets and corners become places charged with personal history. We convert space into place by inhabiting it, naming it, caring for it, and letting it carry memory. This transformation is central to human life: to be human is to be a place-maker, turning an indifferent universe into something that feels, at least in part, like home.",
+    "source": {
+      "title": "Space and Place: The Perspective of Experience",
+      "author": "Yi-Fu Tuan",
+      "year": 1977
+    },
+    "tags": [
+      "geography",
+      "perception",
+      "meaning"
+    ]
+  },
+  {
+    "id": "economics-51",
+    "title": "Money Is Not Fungible in the Human Mind",
+    "body": "Thaler demonstrated that people violate the economic assumption that a dollar is a dollar by mentally sorting money into separate accounts—a vacation fund, an emergency reserve, mad money—and treating each by different rules regardless of equal purchasing power. A windfall feels like play money to be spent freely; the same sum earned through careful work feels precious and must be protected. This mental accounting explains why people simultaneously carry high-interest credit card debt and low-yield savings: one account is labeled 'debt' and the other 'security,' and they feel categorically different even though paying off the debt would strictly improve one's financial position. Recognizing these invisible ledgers is the first step toward managing them rationally.",
+    "source": {
+      "title": "Misbehaving: The Making of Behavioral Economics",
+      "author": "Richard Thaler",
+      "year": 2015
+    },
+    "tags": [
+      "economics",
+      "psychology",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "psychology-44",
+    "title": "The Tyranny of the Should Drives Neurosis",
+    "body": "Horney identified the relentless inner demands she called the 'tyranny of the should'—the idealized image of ourselves we feel we must live up to: I should always be confident, productive, loving, strong. This idealized self is not aspiration but compulsion, a rigid internal standard against which the real self constantly falls short. The gap between who we are and who we believe we should be produces shame, anxiety, and self-contempt rather than growth. The path toward psychological health is not climbing toward the idealized self but accepting and cultivating the actual self—its genuine capacities, real limits, and honest contradictions.",
+    "source": {
+      "title": "Neurosis and Human Growth",
+      "author": "Karen Horney",
+      "year": 1950
+    },
+    "tags": [
+      "psychology",
+      "self-acceptance",
+      "identity"
+    ]
+  },
+  {
+    "id": "science-50",
+    "title": "Adding People to a Late Project Makes It Later",
+    "body": "Brooks observed that software projects differ fundamentally from physical tasks: you cannot add workers and expect proportional speedup. Each new person must be trained by existing team members, consuming their productive time, while communication overhead grows quadratically with team size—a team of nine has thirty-six pairs to coordinate rather than one. Tasks that cannot be subdivided are unaffected by additional hands, and those that can give rapidly diminishing returns. Brooks's Law generalizes beyond software to any knowledge work where communication and coordination dominate: past a certain threshold, adding headcount slows a project rather than accelerating it.",
+    "source": {
+      "title": "The Mythical Man-Month: Essays on Software Engineering",
+      "author": "Frederick P. Brooks Jr.",
+      "year": 1975
+    },
+    "tags": [
+      "science",
+      "management",
+      "complexity"
+    ]
+  },
+  {
+    "id": "literature-54",
     "title": "Memory Is a Fiction We Tell Ourselves",
     "body": "García Márquez opened his memoir by declaring that life is not what one lived, but what one remembers and how one remembers it in order to recount it. This is not a confession of unreliability but an insight into the nature of memory itself: recollection is always a reconstruction shaped by desire, loss, and the self one has since become. The author who wrote One Hundred Years of Solitude was also making a claim about how personal and collective history are formed — not as neutral recordings but as acts of imagination that carry their own moral weight.",
     "source": {
