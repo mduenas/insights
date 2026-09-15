@@ -13856,5 +13856,85 @@
       "self-management",
       "values"
     ]
+  },
+  {
+    "id": "sociology-39",
+    "title": "Medicine Is Politics, and Politics Is Medicine on a Larger Scale",
+    "body": "Virchow was commissioned to investigate a typhus epidemic devastating Silesia in 1848 and concluded that its root cause was not a pathogen but a political condition: the local peasantry was impoverished, malnourished, and politically disenfranchised. His report recommended not treatment but democratic reform, education, and improved wages. The finding recast epidemic disease from a purely biological event into a social product and proposed that the doctor's mandate extends wherever human beings are made sick by the conditions imposed on them. A century and a half later the social determinants of health remain among the strongest predictors of illness and early death.",
+    "source": {
+      "title": "Report on the Typhus Epidemic in Upper Silesia",
+      "author": "Rudolf Virchow",
+      "year": 1848
+    },
+    "tags": [
+      "medicine",
+      "sociology",
+      "justice",
+      "public-health"
+    ]
+  },
+  {
+    "id": "ethics-16",
+    "title": "Systematic Truth-Telling Is the Most Powerful Form of Protest",
+    "body": "Wells investigated lynchings in the American South not by moralizing but by documenting: names, dates, alleged crimes, and the evidence against those crimes. She found that in the majority of cases the alleged offenses were fabricated — and the fabrications had persisted because no one had examined them. Her method proposed that systematic documentation of injustice does what argument alone cannot: it forecloses the retreat into plausible deniability. At personal risk — her press was destroyed and she was driven from Memphis — she continued publishing, demonstrating that the sustained willingness to record the truth is itself a form of moral courage with political consequence.",
+    "source": {
+      "title": "Southern Horrors: Lynch Law in All Its Phases",
+      "author": "Ida B. Wells",
+      "year": 1892
+    },
+    "tags": [
+      "justice",
+      "courage",
+      "truth",
+      "ethics"
+    ]
+  },
+  {
+    "id": "science-51",
+    "title": "The Computer's Highest Purpose Is to Extend, Not Replace, the Human Mind",
+    "body": "Writing in 1960, Licklider imagined a man-computer symbiosis in which each partner contributed what it did best — the human providing goals, intuitions, and judgment; the computer providing speed, memory, and exhaustive search. He predicted that within a generation this partnership would extend intellectual capability the way the microscope had extended physical sight, enabling thought-intensive work of a kind previously impossible. The distinction Licklider drew between augmentation and automation has never been more urgent: tools that amplify human capacity are categorically different from tools that remove the human from the task, and the difference determines whether technology serves or displaces the people it was built for.",
+    "source": {
+      "title": "Man-Computer Symbiosis",
+      "author": "J.C.R. Licklider",
+      "year": 1960
+    },
+    "tags": [
+      "technology",
+      "intelligence",
+      "human-computer-interaction",
+      "creativity"
+    ]
+  },
+  {
+    "id": "philosophy-65",
+    "title": "Nothing Exists Through Its Own Power Alone",
+    "body": "Nagarjuna's central argument was that every phenomenon, including the self, lacks svabhāva — independent, self-sustaining existence. A table is what it is only in relation to the wood, the craftsperson, the concept of furniture, and the minds that recognize it; remove any of these and 'table' dissolves into conditions. This doctrine of śūnyatā (emptiness) is not nihilism but a precise claim about interdependence: things are real, but none is self-grounded. The practical consequence, which Buddhist philosophy draws directly, is that clinging to any phenomenon as if it were permanent and independent guarantees suffering — because nothing in experience answers to that description.",
+    "source": {
+      "title": "Mūlamadhyamakakārikā",
+      "author": "Nagarjuna",
+      "year": 150
+    },
+    "tags": [
+      "philosophy",
+      "buddhism",
+      "interdependence",
+      "impermanence"
+    ]
+  },
+  {
+    "id": "statistics-15",
+    "title": "Data Shown as a Picture Can Move Power Where Words Have Failed",
+    "body": "Nightingale demonstrated that more British soldiers were dying from preventable diseases in Crimean hospitals than from battlefield wounds — a fact that had been ignored when stated as columns of numbers. She invented the polar area diagram to make the pattern undeniable to non-specialists, including government ministers who controlled the sanitation budget. The strategy worked: reform followed, and mortality rates collapsed. Her method was a claim about persuasion: the same evidence, translated into a well-designed visual form, reaches a different part of the audience's mind and makes objection feel absurd rather than merely inconvenient.",
+    "source": {
+      "title": "Notes on Matters Affecting the Health, Efficiency, and Hospital Administration of the British Army",
+      "author": "Florence Nightingale",
+      "year": 1858
+    },
+    "tags": [
+      "statistics",
+      "data",
+      "evidence",
+      "public-health"
+    ]
   }
 ]
