@@ -1,0 +1,9 @@
+Kindling helps lifelong learners collect, revisit, and connect insights from books, philosophy, and personal reflection.
+
+- Curated library with source attribution
+- Personal insight capture (local-first + optional cloud sync)
+- Search and tags
+- Smart matching between personal and common insights
+- Optional sign-in; full account deletion in Settings
+
+Privacy policy: https://www.markduenas.com/privacy

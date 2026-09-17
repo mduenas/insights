@@ -52,6 +52,8 @@ kotlin {
             implementation(libs.sqldelight.android.driver)
             // Ktor Android engine
             implementation(libs.ktor.client.android)
+            // Play Billing
+            implementation(libs.billing.client)
         }
         commonMain.dependencies {
             implementation(libs.compose.runtime)
@@ -132,6 +134,10 @@ android {
         resources {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
+    }
+
+    buildFeatures {
+        buildConfig = true
     }
 
     buildTypes {

@@ -16,7 +16,9 @@ import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.koin.getScreenModel
 import cafe.adriel.voyager.navigator.LocalNavigator
 import cafe.adriel.voyager.navigator.currentOrThrow
+import com.markduenas.insights.billing.FREE_PERSONAL_INSIGHT_LIMIT
 import com.markduenas.insights.domain.model.Insight
+import com.markduenas.insights.presentation.paywall.PaywallSheetHost
 
 class PersonalInsightsScreen : Screen {
     @OptIn(ExperimentalMaterial3Api::class)
@@ -26,10 +28,24 @@ class PersonalInsightsScreen : Screen {
         val screenModel = getScreenModel<PersonalInsightsScreenModel>()
         val state by screenModel.state.collectAsState()
 
+        if (state.showPaywall) {
+            PaywallSheetHost(onDismiss = screenModel::dismissPaywall)
+        }
+
         Scaffold(
             topBar = {
                 TopAppBar(
-                    title = { Text("My Insights") },
+                    title = {
+                        Column {
+                            Text("My Insights")
+                            if (!state.isPremium) {
+                                Text(
+                                    "${state.insights.size}/$FREE_PERSONAL_INSIGHT_LIMIT free",
+                                    style = MaterialTheme.typography.labelSmall,
+                                )
+                            }
+                        }
+                    },
                     navigationIcon = {
                         IconButton(onClick = { navigator.pop() }) {
                             Icon(Icons.AutoMirrored.Filled.ArrowBack, "Back")
@@ -38,7 +54,11 @@ class PersonalInsightsScreen : Screen {
                 )
             },
             floatingActionButton = {
-                FloatingActionButton(onClick = { navigator.push(AddInsightScreen()) }) {
+                FloatingActionButton(
+                    onClick = {
+                        screenModel.onAddTapped { navigator.push(AddInsightScreen()) }
+                    }
+                ) {
                     Icon(Icons.Default.Add, "Add Insight")
                 }
             }
@@ -51,7 +71,9 @@ class PersonalInsightsScreen : Screen {
                     Column(horizontalAlignment = Alignment.CenterHorizontally,
                         verticalArrangement = Arrangement.spacedBy(8.dp)) {
                         Text("No personal insights yet.", style = MaterialTheme.typography.bodyMedium)
-                        Button(onClick = { navigator.push(AddInsightScreen()) }) { Text("Add your first insight") }
+                        Button(onClick = {
+                            screenModel.onAddTapped { navigator.push(AddInsightScreen()) }
+                        }) { Text("Add your first insight") }
                     }
                 }
                 else -> LazyColumn(

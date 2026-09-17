@@ -6,6 +6,10 @@ import FirebaseCore
 struct iOSApp: App {
     init() {
         FirebaseApp.configure()
+        if #available(iOS 15.0, *) {
+            StoreKitBridgeSetup.listenForTransactions()
+            StoreKitBridgeSetup.configure()
+        }
         MainViewControllerKt.startKoin()
     }
 

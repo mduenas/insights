@@ -3,6 +3,7 @@ package com.markduenas.insights.data.local
 import app.cash.sqldelight.coroutines.asFlow
 import app.cash.sqldelight.coroutines.mapToList
 import app.cash.sqldelight.coroutines.mapToOneOrNull
+import com.markduenas.insights.currentTimeMillis
 import com.markduenas.insights.data.local.db.InsightsDatabase
 import com.markduenas.insights.data.local.db.PersonalInsight
 import com.markduenas.insights.data.local.db.SyncQueue
@@ -10,7 +11,6 @@ import com.markduenas.insights.domain.model.Insight
 import com.markduenas.insights.domain.model.InsightCategory
 import com.markduenas.insights.domain.model.InsightStatus
 import com.markduenas.insights.domain.model.Source
-import com.markduenas.insights.currentTimeMillis
 import com.markduenas.insights.domain.repository.PersonalInsightRepository
 import dev.gitlive.firebase.firestore.FirebaseFirestore
 import kotlinx.coroutines.Dispatchers
@@ -18,10 +18,13 @@ import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.withContext
 import kotlinx.datetime.Instant
+import kotlinx.serialization.Serializable
 
 class PersonalInsightRepositoryImpl(
     private val database: InsightsDatabase,
-    private val firestore: FirebaseFirestore
+    private val firestore: FirebaseFirestore,
+    /** Premium + signed-in cloud backup enabled. */
+    private val isCloudSyncEnabled: () -> Boolean,
 ) : PersonalInsightRepository {
 
     private val queries get() = database.insightsDatabaseQueries
@@ -38,8 +41,13 @@ class PersonalInsightRepositoryImpl(
             .mapToOneOrNull(Dispatchers.Default)
             .map { it?.toDomain() }
 
+    override suspend fun countPersonalInsights(): Int = withContext(Dispatchers.Default) {
+        queries.countAll().executeAsOne().toInt()
+    }
+
     override suspend fun savePersonalInsight(insight: Insight) = withContext(Dispatchers.Default) {
         val now = currentTimeMillis()
+        val userId = insight.userId
         database.transaction {
             queries.insert(
                 id = insight.id,
@@ -54,19 +62,22 @@ class PersonalInsightRepositoryImpl(
                 status = insight.status.name,
                 createdAt = insight.createdAt.toEpochMilliseconds(),
                 updatedAt = insight.updatedAt.toEpochMilliseconds(),
-                userId = insight.userId
+                userId = userId
             )
-            queries.enqueue(
-                id = insight.id,
-                operation = "INSERT",
-                userId = insight.userId ?: "",
-                enqueuedAt = now
-            )
+            if (shouldEnqueue(userId)) {
+                queries.enqueue(
+                    id = insight.id,
+                    operation = "INSERT",
+                    userId = userId ?: "",
+                    enqueuedAt = now
+                )
+            }
         }
     }
 
     override suspend fun updatePersonalInsight(insight: Insight) = withContext(Dispatchers.Default) {
         val now = currentTimeMillis()
+        val userId = insight.userId
         database.transaction {
             queries.update(
                 title = insight.title,
@@ -81,29 +92,35 @@ class PersonalInsightRepositoryImpl(
                 updatedAt = now,
                 id = insight.id
             )
-            queries.enqueue(
-                id = insight.id,
-                operation = "UPDATE",
-                userId = insight.userId ?: "",
-                enqueuedAt = now
-            )
+            if (shouldEnqueue(userId)) {
+                queries.enqueue(
+                    id = insight.id,
+                    operation = "UPDATE",
+                    userId = userId ?: "",
+                    enqueuedAt = now
+                )
+            }
         }
     }
 
     override suspend fun deletePersonalInsight(id: String) = withContext(Dispatchers.Default) {
         val row = queries.getById(id).executeAsOneOrNull()
+        val userId = row?.userId
         database.transaction {
             queries.delete(id)
-            queries.enqueue(
-                id = id,
-                operation = "DELETE",
-                userId = row?.userId ?: "",
-                enqueuedAt = currentTimeMillis()
-            )
+            if (shouldEnqueue(userId)) {
+                queries.enqueue(
+                    id = id,
+                    operation = "DELETE",
+                    userId = userId ?: "",
+                    enqueuedAt = currentTimeMillis()
+                )
+            }
         }
     }
 
     override suspend fun syncPendingInsights() {
+        if (!isCloudSyncEnabled()) return
         val pending = withContext(Dispatchers.Default) {
             queries.getPendingSync().executeAsList()
         }
@@ -112,10 +129,52 @@ class PersonalInsightRepositoryImpl(
                 syncItem(item)
                 withContext(Dispatchers.Default) { queries.dequeue(item.id) }
             } catch (_: Exception) {
-                // Leave in queue for next sync attempt
+                // Leave in queue for next attempt
             }
         }
     }
+
+    override suspend fun pullRemotePersonalInsights(userId: String) {
+        if (!isCloudSyncEnabled() || userId.isBlank()) return
+        val snapshot = firestore
+            .collection("users").document(userId)
+            .collection("personal_insights")
+            .get()
+
+        for (doc in snapshot.documents) {
+            try {
+                val remote = doc.data<PersonalInsightDocument>()
+                val remoteUpdated = remote.updatedAt
+                val local = withContext(Dispatchers.Default) {
+                    queries.getById(remote.id).executeAsOneOrNull()
+                }
+                if (local != null && local.updatedAt >= remoteUpdated) continue
+
+                withContext(Dispatchers.Default) {
+                    queries.insert(
+                        id = remote.id,
+                        title = remote.title,
+                        body = remote.body,
+                        sourceTitle = remote.source.title,
+                        sourceAuthor = remote.source.author,
+                        sourceUrl = remote.source.url,
+                        sourceYear = remote.source.year?.toLong(),
+                        tags = remote.tags.joinToString(","),
+                        linkedCommonInsightId = remote.linkedCommonInsightId,
+                        status = remote.status,
+                        createdAt = remote.createdAt,
+                        updatedAt = remote.updatedAt,
+                        userId = remote.userId ?: userId
+                    )
+                }
+            } catch (_: Exception) {
+                // Skip malformed docs
+            }
+        }
+    }
+
+    private fun shouldEnqueue(userId: String?): Boolean =
+        isCloudSyncEnabled() && !userId.isNullOrBlank()
 
     private suspend fun syncItem(item: SyncQueue) {
         if (item.userId.isBlank()) return
@@ -130,6 +189,23 @@ class PersonalInsightRepositoryImpl(
                 docRef.set(row.toFirestoreMap())
             }
             "DELETE" -> docRef.delete()
+        }
+    }
+
+    override suspend fun deleteAllUserData(userId: String) {
+        val collection = firestore
+            .collection("users").document(userId)
+            .collection("personal_insights")
+        val snapshot = collection.get()
+        snapshot.documents.forEach { doc ->
+            doc.reference.delete()
+        }
+
+        withContext(Dispatchers.Default) {
+            database.transaction {
+                queries.deleteAllPersonalInsights()
+                queries.clearSyncQueue()
+            }
         }
     }
 }
@@ -172,4 +248,26 @@ private fun PersonalInsight.toFirestoreMap(): Map<String, Any?> = mapOf(
     "createdAt" to createdAt,
     "updatedAt" to updatedAt,
     "userId" to userId
+)
+
+@Serializable
+private data class PersonalInsightDocument(
+    val id: String = "",
+    val title: String = "",
+    val body: String = "",
+    val source: SourceDocument = SourceDocument(),
+    val tags: List<String> = emptyList(),
+    val linkedCommonInsightId: String? = null,
+    val status: String = InsightStatus.APPROVED.name,
+    val createdAt: Long = 0L,
+    val updatedAt: Long = 0L,
+    val userId: String? = null,
+)
+
+@Serializable
+private data class SourceDocument(
+    val title: String = "",
+    val author: String? = null,
+    val url: String? = null,
+    val year: Int? = null,
 )

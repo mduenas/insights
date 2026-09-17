@@ -32,7 +32,7 @@ class SignInScreen : Screen {
                     horizontalAlignment = Alignment.CenterHorizontally,
                     verticalArrangement = Arrangement.spacedBy(16.dp)
                 ) {
-                    Text("Insights", style = MaterialTheme.typography.displaySmall)
+                    Text("Kindling", style = MaterialTheme.typography.displaySmall)
                     Text("Sign in to save personal insights",
                         style = MaterialTheme.typography.bodyMedium,
                         color = MaterialTheme.colorScheme.onSurfaceVariant)

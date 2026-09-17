@@ -57,26 +57,69 @@ The app uses these top-level collections:
 - `insights` — approved common insights
 - `pending_insights` — awaiting admin review
 - `users/{uid}/personal_insights` — synced personal insights
+- `feedback` — signed-in users can submit feedback; admin can review it
+- `topic_requests` — signed-in users can request topics; admin can review aggregated demand
 
-## 8. Firestore Security Rules (starter)
+## 8. Firestore Security Rules
 
 ```javascript
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
-    // Common insights: readable by all, writable only by admin
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && request.auth.token.admin == true;
+    }
+
+    function isOwner(uid) {
+      return isSignedIn() && request.auth.uid == uid;
+    }
+
+    // Common insights: public read, admin write
     match /insights/{id} {
       allow read: if true;
-      allow write: if request.auth.token.admin == true;
+      allow write: if isAdmin();
     }
-    // Pending insights: writable by admin or seeder service account
+
+    // Pending insights: admin-only review queue
     match /pending_insights/{id} {
-      allow read, write: if request.auth.token.admin == true;
+      allow read, write: if isAdmin();
     }
-    // Personal insights: owned by the user
+
+    // Personal insights: owned by the signed-in user
     match /users/{uid}/personal_insights/{id} {
-      allow read, write: if request.auth != null && request.auth.uid == uid;
+      allow read, write: if isOwner(uid);
     }
+
+    // Feedback + topic requests: signed-in users create, admin reviews
+    match /feedback/{id} {
+      allow create: if isSignedIn();
+      allow read, update, delete: if isAdmin();
+    }
+
+    match /topic_requests/{id} {
+      allow create: if isSignedIn();
+      allow read, update, delete: if isAdmin();
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
+```
+
+The repository keeps the deployable rules in `firestore.rules`, and `firebase.json`
+points Firestore deploys at that file:
+
+```json
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
   }
 }
 ```

@@ -1,0 +1,19 @@
+Kindling is a mobile companion for collecting and revisiting the insights that shape how you think and live.
+
+DISCOVER
+
+Browse an admin-curated library of insights drawn from books, philosophy, science, and lived experience. Every entry includes source attribution so you can go deeper.
+
+CAPTURE
+
+Save personal insights with title, body, tags, and optional source. Personal entries stay on your device first and sync to the cloud when you’re signed in.
+
+CONNECT
+
+Smart matching links your personal captures to related curated insights so your private notes sit next to shared wisdom.
+
+PRIVACY & ACCOUNT
+
+Sign-in is optional for browsing. Accounts use email and password (Firebase). You can sign out or permanently delete your account and personal data from Settings.
+
+Free to download. No ads.

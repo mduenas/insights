@@ -17,6 +17,9 @@ CREATE TABLE personalInsight (
 getAll:
 SELECT * FROM personalInsight ORDER BY updatedAt DESC;
 
+countAll:
+SELECT COUNT(*) FROM personalInsight;
+
 getById:
 SELECT * FROM personalInsight WHERE id = ?;
 
@@ -31,6 +34,9 @@ WHERE id = ?;
 
 delete:
 DELETE FROM personalInsight WHERE id = ?;
+
+deleteAllPersonalInsights:
+DELETE FROM personalInsight;
 
 CREATE TABLE syncQueue (
     id TEXT NOT NULL PRIMARY KEY,
@@ -47,3 +53,6 @@ INSERT OR REPLACE INTO syncQueue VALUES (?, ?, ?, ?);
 
 dequeue:
 DELETE FROM syncQueue WHERE id = ?;
+
+clearSyncQueue:
+DELETE FROM syncQueue;

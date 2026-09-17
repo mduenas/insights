@@ -60,7 +60,11 @@ class FirestoreInsightRepository(
         val pendingRef = firestore.collection(COLLECTION_PENDING).document(id)
         val doc = pendingRef.get().data<InsightDocument>()
         firestore.collection(COLLECTION_INSIGHTS).document(id).set(
-            doc.copy(status = InsightStatus.APPROVED.name, updatedAt = currentTimeMillis())
+            doc.copy(
+                titleLower = doc.titleLower.ifBlank { doc.title.lowercase() },
+                status = InsightStatus.APPROVED.name,
+                updatedAt = currentTimeMillis()
+            )
         )
         pendingRef.delete()
     }
@@ -97,6 +101,7 @@ private fun dev.gitlive.firebase.firestore.DocumentSnapshot.toInsight(): Insight
 @Serializable
 private data class InsightDocument(
     val title: String = "",
+    val titleLower: String = "",
     val body: String = "",
     val source: SourceDocument = SourceDocument(),
     val category: String = "COMMON",

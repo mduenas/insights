@@ -54,7 +54,7 @@ class FeedbackScreen : Screen {
                         )
                         Spacer(Modifier.height(24.dp))
                         Button(onClick = { navigator.pop() }) {
-                            Text("Back to Insights")
+                            Text("Back to Kindling")
                         }
                     }
                 } else {

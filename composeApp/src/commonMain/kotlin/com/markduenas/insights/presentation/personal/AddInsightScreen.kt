@@ -15,7 +15,9 @@ import cafe.adriel.voyager.core.screen.Screen
 import cafe.adriel.voyager.koin.getScreenModel
 import cafe.adriel.voyager.navigator.LocalNavigator
 import cafe.adriel.voyager.navigator.currentOrThrow
+import com.markduenas.insights.billing.FREE_PERSONAL_INSIGHT_LIMIT
 import com.markduenas.insights.domain.model.Insight
+import com.markduenas.insights.presentation.paywall.PaywallSheetHost
 
 class AddInsightScreen : Screen {
     @OptIn(ExperimentalMaterial3Api::class)
@@ -28,6 +30,10 @@ class AddInsightScreen : Screen {
         // Navigate back once saved (and no match dialog pending)
         LaunchedEffect(state.savedInsight, state.showMatchDialog) {
             if (state.savedInsight != null && !state.showMatchDialog) navigator.pop()
+        }
+
+        if (state.showPaywall) {
+            PaywallSheetHost(onDismiss = screenModel::dismissPaywall)
         }
 
         Scaffold(
@@ -69,6 +75,14 @@ class AddInsightScreen : Screen {
                 OutlinedTextField(state.tags, screenModel::onTagsChange,
                     label = { Text("Tags (comma-separated)") },
                     modifier = Modifier.fillMaxWidth(), singleLine = true)
+
+                if (!state.isPremium) {
+                    Text(
+                        "Free plan: ${state.personalCount}/$FREE_PERSONAL_INSIGHT_LIMIT personal insights",
+                        style = MaterialTheme.typography.labelMedium,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    )
+                }
 
                 state.error?.let {
                     Text(it, color = MaterialTheme.colorScheme.error,

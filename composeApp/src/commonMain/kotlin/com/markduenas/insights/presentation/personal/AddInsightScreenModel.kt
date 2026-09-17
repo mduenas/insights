@@ -2,7 +2,10 @@ package com.markduenas.insights.presentation.personal
 
 import cafe.adriel.voyager.core.model.ScreenModel
 import cafe.adriel.voyager.core.model.screenModelScope
+import com.markduenas.insights.billing.FREE_PERSONAL_INSIGHT_LIMIT
 import com.markduenas.insights.currentTimeMillis
+import com.markduenas.insights.data.PremiumRepository
+import com.markduenas.insights.domain.CloudSyncCoordinator
 import com.markduenas.insights.domain.model.Insight
 import com.markduenas.insights.domain.model.InsightCategory
 import com.markduenas.insights.domain.model.InsightStatus
@@ -29,17 +32,36 @@ data class AddInsightState(
     val error: String? = null,
     val matchSuggestions: List<Insight> = emptyList(),
     val showMatchDialog: Boolean = false,
-    val savedInsight: Insight? = null
+    val savedInsight: Insight? = null,
+    val showPaywall: Boolean = false,
+    val personalCount: Int = 0,
+    val isPremium: Boolean = false,
 )
 
 class AddInsightScreenModel(
     private val personalRepo: PersonalInsightRepository,
     private val authRepository: AuthRepository,
-    private val findMatches: FindMatchingInsightUseCase
+    private val findMatches: FindMatchingInsightUseCase,
+    private val premiumRepository: PremiumRepository,
+    private val cloudSyncCoordinator: CloudSyncCoordinator,
 ) : ScreenModel {
 
     private val _state = MutableStateFlow(AddInsightState())
     val state: StateFlow<AddInsightState> = _state.asStateFlow()
+
+    init {
+        screenModelScope.launch {
+            val count = personalRepo.countPersonalInsights()
+            _state.update {
+                it.copy(personalCount = count, isPremium = premiumRepository.isPremium)
+            }
+        }
+        screenModelScope.launch {
+            premiumRepository.premiumActive.collect { premium ->
+                _state.update { it.copy(isPremium = premium) }
+            }
+        }
+    }
 
     fun onTitleChange(v: String) = _state.update { it.copy(title = v) }
     fun onBodyChange(v: String) = _state.update { it.copy(body = v) }
@@ -48,6 +70,19 @@ class AddInsightScreenModel(
     fun onSourceUrlChange(v: String) = _state.update { it.copy(sourceUrl = v) }
     fun onSourceYearChange(v: String) = _state.update { it.copy(sourceYear = v) }
     fun onTagsChange(v: String) = _state.update { it.copy(tags = v) }
+    fun dismissPaywall() = _state.update { it.copy(showPaywall = false) }
+    fun dismissMatchDialog() = _state.update { it.copy(showMatchDialog = false) }
+
+    fun linkToCommonInsight(personalInsightId: String, commonInsightId: String) {
+        screenModelScope.launch {
+            val existing = _state.value.savedInsight ?: return@launch
+            personalRepo.updatePersonalInsight(
+                existing.copy(linkedCommonInsightId = commonInsightId)
+            )
+            cloudSyncCoordinator.syncIfEligible()
+            _state.update { it.copy(showMatchDialog = false, matchSuggestions = emptyList()) }
+        }
+    }
 
     fun save() {
         val s = _state.value
@@ -56,6 +91,20 @@ class AddInsightScreenModel(
             return
         }
         screenModelScope.launch {
+            val count = personalRepo.countPersonalInsights()
+            val premium = premiumRepository.isPremium
+            if (!premium && count >= FREE_PERSONAL_INSIGHT_LIMIT) {
+                _state.update {
+                    it.copy(
+                        personalCount = count,
+                        isPremium = false,
+                        showPaywall = true,
+                        error = "Free plan includes $FREE_PERSONAL_INSIGHT_LIMIT personal insights. Upgrade for unlimited.",
+                    )
+                }
+                return@launch
+            }
+
             _state.update { it.copy(isSaving = true, error = null) }
             val now = Instant.fromEpochMilliseconds(currentTimeMillis())
             val insight = Insight(
@@ -77,14 +126,27 @@ class AddInsightScreenModel(
             )
             try {
                 personalRepo.savePersonalInsight(insight)
+                cloudSyncCoordinator.syncIfEligible()
                 val matches = findMatches(insight)
+                val newCount = personalRepo.countPersonalInsights()
                 if (matches.isNotEmpty()) {
                     _state.update {
-                        it.copy(isSaving = false, matchSuggestions = matches,
-                            showMatchDialog = true, savedInsight = insight)
+                        it.copy(
+                            isSaving = false,
+                            matchSuggestions = matches,
+                            showMatchDialog = true,
+                            savedInsight = insight,
+                            personalCount = newCount,
+                        )
                     }
                 } else {
-                    _state.update { it.copy(isSaving = false, savedInsight = insight) }
+                    _state.update {
+                        it.copy(
+                            isSaving = false,
+                            savedInsight = insight,
+                            personalCount = newCount,
+                        )
+                    }
                 }
             } catch (e: Exception) {
                 _state.update { it.copy(isSaving = false, error = e.message) }
@@ -92,19 +154,7 @@ class AddInsightScreenModel(
         }
     }
 
-    fun linkToCommonInsight(personalInsightId: String, commonInsightId: String) {
-        screenModelScope.launch {
-            val existing = _state.value.savedInsight ?: return@launch
-            personalRepo.updatePersonalInsight(
-                existing.copy(linkedCommonInsightId = commonInsightId)
-            )
-            _state.update { it.copy(showMatchDialog = false, matchSuggestions = emptyList()) }
-        }
-    }
-
-    fun dismissMatchDialog() = _state.update { it.copy(showMatchDialog = false) }
-
     private fun generateId(): String =
         currentTimeMillis().toString(36) +
-                (('a'..'z') + ('0'..'9')).shuffled().take(8).joinToString("")
+            (('a'..'z') + ('0'..'9')).shuffled().take(8).joinToString("")
 }

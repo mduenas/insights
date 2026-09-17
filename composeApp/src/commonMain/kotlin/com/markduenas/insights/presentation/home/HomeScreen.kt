@@ -10,6 +10,7 @@ import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.Feedback
 import androidx.compose.material.icons.filled.Person
 import androidx.compose.material.icons.filled.Search
+import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -24,6 +25,7 @@ import com.markduenas.insights.presentation.admin.AdminDashboardScreen
 import com.markduenas.insights.presentation.detail.InsightDetailScreen
 import com.markduenas.insights.presentation.feedback.FeedbackScreen
 import com.markduenas.insights.presentation.personal.PersonalInsightsScreen
+import com.markduenas.insights.presentation.settings.SettingsScreen
 
 class HomeScreen : Screen {
     @OptIn(ExperimentalMaterial3Api::class)
@@ -36,7 +38,7 @@ class HomeScreen : Screen {
         Scaffold(
             topBar = {
                 TopAppBar(
-                    title = { Text("Insights") },
+                    title = { Text("Kindling") },
                     actions = {
                         if (state.isAdmin) {
                             IconButton(onClick = { navigator.push(AdminDashboardScreen()) }) {
@@ -48,6 +50,9 @@ class HomeScreen : Screen {
                         }
                         IconButton(onClick = { navigator.push(PersonalInsightsScreen()) }) {
                             Icon(Icons.Default.Person, contentDescription = "My Insights")
+                        }
+                        IconButton(onClick = { navigator.push(SettingsScreen()) }) {
+                            Icon(Icons.Default.Settings, contentDescription = "Settings")
                         }
                     }
                 )

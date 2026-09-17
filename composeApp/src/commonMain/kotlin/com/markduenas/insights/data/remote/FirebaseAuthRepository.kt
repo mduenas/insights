@@ -1,6 +1,7 @@
 package com.markduenas.insights.data.remote
 
 import com.markduenas.insights.domain.repository.AuthRepository
+import dev.gitlive.firebase.auth.EmailAuthProvider
 import dev.gitlive.firebase.auth.FirebaseAuth
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
@@ -26,6 +27,9 @@ class FirebaseAuthRepository(
     override val currentUserId: String?
         get() = auth.currentUser?.uid
 
+    override val currentUserEmail: String?
+        get() = auth.currentUser?.email
+
     override suspend fun signInWithEmail(email: String, password: String) {
         auth.signInWithEmailAndPassword(email, password)
     }
@@ -42,5 +46,15 @@ class FirebaseAuthRepository(
 
     override suspend fun signOut() {
         auth.signOut()
+    }
+
+    override suspend fun deleteAccount(password: String) {
+        val user = auth.currentUser
+            ?: throw IllegalStateException("Not signed in.")
+        val email = user.email
+            ?: throw IllegalStateException("Account has no email for re-authentication.")
+        val credential = EmailAuthProvider.credential(email, password)
+        user.reauthenticate(credential)
+        user.delete()
     }
 }
