@@ -14011,5 +14011,80 @@
       "poverty",
       "development"
     ]
+  },
+  {
+    "id": "geography-02",
+    "title": "Everything in nature is interwoven",
+    "body": "Alexander von Humboldt was the first scientist to argue that nature is not a collection of isolated objects but a living web of forces — climate, soil, plants, animals, and humans all shaping one another. This insight, developed across his travels in the Americas and Central Asia, became the foundation of modern ecology and environmental thinking. To understand any single element, you must understand the system in which it is embedded.",
+    "source": {
+      "title": "Cosmos: A Sketch of a Physical Description of the Universe",
+      "author": "Alexander von Humboldt",
+      "year": 1845
+    },
+    "tags": [
+      "ecology",
+      "systems",
+      "nature"
+    ]
+  },
+  {
+    "id": "action-13",
+    "title": "Fortune favors the bold",
+    "body": "Machiavelli argued that Fortune governs roughly half of human affairs, but that the other half is left to our own initiative and will. He compared Fortune to a river that floods unpredictably — those who prepare embankments are not ruined when it rises. Rather than waiting passively for circumstances to improve, the bold actor shapes conditions in their favor, because Fortune, like a woman, yields to those who are forceful rather than cautious.",
+    "source": {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "year": 1532
+    },
+    "tags": [
+      "action",
+      "risk",
+      "leadership"
+    ]
+  },
+  {
+    "id": "statistics-16",
+    "title": "Extreme results pull back toward the average",
+    "body": "Francis Galton discovered that the sons of unusually tall fathers tended to be shorter than their fathers, and sons of unusually short fathers tended to be taller — both groups regressing toward the population mean. This principle, which Galton called 'regression toward mediocrity,' applies far beyond heredity: exceptional performance in any one period is often followed by more ordinary results, not because of failure, but because extreme outcomes partly reflect chance. Ignoring regression to the mean causes us to overestimate the power of our interventions.",
+    "source": {
+      "title": "Natural Inheritance",
+      "author": "Francis Galton",
+      "year": 1889
+    },
+    "tags": [
+      "statistics",
+      "probability",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "education-18",
+    "title": "Education is dialogue, not the transfer of deposits",
+    "body": "Paulo Freire called conventional schooling 'banking education' — a system in which teachers deposit information into passive students as if filling empty accounts. This model treats knowledge as a fixed commodity and produces obedience rather than understanding. Freire argued that genuine education is dialogical: students and teachers both bring questions, both transform, and both are humanized by the encounter. Learning that does not challenge the learner's relationship to the world is domestication, not education.",
+    "source": {
+      "title": "Pedagogy of the Oppressed",
+      "author": "Paulo Freire",
+      "year": 1968
+    },
+    "tags": [
+      "education",
+      "dialogue",
+      "empowerment"
+    ]
+  },
+  {
+    "id": "resilience-16",
+    "title": "Trauma is stored in the body, not only in memory",
+    "body": "Bessel van der Kolk's decades of clinical neuroscience showed that traumatic experiences are not simply recorded as memories — they are encoded in the body's threat-response systems, surfacing as physical sensations, reflexes, and chronic states of alarm. This means that talking about trauma is rarely enough on its own; recovery requires approaches that engage the body directly, such as movement, breathwork, or somatic therapies. The insight reframes resilience from a purely cognitive achievement into a process of restoring the body's basic sense of safety.",
+    "source": {
+      "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+      "author": "Bessel van der Kolk",
+      "year": 2014
+    },
+    "tags": [
+      "resilience",
+      "trauma",
+      "psychology"
+    ]
   }
 ]
