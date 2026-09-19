@@ -14166,5 +14166,85 @@
       "knowledge",
       "epistemology"
     ]
+  },
+  {
+    "id": "biology-32",
+    "title": "Chance Is the Engine of All Novelty",
+    "body": "Jacques Monod argued that all biological novelty arises through random mutations — pure chance — which are then fixed by the non-random filter of natural selection. This means the entire tree of life, including human consciousness, is the product of accidents that passed a test. Far from diminishing life's meaning, this view places the origin of meaning squarely in the hands of living things: nature offers no purpose, so we must supply our own.",
+    "source": {
+      "title": "Chance and Necessity",
+      "author": "Jacques Monod",
+      "year": 1970
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "meaning",
+      "science"
+    ]
+  },
+  {
+    "id": "literature-58",
+    "title": "The Art That Leaves Things Out",
+    "body": "Willa Cather believed that the highest achievement of prose fiction is knowing what to omit. She described the ideal as a novel démeublé — an unfurnished novel — stripped of the furniture of description and explanation so that what remains can breathe and resonate on its own. The reader's imagination, invited into the spaces between what is said, becomes a collaborator in the work itself.",
+    "source": {
+      "title": "On Writing",
+      "author": "Willa Cather",
+      "year": 1949
+    },
+    "tags": [
+      "literature",
+      "craft",
+      "writing",
+      "restraint"
+    ]
+  },
+  {
+    "id": "leadership-25",
+    "title": "Managers Work in Bursts, Not Plans",
+    "body": "Henry Mintzberg's direct observation of executives revealed that managerial work bears little resemblance to its textbook description. Rather than planning, organizing, and controlling in orderly sequence, real managers work in short, fragmented bursts — reacting, networking, and improvising across dozens of brief interactions each day. Mintzberg concluded that management is fundamentally a craft learned by doing, not a science applied from theory, and that the fantasy of the reflective strategist misrepresents what effective leadership actually demands.",
+    "source": {
+      "title": "The Nature of Managerial Work",
+      "author": "Henry Mintzberg",
+      "year": 1973
+    },
+    "tags": [
+      "leadership",
+      "management",
+      "practice",
+      "craft"
+    ]
+  },
+  {
+    "id": "science-53",
+    "title": "Wholeness Is Not the Sum of Parts",
+    "body": "Physicist David Bohm argued that the prevailing scientific habit of fragmenting reality into isolated parts — atoms, genes, individuals — generates the very problems it tries to solve, because everything in nature is embedded in a deeper undivided order he called the implicate order. When we impose divisions on a fundamentally interconnected reality, we mistake our analytical tools for the thing itself. Understanding, on this view, requires learning to think in wholes rather than simply cataloguing the pieces.",
+    "source": {
+      "title": "Wholeness and the Implicate Order",
+      "author": "David Bohm",
+      "year": 1980
+    },
+    "tags": [
+      "science",
+      "physics",
+      "systems",
+      "perception"
+    ]
+  },
+  {
+    "id": "sociology-42",
+    "title": "Specialization Binds, It Does Not Divide",
+    "body": "Emile Durkheim proposed that as societies grow more complex and members specialize, they become bound together not by shared beliefs but by mutual dependence — what he called organic solidarity. Unlike simpler societies held together by uniformity of custom, modern societies cohere precisely because each person does what others cannot, creating bonds of interdependence that run deeper than ideology. The paradox of modernity, Durkheim observed, is that increasing individuation and increasing social integration are not opposites but the same process seen from different angles.",
+    "source": {
+      "title": "The Division of Labor in Society",
+      "author": "Emile Durkheim",
+      "year": 1893
+    },
+    "tags": [
+      "sociology",
+      "society",
+      "specialization",
+      "community"
+    ]
   }
 ]
