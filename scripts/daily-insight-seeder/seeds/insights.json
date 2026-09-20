@@ -14246,5 +14246,80 @@
       "specialization",
       "community"
     ]
+  },
+  {
+    "id": "stoic-12",
+    "title": "Stoicism and Cognitive Therapy Arrived Independently at the Same Techniques",
+    "body": "Robertson, a cognitive behavioral therapist, demonstrates that Stoic exercises—examining the labels we apply to events, separating facts from interpretations, rehearsing adversity before it arrives—are structurally identical to techniques Aaron Beck codified as cognitive behavioral therapy in the 1960s. When Epictetus wrote that it is not events but our opinions about events that disturb us, he was articulating what CBT calls cognitive restructuring two millennia before the clinical trials. This convergence suggests the Stoics were practicing empirical psychology rather than abstract philosophy: their texts are less a metaphysical system than a practitioner's manual for changing the mental habits that interpret experience.",
+    "source": {
+      "title": "How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius",
+      "author": "Donald Robertson",
+      "year": 2019
+    },
+    "tags": [
+      "stoic",
+      "psychology",
+      "mindset"
+    ]
+  },
+  {
+    "id": "productivity-13",
+    "title": "Scarcity Tunnels Attention and Borrows from Future Capacity",
+    "body": "Mullainathan and Shafir discovered that the experience of scarcity—whether of money, time, or connection—automatically focuses the mind on the shortage, squeezing out attention for everything else. This tunnel produces short-term gains in managing the immediate shortage but systematically degrades long-range thinking and self-control. Farmers scored lower on cognitive tests in the lean pre-harvest season than in the post-harvest flush; people preoccupied by financial worry showed the equivalent of a 13-point IQ drop. The finding reframes many productivity failures: the chronically overwhelmed person is not lazy but cognitively taxed by bandwidth scarcity, which makes the standard advice to simply prioritize feel cruelly circular.",
+    "source": {
+      "title": "Scarcity: Why Having Too Little Means So Much",
+      "author": "Sendhil Mullainathan and Eldar Shafir",
+      "year": 2013
+    },
+    "tags": [
+      "productivity",
+      "psychology",
+      "economics"
+    ]
+  },
+  {
+    "id": "relationships-13",
+    "title": "Behavior and Emotion Spread Through Social Networks Three Degrees Out",
+    "body": "Christakis and Fowler analyzed large longitudinal social networks and found that traits and behaviors—happiness, obesity, smoking, generosity—propagate through social ties up to three degrees of separation, shaping not just friends but friends' friends' friends. A friend becoming happier raises your own probability of becoming happier by around 15 percent; a person three links away can subtly influence your weight and your habits. The mechanism is not conscious comparison but the invisible propagation of norms and emotional states across the network. The implication is humbling: the people we never meet, through the people we barely know, are already shaping who we become.",
+    "source": {
+      "title": "Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives",
+      "author": "Nicholas A. Christakis and James H. Fowler",
+      "year": 2009
+    },
+    "tags": [
+      "relationships",
+      "sociology",
+      "behavior"
+    ]
+  },
+  {
+    "id": "wealth-13",
+    "title": "No Analyst Can Consistently Beat a Market Built from All Analysts",
+    "body": "Malkiel's random-walk hypothesis holds that stock prices already incorporate all publicly available information, so no investor can reliably outperform the market using that information—because any informational edge is instantly priced in by the thousands of other analysts studying the same data. The practical consequence is counterintuitive: a low-cost index fund that passively holds the entire market will outperform the average active fund after fees, not because markets are perfectly efficient but because the costs of trying to beat them reliably exceed the gains. The uncomfortable implication is that an investor's certainty in their own analytical edge is itself among the most reliable predictors of underperformance.",
+    "source": {
+      "title": "A Random Walk Down Wall Street",
+      "author": "Burton G. Malkiel",
+      "year": 1973
+    },
+    "tags": [
+      "wealth",
+      "investing",
+      "economics"
+    ]
+  },
+  {
+    "id": "focus-14",
+    "title": "Attention Is Shaped by Environment, Not Just Willpower",
+    "body": "Crawford argues that attention is not purely an internal resource managed by discipline; it is recruited and captured by the design of the surrounding environment. Casinos, social media feeds, and open-plan offices are deliberately engineered to commandeer the involuntary bottom-up attention circuits that evolved to detect predators—and they largely succeed. The productive implication is architectural rather than psychological: the person who commands their own attention most consistently is not necessarily the most disciplined but the one who has most carefully designed their surroundings to remove competing affordances and align the sensory field with the work that actually matters. Willpower can supplement a good environment but cannot substitute for one.",
+    "source": {
+      "title": "The World Beyond Your Head: On Becoming an Individual in an Age of Distraction",
+      "author": "Matthew Crawford",
+      "year": 2015
+    },
+    "tags": [
+      "focus",
+      "environment",
+      "psychology"
+    ]
   }
 ]
