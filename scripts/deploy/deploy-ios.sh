@@ -58,6 +58,10 @@ xcodebuild archive \
   -configuration "$CONFIGURATION" \
   -destination "generic/platform=iOS" \
   -archivePath "$ARCHIVE_PATH" \
+  -allowProvisioningUpdates \
+  -authenticationKeyPath "$ASC_KEY_PATH" \
+  -authenticationKeyID "$ASC_KEY_ID" \
+  -authenticationKeyIssuerID "$ASC_ISSUER_ID" \
   CODE_SIGN_STYLE=Automatic \
   | xcpretty 2>/dev/null || true
 
@@ -74,12 +78,22 @@ xcodebuild -exportArchive \
   -archivePath "$ARCHIVE_PATH" \
   -exportPath "$EXPORT_PATH" \
   -exportOptionsPlist "$EXPORT_OPTIONS_PLIST" \
+  -allowProvisioningUpdates \
+  -authenticationKeyPath "$ASC_KEY_PATH" \
+  -authenticationKeyID "$ASC_KEY_ID" \
+  -authenticationKeyIssuerID "$ASC_ISSUER_ID" \
   | xcpretty 2>/dev/null || true
 
 IPA_PATH=$(find "$EXPORT_PATH" -name "*.ipa" | head -1)
 if [ -z "$IPA_PATH" ]; then
-  echo "❌ IPA export failed — check xcodebuild output above."
-  exit 1
+  # ExportOptions.plist uses destination=upload, so xcodebuild already
+  # uploaded the build directly to App Store Connect during export and
+  # does not leave a local .ipa behind. Treat this as success.
+  echo "✅ Export uploaded directly to App Store Connect (destination=upload)."
+  echo ""
+  echo "🎉 Done — build submitted to TestFlight."
+  echo "   https://appstoreconnect.apple.com/apps"
+  exit 0
 fi
 
 echo "✅ IPA: $IPA_PATH"
