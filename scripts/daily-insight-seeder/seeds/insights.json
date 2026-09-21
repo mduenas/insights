@@ -14321,5 +14321,80 @@
       "environment",
       "psychology"
     ]
+  },
+  {
+    "id": "ecology-26",
+    "title": "Designed Environments Express Values",
+    "body": "Every built environment embeds assumptions about how humans should live. René Dubos argued that the places we inhabit are not neutral containers but active forces that shape our health, behavior, and character over a lifetime. A society can be read in the spaces it creates — whether those spaces foster curiosity, community, and vitality, or isolation, passivity, and disease.",
+    "source": {
+      "title": "So Human an Animal",
+      "author": "René Dubos",
+      "year": 1968
+    },
+    "tags": [
+      "ecology",
+      "environment",
+      "design"
+    ]
+  },
+  {
+    "id": "sociology-43",
+    "title": "Reality Is a Social Achievement",
+    "body": "Berger and Luckmann argued that what most people experience as objective social reality — norms, institutions, roles, common sense itself — is actually a human product that has been solidified through habitual use until it appears natural and inevitable. This 'objectivation' is not a deception but a practical necessity: shared reality makes coordination possible. Recognizing its constructed character, however, is the precondition for deliberately reconstructing it.",
+    "source": {
+      "title": "The Social Construction of Reality",
+      "author": "Peter L. Berger",
+      "year": 1966
+    },
+    "tags": [
+      "sociology",
+      "knowledge",
+      "institutions"
+    ]
+  },
+  {
+    "id": "science-54",
+    "title": "Convergence Is the Mark of Truth",
+    "body": "William Whewell coined the phrase 'consilience of inductions' for what he saw as the strongest evidence a scientific theory could obtain: when independent lines of inquiry, developed entirely separately, unexpectedly point to the same explanation. Unlike mere accumulation of evidence within a single domain, such convergence suggests the theory is tracking something real rather than fitting a local pattern. It remains one of the most compelling tests of a scientific claim.",
+    "source": {
+      "title": "The Philosophy of the Inductive Sciences",
+      "author": "William Whewell",
+      "year": 1840
+    },
+    "tags": [
+      "science",
+      "epistemology",
+      "discovery"
+    ]
+  },
+  {
+    "id": "linguistics-21",
+    "title": "Words Do Not Touch Things Directly",
+    "body": "Ogden and Richards introduced the 'triangle of reference' to show that words relate to things only indirectly — through thoughts or concepts that mediate between symbol and referent. The same word can evoke entirely different thoughts in different minds, and those thoughts may refer to entirely different things. Most verbal disputes are not disputes about the world at all, but about which thought a symbol should evoke — a distinction that, once seen, dissolves an enormous amount of unnecessary conflict.",
+    "source": {
+      "title": "The Meaning of Meaning",
+      "author": "I.A. Richards",
+      "year": 1923
+    },
+    "tags": [
+      "linguistics",
+      "communication",
+      "meaning"
+    ]
+  },
+  {
+    "id": "ethics-17",
+    "title": "Collectives Escape Individual Conscience",
+    "body": "Reinhold Niebuhr observed that nations, classes, and corporations consistently behave with less moral restraint than the individuals who compose them. Groups diffuse personal responsibility, amplify collective self-interest, and confer social approval on actions that any individual member would privately refuse. This gap between personal ethics and collective behavior is not incidental but structural — and any political or organizational ethics that ignores it will repeatedly be outmaneuvered by it.",
+    "source": {
+      "title": "Moral Man and Immoral Society",
+      "author": "Reinhold Niebuhr",
+      "year": 1932
+    },
+    "tags": [
+      "ethics",
+      "society",
+      "politics"
+    ]
   }
 ]
