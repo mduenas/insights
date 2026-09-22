@@ -14396,5 +14396,85 @@
       "society",
       "politics"
     ]
+  },
+  {
+    "id": "geography-03",
+    "title": "The Landscape as Human Text",
+    "body": "Every landscape is a palimpsest — a surface written and rewritten by successive human cultures over centuries. Carl Sauer argued that the physical environment sets possibilities but culture determines what is actually made of them; what we see in a field, a road, or a city is not raw nature but a record of decisions, values, and habits. Learning to read landscape is therefore learning to read history without opening a book. Once you develop this eye, the ordinary world becomes perpetually legible.",
+    "source": {
+      "title": "The Morphology of Landscape",
+      "author": "Carl Sauer",
+      "year": 1925
+    },
+    "tags": [
+      "geography",
+      "culture",
+      "history",
+      "environment"
+    ]
+  },
+  {
+    "id": "literature-59",
+    "title": "Deep Time and Human Scale",
+    "body": "Geologists routinely handle spans of time so vast that all of recorded human history compresses into an imperceptible sliver. John McPhee coined the phrase 'deep time' to describe this perspective, noting that once you truly absorb it, everyday urgencies become strangely weightless. The same enormity that makes your anxieties small also makes your existence a stunning improbability. Far from nihilism, deep time is an invitation to inhabit the present with astonished attention.",
+    "source": {
+      "title": "Basin and Range",
+      "author": "John McPhee",
+      "year": 1981
+    },
+    "tags": [
+      "perspective",
+      "time",
+      "geology",
+      "literature"
+    ]
+  },
+  {
+    "id": "ethics-18",
+    "title": "Narrative as Moral Catalyst",
+    "body": "Abstract arguments about justice rarely move people to sustained action; concrete stories of suffering do. Harriet Beecher Stowe understood that making slavery visible as a human experience — with named characters, fractured families, and unambiguous grief — could reach audiences that statistics and political argument could not. At its most powerful, fiction does not merely entertain but reshapes what readers are able to feel about lives unlike their own. The moral imagination is trained as much by stories as by principles.",
+    "source": {
+      "title": "Uncle Tom's Cabin",
+      "author": "Harriet Beecher Stowe",
+      "year": 1852
+    },
+    "tags": [
+      "ethics",
+      "narrative",
+      "empathy",
+      "history"
+    ]
+  },
+  {
+    "id": "values-15",
+    "title": "Lived Experience as Evidence",
+    "body": "When theorists argued that women were too fragile for equal civic standing, Sojourner Truth answered not with counterargument but with her own life: she had plowed fields, borne children, and endured grief no theory had accounted for. Lived experience carries an evidential weight that abstract reasoning alone cannot supply, particularly for those whose voices have been excluded from official knowledge. Truth's method reminds us that the credibility of a claim is not only a matter of its logical form but of who is allowed to count as a witness.",
+    "source": {
+      "title": "Ain't I a Woman?",
+      "author": "Sojourner Truth",
+      "year": 1851
+    },
+    "tags": [
+      "values",
+      "identity",
+      "justice",
+      "equality"
+    ]
+  },
+  {
+    "id": "mathematics-39",
+    "title": "Form Before Content in Reasoning",
+    "body": "Lewis Carroll wrote 'Symbolic Logic' not only to teach formal inference but to dramatize a counterintuitive truth: a conclusion can be logically valid even when drawn from absurd or false premises. What matters for the soundness of reasoning is the structure of the argument, not the pleasantness of its ingredients. This separation of form from content is what allows mathematics and logic to operate on pure relations, and it is why recognizing invalid argument forms is more useful than memorizing lists of correct beliefs.",
+    "source": {
+      "title": "Symbolic Logic",
+      "author": "Lewis Carroll",
+      "year": 1896
+    },
+    "tags": [
+      "mathematics",
+      "logic",
+      "reasoning",
+      "thinking"
+    ]
   }
 ]
