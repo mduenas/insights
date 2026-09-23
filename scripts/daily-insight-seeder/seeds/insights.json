@@ -14476,5 +14476,85 @@
       "reasoning",
       "thinking"
     ]
+  },
+  {
+    "id": "neuroscience-19",
+    "title": "You Can Sculpt Your Own Brain",
+    "body": "Long before neuroscientists coined the term neuroplasticity, Santiago Ramón y Cajal proposed in 1897 that the brain is not a fixed organ but one continuously reshaped by experience and disciplined practice. His anatomical discoveries about individual neurons led him to conclude that mental habits, repeated persistently, literally alter the physical architecture of the nervous system. Where earlier science treated the adult brain as immutable, Cajal argued it remained malleable throughout life. This insight — that deliberate effort does not merely improve performance but restructures the very substrate of thought — is the biological foundation beneath every serious theory of learning and self-development.",
+    "source": {
+      "title": "Advice for a Young Investigator",
+      "author": "Santiago Ramón y Cajal",
+      "year": 1897
+    },
+    "tags": [
+      "neuroscience",
+      "learning",
+      "habits",
+      "growth"
+    ]
+  },
+  {
+    "id": "statistics-17",
+    "title": "Disorder Wins by Probability Alone",
+    "body": "Ludwig Boltzmann resolved one of the 19th century's deepest puzzles by showing that thermodynamic laws — including the relentless increase of entropy — are not mysterious forces but statistical inevitabilities. A gas disperses because there are enormously more ways for its molecules to be spread out than concentrated; diffusion is simply what happens when nothing constrains random motion. Boltzmann's insight transforms the arrow of time from a physical mystery into a probabilistic certainty: order is improbable, and the universe tends toward disorder because disordered states so vastly outnumber ordered ones. The same logic — that outcomes reflect the distribution of possibilities, not hidden intentions — extends far beyond thermodynamics.",
+    "source": {
+      "title": "Lectures on Gas Theory",
+      "author": "Ludwig Boltzmann",
+      "year": 1896
+    },
+    "tags": [
+      "statistics",
+      "science",
+      "probability",
+      "systems"
+    ]
+  },
+  {
+    "id": "sociology-44",
+    "title": "Society Is Made of Imitation",
+    "body": "Gabriel Tarde argued that all social life can be reduced to a single fundamental process: imitation. Inventions, beliefs, languages, and fashions all propagate through populations because individuals copy one another, with variations accumulating into new forms over time. Tarde's framework — developed nearly a century before Dawkins coined the word 'meme' — treats social change not as the product of abstract structural forces but as the aggregation of millions of individual acts of mimicry, each person absorbing and slightly transforming what they observe in others. Recognizing imitation as the basic infrastructure of culture makes visible the quiet mechanics beneath every trend, moral norm, and shared assumption.",
+    "source": {
+      "title": "The Laws of Imitation",
+      "author": "Gabriel Tarde",
+      "year": 1890
+    },
+    "tags": [
+      "sociology",
+      "culture",
+      "behavior",
+      "influence"
+    ]
+  },
+  {
+    "id": "leadership-26",
+    "title": "Being Noticed Changes Everything",
+    "body": "During the 1920s, Elton Mayo and his colleagues studying workers at the Western Electric Hawthorne plant discovered that productivity improved whenever conditions were changed — whether lighting increased or decreased. The explanation was not physical but social: workers performed better because someone was paying attention to them. Mayo concluded that human motivation in organizations is governed far more by social recognition, group belonging, and the sense of being valued than by the material or financial incentives that industrial managers had assumed were paramount. The Hawthorne experiments became foundational evidence for the insight that effective leadership is, at its core, the art of making people feel genuinely seen.",
+    "source": {
+      "title": "The Human Problems of an Industrial Civilization",
+      "author": "Elton Mayo",
+      "year": 1933
+    },
+    "tags": [
+      "leadership",
+      "motivation",
+      "psychology",
+      "organizations"
+    ]
+  },
+  {
+    "id": "science-55",
+    "title": "Measure First, Then Conclude",
+    "body": "Antoine Lavoisier transformed chemistry from a field of qualitative description and speculative theory — dominated by the phlogiston concept, which explained combustion by positing a mysterious released substance — into a rigorous quantitative science. By insisting on careful measurement of weight before and after every reaction, he demonstrated that nothing is created or destroyed in chemical processes; matter merely changes form. This methodological revolution matters beyond chemistry: Lavoisier showed that an entire scientific tradition could be overthrown not by a new hypothesis but by the discipline of systematic measurement. What had seemed like a coherent framework turned out to be an artifact of imprecise observation.",
+    "source": {
+      "title": "Elements of Chemistry",
+      "author": "Antoine Lavoisier",
+      "year": 1789
+    },
+    "tags": [
+      "science",
+      "methodology",
+      "measurement",
+      "reasoning"
+    ]
   }
 ]
