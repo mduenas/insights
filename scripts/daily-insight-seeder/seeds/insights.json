@@ -14556,5 +14556,85 @@
       "measurement",
       "reasoning"
     ]
+  },
+  {
+    "id": "neuroscience-20",
+    "title": "Repeated Firing Binds Neurons Together",
+    "body": "Donald Hebb proposed that when one neuron repeatedly activates another, the synaptic connection between them strengthens — a cellular mechanism by which experience physically rewires the brain. This principle, summarized as 'neurons that fire together wire together,' provided the first coherent biological account of how learning and memory arise from the substrate of the nervous system. Hebb derived it not from direct neural imaging (the technology didn't exist) but from careful inference across clinical cases and animal experiments, a model of how theoretical insight can precede its own experimental verification. Every subsequent theory of experience-dependent plasticity, from early childhood development to adult skill acquisition, rests on the foundation he laid.",
+    "source": {
+      "title": "The Organization of Behavior",
+      "author": "Donald O. Hebb",
+      "year": 1949
+    },
+    "tags": [
+      "neuroscience",
+      "learning",
+      "biology",
+      "habits"
+    ]
+  },
+  {
+    "id": "design-14",
+    "title": "Legible Cities Give People Orientation",
+    "body": "Kevin Lynch discovered that urban residents mentally map their cities through five recurring elements: paths (routes of movement), edges (barriers and boundaries), districts (identifiable areas), nodes (focal concentrations), and landmarks (singular reference points). Good city design uses these elements to give inhabitants a clear mental image — a sense of orientation that makes movement both efficient and emotionally sustaining. Environments without legibility — where these elements are absent, conflicting, or monotonous — generate anxiety and disorientation that go far beyond inconvenience. The principle extends wherever people must navigate complexity: organizations, interfaces, and documents that lack clear structure impose the same hidden costs as an illegible streetscape.",
+    "source": {
+      "title": "The Image of the City",
+      "author": "Kevin Lynch",
+      "year": 1960
+    },
+    "tags": [
+      "design",
+      "architecture",
+      "psychology",
+      "perception"
+    ]
+  },
+  {
+    "id": "economics-53",
+    "title": "Some Goods Only Have Value When Others Lack Them",
+    "body": "Fred Hirsch distinguished ordinary material goods — whose value is independent of whether others possess them — from positional goods such as elite education, prestigious titles, and desirable neighborhoods, whose value is inherently competitive. As prosperity spreads and more people pursue these positional goods, the goods either become crowded or lose their distinguishing power: when everyone holds a degree, it signals less. Economic growth can expand material welfare indefinitely but cannot expand the supply of positional goods, which means that beyond a certain threshold, collective advancement produces more intense competition rather than more satisfaction. Hirsch's analysis explains why affluence can coexist with persistent anxiety, and why paths to advancement that look promising individually tend to cancel themselves out when everyone follows them.",
+    "source": {
+      "title": "Social Limits to Growth",
+      "author": "Fred Hirsch",
+      "year": 1976
+    },
+    "tags": [
+      "economics",
+      "society",
+      "competition",
+      "inequality"
+    ]
+  },
+  {
+    "id": "history-37",
+    "title": "Ancient Markets Ran on Status, Not Price",
+    "body": "Moses Finley argued that projecting modern economic concepts — supply and demand, profit maximization, capital markets — onto ancient Greece and Rome is a fundamental anachronism. Ancient Mediterranean economies were embedded in social structures governed by land ownership, civic status, and political power rather than by price-driven market mechanisms. Wealthy Greeks and Romans sought land, political influence, and social honor, not returns on investment; the self-regulating market as an institution had no ancient equivalent. The same methodological discipline applies far beyond antiquity: every era operates on its own economic logic, and reading contemporary categories backward into the past distorts both the past and our understanding of what we ourselves take for granted.",
+    "source": {
+      "title": "The Ancient Economy",
+      "author": "Moses I. Finley",
+      "year": 1973
+    },
+    "tags": [
+      "history",
+      "economics",
+      "culture",
+      "methodology"
+    ]
+  },
+  {
+    "id": "psychology-46",
+    "title": "Expectations Become Self-Fulfilling Realities",
+    "body": "Rosenthal and Jacobson told elementary school teachers that certain randomly selected students — labeled 'intellectual bloomers' — were poised for unusual gains. By year's end, those students showed significantly greater IQ gains than their randomly assigned peers. The mechanism was behavioral: teachers unconsciously gave the 'bloomers' more warmth, richer feedback, and more challenging material, and students responded to this altered environment. The Pygmalion effect demonstrates that expectations are not passive predictions but active forces that reshape the environment around the person expected — a principle with direct implications for management, parenting, teaching, and any relationship in which one person's judgment shapes another's opportunities.",
+    "source": {
+      "title": "Pygmalion in the Classroom",
+      "author": "Robert Rosenthal and Lenore Jacobson",
+      "year": 1968
+    },
+    "tags": [
+      "psychology",
+      "education",
+      "leadership",
+      "influence"
+    ]
   }
 ]
