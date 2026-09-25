@@ -14636,5 +14636,85 @@
       "leadership",
       "influence"
     ]
+  },
+  {
+    "id": "geography-04",
+    "title": "The grid behind the world",
+    "body": "Ptolemy's Geography established latitude and longitude as the universal language for locating any point on Earth with two numbers, imposing a mathematical order on physical reality. He recognized that projecting a sphere onto a flat surface inevitably distorts, and he documented multiple projection methods, each preserving a different kind of truth — shape, area, or distance. This was not merely a cartographic technique but a philosophical commitment: to represent the world you must first decide what kind of accuracy matters most. Every atlas, weather map, and GPS display since inherits his insight that a map is always an argument, not a transcript.",
+    "source": {
+      "title": "Geography",
+      "author": "Claudius Ptolemy",
+      "year": 150
+    },
+    "tags": [
+      "geography",
+      "mathematics",
+      "representation",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "architecture-14",
+    "title": "Ornament is wasted life",
+    "body": "Adolf Loos argued in his landmark 1910 essay that applied ornament — decoration added to buildings or objects purely for visual appeal — represents a moral and economic failure. Every decorative flourish demands human labor to design, apply, and maintain without producing functional value, effectively consuming hours of craftsmen's lives for no lasting benefit. As industrial production matured, ornament that had once expressed cultural vitality became a symptom of stagnation, preventing objects from aging honestly through use. The essay became a founding document of architectural modernism: the radical claim that clarity, honest materials, and the elimination of the superfluous are not austerity but respect for human time.",
+    "source": {
+      "title": "Ornament and Crime",
+      "author": "Adolf Loos",
+      "year": 1910
+    },
+    "tags": [
+      "architecture",
+      "design",
+      "modernism",
+      "simplicity"
+    ]
+  },
+  {
+    "id": "music-20",
+    "title": "Music means only itself",
+    "body": "Eduard Hanslick challenged the Romantic conviction that music's purpose is to express or represent emotions and narrative. In his 1854 treatise he argued that music is a purely formal art whose content is tonal forms in motion — what we call the feeling of a passage is really the dynamic character of the tones themselves, their tension, resolution, momentum, and repose, not an encoded message about sadness or joy. Music does not translate emotion; it enacts something structurally analogous to it. This formalist position influenced a century of composition and criticism, insisting that music be evaluated on its own internal logic rather than as a vehicle for extra-musical meaning.",
+    "source": {
+      "title": "On the Musically Beautiful",
+      "author": "Eduard Hanslick",
+      "year": 1854
+    },
+    "tags": [
+      "music",
+      "aesthetics",
+      "philosophy",
+      "form"
+    ]
+  },
+  {
+    "id": "wealth-14",
+    "title": "Asset allocation determines almost everything",
+    "body": "David Swensen, overseeing Yale's endowment for three decades, demonstrated that the decision of how to divide a portfolio among asset classes — equities, bonds, real estate, alternatives — determines roughly ninety percent of long-run investment returns, while security selection and market timing contribute far less than investors typically believe. By diversifying boldly into non-traditional assets like private equity and timber, Yale achieved returns that far outpaced institutional peers. Swensen's deeper insight was philosophical: most investors focus their energy on the wrong problem, agonizing over individual picks while neglecting the structural allocation that governs their fate. Discipline in the big decision matters more than cleverness in the small ones.",
+    "source": {
+      "title": "Pioneering Portfolio Management",
+      "author": "David F. Swensen",
+      "year": 2000
+    },
+    "tags": [
+      "wealth",
+      "investing",
+      "strategy",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "mathematics-40",
+    "title": "Mathematics stands between thought and the world",
+    "body": "Hermann Weyl argued that mathematics occupies a paradoxical position in human knowledge: it is built by the mind through pure reason, following its own internal standards of beauty and consistency, yet it repeatedly turns out to describe physical reality with uncanny precision. Mathematicians develop structures with no application in view, and decades later physicists discover that these very structures are exactly what they need to formulate natural law — as happened with non-Euclidean geometry and general relativity, or with complex numbers and quantum mechanics. Weyl saw this unreasonable effectiveness not as coincidence but as a deep clue about the relationship between consciousness, formal structure, and the architecture of the universe.",
+    "source": {
+      "title": "The Philosophy of Mathematics and Natural Science",
+      "author": "Hermann Weyl",
+      "year": 1949
+    },
+    "tags": [
+      "mathematics",
+      "philosophy",
+      "science",
+      "abstraction"
+    ]
   }
 ]
