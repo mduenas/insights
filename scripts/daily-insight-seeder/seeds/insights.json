@@ -14716,5 +14716,85 @@
       "science",
       "abstraction"
     ]
+  },
+  {
+    "id": "literature-60",
+    "title": "Private Lives Are Shaped by Forces They Cannot Name",
+    "body": "The Abd al-Jawad family lives by the rhythms of prayer, commerce, and domestic authority, seemingly untouched by British occupation of Cairo outside their door. Yet Mahfouz shows that historical forces permeate even the most private spaces — the father's tyranny, the children's restlessness, and the women's confinement are all expressions of a social order under pressure it cannot yet articulate. History arrives in the household long before it arrives in the street.",
+    "source": {
+      "title": "Palace Walk",
+      "author": "Naguib Mahfouz",
+      "year": 1956
+    },
+    "tags": [
+      "history",
+      "family",
+      "society",
+      "literature"
+    ]
+  },
+  {
+    "id": "mindset-16",
+    "title": "The Possibilitarian Sees What Could Be",
+    "body": "Ulrich, Musil's protagonist, possesses an extraordinary 'sense of possibility' — the capacity to imagine every situation as it might otherwise be, which frees him from false necessity but makes commitment to any single life feel arbitrary. Musil argued that while most people are governed by a 'sense of reality,' the possibilitarian perceives the world's contingency: every arrangement of things is only one among infinite alternatives. This freedom is both a profound gift and an existential burden.",
+    "source": {
+      "title": "The Man Without Qualities",
+      "author": "Robert Musil",
+      "year": 1930
+    },
+    "tags": [
+      "possibility",
+      "creativity",
+      "mindset",
+      "imagination"
+    ]
+  },
+  {
+    "id": "mythology-14",
+    "title": "Myth Recurs Because It Names What Never Ends",
+    "body": "Unlike history, which records unrepeatable events, myth describes patterns that reproduce themselves across every culture and era. Roberto Calasso observed that myths do not explain phenomena — they are phenomena, the original form of the mind confronting itself. To encounter Cadmus and Harmony, Orpheus, or Dionysus is not to read an ancient story but to recognize something still active in the present: the same tensions, desires, and catastrophes repeating under new names.",
+    "source": {
+      "title": "The Marriage of Cadmus and Harmony",
+      "author": "Roberto Calasso",
+      "year": 1988
+    },
+    "tags": [
+      "mythology",
+      "culture",
+      "narrative",
+      "meaning"
+    ]
+  },
+  {
+    "id": "identity-17",
+    "title": "Memory Is How We Choose What to Keep",
+    "body": "Writing a memoir to her comatose daughter, Isabel Allende discovered that memory is not passive storage but an active act of love and selection. We remember what we have chosen to value, and in telling our stories we both preserve and reconstruct who we were. The act of narrating one's life is not self-indulgence but an ethical responsibility: deciding which moments shall survive, and by whose light they will be understood.",
+    "source": {
+      "title": "Paula",
+      "author": "Isabel Allende",
+      "year": 1994
+    },
+    "tags": [
+      "memory",
+      "identity",
+      "narrative",
+      "loss"
+    ]
+  },
+  {
+    "id": "values-16",
+    "title": "Society Punishes Those It Has Already Failed",
+    "body": "Tess Durbeyfield is not ruined by moral failing but by a social system that denies her protection and then condemns her for the consequences of others' actions. Hardy argued through her story that Victorian moral codes applied their weight with deliberate selectivity — harshly toward the vulnerable and leniently toward the powerful. The distance between a society's proclaimed values and its actual practice is widest for those who can least afford the gap.",
+    "source": {
+      "title": "Tess of the d'Urbervilles",
+      "author": "Thomas Hardy",
+      "year": 1891
+    },
+    "tags": [
+      "justice",
+      "society",
+      "morality",
+      "values"
+    ]
   }
 ]
