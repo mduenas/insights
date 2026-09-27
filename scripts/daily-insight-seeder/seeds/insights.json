@@ -14797,4 +14797,85 @@
       "values"
     ]
   }
+,
+  {
+    "id": "action-14",
+    "title": "Effectiveness Can Be Learned",
+    "body": "Drucker's central claim was not that some people are born effective and others are not, but that effectiveness is a discipline anyone can master. He studied executives across industries and found that the common thread was not intelligence, energy, or charisma — it was a set of learnable practices: knowing where time actually goes, focusing on contribution, making strengths productive, and making effective decisions systematically. This shift from talent to practice opens the question of effectiveness to everyone willing to work at it.",
+    "source": {
+      "title": "The Effective Executive",
+      "author": "Peter F. Drucker",
+      "year": 1967
+    },
+    "tags": [
+      "leadership",
+      "habits",
+      "productivity",
+      "self-improvement"
+    ]
+  },
+  {
+    "id": "communication-14",
+    "title": "Words Borrow Their Meaning From Context",
+    "body": "Richards argued against the view that words carry fixed meanings that speakers deposit into sentences; instead, meaning is always a loan taken from context. The same word — 'love,' 'free,' 'right' — changes dramatically depending on who speaks it, to whom, when, and in what surrounding discourse. This is not a failure of language but its fundamental nature. Recognizing that ambiguity is not an imperfection to be eliminated but a feature of how communication works is the beginning of genuine rhetorical skill.",
+    "source": {
+      "title": "The Philosophy of Rhetoric",
+      "author": "I.A. Richards",
+      "year": 1936
+    },
+    "tags": [
+      "language",
+      "meaning",
+      "rhetoric",
+      "context"
+    ]
+  },
+  {
+    "id": "ecology-27",
+    "title": "We Are Drawn to Life by Deep Instinct",
+    "body": "Wilson coined 'biophilia' to describe what he saw as an innate, genetically encoded tendency in humans to affiliate with other living organisms and the natural world. After millions of years in living environments, our nervous systems were calibrated to nature: we find certain landscapes restorative, fear certain animals instinctively, and feel a pull toward gardens, parks, and wilderness that has no purely rational explanation. This affinity is not a luxury or a cultural preference but a deep biological need, and environments that ignore it impoverish us in ways that go beyond aesthetics.",
+    "source": {
+      "title": "Biophilia",
+      "author": "E.O. Wilson",
+      "year": 1984
+    },
+    "tags": [
+      "ecology",
+      "human-nature",
+      "evolution",
+      "well-being"
+    ]
+  },
+  {
+    "id": "learning-19",
+    "title": "Fear of Failure Is the Main Obstacle to Learning",
+    "body": "Holt spent years observing how children actually learn — and how schools systematically prevent it. He found that children learn best not when information is delivered to them but when they have genuine reasons to want something and are free to follow their curiosity without fear of being wrong. Fear of failure, he argued, is the greatest impediment to learning, and schools manufacture it at scale by turning every act of exploration into a graded performance. Removing the threat of judgment was not permissiveness but the necessary condition for genuine intellectual risk-taking.",
+    "source": {
+      "title": "How Children Fail",
+      "author": "John Holt",
+      "year": 1964
+    },
+    "tags": [
+      "education",
+      "curiosity",
+      "childhood",
+      "creativity"
+    ]
+  },
+  {
+    "id": "resilience-17",
+    "title": "Optimism Can Be Learned, Not Just Felt",
+    "body": "Seligman's research on learned helplessness led him to a striking insight: people who give up when faced with adversity share a distinctive explanatory style — they see setbacks as permanent, pervasive, and personal. When he taught people to consciously challenge this explanatory style, their resilience improved measurably. Optimism, Seligman found, is not a temperament you either have or lack but a set of cognitive habits you can deliberately practice — a discovery that moved psychology from diagnosing despair toward actively training for flourishing.",
+    "source": {
+      "title": "Learned Optimism",
+      "author": "Martin E.P. Seligman",
+      "year": 1991
+    },
+    "tags": [
+      "psychology",
+      "resilience",
+      "mindset",
+      "optimism"
+    ]
+  }
 ]
