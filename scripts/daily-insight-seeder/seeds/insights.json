@@ -14796,8 +14796,7 @@
       "morality",
       "values"
     ]
-  }
-,
+  },
   {
     "id": "action-14",
     "title": "Effectiveness Can Be Learned",
@@ -14876,6 +14875,86 @@
       "resilience",
       "mindset",
       "optimism"
+    ]
+  },
+  {
+    "id": "architecture-15",
+    "title": "Less Is a Bore",
+    "body": "Robert Venturi challenged the modernist axiom 'less is more' with a single, memorable inversion: 'less is a bore.' He argued that genuine architectural meaning emerges not from reductive purity but from layered complexity and productive contradiction — qualities that high modernism had systematically eliminated in the name of honesty. A building that acknowledges the competing demands on it — the irregular site, the varied program, the cultural memory of its users — will necessarily be complex; that complexity, Venturi insisted, is a sign of seriousness, not failure. Ornament, allusion, and ambiguous form are not aesthetic vices but records of a real world that pure forms cannot contain.",
+    "source": {
+      "title": "Complexity and Contradiction in Architecture",
+      "author": "Robert Venturi",
+      "year": 1966
+    },
+    "tags": [
+      "architecture",
+      "design",
+      "creativity",
+      "culture"
+    ]
+  },
+  {
+    "id": "ecology-28",
+    "title": "Everything Is Connected to Everything Else",
+    "body": "Barry Commoner formulated four informal laws of ecology, the first and most fundamental being that every natural system is connected to every other. A change anywhere in a food web, watershed, or atmosphere eventually propagates everywhere — often in ways that were invisible until the damage appeared elsewhere. Commoner used this principle to indict a model of industrialism that treats externalities as minor bookkeeping items rather than as violations of an integrated system. The costs that production externalizes do not disappear; they are absorbed by the commons and paid later, usually by those who had no say in the transaction.",
+    "source": {
+      "title": "The Closing Circle",
+      "author": "Barry Commoner",
+      "year": 1971
+    },
+    "tags": [
+      "ecology",
+      "systems",
+      "environment",
+      "science"
+    ]
+  },
+  {
+    "id": "law-17",
+    "title": "Law Has an Inner Morality",
+    "body": "Lon Fuller argued against the positivist claim that law is merely command backed by force. Through a thought experiment involving a fictional king who fails at legislation in eight distinct ways — making rules secret, retroactive, contradictory, or impossible to obey — Fuller showed that law is not neutral toward morality but has internal requirements: generality, promulgation, prospectivity, clarity, non-contradiction, possibility of compliance, stability, and congruence between rule and official action. A regime that systematically violates these requirements does not produce bad law but something that barely qualifies as law at all. These constitute the 'inner morality of law,' without which a legal order loses its claim to legitimate authority.",
+    "source": {
+      "title": "The Morality of Law",
+      "author": "Lon Fuller",
+      "year": 1964
+    },
+    "tags": [
+      "law",
+      "ethics",
+      "philosophy",
+      "governance"
+    ]
+  },
+  {
+    "id": "music-21",
+    "title": "All Sounds Can Be Music",
+    "body": "John Cage proposed that music is not a special category of organized sound but simply any sound attended to with intention — a definition that dissolves the boundary between music and noise, composition and silence. His piece 4'33\", in which a performer produces no deliberate sounds for that duration, demonstrated that a hall is never actually silent: the coughs, traffic, and ambient rustling are the piece. Rather than evacuating meaning, Cage argued, this framing restores full attention to the sonic world that is always already present. The composer's job becomes less about controlling sound than about creating circumstances in which any sound can be heard.",
+    "source": {
+      "title": "Silence: Lectures and Writings",
+      "author": "John Cage",
+      "year": 1961
+    },
+    "tags": [
+      "music",
+      "creativity",
+      "perception",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "mythology-15",
+    "title": "Three Functions Organize Every Myth",
+    "body": "Georges Dumézil spent decades demonstrating that virtually every Indo-European mythology — from Vedic India to ancient Rome, from Norse sagas to Celtic legend — organizes its gods and heroes around a single tripartite structure: a sovereign function (sacred authority and law), a martial function (force and war), and a fertility function (prosperity and reproduction). This is not coincidence but a shared cognitive inheritance, a template ancient peoples used to structure religious, social, and political life alike. Once the pattern is visible, it appears in Roman priesthoods, Norse Aesir, and the castes of ancient India simultaneously. Dumézil's discovery transformed comparative mythology from a catalogue of surface resemblances into a structural science with genuine explanatory power.",
+    "source": {
+      "title": "The Destiny of the Warrior",
+      "author": "Georges Dumézil",
+      "year": 1969
+    },
+    "tags": [
+      "mythology",
+      "anthropology",
+      "culture",
+      "history"
     ]
   }
 ]
