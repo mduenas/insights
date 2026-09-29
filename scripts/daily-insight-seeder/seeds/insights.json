@@ -14956,5 +14956,85 @@
       "culture",
       "history"
     ]
+  },
+  {
+    "id": "game-theory-01",
+    "title": "Coordination Finds Its Own Focal Point",
+    "body": "Thomas Schelling discovered that when two people must coordinate without communicating, they often successfully converge on the same choice simply because one option stands out as 'special' — more prominent, symmetric, or culturally salient than the others. He called these convergence points 'focal points' (now often called Schelling points), and they arise not from explicit agreement but from shared knowledge of what the other person will naturally find obvious. The discovery overturned the assumption that rational coordination always requires negotiation: people routinely solve coordination problems by asking not 'what is optimal for me?' but 'what would my counterpart naturally expect me to choose?' This insight transformed how economists, political scientists, and strategists think about norms, conventions, and tacit social agreements.",
+    "source": {
+      "title": "The Strategy of Conflict",
+      "author": "Thomas Schelling",
+      "year": 1960
+    },
+    "tags": [
+      "game-theory",
+      "strategy",
+      "coordination",
+      "psychology"
+    ]
+  },
+  {
+    "id": "complexity-01",
+    "title": "Order Arises at the Edge of Equilibrium",
+    "body": "Classical physics described the universe as a closed system moving inexorably toward maximum disorder. Ilya Prigogine showed that this picture omits a crucial class of open systems driven far from equilibrium: rather than dissolving into chaos, these systems spontaneously organize into new, more complex structures he called 'dissipative structures.' Hurricanes, living cells, and ecosystems all maintain their order by continuously consuming and dissipating energy — they are not exceptions to the second law of thermodynamics but its expression under far-from-equilibrium conditions. The insight recast entropy not as the enemy of life but as its necessary partner: complexity requires not stability but a sustained tension between order and disorder, a continuous throughput of energy that keeps the system at the creative edge between stasis and collapse.",
+    "source": {
+      "title": "Order Out of Chaos",
+      "author": "Ilya Prigogine",
+      "year": 1984
+    },
+    "tags": [
+      "complexity",
+      "science",
+      "thermodynamics",
+      "emergence"
+    ]
+  },
+  {
+    "id": "rhetoric-01",
+    "title": "The Orator Must Know Everything Worth Knowing",
+    "body": "In De Oratore, Cicero argued against the narrow technical manuals of his day: a truly great orator cannot simply learn a repertoire of argumentative tricks but must be educated in philosophy, law, history, psychology, and every field that might become the subject of dispute. The orator's task is not merely to speak well but to know well — to have such depth of understanding that style and substance become inseparable, and the speaker's credibility flows naturally from the completeness of their knowledge. This vision of the 'complete orator' reframed rhetoric from a technical skill into a form of general wisdom, insisting that the capacity to persuade is never separable from the breadth of one's understanding of the human world.",
+    "source": {
+      "title": "De Oratore",
+      "author": "Cicero",
+      "year": -55
+    },
+    "tags": [
+      "rhetoric",
+      "communication",
+      "education",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "pragmatism-01",
+    "title": "Meaning Lives in Its Practical Consequences",
+    "body": "Charles Sanders Peirce proposed a single test for whether a concept has genuine meaning: if you cannot describe any difference in observable outcomes between holding that concept and denying it, the concept is empty. What a belief means, he argued, is identical to the sum of its practical consequences — the habits of action it produces, the predictions it licenses, the experimental results it implies. This 'pragmatic maxim' was a radical pruning tool: entire metaphysical disputes that had occupied philosophers for centuries dissolved once you asked what observable difference each position would actually make in the conduct of life. William James and John Dewey built the pragmatist tradition on this foundation, and it quietly shaped the philosophy of science for the century that followed.",
+    "source": {
+      "title": "How to Make Our Ideas Clear",
+      "author": "C.S. Peirce",
+      "year": 1878
+    },
+    "tags": [
+      "pragmatism",
+      "philosophy",
+      "epistemology",
+      "science"
+    ]
+  },
+  {
+    "id": "ethics-19",
+    "title": "New Power Demands a New Ethics of Responsibility",
+    "body": "Hans Jonas argued that traditional ethics assumed a limited human capacity to affect the natural world — harm was local, reversible, and fell primarily on contemporaries we could see and know. Modern technology has shattered that assumption: we now hold the power to alter climate, extinguish species, and modify the genetic inheritance of future generations in ways that are global and potentially irreversible. Existing ethical frameworks, built for close-range human interaction, have nothing to say about such temporal and spatial scales. Jonas proposed a new imperative suited to this situation: act so that the conditions for authentic human life on earth remain possible into the indefinite future. Responsibility, in this view, extends forward in time to those not yet born, and care for a livable future becomes the primary moral obligation of technological civilization.",
+    "source": {
+      "title": "The Imperative of Responsibility",
+      "author": "Hans Jonas",
+      "year": 1979
+    },
+    "tags": [
+      "ethics",
+      "technology",
+      "environment",
+      "responsibility"
+    ]
   }
 ]
