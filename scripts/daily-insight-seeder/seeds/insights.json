@@ -15036,5 +15036,85 @@
       "environment",
       "responsibility"
     ]
+  },
+  {
+    "id": "action-15",
+    "title": "Action Alone Creates Freedom",
+    "body": "Arendt distinguished labor, work, and action as the three forms of the vita activa—but only action, engaging with others in public life, expresses genuine freedom. The capacity to begin something radically new (which she called natality) means every person is irreplaceable and every moment is potentially transformative. Unlike labor or production, action leaves no permanent object behind; its traces live only in the stories others carry forward. It is precisely because the outcome of action can never be fully controlled that it is the domain of freedom.",
+    "source": {
+      "title": "The Human Condition",
+      "author": "Hannah Arendt",
+      "year": 1958
+    },
+    "tags": [
+      "action",
+      "freedom",
+      "politics",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "geography-05",
+    "title": "Geography Shapes the Course of Civilizations",
+    "body": "Diamond argued that the rise of dominant civilizations owes far more to environmental and geographical luck than to any innate differences between peoples. Eurasia's east-west orientation allowed crops, animals, and technologies to spread rapidly across similar climates, compounding advantages over millennia. Societies that happened to occupy resource-rich land with domesticable animals accumulated economic and military power that had nothing to do with intelligence or virtue. Recognizing the role of geographic luck punctures narratives of racial or cultural superiority.",
+    "source": {
+      "title": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "year": 1997
+    },
+    "tags": [
+      "geography",
+      "history",
+      "civilization",
+      "determinism"
+    ]
+  },
+  {
+    "id": "game-theory-02",
+    "title": "Cooperation Beats Defection Over Time",
+    "body": "In computer tournaments of the iterated Prisoner's Dilemma, Axelrod found that the simplest strategy—tit-for-tat—consistently outperformed more complex, exploitative approaches. The strategy cooperates on the first move, then mirrors whatever the other player did last: punishing defection immediately but forgiving the moment the partner returns to cooperation. The lesson is counterintuitive: in ongoing relationships, behavior that is nice, retaliatory, and forgiving beats pure self-interest. Long-term cooperation is not altruism—it is the most rational strategy in a repeated game.",
+    "source": {
+      "title": "The Evolution of Cooperation",
+      "author": "Robert Axelrod",
+      "year": 1984
+    },
+    "tags": [
+      "cooperation",
+      "strategy",
+      "game-theory",
+      "rationality"
+    ]
+  },
+  {
+    "id": "time-14",
+    "title": "Real Time Is Lived, Not Measured",
+    "body": "Bergson distinguished clock time—a series of discrete, measurable instants—from duration (durée), the continuous flow of experience as it is actually lived. When we slice time into moments and add them back up, we falsify experience; something irretrievable is lost in the spatial metaphor of time as a line or a container. Duration is qualitative, not quantitative: each moment flows into the next without clean division, carrying memory and anticipation as inseparable parts. To understand consciousness, creativity, or life itself, we must enter into its actual flow rather than freeze it for analysis.",
+    "source": {
+      "title": "Creative Evolution",
+      "author": "Henri Bergson",
+      "year": 1907
+    },
+    "tags": [
+      "time",
+      "consciousness",
+      "experience",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "sociology-45",
+    "title": "Social Life Is a Performance We Manage Together",
+    "body": "Goffman proposed that in all social interactions, people are simultaneously actors managing the impressions others form of them and audience members cooperating in sustaining each other's performances. Like actors offstage versus onstage, we adapt our behavior, language, and self-presentation depending on who is watching. This dramaturgical view reveals that identity is not a fixed inner essence but an ongoing negotiation between self and audience. Far from being deceptive, this shared performance is what makes social order possible—we tacitly agree to honor each other's face.",
+    "source": {
+      "title": "The Presentation of Self in Everyday Life",
+      "author": "Erving Goffman",
+      "year": 1959
+    },
+    "tags": [
+      "sociology",
+      "identity",
+      "performance",
+      "social-interaction"
+    ]
   }
 ]
