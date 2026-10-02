@@ -15116,86 +15116,165 @@
       "performance",
       "social-interaction"
     ]
+  },
+  {
+    "id": "game-theory-03",
+    "title": "Communities Can Govern Shared Resources Without State or Market",
+    "body": "Elinor Ostrom challenged the received wisdom that a shared resource — a fishery, a pasture, a groundwater basin — will inevitably be destroyed by individual self-interest unless managed by a central authority or privatized. Studying real communities across centuries, she found that people who depend on a commons regularly develop their own rules, monitoring systems, and graduated sanctions that sustain the resource over generations. The conditions for success are specific: rules must match local circumstances, users must participate in modifying them, and enforcement must remain proportionate and transparent. Her finding overturned a central premise of both libertarian economics and state-centric governance, demonstrating that collective self-management is a genuine third option.",
+    "source": {
+      "title": "Governing the Commons: The Evolution of Institutions for Collective Action",
+      "author": "Elinor Ostrom",
+      "year": 1990
+    },
+    "tags": [
+      "governance",
+      "cooperation",
+      "commons",
+      "institutions"
+    ]
+  },
+  {
+    "id": "complexity-02",
+    "title": "Far from Equilibrium, Systems Create New Order",
+    "body": "Classical thermodynamics held that entropy always increases in a closed system, pointing inexorably toward equilibrium and stasis. Prigogine showed that open systems far from equilibrium can spontaneously organize into new, more complex structures he called dissipative structures — they maintain their coherence by continuously importing energy and exporting entropy. Living organisms, urban economies, and weather systems are all examples of order maintained not in spite of the constant flow of energy but because of it. The implication is profound: in the universe as we actually inhabit it, irreversibility and instability are the engines of complexity, not unfortunate exceptions to a fundamentally orderly nature.",
+    "source": {
+      "title": "Order Out of Chaos: Man's New Dialogue with Nature",
+      "author": "Ilya Prigogine",
+      "year": 1984
+    },
+    "tags": [
+      "complexity",
+      "thermodynamics",
+      "emergence",
+      "science"
+    ]
+  },
+  {
+    "id": "history-38",
+    "title": "Historical Evidence Is Always a Trace, Never a Witness",
+    "body": "Marc Bloch, writing while in hiding from the Nazis who would eventually execute him, observed that the past itself is inaccessible — no historian ever observes the events they study. What historians work with are traces: documents, artifacts, landscapes, and memories, all of which are products of the present as much as the past. Every source was created by someone with a purpose, a perspective, and a blind spot, making critical reading the indispensable tool of historical inquiry. Bloch argued that the discipline's greatest error is treating evidence as transparent, when it is always partially opaque — shaped by the needs, anxieties, and conventions of its own moment.",
+    "source": {
+      "title": "The Historian's Craft",
+      "author": "Marc Bloch",
+      "year": 1949
+    },
+    "tags": [
+      "history",
+      "epistemology",
+      "evidence",
+      "method"
+    ]
+  },
+  {
+    "id": "literature-61",
+    "title": "The Unhistoric Acts of Ordinary Lives Shape the World",
+    "body": "In the closing lines of Middlemarch, George Eliot wrote that the growing good of the world depends on unhistoric acts, and that those who live faithfully in a hidden life and rest in unvisited tombs contribute to what makes things better. She was arguing against the great-man theory of history: the moral quality of daily life, repeated by millions in obscurity, is the foundation on which large-scale change depends. Dorothea's story, Eliot suggests, is not a failure for lacking a grand stage — it is the substance of which civilization is actually made. Virtue exercised without an audience is not lesser virtue; it is the most common and sustaining form.",
+    "source": {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "year": 1872
+    },
+    "tags": [
+      "literature",
+      "virtue",
+      "history",
+      "meaning"
+    ]
+  },
+  {
+    "id": "psychology-47",
+    "title": "Narrative Is the Native Mode of Human Meaning",
+    "body": "Cognitive psychologist Jerome Bruner argued that the mind operates in two irreducibly distinct modes: the logico-scientific, which seeks timeless truths through formal argument, and the narrative, which makes sense of human action and intention by placing events in time and story. Neither can be reduced to the other, and neither is superior. What distinguishes human psychology is the central role of narrative: we understand ourselves, others, and our culture primarily through stories, not through propositions. The stories we tell about our own lives — what Bruner called self-narrative — do not merely reflect identity; they actively constitute it, making autobiography not a record but a construction.",
+    "source": {
+      "title": "Acts of Meaning",
+      "author": "Jerome Bruner",
+      "year": 1990
+    },
+    "tags": [
+      "psychology",
+      "narrative",
+      "identity",
+      "cognition"
+    ]
+  },
+  {
+    "id": "game-theory-04",
+    "title": "Every Zero-Sum Game Has an Optimal Strategy",
+    "body": "John von Neumann proved that in any finite two-player zero-sum game, there exists a pair of strategies — one for each player — such that neither has anything to gain by departing from their chosen strategy given that the other holds theirs. This minimax theorem guaranteed that rational play would always converge on a determinate solution, a result so surprising that von Neumann compared it to the existence of a saddle point in a mathematical surface. The insight did not require players to pick a single pure strategy: they could randomize their choices according to optimal probabilities, and the expected outcome under such mixed strategies would still be stable. The theorem laid the mathematical foundation for game theory itself and transformed economics by showing that strategic interaction could be studied with the precision of formal proof.",
+    "source": {
+      "title": "Theory of Games and Economic Behavior",
+      "author": "John von Neumann",
+      "year": 1944
+    },
+    "tags": [
+      "game-theory",
+      "strategy",
+      "mathematics",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "complexity-03",
+    "title": "Life Hovers at the Edge of Chaos",
+    "body": "Stuart Kauffman used computational models of gene-regulatory networks to discover that biological systems seem to inhabit a narrow regime between complete order and complete randomness — a regime he called the edge of chaos. Systems too rigidly ordered cannot adapt to change; systems too disordered cannot sustain coherent function. Only at the critical boundary between these regimes do complex adaptive behaviors emerge: the system is responsive enough to learn and plastic enough to evolve, yet stable enough to preserve the information it has accumulated. Kauffman argued that evolution does not merely select for fitness on a fixed landscape but jointly sculpts organisms and landscapes together, and that the conditions enabling this coevolution are themselves self-organized rather than externally imposed.",
+    "source": {
+      "title": "The Origins of Order",
+      "author": "Stuart Kauffman",
+      "year": 1993
+    },
+    "tags": [
+      "complexity",
+      "biology",
+      "evolution",
+      "emergence"
+    ]
+  },
+  {
+    "id": "rhetoric-02",
+    "title": "Every Human Act Has Five Answers",
+    "body": "Kenneth Burke proposed that any complete account of a human action requires answering five questions, which together form what he called the dramatistic pentad: What was done (act)? Where and when (scene)? Who did it (agent)? How (agency)? And why (purpose)? The power of the pentad lies not in the individual terms but in the ratios between them: when you emphasize scene over agent you get a deterministic, sociological explanation; when you emphasize purpose over act you get a teleological one. Burke showed that different vocabularies of motive — religious, scientific, political — are really different choices of which ratio to privilege, and that every ideology can be decoded by asking which terms it magnifies and which it suppresses.",
+    "source": {
+      "title": "A Grammar of Motives",
+      "author": "Kenneth Burke",
+      "year": 1945
+    },
+    "tags": [
+      "rhetoric",
+      "communication",
+      "philosophy",
+      "language"
+    ]
+  },
+  {
+    "id": "linguistics-22",
+    "title": "Every Word Arrives Already Inhabited",
+    "body": "Mikhail Bakhtin argued that language is never a neutral medium: every word a speaker uses has already been in other mouths, colored by other contexts, inflected by other intentions. He called this condition heteroglossia — the simultaneous presence of multiple social voices within a single utterance — and claimed it was the fundamental reality of language, not a secondary distortion of some pure, monological original. The novel, for Bakhtin, was the literary form that took this irreducible multiplicity seriously: its characters speak in their own voices, which collide and illuminate each other without resolution. Every act of speech is therefore an act of social positioning — a choice about which inherited voices to align with, contest, or recombine.",
+    "source": {
+      "title": "The Dialogic Imagination",
+      "author": "Mikhail Bakhtin",
+      "year": 1981
+    },
+    "tags": [
+      "linguistics",
+      "language",
+      "literature",
+      "culture"
+    ]
+  },
+  {
+    "id": "statistics-18",
+    "title": "All Models Are Wrong, but Some Are Useful",
+    "body": "George Box observed that no mathematical model can ever capture the full complexity of a real phenomenon — by definition, a model that reproduced reality in every detail would simply be reality itself, and thus useless as a tool for understanding. What matters is not whether a model is true but whether the departures from truth it introduces are small enough to be irrelevant for the purpose at hand. A simplified model that illuminates the dominant structure of a process is more valuable than an elaborate one that obscures it. Box's maxim became a foundational principle of scientific practice: not a counsel of despair but a call to honest calibration — to use models vigorously while remaining clear-eyed about what they omit.",
+    "source": {
+      "title": "Empirical Model-Building and Response Surfaces",
+      "author": "George E.P. Box",
+      "year": 1987
+    },
+    "tags": [
+      "statistics",
+      "science",
+      "epistemology",
+      "modeling"
+    ]
   }
-,
-{
-  "id": "game-theory-03",
-  "title": "Every Zero-Sum Game Has an Optimal Strategy",
-  "body": "John von Neumann proved that in any finite two-player zero-sum game, there exists a pair of strategies — one for each player — such that neither has anything to gain by departing from their chosen strategy given that the other holds theirs. This minimax theorem guaranteed that rational play would always converge on a determinate solution, a result so surprising that von Neumann compared it to the existence of a saddle point in a mathematical surface. The insight did not require players to pick a single pure strategy: they could randomize their choices according to optimal probabilities, and the expected outcome under such mixed strategies would still be stable. The theorem laid the mathematical foundation for game theory itself and transformed economics by showing that strategic interaction could be studied with the precision of formal proof.",
-  "source": {
-    "title": "Theory of Games and Economic Behavior",
-    "author": "John von Neumann",
-    "year": 1944
-  },
-  "tags": [
-    "game-theory",
-    "strategy",
-    "mathematics",
-    "decision-making"
-  ]
-},
-{
-  "id": "complexity-02",
-  "title": "Life Hovers at the Edge of Chaos",
-  "body": "Stuart Kauffman used computational models of gene-regulatory networks to discover that biological systems seem to inhabit a narrow regime between complete order and complete randomness — a regime he called the edge of chaos. Systems too rigidly ordered cannot adapt to change; systems too disordered cannot sustain coherent function. Only at the critical boundary between these regimes do complex adaptive behaviors emerge: the system is responsive enough to learn and plastic enough to evolve, yet stable enough to preserve the information it has accumulated. Kauffman argued that evolution does not merely select for fitness on a fixed landscape but jointly sculpts organisms and landscapes together, and that the conditions enabling this coevolution are themselves self-organized rather than externally imposed.",
-  "source": {
-    "title": "The Origins of Order",
-    "author": "Stuart Kauffman",
-    "year": 1993
-  },
-  "tags": [
-    "complexity",
-    "biology",
-    "evolution",
-    "emergence"
-  ]
-},
-{
-  "id": "rhetoric-02",
-  "title": "Every Human Act Has Five Answers",
-  "body": "Kenneth Burke proposed that any complete account of a human action requires answering five questions, which together form what he called the dramatistic pentad: What was done (act)? Where and when (scene)? Who did it (agent)? How (agency)? And why (purpose)? The power of the pentad lies not in the individual terms but in the ratios between them: when you emphasize scene over agent you get a deterministic, sociological explanation; when you emphasize purpose over act you get a teleological one. Burke showed that different vocabularies of motive — religious, scientific, political — are really different choices of which ratio to privilege, and that every ideology can be decoded by asking which terms it magnifies and which it suppresses.",
-  "source": {
-    "title": "A Grammar of Motives",
-    "author": "Kenneth Burke",
-    "year": 1945
-  },
-  "tags": [
-    "rhetoric",
-    "communication",
-    "philosophy",
-    "language"
-  ]
-},
-{
-  "id": "linguistics-22",
-  "title": "Every Word Arrives Already Inhabited",
-  "body": "Mikhail Bakhtin argued that language is never a neutral medium: every word a speaker uses has already been in other mouths, colored by other contexts, inflected by other intentions. He called this condition heteroglossia — the simultaneous presence of multiple social voices within a single utterance — and claimed it was the fundamental reality of language, not a secondary distortion of some pure, monological original. The novel, for Bakhtin, was the literary form that took this irreducible multiplicity seriously: its characters speak in their own voices, which collide and illuminate each other without resolution. Every act of speech is therefore an act of social positioning — a choice about which inherited voices to align with, contest, or recombine.",
-  "source": {
-    "title": "The Dialogic Imagination",
-    "author": "Mikhail Bakhtin",
-    "year": 1981
-  },
-  "tags": [
-    "linguistics",
-    "language",
-    "literature",
-    "culture"
-  ]
-},
-{
-  "id": "statistics-18",
-  "title": "All Models Are Wrong, but Some Are Useful",
-  "body": "George Box observed that no mathematical model can ever capture the full complexity of a real phenomenon — by definition, a model that reproduced reality in every detail would simply be reality itself, and thus useless as a tool for understanding. What matters is not whether a model is true but whether the departures from truth it introduces are small enough to be irrelevant for the purpose at hand. A simplified model that illuminates the dominant structure of a process is more valuable than an elaborate one that obscures it. Box's maxim became a foundational principle of scientific practice: not a counsel of despair but a call to honest calibration — to use models vigorously while remaining clear-eyed about what they omit.",
-  "source": {
-    "title": "Empirical Model-Building and Response Surfaces",
-    "author": "George E.P. Box",
-    "year": 1987
-  },
-  "tags": [
-    "statistics",
-    "science",
-    "epistemology",
-    "modeling"
-  ]
-}
 ]
