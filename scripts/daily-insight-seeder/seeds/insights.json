@@ -15276,5 +15276,80 @@
       "epistemology",
       "modeling"
     ]
+  },
+  {
+    "id": "game-theory-05",
+    "title": "Stability, not optimality, governs strategic outcomes",
+    "body": "John Nash proved that in any finite game, at least one equilibrium exists where no player can improve their outcome by unilaterally changing strategy — even when everyone would benefit if all changed together. This Nash equilibrium is not necessarily good for any participant; it is simply stable. Many real-world situations are locked into mutually unsatisfying equilibria that persist precisely because no individual has the power to escape them alone.",
+    "source": {
+      "title": "Non-Cooperative Games",
+      "author": "John Nash",
+      "year": 1951
+    },
+    "tags": [
+      "game-theory",
+      "strategy",
+      "equilibrium"
+    ]
+  },
+  {
+    "id": "complexity-04",
+    "title": "You cannot observe a system without becoming part of it",
+    "body": "Heinz von Foerster founded second-order cybernetics on the insight that every observer is embedded in the system being described. The act of observation changes both observer and observed, making perfect objectivity impossible. Rather than treating this as a flaw, von Foerster saw it as the fundamental condition of all knowledge — including scientific knowledge — and as a call to take responsibility for the reality we help construct.",
+    "source": {
+      "title": "Observing Systems",
+      "author": "Heinz von Foerster",
+      "year": 1981
+    },
+    "tags": [
+      "observation",
+      "systems",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "political-theory-01",
+    "title": "The means you use become the ends you achieve",
+    "body": "Gandhi argued that nonviolent means are not merely a tactic but an embodiment of the goal itself — if freedom is won through violence, the result is a violent society, not a free one. This inseparability of means and ends makes satyagraha both a political strategy and a moral philosophy. Every step toward a goal must already contain the quality of the destination; the path and the end are one.",
+    "source": {
+      "title": "Hind Swaraj or Indian Home Rule",
+      "author": "Mohandas K. Gandhi",
+      "year": 1909
+    },
+    "tags": [
+      "nonviolence",
+      "ethics",
+      "politics"
+    ]
+  },
+  {
+    "id": "philosophy-67",
+    "title": "Explaining the brain still leaves the hardest question untouched",
+    "body": "David Chalmers distinguished the 'easy problems' of consciousness — explaining perception, attention, and behavior — from the 'hard problem': why physical processes in the brain give rise to subjective experience at all. Even a complete neuroscientific account of how the brain processes information leaves open the question of why there is something it feels like to be that brain. This gap between objective description and first-person experience may be the deepest unsolved problem in science.",
+    "source": {
+      "title": "The Conscious Mind: In Search of a Fundamental Theory",
+      "author": "David Chalmers",
+      "year": 1996
+    },
+    "tags": [
+      "consciousness",
+      "mind",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "linguistics-23",
+    "title": "Language does not merely describe reality — it creates it",
+    "body": "John Searle showed that many utterances are not reports about the world but actions that bring new social facts into being: a promise, a verdict, a marriage declaration do not describe states of affairs but constitute them. Building on J.L. Austin's work, Searle demonstrated that understanding meaning requires grasping not just grammar but the social institutions and background rules that give words their force. To speak is always to act.",
+    "source": {
+      "title": "Speech Acts: An Essay in the Philosophy of Language",
+      "author": "John R. Searle",
+      "year": 1969
+    },
+    "tags": [
+      "speech-acts",
+      "language",
+      "meaning"
+    ]
   }
 ]
