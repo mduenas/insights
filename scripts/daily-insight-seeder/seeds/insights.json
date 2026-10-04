@@ -15351,5 +15351,85 @@
       "language",
       "meaning"
     ]
+  },
+  {
+    "id": "game-theory-06",
+    "title": "Look Forward, Reason Backward",
+    "body": "Dixit and Nalebuff popularized backward induction as a practical decision-making discipline: when facing a multi-step strategic interaction, start by imagining the final outcome and reason backward through each earlier decision. By anticipating how rational opponents will respond to your choices at every stage, you can determine the optimal move now. This approach explains why chess grandmasters envision the endgame long before playing the opening, and why contracts, negotiations, and competitive strategies fail when parties only think one move ahead. The discipline of projecting forward before acting is a fundamental upgrade over intuitive, step-by-step reasoning.",
+    "source": {
+      "title": "Thinking Strategically",
+      "author": "Avinash Dixit and Barry Nalebuff",
+      "year": 1991
+    },
+    "tags": [
+      "game-theory",
+      "strategy",
+      "decision-making",
+      "rationality"
+    ]
+  },
+  {
+    "id": "complexity-05",
+    "title": "Complexity Emerges from Simple Adaptive Rules",
+    "body": "Holland showed that systems exhibiting astonishing complexity—ant colonies, immune systems, economies, ecosystems—share a common architecture: many agents following simple, local rules that interact and adapt without any central controller. He called these complex adaptive systems and demonstrated that their most striking properties—learning, self-organization, resilience—are emergent: they cannot be found in any individual agent but arise only from the pattern of interactions among them. The implication is that complexity cannot be engineered top-down or predicted from a single vantage point; it must be cultivated by setting the right interaction rules and allowing the system's own dynamics to unfold.",
+    "source": {
+      "title": "Hidden Order: How Adaptation Builds Complexity",
+      "author": "John Holland",
+      "year": 1995
+    },
+    "tags": [
+      "complexity",
+      "emergence",
+      "adaptation",
+      "systems"
+    ]
+  },
+  {
+    "id": "ecology-29",
+    "title": "Ecological Communities Have Hidden Vulnerabilities to Invaders",
+    "body": "Elton observed that species introduced from one part of the world to another could wreak havoc on ecosystems that had no evolutionary history with them, sometimes producing cascading extinctions and transformations. He argued that diverse, complex communities proved more resistant to invasion than impoverished, simplified ones, because richness creates multiple checks on any one species' expansion. The book effectively founded invasion biology as a discipline and provided an early warning that habitat simplification and global trade were creating conditions for ecological destabilization on a worldwide scale. Elton's central insight was that stability is not the natural resting state of ecosystems but an achievement that can be undone by disrupting the web of relationships that maintains it.",
+    "source": {
+      "title": "The Ecology of Invasions by Animals and Plants",
+      "author": "Charles Elton",
+      "year": 1958
+    },
+    "tags": [
+      "ecology",
+      "biodiversity",
+      "invasion-biology",
+      "stability"
+    ]
+  },
+  {
+    "id": "pragmatism-02",
+    "title": "Aesthetic Experience Is the Model of All Full Experience",
+    "body": "Dewey argued that art is not a separate, rarefied domain reserved for museums and concert halls but an intensification of qualities present in all genuine experience. When we are fully engaged—when means and ends, doing and undergoing, flow together without the usual friction of distraction or routine—we are having an aesthetic experience in Dewey's sense. Most of our experience falls short of this because it is fragmented, driven by ends alien to the activity itself. Art's value, on this view, is not that it provides pleasures set apart from life but that it shows what human experience can be when it achieves unity, completeness, and felt meaning.",
+    "source": {
+      "title": "Art as Experience",
+      "author": "John Dewey",
+      "year": 1934
+    },
+    "tags": [
+      "aesthetics",
+      "experience",
+      "pragmatism",
+      "meaning"
+    ]
+  },
+  {
+    "id": "neuroscience-21",
+    "title": "You Are Nothing More Than Your Neurons",
+    "body": "Crick proposed what he called the Astonishing Hypothesis: that all the phenomena of the human mind—perceptions, memories, emotions, the sense of personal identity, even the experience of free will—are entirely the product of the behavior of neurons and their associated molecules. The hypothesis is astonishing, he noted, not because it is controversial among scientists but because it is so deeply at odds with our intuitive self-understanding. To most people, the idea that joy, love, or the conviction of personal continuity is \"just\" electrochemical activity feels reductive and insufficient. Yet Crick argued that this discomfort is precisely the right starting point for serious scientific inquiry into the nature of consciousness.",
+    "source": {
+      "title": "The Astonishing Hypothesis",
+      "author": "Francis Crick",
+      "year": 1994
+    },
+    "tags": [
+      "neuroscience",
+      "consciousness",
+      "identity",
+      "mind"
+    ]
   }
 ]
