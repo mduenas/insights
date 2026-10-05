@@ -15431,5 +15431,85 @@
       "identity",
       "mind"
     ]
+  },
+  {
+    "id": "rhetoric-03",
+    "title": "Persuasion Has Three Distinct Modes of Appeal",
+    "body": "Aristotle identified three irreducible means of persuasion: ethos (the speaker's character and credibility), pathos (the emotional engagement of the audience), and logos (the logical structure of the argument). No single mode alone is sufficient—an argument that is logically airtight but delivered by an untrustworthy speaker, or that arouses emotion without reasoned support, falls short. The most effective communicators weave all three together, calibrating the weight of each to the audience, occasion, and subject. Twenty-four centuries later, this framework remains the most precise map of how one human mind moves another.",
+    "source": {
+      "title": "Rhetoric",
+      "author": "Aristotle",
+      "year": -350
+    },
+    "tags": [
+      "rhetoric",
+      "persuasion",
+      "communication",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "pragmatism-03",
+    "title": "Truth Is What Works in Practice",
+    "body": "William James proposed that an idea's truth should be measured not by its correspondence to some abstract reality but by its practical consequences—what difference it makes when acted upon. An idea that reliably guides experience, resolves confusion, and helps us navigate the world is true in every sense that matters; one that generates no testable difference is philosophically idle. This cash value test makes truth dynamic rather than static: it is something that happens to an idea as experience verifies or falsifies it over time. Pragmatism shifted philosophy from questions about ultimate reality to questions about how beliefs serve human life.",
+    "source": {
+      "title": "Pragmatism: A New Name for Some Old Ways of Thinking",
+      "author": "William James",
+      "year": 1907
+    },
+    "tags": [
+      "pragmatism",
+      "truth",
+      "philosophy",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "complexity-06",
+    "title": "Small Rule Sets Produce Surprisingly Rich Behavior",
+    "body": "Wolfram showed that even the simplest computational rules—one-dimensional cellular automata updating a row of cells based solely on their immediate neighbors—can generate behavior that is irreducibly complex and unpredictable without actually running the program. Rule 30, for instance, produces output so disordered it passes statistical tests for randomness despite being deterministic. The discovery that complexity does not require complex causes challenges the intuition that sophisticated outcomes need sophisticated explanations. Much of the apparent complexity in nature may be the output of very short programs, not evidence of profound design.",
+    "source": {
+      "title": "A New Kind of Science",
+      "author": "Stephen Wolfram",
+      "year": 2002
+    },
+    "tags": [
+      "complexity",
+      "computation",
+      "emergence",
+      "mathematics"
+    ]
+  },
+  {
+    "id": "game-theory-07",
+    "title": "People Coordinate on Salient Points Without Communication",
+    "body": "Schelling observed that when people cannot communicate and need to coordinate, they converge on focal points—solutions that stand out by virtue of cultural salience, symmetry, or convention rather than logical necessity. Asked where to meet a stranger in New York with no prior arrangement, most people independently chose Grand Central Terminal at noon—not because it was optimal but because it was the most prominent option. Focal points reveal that coordination depends less on rationality and more on shared social context and the capacity to read what others will find obvious. Mutual expectations, not optimization, are the engine of social coordination.",
+    "source": {
+      "title": "The Strategy of Conflict",
+      "author": "Thomas C. Schelling",
+      "year": 1960
+    },
+    "tags": [
+      "game-theory",
+      "coordination",
+      "strategy",
+      "economics"
+    ]
+  },
+  {
+    "id": "relationships-14",
+    "title": "Genuine Encounter Requires Treating the Other as a Whole Person",
+    "body": "Buber distinguished two fundamental stances toward the world: I-It, in which the other person is treated as an object to be used, analyzed, or categorized, and I-Thou, in which they are met as a full subject whose existence has irreducible value. Modern life—with its institutions, technologies, and roles—relentlessly pushes us toward I-It encounters, reducing people to functions. Yet authentic human life, Buber argued, can only occur in the I-Thou relation, however fleeting: a moment of genuine meeting in which both parties are fully present and transformed. The quality of our relationships depends not on their length but on the depth of presence we bring to them.",
+    "source": {
+      "title": "I and Thou",
+      "author": "Martin Buber",
+      "year": 1923
+    },
+    "tags": [
+      "relationships",
+      "philosophy",
+      "presence",
+      "ethics"
+    ]
   }
 ]
