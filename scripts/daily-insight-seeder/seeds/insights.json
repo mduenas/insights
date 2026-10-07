@@ -15591,5 +15591,85 @@
       "science",
       "emergence"
     ]
+  },
+  {
+    "id": "philosophy-68",
+    "title": "Reason and Revelation Are Allies, Not Rivals",
+    "body": "Averroes argued that since God created both the world and human reason, genuine philosophical inquiry cannot ultimately conflict with divine revelation — apparent conflicts arise only from misinterpretation of one or the other. He maintained that philosophy was not merely permitted but was a religious obligation, since understanding creation is a way of knowing the Creator. This audacious synthesis traveled through medieval Jewish and Christian thought to become a foundation of Western scholasticism. The conviction that rigorous thinking serves rather than threatens sincere faith shaped entire centuries of intellectual life.",
+    "source": {
+      "title": "The Decisive Treatise",
+      "author": "Averroes (Ibn Rushd)",
+      "year": 1180
+    },
+    "tags": [
+      "philosophy",
+      "reason",
+      "knowledge",
+      "religion"
+    ]
+  },
+    {
+    "id": "creativity-32",
+    "title": "Vague Words Are a Moral Failure, Not Just a Style One",
+    "body": "Carver argued that imprecise language is not merely an aesthetic lapse but an ethical one — it allows writers to evade what they actually mean and readers to avoid what they actually feel. Drawing on his mentor John Gardner's demand that every word earn its place, Carver insisted that the specific image, the exact verb, and the right noun are moral requirements because they demand honest observation. This insistence on exactness ran against prevailing literary fashion but produced his famously spare, economical prose. For Carver, the discipline of getting words right was inseparable from the discipline of seeing clearly.",
+    "source": {
+      "title": "Fires: Essays, Poems, Stories",
+      "author": "Raymond Carver",
+      "year": 1983
+    },
+    "tags": [
+      "writing",
+      "creativity",
+      "language",
+      "honesty"
+    ]
+  },
+    {
+    "id": "literature-62",
+    "title": "Silence in the Face of Tyranny Is Already a Kind of Death",
+    "body": "Writing from solitary confinement during the Nigerian civil war, Soyinka formulated one of the most uncompromising statements in modern letters: 'The man dies in all who keep silent in the face of tyranny.' His prison notes, recorded secretly on scraps of paper and in book margins, refuse to treat mere survival as the paramount value — arguing that a life surrendered to complicit silence is already forfeited. Soyinka's account of maintaining intellectual and moral integrity under conditions designed to break the self stands as testimony that what we choose to witness and speak about is constitutive of who we are.",
+    "source": {
+      "title": "The Man Died",
+      "author": "Wole Soyinka",
+      "year": 1972
+    },
+    "tags": [
+      "courage",
+      "integrity",
+      "politics",
+      "literature"
+    ]
+  },
+    {
+    "id": "mathematics-41",
+    "title": "Numbers Belong to Concepts, Not to Piles of Things",
+    "body": "Frege demolished the intuitive view that numbers are properties of physical collections — that 'five' names something about a group of apples the way 'red' names something about a single one. He argued that a number is a property of a concept: to say there are five planets is to say that the concept 'planet' maps exactly to the number five. This seemingly technical move had radical consequences: arithmetic could be grounded entirely in logic, and mathematical truths are not empirical generalizations but analytic necessities. Frege's work launched the logicist program and founded modern mathematical logic and the philosophy of mathematics.",
+    "source": {
+      "title": "The Foundations of Arithmetic",
+      "author": "Gottlob Frege",
+      "year": 1884
+    },
+    "tags": [
+      "mathematics",
+      "logic",
+      "philosophy",
+      "foundations"
+    ]
+  },
+    {
+    "id": "history-39",
+    "title": "History Is Not Ideology — It Lives in the Body",
+    "body": "Writing as a letter to his son, Coates argued that the history of racial oppression in America is not merely a matter of policy or ideology but of the systematic targeting and destruction of Black bodies — and that this targeting shapes every dimension of Black life. He coined the concept of 'the Dream' — the comfortable mythology that America has transcended its racial past — to show that this self-deception is purchased at the cost of ongoing material violence. By centering the body rather than abstract principles, Coates gave the discussion of structural racism a visceral immediacy that bypasses purely political argument, insisting that the past is not past but present and physical.",
+    "source": {
+      "title": "Between the World and Me",
+      "author": "Ta-Nehisi Coates",
+      "year": 2015
+    },
+    "tags": [
+      "history",
+      "race",
+      "identity",
+      "america"
+    ]
   }
 ]
