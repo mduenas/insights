@@ -15687,5 +15687,60 @@
       "meaning",
       "clarity"
     ]
+  },
+  {
+    "id": "political-03",
+    "title": "Societies Against the State",
+    "body": "Anthropologist Pierre Clastres found that many pre-state societies were not simply pre-political — they actively organized to prevent centralized power from forming. Chiefs held social prestige but possessed no coercive authority, and communities enforced this limitation deliberately. This inverts the standard evolutionary story of politics: statelessness can be a deliberate achievement, not merely an absence, and the drive toward hierarchy is not historically inevitable.",
+    "source": {
+      "title": "Society Against the State",
+      "author": "Pierre Clastres",
+      "year": 1974
+    },
+    "tags": ["political", "anthropology", "power", "society"]
+  },
+  {
+    "id": "literature-63",
+    "title": "Fantasy as Thought Experiment",
+    "body": "Ursula Le Guin argued that science fiction and fantasy are not escapism but among the most rigorous forms of thought experiment available to literature. By displacing the reader from the familiar, speculative fiction makes visible the assumptions embedded in everyday life — about gender, economy, ecology, and power. What appears as world-building is actually a form of philosophical inquiry carried out in story.",
+    "source": {
+      "title": "The Language of the Night: Essays on Fantasy and Science Fiction",
+      "author": "Ursula K. Le Guin",
+      "year": 1979
+    },
+    "tags": ["literature", "imagination", "philosophy", "science-fiction"]
+  },
+  {
+    "id": "psychology-50",
+    "title": "Shared Intentionality",
+    "body": "Michael Tomasello identified shared intentionality — the capacity to understand others as intentional agents and to pursue joint goals with shared attention — as the cognitive foundation that separates humans from other primates. This ability allows culture to accumulate across generations, since knowledge built together can be passed on and improved upon. Without it, neither language, science, nor any complex social institution would be possible.",
+    "source": {
+      "title": "The Cultural Origins of Human Cognition",
+      "author": "Michael Tomasello",
+      "year": 1999
+    },
+    "tags": ["psychology", "cognition", "evolution", "culture"]
+  },
+  {
+    "id": "economics-54",
+    "title": "Human Capital as Investment",
+    "body": "Gary Becker formalized the insight that expenditures on education, training, and health are not consumption but investment — they increase the productive capacity of individuals just as physical capital increases the output of firms. This reframing transformed how economists think about wages, inequality, and development, explaining why educated workers earn more not merely through credential signaling but because their skills genuinely augment their productive potential.",
+    "source": {
+      "title": "Human Capital: A Theoretical and Empirical Analysis",
+      "author": "Gary S. Becker",
+      "year": 1964
+    },
+    "tags": ["economics", "education", "investment", "productivity"]
+  },
+  {
+    "id": "philosophy-70",
+    "title": "Facts and Values Are Entangled",
+    "body": "Hilary Putnam challenged the philosophical assumption that facts and values occupy strictly separate domains. Thick ethical concepts — terms like 'cruel,' 'courageous,' or 'reckless' — simultaneously describe the world and evaluate it, making a clean separation impossible. Even scientific reasoning relies on epistemic values such as coherence and simplicity. Recognizing this entanglement clarifies why evidence alone never settles value-laden questions, and why values are not merely subjective additions to otherwise neutral facts.",
+    "source": {
+      "title": "The Collapse of the Fact/Value Dichotomy and Other Essays",
+      "author": "Hilary Putnam",
+      "year": 2002
+    },
+    "tags": ["philosophy", "ethics", "epistemology", "values"]
   }
 ]
