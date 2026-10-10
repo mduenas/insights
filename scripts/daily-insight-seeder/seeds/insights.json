@@ -15608,7 +15608,7 @@
       "religion"
     ]
   },
-    {
+  {
     "id": "creativity-32",
     "title": "Vague Words Are a Moral Failure, Not Just a Style One",
     "body": "Carver argued that imprecise language is not merely an aesthetic lapse but an ethical one — it allows writers to evade what they actually mean and readers to avoid what they actually feel. Drawing on his mentor John Gardner's demand that every word earn its place, Carver insisted that the specific image, the exact verb, and the right noun are moral requirements because they demand honest observation. This insistence on exactness ran against prevailing literary fashion but produced his famously spare, economical prose. For Carver, the discipline of getting words right was inseparable from the discipline of seeing clearly.",
@@ -15624,7 +15624,7 @@
       "honesty"
     ]
   },
-    {
+  {
     "id": "literature-62",
     "title": "Silence in the Face of Tyranny Is Already a Kind of Death",
     "body": "Writing from solitary confinement during the Nigerian civil war, Soyinka formulated one of the most uncompromising statements in modern letters: 'The man dies in all who keep silent in the face of tyranny.' His prison notes, recorded secretly on scraps of paper and in book margins, refuse to treat mere survival as the paramount value — arguing that a life surrendered to complicit silence is already forfeited. Soyinka's account of maintaining intellectual and moral integrity under conditions designed to break the self stands as testimony that what we choose to witness and speak about is constitutive of who we are.",
@@ -15640,7 +15640,7 @@
       "literature"
     ]
   },
-    {
+  {
     "id": "mathematics-41",
     "title": "Numbers Belong to Concepts, Not to Piles of Things",
     "body": "Frege demolished the intuitive view that numbers are properties of physical collections — that 'five' names something about a group of apples the way 'red' names something about a single one. He argued that a number is a property of a concept: to say there are five planets is to say that the concept 'planet' maps exactly to the number five. This seemingly technical move had radical consequences: arithmetic could be grounded entirely in logic, and mathematical truths are not empirical generalizations but analytic necessities. Frege's work launched the logicist program and founded modern mathematical logic and the philosophy of mathematics.",
@@ -15656,7 +15656,7 @@
       "foundations"
     ]
   },
-    {
+  {
     "id": "history-39",
     "title": "History Is Not Ideology — It Lives in the Body",
     "body": "Writing as a letter to his son, Coates argued that the history of racial oppression in America is not merely a matter of policy or ideology but of the systematic targeting and destruction of Black bodies — and that this targeting shapes every dimension of Black life. He coined the concept of 'the Dream' — the comfortable mythology that America has transcended its racial past — to show that this self-deception is purchased at the cost of ongoing material violence. By centering the body rather than abstract principles, Coates gave the discussion of structural racism a visceral immediacy that bypasses purely political argument, insisting that the past is not past but present and physical.",
@@ -15675,7 +15675,7 @@
   {
     "id": "pragmatism-04",
     "title": "Meaning Lives in Consequences",
-    "body": "Peirce proposed that the meaning of any concept lies entirely in its conceivable practical effects \u2014 what difference would it make in experience if this were true rather than false? This pragmatic maxim cuts through metaphysical fog: any idea that makes no practical difference in any possible circumstances is meaningless. It is a liberating tool for clearing away debates that only appear substantial, redirecting thought toward questions that actually matter.",
+    "body": "Peirce proposed that the meaning of any concept lies entirely in its conceivable practical effects — what difference would it make in experience if this were true rather than false? This pragmatic maxim cuts through metaphysical fog: any idea that makes no practical difference in any possible circumstances is meaningless. It is a liberating tool for clearing away debates that only appear substantial, redirecting thought toward questions that actually matter.",
     "source": {
       "title": "How to Make Our Ideas Clear",
       "author": "Charles Sanders Peirce",
@@ -15697,7 +15697,12 @@
       "author": "Pierre Clastres",
       "year": 1974
     },
-    "tags": ["political", "anthropology", "power", "society"]
+    "tags": [
+      "political",
+      "anthropology",
+      "power",
+      "society"
+    ]
   },
   {
     "id": "literature-63",
@@ -15708,7 +15713,12 @@
       "author": "Ursula K. Le Guin",
       "year": 1979
     },
-    "tags": ["literature", "imagination", "philosophy", "science-fiction"]
+    "tags": [
+      "literature",
+      "imagination",
+      "philosophy",
+      "science-fiction"
+    ]
   },
   {
     "id": "psychology-50",
@@ -15719,7 +15729,12 @@
       "author": "Michael Tomasello",
       "year": 1999
     },
-    "tags": ["psychology", "cognition", "evolution", "culture"]
+    "tags": [
+      "psychology",
+      "cognition",
+      "evolution",
+      "culture"
+    ]
   },
   {
     "id": "economics-54",
@@ -15730,7 +15745,12 @@
       "author": "Gary S. Becker",
       "year": 1964
     },
-    "tags": ["economics", "education", "investment", "productivity"]
+    "tags": [
+      "economics",
+      "education",
+      "investment",
+      "productivity"
+    ]
   },
   {
     "id": "philosophy-70",
@@ -15741,6 +15761,86 @@
       "author": "Hilary Putnam",
       "year": 2002
     },
-    "tags": ["philosophy", "ethics", "epistemology", "values"]
+    "tags": [
+      "philosophy",
+      "ethics",
+      "epistemology",
+      "values"
+    ]
+  },
+  {
+    "id": "philosophy-71",
+    "title": "The Administered Life Colonizes Desire",
+    "body": "Theodor Adorno observed that industrial culture does not simply entertain — it shapes the very forms through which we think, feel, and want. The standardization of mass media trains us to recognize only packaged experiences as genuine, making authentic desire increasingly difficult to identify. Resistance begins not with grand gestures but with the small moments where one refuses to smooth over contradiction. Genuine experience demands a willingness to encounter the world without predetermined categories.",
+    "source": {
+      "title": "Minima Moralia: Reflections from Damaged Life",
+      "author": "Theodor W. Adorno",
+      "year": 1951
+    },
+    "tags": [
+      "culture",
+      "authenticity",
+      "consciousness"
+    ]
+  },
+  {
+    "id": "identity-18",
+    "title": "The Borderland Grows a New Consciousness",
+    "body": "Gloria Anzaldúa described the U.S.-Mexico borderlands as a place where two cultures clash, bleed, and force a reckoning. Living permanently in this in-between space cultivates a mestiza consciousness — the capacity to hold contradictions without resolving them and to move fluidly between multiple ways of knowing. This tolerance for ambiguity is not weakness but a cognitive resource that monocultural perspectives lack. The borderlands produce people who can translate across worlds that would otherwise never communicate.",
+    "source": {
+      "title": "Borderlands/La Frontera: The New Mestiza",
+      "author": "Gloria Anzaldúa",
+      "year": 1987
+    },
+    "tags": [
+      "identity",
+      "consciousness",
+      "ambiguity"
+    ]
+  },
+  {
+    "id": "sociology-46",
+    "title": "Modernity Demands Reflexive Self-Construction",
+    "body": "Anthony Giddens argued that modern individuals can no longer rely on tradition, religion, or community to supply a stable sense of self — instead, identity becomes a reflexive project continuously revised in light of new information and experiences. This creates both freedom and anxiety: without inherited scripts, each person must author their own life story using materials drawn from competing global narratives. Ontological security — the sense that one's existence is continuous and meaningful — must be actively maintained rather than passively received.",
+    "source": {
+      "title": "The Consequences of Modernity",
+      "author": "Anthony Giddens",
+      "year": 1990
+    },
+    "tags": [
+      "identity",
+      "modernity",
+      "reflexivity"
+    ]
+  },
+  {
+    "id": "leadership-27",
+    "title": "Structure Must Follow Strategy",
+    "body": "Alfred Chandler's landmark study of American corporations showed that companies adopting new strategies — diversification, vertical integration, geographic expansion — that failed to reorganize their structures correspondingly fell into administrative chaos. The administrative form that served a single-product firm cannot manage a multi-divisional enterprise; the old structure actively resists the new purpose. Chandler's insight reverses a common assumption: clear strategies must precede and shape the structures that carry them out, not the other way around.",
+    "source": {
+      "title": "Strategy and Structure: Chapters in the History of the American Industrial Enterprise",
+      "author": "Alfred D. Chandler Jr.",
+      "year": 1962
+    },
+    "tags": [
+      "strategy",
+      "organization",
+      "management"
+    ]
+  },
+  {
+    "id": "science-56",
+    "title": "The Laws of Physics Are Not Eternal",
+    "body": "Physicist Lee Smolin argues that the laws of nature are not timeless mathematical truths existing outside the universe, but are themselves subject to evolution over cosmic time. Just as biological species adapt to changing environments, the fundamental parameters governing physics may have been shaped by a cosmological selection process. This challenges the assumption that science's job is to discover eternal laws — it may instead be tracing a history. If the laws we observe are contingent rather than necessary, then the universe's particular character is less a solved equation than an unfolding story.",
+    "source": {
+      "title": "Time Reborn: From the Crisis in Physics to the Future of the Universe",
+      "author": "Lee Smolin",
+      "year": 2013
+    },
+    "tags": [
+      "cosmology",
+      "time",
+      "evolution"
+    ]
   }
 ]
