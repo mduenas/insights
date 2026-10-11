@@ -15843,4 +15843,85 @@
       "evolution"
     ]
   }
+,
+  {
+    "id": "political-theory-02",
+    "title": "The Tyranny of the Majority",
+    "body": "Tocqueville observed that democracy’s greatest danger was not despotism by rulers but social conformity enforced by majority opinion. When the majority holds power, individuals face intense pressure to conform not through law but through social disapproval—making dissent more psychologically costly than under traditional tyranny. True freedom requires protecting the minority from the weight of popular consensus, not just from the state.",
+    "source": {
+      "title": "Democracy in America",
+      "author": "Alexis de Tocqueville",
+      "year": 1835
+    },
+    "tags": [
+      "democracy",
+      "freedom",
+      "conformity",
+      "power"
+    ]
+  },
+  {
+    "id": "geography-06",
+    "title": "How Space Becomes Place",
+    "body": "Yi-Fu Tuan distinguished between abstract “space” and meaningful “place”: space is undifferentiated openness while place is space that has been given meaning through human experience and attachment. A field becomes a home, a corner becomes a sanctuary, simply through time spent and emotion invested. The places we inhabit shape who we are because meaning is always already geographical.",
+    "source": {
+      "title": "Space and Place: The Perspective of Experience",
+      "author": "Yi-Fu Tuan",
+      "year": 1977
+    },
+    "tags": [
+      "place",
+      "meaning",
+      "identity",
+      "environment"
+    ]
+  },
+  {
+    "id": "learning-20",
+    "title": "Learning Lives in the Gap",
+    "body": "Vygotsky’s Zone of Proximal Development describes the fertile distance between what a learner can do alone and what they can achieve with guidance. True learning does not happen at either extreme—at tasks too easy or impossibly hard—but in the productive stretch just beyond current capability. A skilled teacher’s core task is to identify and inhabit that zone, providing the scaffold that makes the next step possible.",
+    "source": {
+      "title": "Mind in Society",
+      "author": "Lev Vygotsky",
+      "year": 1978
+    },
+    "tags": [
+      "learning",
+      "teaching",
+      "development",
+      "potential"
+    ]
+  },
+  {
+    "id": "economics-54",
+    "title": "Knowledge Is Always Local",
+    "body": "Hayek argued that the fundamental problem of economic organization is the use of knowledge that no single mind can possess. The knowledge of particular circumstances of time and place—held by millions of individuals in dispersed fragments—cannot be concentrated in one authority without catastrophic loss. Prices in a market system communicate this distributed knowledge efficiently, enabling coordination among strangers without central command.",
+    "source": {
+      "title": "The Use of Knowledge in Society",
+      "author": "Friedrich Hayek",
+      "year": 1945
+    },
+    "tags": [
+      "knowledge",
+      "economics",
+      "decentralization",
+      "markets"
+    ]
+  },
+  {
+    "id": "action-16",
+    "title": "Freedom Requires Engagement",
+    "body": "Simone de Beauvoir argued that genuine human freedom cannot be achieved by withdrawing from the world but only through engagement with it. To be free is not to escape circumstances but to take a stand within them—to act, choose, and accept the burden of responsibility that choice entails. Inaction is itself a form of bad faith, a refusal to acknowledge one’s own power to shape the world.",
+    "source": {
+      "title": "The Ethics of Ambiguity",
+      "author": "Simone de Beauvoir",
+      "year": 1947
+    },
+    "tags": [
+      "freedom",
+      "responsibility",
+      "action",
+      "existentialism"
+    ]
+  }
 ]
