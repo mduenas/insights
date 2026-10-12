@@ -15842,8 +15842,7 @@
       "time",
       "evolution"
     ]
-  }
-,
+  },
   {
     "id": "political-theory-02",
     "title": "The Tyranny of the Majority",
@@ -15922,6 +15921,81 @@
       "responsibility",
       "action",
       "existentialism"
+    ]
+  },
+  {
+    "id": "game-theory-08",
+    "title": "Nice strategies finish first",
+    "body": "In Robert Axelrod's computer tournaments of iterated Prisoner's Dilemma games, cooperative strategies that start by trusting, retaliate once when defected on, and forgive quickly consistently outperformed exploitative ones. The tournament revealed that being nice, provokable, and forgiving—without being a pushover—is not just ethical but strategically optimal over repeated interactions.",
+    "source": {
+      "title": "The Evolution of Cooperation",
+      "author": "Robert Axelrod",
+      "year": 1984
+    },
+    "tags": [
+      "cooperation",
+      "strategy",
+      "game-theory"
+    ]
+  },
+  {
+    "id": "complexity-08",
+    "title": "The goal of a system is its most powerful leverage point",
+    "body": "Donella Meadows identified that changing the goal toward which a system is oriented—more powerful than any parameter, rule, or feedback loop—is the highest leverage point available. Yet goals are rarely made explicit, are often embedded in institutional inertia, and resist change because those who built the system organized their identity around them.",
+    "source": {
+      "title": "Thinking in Systems",
+      "author": "Donella H. Meadows",
+      "year": 2008
+    },
+    "tags": [
+      "systems",
+      "leverage",
+      "goals"
+    ]
+  },
+  {
+    "id": "rhetoric-05",
+    "title": "Persuasion rests on character, emotion, and reason",
+    "body": "Aristotle identified three modes of rhetorical proof: ethos, the credibility of the speaker; pathos, the emotional state of the audience; and logos, the logical structure of the argument. All three must be present and in proportion—an impeccably reasoned case from a distrusted speaker to an unengaged audience will still fail to persuade.",
+    "source": {
+      "title": "Rhetoric",
+      "author": "Aristotle",
+      "year": -350
+    },
+    "tags": [
+      "rhetoric",
+      "communication",
+      "persuasion"
+    ]
+  },
+  {
+    "id": "ecology-30",
+    "title": "Wonder is the beginning of environmental conscience",
+    "body": "Rachel Carson argued that the sense of wonder a child feels before nature is more durable than any set of facts we could teach them. If we can keep that sense of wonder alive into adulthood, it becomes an indestructible antidote to boredom, disenchantment, and the indifference that allows ecological destruction to proceed unnoticed.",
+    "source": {
+      "title": "The Sense of Wonder",
+      "author": "Rachel Carson",
+      "year": 1965
+    },
+    "tags": [
+      "ecology",
+      "wonder",
+      "nature"
+    ]
+  },
+  {
+    "id": "political-04",
+    "title": "Loneliness is the common ground of terror",
+    "body": "Hannah Arendt observed that totalitarian regimes thrive not through violence alone but by first destroying the bonds of human plurality—isolating individuals so they have no one to test reality against. In that atomized state, people become susceptible to ideology offering false certainty, because the loneliness is so unbearable that any claim to absolute truth feels like rescue.",
+    "source": {
+      "title": "The Origins of Totalitarianism",
+      "author": "Hannah Arendt",
+      "year": 1951
+    },
+    "tags": [
+      "politics",
+      "loneliness",
+      "community"
     ]
   }
 ]
