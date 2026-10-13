@@ -15997,5 +15997,80 @@
       "loneliness",
       "community"
     ]
+  },
+  {
+    "id": "mathematics-42",
+    "title": "Infinity comes in different sizes",
+    "body": "Georg Cantor proved that not all infinite sets are equal: the integers and the real numbers are both infinite, yet the real numbers are provably larger — a larger infinity. His diagonal argument demonstrated that no list can ever exhaust the real numbers, revealing an entire hierarchy of infinities (aleph numbers). This shattered the intuition that 'infinite' is simply boundless and replaced it with a precise arithmetic of the uncountable.",
+    "source": {
+      "title": "Contributions to the Founding of the Theory of Transfinite Numbers",
+      "author": "Georg Cantor",
+      "year": 1895
+    },
+    "tags": [
+      "mathematics",
+      "infinity",
+      "logic"
+    ]
+  },
+  {
+    "id": "history-40",
+    "title": "Civilizations rise by solidarity, fall by luxury",
+    "body": "Ibn Khaldun argued that group solidarity — asabiyyah, the social cohesion binding desert tribes and frontier peoples — is the engine of conquest and state-building. Once a dynasty seizes power, urban prosperity gradually dissolves that solidarity: rulers become distant, elites grow dependent on comfort, and the very success that conquest brings corrodes the vigor that made conquest possible. A new group on the margins, still lean and unified, then repeats the cycle.",
+    "source": {
+      "title": "The Muqaddimah",
+      "author": "Ibn Khaldun",
+      "year": 1377
+    },
+    "tags": [
+      "history",
+      "civilization",
+      "power"
+    ]
+  },
+  {
+    "id": "psychology-51",
+    "title": "Behavior is a function of person and environment together",
+    "body": "Kurt Lewin's field theory holds that behavior cannot be explained by either personality or situation alone — it arises from the dynamic interaction of the two. His formula B = f(P, E) was a rebuke to purely dispositional accounts: the same person in different environments behaves differently, and the same environment elicits different responses from different people. Understanding and changing behavior therefore requires mapping both the internal forces driving the person and the external forces shaping the field they inhabit.",
+    "source": {
+      "title": "Principles of Topological Psychology",
+      "author": "Kurt Lewin",
+      "year": 1936
+    },
+    "tags": [
+      "psychology",
+      "behavior",
+      "environment"
+    ]
+  },
+  {
+    "id": "rhetoric-06",
+    "title": "Persuasion works through identification, not argument alone",
+    "body": "Kenneth Burke argued that the classical focus on logical proof and emotional appeal misses rhetoric's deeper mechanism: identification. We are persuaded by those we feel we share substance with — values, experiences, interests, or an imagined community. A speaker who establishes 'you and I are alike in this respect' has already done the heaviest persuasive work before a single argument is delivered. Division — the opposite of identification — is therefore not only a social problem but a rhetorical failure.",
+    "source": {
+      "title": "A Rhetoric of Motives",
+      "author": "Kenneth Burke",
+      "year": 1950
+    },
+    "tags": [
+      "rhetoric",
+      "persuasion",
+      "identity"
+    ]
+  },
+  {
+    "id": "biology-33",
+    "title": "Cooperation, not only competition, drives evolution",
+    "body": "Lynn Margulis demonstrated that the mitochondria inside every eukaryotic cell were once free-living bacteria that entered into a symbiotic relationship with a host cell roughly two billion years ago — and never left. This endosymbiosis was not a rare accident but the origin of the entire domain of complex life. Margulis's work, long dismissed and eventually vindicated, showed that major evolutionary transitions can be driven by merger and cooperation rather than by the gradual competitive selection Darwin emphasized.",
+    "source": {
+      "title": "Symbiosis in Cell Evolution",
+      "author": "Lynn Margulis",
+      "year": 1981
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "cooperation"
+    ]
   }
 ]
