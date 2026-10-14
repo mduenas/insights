@@ -16073,4 +16073,80 @@
       "cooperation"
     ]
   }
+,
+  {
+    "id": "medicine-01",
+    "title": "The work still carries weight without a future to place it in",
+    "body": "Writing as a neurosurgeon facing terminal lung cancer, Paul Kalanithi observed that when an uncertain future strips away the expected trajectory of a life—the career arc, the milestones ahead—present work does not lose its meaning but reveals it. Operating days after his diagnosis, he found that the act of caring was wholly significant in itself, not merely instrumental to goals he might never reach. Meaning does not reside in outcomes we may never witness but in the quality of attention we bring to whatever is before us.",
+    "source": {
+      "title": "When Breath Becomes Air",
+      "author": "Paul Kalanithi",
+      "year": 2016
+    },
+    "tags": [
+      "medicine",
+      "meaning",
+      "mortality"
+    ]
+  },
+  {
+    "id": "astronomy-01",
+    "title": "Two observations dissolved the static, human-scale cosmos",
+    "body": "Edwin Hubble's measurements of Cepheid variable stars in the Andromeda Nebula proved it lay far beyond the Milky Way—a galaxy of comparable scale in its own right. His subsequent discovery that distant galaxies recede at speeds proportional to their distance showed that the universe is expanding, and therefore had a finite beginning. These two observations—one of distance, one of motion—shattered millennia of assumption about an eternal, bounded cosmos and placed humanity inside a universe vastly larger and older than imagination had entertained.",
+    "source": {
+      "title": "The Realm of the Nebulae",
+      "author": "Edwin Hubble",
+      "year": 1936
+    },
+    "tags": [
+      "astronomy",
+      "cosmology",
+      "discovery"
+    ]
+  },
+  {
+    "id": "physics-01",
+    "title": "Mathematical beauty is a guide to physical truth",
+    "body": "Paul Dirac argued that when a physical theory is formulated with genuine mathematical elegance, it is more likely to be correct than one that merely fits existing data but looks arbitrary. He arrived at his relativistic wave equation for the electron through aesthetic reasoning before the confirming experiments existed. This was not mysticism but an empirical observation about how science has repeatedly worked: the deepest laws of nature consistently turn out to be expressible in forms of striking simplicity and symmetry, suggesting mathematical beauty and physical truth are not independent virtues.",
+    "source": {
+      "title": "The Relation between Mathematics and Physics",
+      "author": "Paul Dirac",
+      "year": 1940
+    },
+    "tags": [
+      "physics",
+      "mathematics",
+      "beauty"
+    ]
+  },
+  {
+    "id": "memory-01",
+    "title": "Perfect memory can be a burden, not a gift",
+    "body": "A.R. Luria's case study of journalist Solomon Shereshevsky, who could not forget anything, revealed a cognitive paradox: boundless retention prevented understanding. Because every word conjured vivid, persistent images, Shereshevsky could not grasp abstractions, follow the drift of a passage, or recognize a face altered by time. Forgetting is not a failure of memory but one of its essential functions—the pruning that allows patterns, meanings, and new perceptions to emerge from the noise of accumulated detail.",
+    "source": {
+      "title": "The Mind of a Mnemonist",
+      "author": "A.R. Luria",
+      "year": 1968
+    },
+    "tags": [
+      "memory",
+      "cognition",
+      "forgetting"
+    ]
+  },
+  {
+    "id": "geology-01",
+    "title": "Deep time dissolves the human sense of permanence",
+    "body": "James Hutton's examination of rock strata at Siccar Point, Scotland, revealed unconformities—ancient seabeds tilted vertical, eroded, then buried under new horizontal layers—that could only be explained by cycles of immense duration. His conclusion that geological processes observable today had been acting continuously for unimaginably long periods produced what he called 'no vestige of a beginning, no prospect of an end.' The discovery did not merely extend the timeline; it reordered the human sense of scale, rendering human civilizations a momentary film on rocks whose formation consumed millions of times more time.",
+    "source": {
+      "title": "Theory of the Earth",
+      "author": "James Hutton",
+      "year": 1788
+    },
+    "tags": [
+      "geology",
+      "deep-time",
+      "perspective"
+    ]
+  }
 ]
