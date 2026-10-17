@@ -16307,5 +16307,80 @@
       "complexity",
       "reductionism"
     ]
+  },
+  {
+    "id": "habits-21",
+    "title": "Identity precedes behavior",
+    "body": "James Clear argues that lasting behavior change is rooted not in outcomes or processes but in identity: every action you take is a vote for the type of person you want to become. When you shift your self-image first—'I am a writer' rather than 'I want to write more'—the habits that follow feel less like effort and more like self-expression.",
+    "source": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": 2018
+    },
+    "tags": [
+      "habits",
+      "identity",
+      "self-improvement"
+    ]
+  },
+  {
+    "id": "biology-35",
+    "title": "Cooperation emerges from repeated encounters",
+    "body": "Robert Axelrod's computer tournaments showed that in iterated interactions, a strategy of simple reciprocity—cooperating first and then mirroring your partner's last move—outcompetes every more complex strategy. Cooperation does not require altruism or central authority; it can evolve spontaneously when individuals expect to meet again.",
+    "source": {
+      "title": "The Evolution of Cooperation",
+      "author": "Robert Axelrod",
+      "year": 1984
+    },
+    "tags": [
+      "cooperation",
+      "game-theory",
+      "evolution"
+    ]
+  },
+  {
+    "id": "economics-55",
+    "title": "Prices are a telecommunications system",
+    "body": "Friedrich Hayek contended that no central planner can ever possess the dispersed, tacit knowledge held by millions of individuals making local decisions. The price system solves this problem elegantly: rising prices broadcast scarcity and falling prices broadcast abundance without anyone needing to understand the whole picture.",
+    "source": {
+      "title": "The Use of Knowledge in Society",
+      "author": "Friedrich A. Hayek",
+      "year": 1945
+    },
+    "tags": [
+      "economics",
+      "information",
+      "markets"
+    ]
+  },
+  {
+    "id": "creativity-33",
+    "title": "Constraints are the mother of invention",
+    "body": "Patricia Stokes analyzed the careers of artists from Monet to Picasso and found that self-imposed constraints—limiting palette, subject matter, or technique—consistently triggered the most original breakthroughs. Restriction forces the mind off familiar paths and into territory it would never explore if all options remained open.",
+    "source": {
+      "title": "Creativity from Constraints: The Psychology of Breakthrough",
+      "author": "Patricia Stokes",
+      "year": 2006
+    },
+    "tags": [
+      "creativity",
+      "constraints",
+      "innovation"
+    ]
+  },
+  {
+    "id": "leadership-28",
+    "title": "Great leaders ask questions before giving answers",
+    "body": "Edgar Schein observed that leaders who lead with assertions shut down information flow, because subordinates quickly learn to tell the boss what they want to hear. Humble inquiry—genuine curiosity about another person's situation—creates the psychological safety that allows uncomfortable truths to surface before they become crises.",
+    "source": {
+      "title": "Humble Inquiry: The Gentle Art of Asking Instead of Telling",
+      "author": "Edgar H. Schein",
+      "year": 2013
+    },
+    "tags": [
+      "leadership",
+      "communication",
+      "psychological-safety"
+    ]
   }
 ]
