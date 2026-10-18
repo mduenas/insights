@@ -15999,7 +15999,392 @@
     ]
   },
   {
+    "id": "mathematics-42",
+    "title": "Infinity comes in different sizes",
+    "body": "Georg Cantor proved that not all infinite sets are equal: the integers and the real numbers are both infinite, yet the real numbers are provably larger — a larger infinity. His diagonal argument demonstrated that no list can ever exhaust the real numbers, revealing an entire hierarchy of infinities (aleph numbers). This shattered the intuition that 'infinite' is simply boundless and replaced it with a precise arithmetic of the uncountable.",
+    "source": {
+      "title": "Contributions to the Founding of the Theory of Transfinite Numbers",
+      "author": "Georg Cantor",
+      "year": 1895
+    },
+    "tags": [
+      "mathematics",
+      "infinity",
+      "logic"
+    ]
+  },
+  {
+    "id": "history-40",
+    "title": "Civilizations rise by solidarity, fall by luxury",
+    "body": "Ibn Khaldun argued that group solidarity — asabiyyah, the social cohesion binding desert tribes and frontier peoples — is the engine of conquest and state-building. Once a dynasty seizes power, urban prosperity gradually dissolves that solidarity: rulers become distant, elites grow dependent on comfort, and the very success that conquest brings corrodes the vigor that made conquest possible. A new group on the margins, still lean and unified, then repeats the cycle.",
+    "source": {
+      "title": "The Muqaddimah",
+      "author": "Ibn Khaldun",
+      "year": 1377
+    },
+    "tags": [
+      "history",
+      "civilization",
+      "power"
+    ]
+  },
+  {
+    "id": "psychology-51",
+    "title": "Behavior is a function of person and environment together",
+    "body": "Kurt Lewin's field theory holds that behavior cannot be explained by either personality or situation alone — it arises from the dynamic interaction of the two. His formula B = f(P, E) was a rebuke to purely dispositional accounts: the same person in different environments behaves differently, and the same environment elicits different responses from different people. Understanding and changing behavior therefore requires mapping both the internal forces driving the person and the external forces shaping the field they inhabit.",
+    "source": {
+      "title": "Principles of Topological Psychology",
+      "author": "Kurt Lewin",
+      "year": 1936
+    },
+    "tags": [
+      "psychology",
+      "behavior",
+      "environment"
+    ]
+  },
+  {
+    "id": "rhetoric-06",
+    "title": "Persuasion works through identification, not argument alone",
+    "body": "Kenneth Burke argued that the classical focus on logical proof and emotional appeal misses rhetoric's deeper mechanism: identification. We are persuaded by those we feel we share substance with — values, experiences, interests, or an imagined community. A speaker who establishes 'you and I are alike in this respect' has already done the heaviest persuasive work before a single argument is delivered. Division — the opposite of identification — is therefore not only a social problem but a rhetorical failure.",
+    "source": {
+      "title": "A Rhetoric of Motives",
+      "author": "Kenneth Burke",
+      "year": 1950
+    },
+    "tags": [
+      "rhetoric",
+      "persuasion",
+      "identity"
+    ]
+  },
+  {
     "id": "biology-33",
+    "title": "Cooperation, not only competition, drives evolution",
+    "body": "Lynn Margulis demonstrated that the mitochondria inside every eukaryotic cell were once free-living bacteria that entered into a symbiotic relationship with a host cell roughly two billion years ago — and never left. This endosymbiosis was not a rare accident but the origin of the entire domain of complex life. Margulis's work, long dismissed and eventually vindicated, showed that major evolutionary transitions can be driven by merger and cooperation rather than by the gradual competitive selection Darwin emphasized.",
+    "source": {
+      "title": "Symbiosis in Cell Evolution",
+      "author": "Lynn Margulis",
+      "year": 1981
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "cooperation"
+    ]
+  },
+  {
+    "id": "medicine-01",
+    "title": "The work still carries weight without a future to place it in",
+    "body": "Writing as a neurosurgeon facing terminal lung cancer, Paul Kalanithi observed that when an uncertain future strips away the expected trajectory of a life—the career arc, the milestones ahead—present work does not lose its meaning but reveals it. Operating days after his diagnosis, he found that the act of caring was wholly significant in itself, not merely instrumental to goals he might never reach. Meaning does not reside in outcomes we may never witness but in the quality of attention we bring to whatever is before us.",
+    "source": {
+      "title": "When Breath Becomes Air",
+      "author": "Paul Kalanithi",
+      "year": 2016
+    },
+    "tags": [
+      "medicine",
+      "meaning",
+      "mortality"
+    ]
+  },
+  {
+    "id": "astronomy-01",
+    "title": "Two observations dissolved the static, human-scale cosmos",
+    "body": "Edwin Hubble's measurements of Cepheid variable stars in the Andromeda Nebula proved it lay far beyond the Milky Way—a galaxy of comparable scale in its own right. His subsequent discovery that distant galaxies recede at speeds proportional to their distance showed that the universe is expanding, and therefore had a finite beginning. These two observations—one of distance, one of motion—shattered millennia of assumption about an eternal, bounded cosmos and placed humanity inside a universe vastly larger and older than imagination had entertained.",
+    "source": {
+      "title": "The Realm of the Nebulae",
+      "author": "Edwin Hubble",
+      "year": 1936
+    },
+    "tags": [
+      "astronomy",
+      "cosmology",
+      "discovery"
+    ]
+  },
+  {
+    "id": "physics-01",
+    "title": "Mathematical beauty is a guide to physical truth",
+    "body": "Paul Dirac argued that when a physical theory is formulated with genuine mathematical elegance, it is more likely to be correct than one that merely fits existing data but looks arbitrary. He arrived at his relativistic wave equation for the electron through aesthetic reasoning before the confirming experiments existed. This was not mysticism but an empirical observation about how science has repeatedly worked: the deepest laws of nature consistently turn out to be expressible in forms of striking simplicity and symmetry, suggesting mathematical beauty and physical truth are not independent virtues.",
+    "source": {
+      "title": "The Relation between Mathematics and Physics",
+      "author": "Paul Dirac",
+      "year": 1940
+    },
+    "tags": [
+      "physics",
+      "mathematics",
+      "beauty"
+    ]
+  },
+  {
+    "id": "memory-01",
+    "title": "Perfect memory can be a burden, not a gift",
+    "body": "A.R. Luria's case study of journalist Solomon Shereshevsky, who could not forget anything, revealed a cognitive paradox: boundless retention prevented understanding. Because every word conjured vivid, persistent images, Shereshevsky could not grasp abstractions, follow the drift of a passage, or recognize a face altered by time. Forgetting is not a failure of memory but one of its essential functions—the pruning that allows patterns, meanings, and new perceptions to emerge from the noise of accumulated detail.",
+    "source": {
+      "title": "The Mind of a Mnemonist",
+      "author": "A.R. Luria",
+      "year": 1968
+    },
+    "tags": [
+      "memory",
+      "cognition",
+      "forgetting"
+    ]
+  },
+  {
+    "id": "geology-01",
+    "title": "Deep time dissolves the human sense of permanence",
+    "body": "James Hutton's examination of rock strata at Siccar Point, Scotland, revealed unconformities—ancient seabeds tilted vertical, eroded, then buried under new horizontal layers—that could only be explained by cycles of immense duration. His conclusion that geological processes observable today had been acting continuously for unimaginably long periods produced what he called 'no vestige of a beginning, no prospect of an end.' The discovery did not merely extend the timeline; it reordered the human sense of scale, rendering human civilizations a momentary film on rocks whose formation consumed millions of times more time.",
+    "source": {
+      "title": "Theory of the Earth",
+      "author": "James Hutton",
+      "year": 1788
+    },
+    "tags": [
+      "geology",
+      "deep-time",
+      "perspective"
+    ]
+  },
+  {
+    "id": "game-theory-09",
+    "title": "The Power of the Expected",
+    "body": "Thomas Schelling discovered that people facing coordination problems often converge on the same solution without communication — not because it is optimal, but because it is salient. He called these convergence points focal points: solutions that stand out by prominence, uniqueness, or cultural resonance. The insight reframes negotiation and strategy: shared expectations and symbolic distinctiveness can be more decisive than formal calculation, and whatever one party expects the other to expect can become self-fulfilling.",
+    "source": {
+      "title": "The Strategy of Conflict",
+      "author": "Thomas C. Schelling",
+      "year": 1960
+    },
+    "tags": [
+      "coordination",
+      "game-theory",
+      "rationality",
+      "negotiation"
+    ]
+  },
+  {
+    "id": "physics-02",
+    "title": "Imagination Constrained by Honesty",
+    "body": "Feynman argued that science progresses not by accumulating facts but by eliminating wrong ideas through experiment. The discipline required is not generating hypotheses — imagination does that naturally — but subjecting them ruthlessly to test. He insisted that a beautiful theory that contradicts experiment is simply wrong. This asymmetry defines scientific method: creative guessing is welcome, but the verdict lies entirely with reality, and no amount of elegance or consensus can substitute for that check.",
+    "source": {
+      "title": "The Character of Physical Law",
+      "author": "Richard P. Feynman",
+      "year": 1965
+    },
+    "tags": [
+      "science",
+      "epistemology",
+      "method",
+      "honesty"
+    ]
+  },
+  {
+    "id": "music-22",
+    "title": "The Constraint That Sets You Free",
+    "body": "Stravinsky argued that the more constraints one imposes on oneself, the more freely one creates within them — that self-imposed discipline sharpens attention and forces invention rather than killing it. The composer with infinite freedom often produces nothing; the one who chooses to work within a strict form discovers possibilities that looser conditions conceal. Constraint, chosen deliberately, is not the opposite of creativity but one of its enabling conditions, focusing energy rather than dispersing it.",
+    "source": {
+      "title": "Poetics of Music in the Form of Six Lessons",
+      "author": "Igor Stravinsky",
+      "year": 1942
+    },
+    "tags": [
+      "creativity",
+      "constraints",
+      "music",
+      "discipline"
+    ]
+  },
+  {
+    "id": "medicine-02",
+    "title": "Illness as a Window Into the Normal",
+    "body": "Oliver Sacks showed that neurological disorders are not merely deficits but revelations of machinery we take entirely for granted. A patient who loses the ability to recognize faces illuminates the unconscious complexity behind ordinary recognition; one who confabulates seamlessly demonstrates that narrative identity is actively constructed, not passively recalled. Disease, in Sacks's hands, became a peculiar lens: the breakdown of function makes visible the astonishing structures that sustain normal experience.",
+    "source": {
+      "title": "The Man Who Mistook His Wife for a Hat",
+      "author": "Oliver Sacks",
+      "year": 1985
+    },
+    "tags": [
+      "neuroscience",
+      "identity",
+      "perception",
+      "medicine"
+    ]
+  },
+  {
+    "id": "history-41",
+    "title": "The Persistence of Wooden-Headedness",
+    "body": "Barbara Tuchman identified a recurring pattern she called folly: governments pursuing policies demonstrably contrary to their own interests, despite clear warnings and available alternatives. The pattern persists across centuries because institutional pride, the desire to avoid admitting error, and the momentum of prior decisions can override evidence indefinitely. Recognizing folly, Tuchman argued, requires distinguishing not what leaders couldn't know from what they refused to see — the latter being the more common and more costly failure.",
+    "source": {
+      "title": "The March of Folly: From Troy to Vietnam",
+      "author": "Barbara W. Tuchman",
+      "year": 1984
+    },
+    "tags": [
+      "history",
+      "leadership",
+      "decision-making",
+      "institutions"
+    ]
+  },
+  {
+    "id": "sociology-47",
+    "title": "Categories, Not Individuals, Create Inequality",
+    "body": "Charles Tilly argued that persistent social inequality stems not from individual differences in talent or effort, but from how organizations exploit categorical distinctions — race, gender, citizenship — to allocate unequal rewards. When institutions pair an internal category (managers vs. workers) with an external one (men vs. women), inequality becomes embedded in everyday structures. Understanding this makes clear why individual striving alone cannot undo structural disadvantage; the categories themselves must change.",
+    "source": {
+      "title": "Durable Inequality",
+      "author": "Charles Tilly",
+      "year": 1998
+    },
+    "tags": [
+      "sociology",
+      "inequality",
+      "institutions",
+      "power"
+    ]
+  },
+  {
+    "id": "sociology-48",
+    "title": "Culture as a Toolkit",
+    "body": "Ann Swidler challenged the common view that culture shapes behavior by instilling values that people then act upon. Instead, she argued, culture is better understood as a toolkit: a repertoire of habits, skills, and styles from which people construct strategies for action. What people want may be less culturally shaped than how they pursue it. This reframing explains why cultural change is difficult — it requires not just new values but new competencies.",
+    "source": {
+      "title": "Talk of Love: How Culture Matters",
+      "author": "Ann Swidler",
+      "year": 2001
+    },
+    "tags": [
+      "sociology",
+      "culture",
+      "behavior",
+      "identity"
+    ]
+  },
+  {
+    "id": "philosophy-72",
+    "title": "Worlds Are Made, Not Found",
+    "body": "Nelson Goodman argued that there is no single, mind-independent reality waiting to be discovered. Different symbol systems — scientific theories, paintings, musical scores, perceptual habits — each construct distinct but equally legitimate versions of the world. A scientific account and a poem about the same event are not competing descriptions of a single thing; they make genuinely different worlds. This irrealism invites us to take the plurality of human knowledge-making seriously rather than crowning any one discipline as the sole route to truth.",
+    "source": {
+      "title": "Ways of Worldmaking",
+      "author": "Nelson Goodman",
+      "year": 1978
+    },
+    "tags": [
+      "philosophy",
+      "epistemology",
+      "symbolism",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "biology-34",
+    "title": "We Deceive Ourselves to Deceive Others",
+    "body": "Robert Trivers proposed an unsettling evolutionary logic for self-deception: we hide truths from ourselves not accidentally but strategically, because genuine belief in our own false narratives makes us more convincing to others. An unconscious mind that conceals inconvenient information from the conscious self produces a liar who doesn't know they're lying — and therefore passes the scrutiny that consciously known deception fails. Understanding this invites uncomfortable scrutiny of any confident belief that serves our interests too neatly.",
+    "source": {
+      "title": "The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life",
+      "author": "Robert Trivers",
+      "year": 2011
+    },
+    "tags": [
+      "biology",
+      "psychology",
+      "evolution",
+      "self-deception"
+    ]
+  },
+  {
+    "id": "science-57",
+    "title": "More Is Different",
+    "body": "Philip Anderson's landmark essay argued that the ability to reduce everything in principle to simple fundamental laws does not imply the ability to reconstruct the universe from those laws. As we ascend from physics to chemistry to biology to psychology, qualitatively new phenomena emerge that obey their own laws, irreducible to the level below. Superconductivity, consciousness, and social order are not merely physics writ large; they require their own conceptual frameworks. This insight legitimizes the autonomy of the special sciences and humbles anyone who believes one discipline can explain all others.",
+    "source": {
+      "title": "More Is Different",
+      "author": "Philip W. Anderson",
+      "year": 1972
+    },
+    "tags": [
+      "science",
+      "emergence",
+      "complexity",
+      "reductionism"
+    ]
+  },
+  {
+    "id": "habits-21",
+    "title": "Identity precedes behavior",
+    "body": "James Clear argues that lasting behavior change is rooted not in outcomes or processes but in identity: every action you take is a vote for the type of person you want to become. When you shift your self-image first—'I am a writer' rather than 'I want to write more'—the habits that follow feel less like effort and more like self-expression.",
+    "source": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": 2018
+    },
+    "tags": [
+      "habits",
+      "identity",
+      "self-improvement"
+    ]
+  },
+  {
+    "id": "biology-35",
+    "title": "Cooperation emerges from repeated encounters",
+    "body": "Robert Axelrod's computer tournaments showed that in iterated interactions, a strategy of simple reciprocity—cooperating first and then mirroring your partner's last move—outcompetes every more complex strategy. Cooperation does not require altruism or central authority; it can evolve spontaneously when individuals expect to meet again.",
+    "source": {
+      "title": "The Evolution of Cooperation",
+      "author": "Robert Axelrod",
+      "year": 1984
+    },
+    "tags": [
+      "cooperation",
+      "game-theory",
+      "evolution"
+    ]
+  },
+  {
+    "id": "economics-55",
+    "title": "Prices are a telecommunications system",
+    "body": "Friedrich Hayek contended that no central planner can ever possess the dispersed, tacit knowledge held by millions of individuals making local decisions. The price system solves this problem elegantly: rising prices broadcast scarcity and falling prices broadcast abundance without anyone needing to understand the whole picture.",
+    "source": {
+      "title": "The Use of Knowledge in Society",
+      "author": "Friedrich A. Hayek",
+      "year": 1945
+    },
+    "tags": [
+      "economics",
+      "information",
+      "markets"
+    ]
+  },
+  {
+    "id": "creativity-33",
+    "title": "Constraints are the mother of invention",
+    "body": "Patricia Stokes analyzed the careers of artists from Monet to Picasso and found that self-imposed constraints—limiting palette, subject matter, or technique—consistently triggered the most original breakthroughs. Restriction forces the mind off familiar paths and into territory it would never explore if all options remained open.",
+    "source": {
+      "title": "Creativity from Constraints: The Psychology of Breakthrough",
+      "author": "Patricia Stokes",
+      "year": 2006
+    },
+    "tags": [
+      "creativity",
+      "constraints",
+      "innovation"
+    ]
+  },
+  {
+    "id": "leadership-28",
+    "title": "Great leaders ask questions before giving answers",
+    "body": "Edgar Schein observed that leaders who lead with assertions shut down information flow, because subordinates quickly learn to tell the boss what they want to hear. Humble inquiry—genuine curiosity about another person's situation—creates the psychological safety that allows uncomfortable truths to surface before they become crises.",
+    "source": {
+      "title": "Humble Inquiry: The Gentle Art of Asking Instead of Telling",
+      "author": "Edgar H. Schein",
+      "year": 2013
+    },
+    "tags": [
+      "leadership",
+      "communication",
+      "psychological-safety"
+    ]
+  },
+  {
+    "id": "biology-36",
     "title": "Cooperation is nature's oldest trick",
     "body": "Contrary to the cliché of nature as ruthlessly competitive, evolution has repeatedly discovered that reciprocal cooperation outperforms pure selfishness in sustained interactions. Ridley shows that altruism, fairness, and trust are not cultural impositions on a savage nature but ancient biological strategies refined over millions of years, written into our genes as surely as any reflex.",
     "source": {
@@ -16014,7 +16399,7 @@
     ]
   },
   {
-    "id": "history-40",
+    "id": "history-42",
     "title": "History repeats only for those who didn't read it",
     "body": "The Durants spent fifty years synthesizing human civilization and concluded that every generation faces the same fundamental dilemmas—how to balance freedom and order, equality and excellence, change and stability. The past does not offer prescriptions, but it reveals patterns: the rise of inequality always precedes social upheaval, and the decline of civic virtue always precedes collapse.",
     "source": {
@@ -16044,7 +16429,7 @@
     ]
   },
   {
-    "id": "mathematics-42",
+    "id": "mathematics-43",
     "title": "Solve a simpler problem first",
     "body": "Pólya's enduring heuristic begins with the instruction to find a related, more tractable problem when you are stuck. Solving the simplified version builds intuition, reveals structure, and often delivers the key insight needed for the original. This pattern—moving from the concrete and small toward the abstract and large—is the heartbeat of mathematical discovery and generalizes to nearly every domain of problem-solving.",
     "source": {
@@ -16059,7 +16444,7 @@
     ]
   },
   {
-    "id": "leadership-28",
+    "id": "leadership-29",
     "title": "Leadership is the capacity to translate vision into reality",
     "body": "Bennis studied hundreds of leaders across business, military, and civic life and found that what distinguished the effective ones was not charisma or intellect but an unusual ability to hold a clear image of a desired future while simultaneously managing the practical steps toward it. Trust, he observed, is the emotional fuel of this translation: people follow those whose actions reliably match their words.",
     "source": {
