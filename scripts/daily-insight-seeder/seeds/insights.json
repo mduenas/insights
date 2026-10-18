@@ -15997,5 +15997,80 @@
       "loneliness",
       "community"
     ]
+  },
+  {
+    "id": "biology-33",
+    "title": "Cooperation is nature's oldest trick",
+    "body": "Contrary to the cliché of nature as ruthlessly competitive, evolution has repeatedly discovered that reciprocal cooperation outperforms pure selfishness in sustained interactions. Ridley shows that altruism, fairness, and trust are not cultural impositions on a savage nature but ancient biological strategies refined over millions of years, written into our genes as surely as any reflex.",
+    "source": {
+      "title": "The Origins of Virtue",
+      "author": "Matt Ridley",
+      "year": 1996
+    },
+    "tags": [
+      "biology",
+      "cooperation",
+      "evolution"
+    ]
+  },
+  {
+    "id": "history-40",
+    "title": "History repeats only for those who didn't read it",
+    "body": "The Durants spent fifty years synthesizing human civilization and concluded that every generation faces the same fundamental dilemmas—how to balance freedom and order, equality and excellence, change and stability. The past does not offer prescriptions, but it reveals patterns: the rise of inequality always precedes social upheaval, and the decline of civic virtue always precedes collapse.",
+    "source": {
+      "title": "The Lessons of History",
+      "author": "Will Durant",
+      "year": 1968
+    },
+    "tags": [
+      "history",
+      "civilization",
+      "patterns"
+    ]
+  },
+  {
+    "id": "learning-21",
+    "title": "Invest in loss to accelerate mastery",
+    "body": "Waitzkin, a chess prodigy who became a world martial arts champion, discovered that the fastest learners are those who actively seek situations where they will lose. Protecting your win-loss record protects your ego but not your growth. Each loss, properly analyzed, compresses years of incremental learning into a single corrective insight.",
+    "source": {
+      "title": "The Art of Learning",
+      "author": "Josh Waitzkin",
+      "year": 2007
+    },
+    "tags": [
+      "learning",
+      "mastery",
+      "growth"
+    ]
+  },
+  {
+    "id": "mathematics-42",
+    "title": "Solve a simpler problem first",
+    "body": "Pólya's enduring heuristic begins with the instruction to find a related, more tractable problem when you are stuck. Solving the simplified version builds intuition, reveals structure, and often delivers the key insight needed for the original. This pattern—moving from the concrete and small toward the abstract and large—is the heartbeat of mathematical discovery and generalizes to nearly every domain of problem-solving.",
+    "source": {
+      "title": "How to Solve It",
+      "author": "George Pólya",
+      "year": 1945
+    },
+    "tags": [
+      "mathematics",
+      "problem-solving",
+      "thinking"
+    ]
+  },
+  {
+    "id": "leadership-28",
+    "title": "Leadership is the capacity to translate vision into reality",
+    "body": "Bennis studied hundreds of leaders across business, military, and civic life and found that what distinguished the effective ones was not charisma or intellect but an unusual ability to hold a clear image of a desired future while simultaneously managing the practical steps toward it. Trust, he observed, is the emotional fuel of this translation: people follow those whose actions reliably match their words.",
+    "source": {
+      "title": "On Becoming a Leader",
+      "author": "Warren Bennis",
+      "year": 1989
+    },
+    "tags": [
+      "leadership",
+      "vision",
+      "trust"
+    ]
   }
 ]
