@@ -16457,5 +16457,85 @@
       "vision",
       "trust"
     ]
+  },
+  {
+    "id": "sociology-49",
+    "title": "Action precedes understanding",
+    "body": "Karl Weick argued that in organizations, meaning is not discovered but constructed after the fact: people act first and interpret their actions retrospectively, imposing a coherent narrative only once events have passed. This process of “enactment” means organizations create the very environment they then perceive—order emerges from action rather than preceding it. Effective teams therefore act, observe what results, and update their understanding continuously rather than waiting for perfect information before moving. Knowing follows doing.",
+    "source": {
+      "title": "Sensemaking in Organizations",
+      "author": "Karl E. Weick",
+      "year": 1995
+    },
+    "tags": [
+      "sensemaking",
+      "organizations",
+      "leadership",
+      "decision-making"
+    ]
+  },
+  {
+    "id": "literature-64",
+    "title": "Solitude is the ground of self",
+    "body": "Octavio Paz argued that solitude is not an accident or a social failure but the fundamental condition of human consciousness—the irreducible awareness that each self is sealed off from all others. Rather than escaping this solitude, Paz believed the task of culture, love, and creation is to build provisional bridges across that gap. The fiesta, the poem, the erotic encounter—all are attempts to dissolve boundaries and commune with something beyond isolated selfhood. To understand one’s solitude honestly, he suggested, is the first step toward genuine connection.",
+    "source": {
+      "title": "The Labyrinth of Solitude",
+      "author": "Octavio Paz",
+      "year": 1950
+    },
+    "tags": [
+      "solitude",
+      "identity",
+      "culture",
+      "connection"
+    ]
+  },
+  {
+    "id": "philosophy-73",
+    "title": "The map has replaced the territory",
+    "body": "Baudrillard argued that in contemporary society, representations no longer reflect an underlying reality—they have replaced it. Signs and images now circulate independently of any original referent, producing a “hyperreality” in which the simulation becomes more real than what it once represented. This is not mere illusion but a condition in which the model generates its own reality without origin or ground. Navigating such a world requires the uncomfortable recognition that the frameworks we use to perceive reality may themselves be constructing what we take to be real.",
+    "source": {
+      "title": "Simulacra and Simulation",
+      "author": "Jean Baudrillard",
+      "year": 1981
+    },
+    "tags": [
+      "reality",
+      "representation",
+      "media",
+      "postmodern"
+    ]
+  },
+  {
+    "id": "economics-56",
+    "title": "Narratives move markets",
+    "body": "Robert Shiller demonstrated that financial markets are driven not only by fundamentals but by the viral spread of popular narratives—stories about technology, prosperity, or impending collapse that capture collective imagination. When compelling stories circulate widely, they alter behavior, move prices, and can produce the very outcomes they describe. This means economics is partly a social science of storytelling, which is why rational analysis alone so often fails to predict booms and crashes. The stories a society tells about its economic future are themselves an economic force.",
+    "source": {
+      "title": "Irrational Exuberance",
+      "author": "Robert J. Shiller",
+      "year": 2000
+    },
+    "tags": [
+      "economics",
+      "narrative",
+      "markets",
+      "behavior"
+    ]
+  },
+  {
+    "id": "political-theory-03",
+    "title": "Speaking for others can silence them",
+    "body": "Spivak’s landmark essay interrogated whether marginalized groups—the colonized, the poor, those defined by gender or caste—can ever truly represent themselves within frameworks established by dominant cultures. Even well-intentioned scholarship and advocacy can reinforce the silencing it claims to address, if it speaks for rather than with those it studies. Every institution or movement that represents others must ask whether it amplifies or displaces the voices it claims to serve. True solidarity, she argued, requires making space for speech rather than substituting one’s own.",
+    "source": {
+      "title": "Can the Subaltern Speak?",
+      "author": "Gayatri Chakravorty Spivak",
+      "year": 1988
+    },
+    "tags": [
+      "postcolonial",
+      "power",
+      "representation",
+      "justice"
+    ]
   }
 ]
