@@ -16537,5 +16537,85 @@
       "representation",
       "justice"
     ]
+  },
+  {
+    "id": "astronomy-02",
+    "title": "The universe expands beyond all imagined limits",
+    "body": "When Hubble demonstrated that the 'nebulae' were in fact distant galaxies each containing billions of stars, the boundary of the known universe expanded a hundredfold overnight. He then showed that nearly all these galaxies are receding—and the farther away, the faster they flee—implying a universe with a beginning that no prior cosmology had imagined. Every refinement since has confirmed that the cosmos is far vaster, stranger, and more dynamic than intuition can comfortably hold. The willingness to let evidence overturn the boundaries of the imaginable is science at its most powerful.",
+    "source": {
+      "title": "The Realm of the Nebulae",
+      "author": "Edwin Hubble",
+      "year": 1936
+    },
+    "tags": [
+      "astronomy",
+      "discovery",
+      "cosmology",
+      "science"
+    ]
+  },
+  {
+    "id": "geology-02",
+    "title": "Deep time dissolves the urgency of the present",
+    "body": "Geologists speak of 'deep time'—the staggering 4.5 billion years across which continents drift, mountain ranges rise and erode, and entire lineages emerge and vanish. McPhee described reading rock strata as a kind of vertigo: the whole of recorded human history occupies the last thin sliver of what would be a single geologic day. Understanding deep time does not diminish human experience; it recontextualizes urgency, making today's crises temporary and resilience possible by showing how much the Earth has already absorbed and remade.",
+    "source": {
+      "title": "Basin and Range",
+      "author": "John McPhee",
+      "year": 1981
+    },
+    "tags": [
+      "geology",
+      "time",
+      "perspective",
+      "humility"
+    ]
+  },
+  {
+    "id": "pragmatism-05",
+    "title": "An idea's meaning is all its practical effects",
+    "body": "Peirce's pragmatic maxim holds that the entire meaning of any concept lies in the practical consequences it would produce in experience—if two theories predict identical results in every possible circumstance, they are not two theories but one. This deceptively simple rule became the cornerstone of American pragmatism, cutting through centuries of metaphysical debate by asking: what would actually be different if this were true? It redirects thought from abstract essences toward what changes in the world, making inquiry inseparable from action.",
+    "source": {
+      "title": "How to Make Our Ideas Clear",
+      "author": "Charles Sanders Peirce",
+      "year": 1878
+    },
+    "tags": [
+      "pragmatism",
+      "philosophy",
+      "meaning",
+      "inquiry"
+    ]
+  },
+  {
+    "id": "medicine-03",
+    "title": "Medicine learned to save life but forgot to ask what makes it worth living",
+    "body": "Gawande argues that modern medicine has grown expert at extending life while remaining poorly equipped to ask what a good life near its end looks like. Patients are often subjected to aggressive interventions that prolong suffering rather than securing comfort, dignity, or the chance to fulfill remaining priorities. Drawing on his own patients and his father's decline, he shows that the hard conversations doctors avoid—about hopes, fears, and acceptable tradeoffs—are precisely the ones that determine whether someone finishes life on their own terms. Knowing when to stop is itself a form of care.",
+    "source": {
+      "title": "Being Mortal: Medicine and What Matters in the End",
+      "author": "Atul Gawande",
+      "year": 2014
+    },
+    "tags": [
+      "medicine",
+      "mortality",
+      "values",
+      "care"
+    ]
+  },
+  {
+    "id": "complexity-09",
+    "title": "Life and intelligence arise at the edge between order and chaos",
+    "body": "The researchers Waldrop documented at the Santa Fe Institute found that the most interesting phenomena—cells, brains, ecosystems, economies—exist at a critical threshold between rigid order and total disorder. Too much order freezes a system's capacity to adapt; too much chaos destroys coherence; but poised at the edge between them, complex and adaptive behavior spontaneously self-organizes. This reframes creativity, resilience, and intelligence not as properties of any single part but as signatures of a particular dynamic balance that pure analysis alone cannot engineer.",
+    "source": {
+      "title": "Complexity: The Emerging Science at the Edge of Order and Chaos",
+      "author": "M. Mitchell Waldrop",
+      "year": 1992
+    },
+    "tags": [
+      "complexity",
+      "emergence",
+      "systems",
+      "adaptation"
+    ]
   }
 ]
