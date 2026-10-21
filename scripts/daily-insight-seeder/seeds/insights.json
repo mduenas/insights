@@ -16618,4 +16618,85 @@
       "adaptation"
     ]
   }
+,
+{
+  "id": "memory-02",
+  "title": "Extraordinary memory is a practiced skill, not a rare gift",
+  "body": "The ancient technique of the memory palace—attaching vivid images to locations along a mental route—reveals that memory is not passive storage but active construction. Joshua Foer trained using this method and won the U.S. Memory Championship, demonstrating that the mind's limits are far more elastic than they appear. We remember best what we can locate in space and connect to the senses. What we call 'forgetting' is often simply a failure to make meaning vivid enough to hold.",
+  "source": {
+    "title": "Moonwalking with Einstein: The Art and Science of Remembering Everything",
+    "author": "Joshua Foer",
+    "year": 2011
+  },
+  "tags": [
+    "memory",
+    "cognition",
+    "learning",
+    "skill"
+  ]
+},
+{
+  "id": "physics-03",
+  "title": "The smooth flow of time is a large-scale illusion",
+  "body": "At the smallest scales, time may not flow at all—loop quantum gravity suggests it exists only as discrete, granular moments rather than a continuous stream. Carlo Rovelli's framework implies that the smooth river of time we experience is an emergent property arising from our particular scale of existence, not a fundamental feature of reality. Our vivid sense of the present rushing into the past is assembled by our minds from discontinuous fragments. Understanding this dissolves the urgency that makes us feel time is perpetually slipping away.",
+  "source": {
+    "title": "Seven Brief Lessons on Physics",
+    "author": "Carlo Rovelli",
+    "year": 2014
+  },
+  "tags": [
+    "physics",
+    "time",
+    "perception",
+    "consciousness"
+  ]
+},
+{
+  "id": "geology-03",
+  "title": "Minerals evolved alongside life, each reshaping the other",
+  "body": "The roughly 5,000 minerals on Earth did not all exist at the planet's formation—most emerged only after life produced oxygen, enabling chemical combinations impossible before. Robert Hazen's concept of mineral evolution shows that geology and biology have co-created each other across billions of years. Rocks are not inert backdrops to life but a detailed archive of every major transformation that life has driven. The planet and its inhabitants have shaped each other so thoroughly that neither can be fully understood in isolation.",
+  "source": {
+    "title": "The Story of Earth: The First 4.5 Billion Years, from Stardust to Living Planet",
+    "author": "Robert Hazen",
+    "year": 2012
+  },
+  "tags": [
+    "geology",
+    "biology",
+    "evolution",
+    "history"
+  ]
+},
+{
+  "id": "political-03",
+  "title": "Institutions outlast the intentions that created them",
+  "body": "Political institutions, once established, acquire a life independent of the original conditions that produced them—they persist through inertia, vested interests, and the sheer difficulty of coordinating change. Fukuyama argues that societies which built strong, impartial institutions early tend to maintain stability even as circumstances transform dramatically around them. The danger is not only corruption but rigidity: institutions that cannot adapt become obstacles rather than enablers of the society they were meant to serve. Understanding politics requires understanding how rules outlast the rulers who made them.",
+  "source": {
+    "title": "The Origins of Political Order: From Prehuman Times to the French Revolution",
+    "author": "Francis Fukuyama",
+    "year": 2011
+  },
+  "tags": [
+    "politics",
+    "institutions",
+    "history",
+    "governance"
+  ]
+},
+{
+  "id": "statistics-19",
+  "title": "Overconfident predictions cause real-world harm",
+  "body": "Most of what appears to be meaningful data is noise—random variation that our pattern-seeking minds mistake for signal. Nate Silver argues that the best forecasters hold their predictions loosely, update them frequently with new evidence, and openly acknowledge the limits of their models. Overconfidence in forecasts is not merely an intellectual error; it drives costly failures in medicine, finance, and policy when decision-makers treat uncertain estimates as certainties. Humility before uncertainty is not weakness but the foundation of genuinely good judgment.",
+  "source": {
+    "title": "The Signal and the Noise: Why So Many Predictions Fail—but Some Don't",
+    "author": "Nate Silver",
+    "year": 2012
+  },
+  "tags": [
+    "statistics",
+    "prediction",
+    "decision-making",
+    "uncertainty"
+  ]
+}
 ]
