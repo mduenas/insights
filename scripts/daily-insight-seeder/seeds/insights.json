@@ -16698,5 +16698,80 @@
     "decision-making",
     "uncertainty"
   ]
+},
+{
+  "id": "memory-03",
+  "title": "The curve that governs forgetting",
+  "body": "Ebbinghaus discovered through meticulous self-experimentation that memory decays in a predictable exponential pattern, with roughly half of new information lost within an hour and much of the remainder within a day. Crucially, he also found that spaced repetition—revisiting material at expanding intervals—dramatically reduces the total effort needed to achieve lasting retention. Memory is not a passive recording but an active process that degrades unless periodically refreshed, and knowing the precise shape of that decay curve gives the learner power to intervene at exactly the right moment.",
+  "source": {
+    "title": "Memory: A Contribution to Experimental Psychology",
+    "author": "Hermann Ebbinghaus",
+    "year": 1885
+  },
+  "tags": [
+    "memory",
+    "learning",
+    "psychology"
+  ]
+},
+{
+  "id": "astronomy-03",
+  "title": "The sun is made of hydrogen",
+  "body": "When Cecilia Payne-Gaposchkin analyzed the spectral lines of stellar atmospheres for her doctoral dissertation, she concluded that stars are overwhelmingly composed of hydrogen and helium—far simpler in constitution than anyone had imagined. The finding was so startling that her advisor pressured her to retract it as probably erroneous; within a few years it was confirmed as one of the most fundamental facts in astrophysics. Her story is a caution about how radically correct results can be—and how institutional pressure can briefly suppress a truth that patient observation has already established.",
+  "source": {
+    "title": "Stellar Atmospheres",
+    "author": "Cecilia Payne-Gaposchkin",
+    "year": 1925
+  },
+  "tags": [
+    "astronomy",
+    "science",
+    "discovery"
+  ]
+},
+{
+  "id": "geology-04",
+  "title": "Strata speak in order",
+  "body": "William Smith's realization, reconstructed by Simon Winchester, was that the same sequence of rock layers appears in the same order wherever they are exposed—meaning that fossils found in a stratum can identify its age and position in the global record. Working as a canal surveyor in early nineteenth-century England, Smith used this principle to draw the first geological map of a whole nation, predicting what lay underground before a shovel struck it. The insight that the past is physically encoded in layered form—and that the code can be read by anyone patient enough to walk the ground—turned geology from speculation into predictive science.",
+  "source": {
+    "title": "The Map That Changed the World",
+    "author": "Simon Winchester",
+    "year": 2001
+  },
+  "tags": [
+    "geology",
+    "history",
+    "science"
+  ]
+},
+{
+  "id": "political-05",
+  "title": "Institutions are frozen politics",
+  "body": "Unger argues that the social and institutional arrangements that feel most natural and permanent are in fact accumulated political choices, settled conflicts, and historical accidents that have congealed into apparent necessity. What presents itself as an iron cage is really frozen politics—which means it can be thawed. Recognizing this does not dissolve constraints overnight, but it dissolves the most paralyzing of them: the belief that the present order is simply the way things must be, rather than one possibility among many that human action could remake.",
+  "source": {
+    "title": "The Self Awakened: Pragmatism Unbound",
+    "author": "Roberto Mangabeira Unger",
+    "year": 2007
+  },
+  "tags": [
+    "politics",
+    "philosophy",
+    "transformation"
+  ]
+},
+{
+  "id": "literature-65",
+  "title": "Fantasy is a lie that tells the truth",
+  "body": "Le Guin argued that speculative fiction is not an escape from reality but a method for examining it from a distance sufficient to make its hidden structures visible. By constructing imaginary worlds, a writer exposes the unexamined assumptions of the actual one; readers who would resist a direct argument find themselves persuaded through metaphor and narrative. The imagination, she insisted, is not a luxury but a necessary human faculty—the means by which we think through futures we have not yet lived and social arrangements we have not yet tried.",
+  "source": {
+    "title": "The Language of the Night",
+    "author": "Ursula K. Le Guin",
+    "year": 1979
+  },
+  "tags": [
+    "literature",
+    "creativity",
+    "imagination"
+  ]
 }
 ]
