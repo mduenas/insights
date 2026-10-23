@@ -16617,6 +16617,86 @@
       "systems",
       "adaptation"
     ]
+  },
+  {
+    "id": "physics-03",
+    "title": "Knowing the name of a thing is not the same as knowing the thing",
+    "body": "Richard Feynman's father taught him as a child that a bird can be called a brown-throated thrush in a dozen languages, yet knowing all those names tells you nothing about what the bird actually does — how it sings, what it eats, how it migrates. Feynman carried this lesson into physics: true understanding means being able to describe behavior, predict outcomes, and see connections, not merely attach a label. In any domain, fluency in vocabulary without grasp of mechanism is the most common and most comfortable form of ignorance.",
+    "source": {
+      "title": "What Do You Care What Other People Think?",
+      "author": "Richard P. Feynman",
+      "year": 1988
+    },
+    "tags": [
+      "science",
+      "learning",
+      "knowledge",
+      "curiosity"
+    ]
+  },
+  {
+    "id": "memory-02",
+    "title": "Memory is a reconstruction, not a recording",
+    "body": "Daniel Schacter's research demonstrated that the brain does not store experiences like a video file to be replayed intact. Each time a memory is retrieved, it is rebuilt from fragments — stored impressions assembled in light of current mood, expectations, and subsequent events. This means that the act of remembering is also an act of editing: vivid confidence in a recollection is not evidence of its accuracy, and the memories we return to most often may be the ones most changed by revisiting.",
+    "source": {
+      "title": "The Seven Sins of Memory: How the Mind Forgets and Remembers",
+      "author": "Daniel L. Schacter",
+      "year": 2001
+    },
+    "tags": [
+      "memory",
+      "neuroscience",
+      "psychology",
+      "cognition"
+    ]
+  },
+  {
+    "id": "architecture-16",
+    "title": "A pattern is a solution to a problem that recurs in a context",
+    "body": "Christopher Alexander observed that certain spatial arrangements appear again and again across cultures and centuries because they solve persistent human problems — the need for light without exposure, for community without crowding, for shelter that still connects to the outside. A pattern is not a blueprint but a captured relationship: problem, context, and resolution held together so others can adapt it to their own situation. The same logic later migrated from architecture into software engineering, where design patterns became a vocabulary for recurring structural problems in code.",
+    "source": {
+      "title": "A Pattern Language: Towns, Buildings, Construction",
+      "author": "Christopher Alexander",
+      "year": 1977
+    },
+    "tags": [
+      "design",
+      "architecture",
+      "problem-solving",
+      "patterns"
+    ]
+  },
+  {
+    "id": "ecology-31",
+    "title": "A thing is right when it preserves the integrity of the biotic community",
+    "body": "Aldo Leopold proposed that ethics has expanded in stages — first governing relations between individuals, then between the individual and society — and must ultimately extend to the land itself: the soils, waters, plants, and animals that form the community of life. A land ethic reframes humans not as conquerors of nature but as plain members and citizens of it. By this standard, a practice is ecologically right when it tends to preserve the stability, integrity, and beauty of the living community; when it disrupts them, it is wrong regardless of its economic rationale.",
+    "source": {
+      "title": "A Sand County Almanac",
+      "author": "Aldo Leopold",
+      "year": 1949
+    },
+    "tags": [
+      "ecology",
+      "ethics",
+      "nature",
+      "sustainability"
+    ]
+  },
+  {
+    "id": "rhetoric-07",
+    "title": "Persuasion begins with identification, not argument",
+    "body": "Kenneth Burke argued that the foundation of rhetoric is not logic but identification — the ways speakers create a sense of shared substance with their audience through common symbols, values, and ways of seeing. You persuade a person insofar as you can speak their language: by gesture, tone, image, attitude, and idea, so that your interests appear to be their interests. This insight reframes persuasion from a matter of evidence and reasoning to one of belonging: people follow arguments that feel as though they come from someone like themselves.",
+    "source": {
+      "title": "A Rhetoric of Motives",
+      "author": "Kenneth Burke",
+      "year": 1950
+    },
+    "tags": [
+      "rhetoric",
+      "communication",
+      "persuasion",
+      "psychology"
+    ]
   }
 ,
 {
