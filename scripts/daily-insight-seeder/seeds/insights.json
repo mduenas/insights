@@ -16927,5 +16927,85 @@
       "neuroscience",
       "learning"
     ]
+  },
+  {
+    "id": "astronomy-04",
+    "title": "The invisible dominates the visible",
+    "body": "Vera Rubin spent decades measuring the rotation speeds of hundreds of galaxies and found the same puzzling result: stars far from a galaxy's center orbit just as fast as those near it, when gravity alone predicts they should slow with distance. The only explanation is that galaxies are embedded in halos of unseen matter whose gravitational pull keeps the outer stars in orbit. This dark matter, which neither emits nor reflects light, constitutes roughly 85% of all matter in the universe. The cosmos we observe with telescopes — stars, gas, planets, and everything we have ever named — is a thin luminous skin stretched over a vast invisible reality.",
+    "source": {
+      "title": "Bright Galaxies, Dark Matters",
+      "author": "Vera Rubin",
+      "year": 1997
+    },
+    "tags": [
+      "astronomy",
+      "physics",
+      "discovery",
+      "cosmology"
+    ]
+  },
+  {
+    "id": "medicine-05",
+    "title": "Poverty is the greatest pathogen",
+    "body": "Farmer coined the term 'structural violence' to describe how poverty, racism, and political exclusion cause disease and death as surely as any microbe. When a patient dies of drug-resistant tuberculosis, the bacteria is the immediate cause, but the structural cause is a history of exploitation that left the community without clean water, nutrition, or access to medicine. Treating only the biological dimension of illness while ignoring its social roots guarantees that the same diseases will keep recurring in the same populations. Medicine practiced without political and economic engagement, Farmer argued, is ultimately a form of complicity in the conditions that generate suffering.",
+    "source": {
+      "title": "Pathologies of Power",
+      "author": "Paul Farmer",
+      "year": 2003
+    },
+    "tags": [
+      "medicine",
+      "sociology",
+      "inequality",
+      "health"
+    ]
+  },
+  {
+    "id": "physics-06",
+    "title": "Extreme physics reveals how reality actually works",
+    "body": "Thorne spent his career studying the most violent objects in the universe — black holes, neutron stars, and gravitational waves — not as curiosities but as laboratories where spacetime is pushed to its limits. At these extremes, Einstein's equations predict effects that seem impossible by ordinary experience: time slowing near a massive object, space stretching as a star collapses, ripples propagating across the fabric of the universe from collisions a billion years old. What Thorne's work demonstrated is that the universe is not cautiously subtle: it contains events of such ferocity that understanding them requires a complete revision of our intuitions about time, space, and permanence. The extraordinary is not an exception to the cosmos — it is the cosmos showing you how it actually works.",
+    "source": {
+      "title": "Black Holes and Time Warps: Einstein's Outrageous Legacy",
+      "author": "Kip Thorne",
+      "year": 1994
+    },
+    "tags": [
+      "physics",
+      "astronomy",
+      "spacetime",
+      "science"
+    ]
+  },
+  {
+    "id": "memory-04",
+    "title": "Remembering is reconstruction, not replay",
+    "body": "Bartlett's experiments showed that when people recalled a story days or weeks later, they did not reproduce it accurately — they reconstructed it, filling gaps with familiar cultural schemas and smoothing out unfamiliar elements into more comfortable narratives. Memory, he argued, is not a recording device that plays back the past but a constructive process that reshapes experience in light of current knowledge, expectations, and social context. This insight, decades ahead of its time, means that confident memories are not necessarily reliable memories: remembering is always an act of interpretation. The past we carry is not the past as it was, but the past as it has been quietly rewritten by everything we have learned since.",
+    "source": {
+      "title": "Remembering: A Study in Experimental and Social Psychology",
+      "author": "Frederic Bartlett",
+      "year": 1932
+    },
+    "tags": [
+      "memory",
+      "psychology",
+      "cognition",
+      "perception"
+    ]
+  },
+  {
+    "id": "political-theory-04",
+    "title": "Democracy requires more than elections",
+    "body": "Dahl argued that elections alone do not make a democracy — genuine democratic governance requires ongoing responsiveness between citizens and their representatives, guaranteed rights of participation, and competitive pluralism where no single faction can permanently dominate. He distinguished between what he called 'polyarchy' — the real-world approximation of democratic ideals that actually exists — and the ideal democracy that political theory describes. This distinction resists both cynicism ('democracy is fake because it falls short of the ideal') and complacency ('we have elections, therefore we have democracy'). Progress in democratic governance is always a matter of closing the gap between polyarchy and the ideal, and that gap is never fully closed.",
+    "source": {
+      "title": "A Preface to Democratic Theory",
+      "author": "Robert Dahl",
+      "year": 1956
+    },
+    "tags": [
+      "political-theory",
+      "democracy",
+      "governance",
+      "power"
+    ]
   }
 ]
