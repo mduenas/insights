@@ -17008,4 +17008,85 @@
       "power"
     ]
   }
+,
+  {
+    "id": "physics-07",
+    "title": "Good explanations have infinite reach",
+    "body": "Deutsch argues that what makes an explanation genuinely good is not merely that it fits the current data but that it is hard to vary—any change to it makes it fit less well—and this internal coherence gives it reach extending far beyond the observations that prompted it. A good explanation of why heavy and light objects fall at the same rate reaches forward to predict the behavior of planets; a good explanation of inheritance reaches into molecular biology before anyone knew what a molecule was. This unlimited reach is, for Deutsch, the defining feature of scientific knowledge, and it is why the project of understanding the world is, in principle, unending: every genuine explanation opens more questions than it closes.",
+    "source": {
+      "title": "The Beginning of Infinity",
+      "author": "David Deutsch",
+      "year": 2011
+    },
+    "tags": [
+      "science",
+      "epistemology",
+      "philosophy",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "economics-57",
+    "title": "Political actors are self-interested too",
+    "body": "Buchanan and Tullock's foundational insight in public choice theory is methodologically simple but profound: the same individuals who behave as self-interested agents in markets do not transform into disinterested public servants when they enter the political process. Voters, legislators, and bureaucrats respond to the incentives of their own positions—re-election, budgetary growth, career advancement—just as buyers and sellers respond to prices. Analyzing politics without this assumption produces a systematically distorted picture, too flattering to government intervention and too dismissive of its failures. The corrective is to apply consistent behavioral assumptions to private and public actors alike, making both markets and governments legible as arenas of human interest operating under different constraints.",
+    "source": {
+      "title": "The Calculus of Consent: Logical Foundations of Constitutional Democracy",
+      "author": "James M. Buchanan and Gordon Tullock",
+      "year": 1962
+    },
+    "tags": [
+      "economics",
+      "politics",
+      "incentives",
+      "institutions"
+    ]
+  },
+  {
+    "id": "astronomy-05",
+    "title": "Beauty in equations predicts truth in nature",
+    "body": "Chandrasekhar spent his career noticing that the equations describing the most important physical phenomena shared a quality of mathematical elegance—a spare, surprising proportion between simplicity and power—that seemed to guide discovery rather than merely decorate it. His Chandrasekhar limit, predicting the maximum mass of a stable white dwarf star from quantum mechanical reasoning alone, was controversial for years before observations confirmed it; it succeeded because the mathematics was internally beautiful, not because empirical evidence had yet caught up. Drawing on conversations with Einstein, Dirac, and Heisenberg, he argued that the great physicists were guided by an aesthetic sense of which equations were worth trusting, and that this faculty, though subjective in origin, proved to be epistemically reliable.",
+    "source": {
+      "title": "Truth and Beauty: Aesthetics and Motivations in Science",
+      "author": "Subrahmanyan Chandrasekhar",
+      "year": 1987
+    },
+    "tags": [
+      "astronomy",
+      "physics",
+      "mathematics",
+      "aesthetics"
+    ]
+  },
+  {
+    "id": "rhetoric-08",
+    "title": "Argument addresses audiences, not axioms",
+    "body": "Perelman and Olbrechts-Tyteca proposed that most serious human reasoning—in law, ethics, politics, and philosophy—belongs to a domain that is neither formal logic, which compels assent from anyone who grasps the symbols, nor mere persuasion, which may work through irrational means. Argumentation, as they defined it, aims at securing the rational adherence of an audience through premises the audience is already disposed to accept, moving toward conclusions it had not yet reached. This means every argument is audience-relative: what counts as a compelling reason depends on the values and expectations of those being addressed. Far from making argument arbitrary, this framework explains why the same case must be made differently before a jury, a parliament, and a scientific society—and why failure to adapt to an audience is not just a rhetorical mistake but an intellectual one.",
+    "source": {
+      "title": "The New Rhetoric: A Treatise on Argumentation",
+      "author": "Chaïm Perelman and Lucie Olbrechts-Tyteca",
+      "year": 1969
+    },
+    "tags": [
+      "rhetoric",
+      "philosophy",
+      "communication",
+      "reasoning"
+    ]
+  },
+  {
+    "id": "literature-66",
+    "title": "Every story implies an author you trust or don't",
+    "body": "Booth introduced the concept of the 'implied author'—the version of the writer reconstructed by the reader from the choices made in the text—to explain how fiction communicates values without stating them directly. The implied author is not the real person who wrote the book but a persona implicit in every selection of what to show, what to omit, what tone to take, and which characters to render sympathetically. An unreliable narrator works precisely because the reader detects a gap between what the narrator claims and what the implied author seems to want understood. This insight showed that reading fiction is never ethically neutral: every novel asks its reader to align with a set of values the implied author embodies, whether or not those values are ever made explicit.",
+    "source": {
+      "title": "The Rhetoric of Fiction",
+      "author": "Wayne C. Booth",
+      "year": 1961
+    },
+    "tags": [
+      "literature",
+      "narrative",
+      "ethics",
+      "criticism"
+    ]
+  }
 ]
