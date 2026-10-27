@@ -17089,4 +17089,85 @@
       "criticism"
     ]
   }
+,
+  {
+    "id": "neuroscience-22",
+    "title": "The brain selects, it does not execute",
+    "body": "Edelman proposed that the nervous system develops and operates through a process analogous to natural selection rather than instruction: variable neural groups compete, and those whose activity correlates with adaptive behavior are selectively amplified through synaptic strengthening. No two brains are alike in their fine structure, even among identical twins, because the competitive shaping of each nervous system depends on its unique history of interaction with the world. The implication is that learning is not the loading of information into a predetermined slot but the reshaping of a dynamic, variable system — a process closer to evolution than to programming.",
+    "source": {
+      "title": "Neural Darwinism: The Theory of Neuronal Group Selection",
+      "author": "Gerald M. Edelman",
+      "year": 1987
+    },
+    "tags": [
+      "neuroscience",
+      "learning",
+      "brain",
+      "evolution"
+    ]
+  },
+  {
+    "id": "sociology-50",
+    "title": "Emotional energy flows through focused encounters",
+    "body": "Collins argues that what motivates individuals — their sense of confidence, enthusiasm, and moral commitment — is not a stable trait carried inside them but a resource generated and depleted through chains of social encounters. Rituals that focus a group's attention on a common object and create a boundary between members and outsiders charge participants with emotional energy; interactions that are coerced, incoherent, or humiliating drain it. Over time, people gravitate toward the encounters that give them the highest return in this invisible currency, meaning that the micro-dynamics of conversation and gathering quietly organize the macro-structure of social stratification and status.",
+    "source": {
+      "title": "Interaction Ritual Chains",
+      "author": "Randall Collins",
+      "year": 2004
+    },
+    "tags": [
+      "sociology",
+      "interaction",
+      "ritual",
+      "motivation"
+    ]
+  },
+  {
+    "id": "ethics-20",
+    "title": "The face demands before you can refuse",
+    "body": "Levinas locates the beginning of ethics not in a principle or a social contract but in the unguarded encounter with another person's face — an encounter that precedes any deliberate choice and already places you under obligation. The face does not compel you logically or physically; it calls you, presenting a vulnerability and an otherness that resists being absorbed into a category or concept. This call is not the conclusion of an argument but its precondition: all ethical reasoning already assumes that the other person's existence matters, and it matters because the face has made its claim before reasoning begins.",
+    "source": {
+      "title": "Totality and Infinity: An Essay on Exteriority",
+      "author": "Emmanuel Levinas",
+      "year": 1961
+    },
+    "tags": [
+      "ethics",
+      "philosophy",
+      "phenomenology",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "physics-08",
+    "title": "A concept means exactly what you can measure",
+    "body": "Bridgman's operationalist thesis holds that a scientific concept is defined entirely by the operations used to detect or quantify it — not by intuition, verbal definition, or analogy. Einstein's relativity revealed that 'simultaneity' was not one concept but two, each anchored to a different measurement procedure, and the apparent paradox dissolved once the operations were made explicit. Bridgman generalized this lesson: wherever a disagreement cannot in principle be resolved by specifying a procedure that would settle it, the parties are not actually disagreeing about anything real, and much apparent philosophical controversy consists of exactly this kind of pseudo-dispute over terms that carry no operational cash value.",
+    "source": {
+      "title": "The Logic of Modern Physics",
+      "author": "Percy W. Bridgman",
+      "year": 1927
+    },
+    "tags": [
+      "physics",
+      "philosophy-of-science",
+      "measurement",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "history-43",
+    "title": "Biology, not politics, remade the post-1492 world",
+    "body": "Crosby demonstrated that the most consequential effects of European contact with the Americas were ecological and epidemiological rather than military or political. Diseases like smallpox, to which indigenous Americans had no prior exposure, killed an estimated eighty to ninety percent of the pre-contact population within a century — a demographic catastrophe that dwarfed any military conquest in its scale. Simultaneously, American crops — maize, potatoes, cassava — spread across the Old World and enabled population growth in Europe, Africa, and Asia that would otherwise have been impossible. The exchange ran in both directions, but its effects were profoundly asymmetric, and understanding those asymmetries requires treating the world as a biological system, not merely a political one.",
+    "source": {
+      "title": "The Columbian Exchange: Biological and Cultural Consequences of 1492",
+      "author": "Alfred W. Crosby",
+      "year": 1972
+    },
+    "tags": [
+      "history",
+      "ecology",
+      "colonialism",
+      "biology"
+    ]
+  }
 ]
