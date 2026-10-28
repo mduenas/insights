@@ -17169,5 +17169,85 @@
       "colonialism",
       "biology"
     ]
+  },
+  {
+    "id": "geography-07",
+    "title": "Place shapes self as much as self shapes place",
+    "body": "Tuan coined 'topophilia' to describe the emotional bond between people and their environments, arguing that attachment to place is not a sentimental indulgence but a fundamental dimension of human experience that organizes memory, identity, and aspiration. A familiar landscape does not merely surround a person — it becomes part of who they are, structuring their sense of stability and belonging in ways that are difficult to articulate but devastating to lose. Tuan showed that the meaning of any environment is inseparable from the biographical history that has been lived within it, which is why displacement is so often experienced not just as loss of a location but as a partial loss of self.",
+    "source": {
+      "title": "Topophilia: A Study of Environmental Perception, Attitudes, and Values",
+      "author": "Yi-Fu Tuan",
+      "year": 1974
+    },
+    "tags": [
+      "geography",
+      "identity",
+      "place",
+      "psychology"
+    ]
+  },
+  {
+    "id": "medicine-06",
+    "title": "Trauma lives in the body, not just the mind",
+    "body": "Van der Kolk's central finding is that traumatic experience is encoded not as a coherent narrative but as fragmented physical sensations — a racing heart, a tightening chest, a sudden inability to speak — that can be triggered long after the original event has passed. Because the body re-enacts what the mind cannot fully remember or process, therapeutic approaches that rely on verbal narrative often fail to reach the core of the trauma. The implication is that effective treatment must address the body as a primary site of distress: approaches that restore a felt sense of safety in the physical self — movement, breath, somatic awareness — are not supplements to treatment but often its foundation.",
+    "source": {
+      "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+      "author": "Bessel van der Kolk",
+      "year": 2014
+    },
+    "tags": [
+      "medicine",
+      "psychology",
+      "trauma",
+      "healing"
+    ]
+  },
+  {
+    "id": "pragmatism-07",
+    "title": "Redescription can change the world without argument",
+    "body": "Rorty argued that social and moral progress happens less through philosophical argument than through the expansion of imaginative sympathy — through novels, journalism, and other forms that help us see the suffering of people we would otherwise regard as too different to matter. Rather than trying to ground solidarity in a shared human essence or universal reason, he proposed that solidarity is an achievement of the imagination: we extend our sense of 'us' when we are moved to feel that the humiliation of a stranger is something we might have experienced ourselves. The practical implication is that literature and art are not ornaments to moral philosophy but its primary instruments.",
+    "source": {
+      "title": "Contingency, Irony, and Solidarity",
+      "author": "Richard Rorty",
+      "year": 1989
+    },
+    "tags": [
+      "pragmatism",
+      "ethics",
+      "literature",
+      "solidarity"
+    ]
+  },
+  {
+    "id": "game-theory-10",
+    "title": "Stable strategies survive without reasoning",
+    "body": "Maynard Smith's evolutionarily stable strategy (ESS) concept showed that the stability of behavioral patterns in animal populations — the proportions of hawks and doves, of cooperators and defectors — can be explained without invoking rationality, foresight, or intention. A strategy is evolutionarily stable if, when it is common in the population, any mutant playing a different strategy does worse on average: not because animals calculate, but because differential reproduction over time amplifies whatever works. This framework revealed that much of what looks like rational equilibrium in human institutions may be just as attributable to selection pressure as to deliberate design — and it placed game theory in contact with evolutionary biology in ways neither field had anticipated.",
+    "source": {
+      "title": "Evolution and the Theory of Games",
+      "author": "John Maynard Smith",
+      "year": 1982
+    },
+    "tags": [
+      "game-theory",
+      "evolution",
+      "biology",
+      "strategy"
+    ]
+  },
+  {
+    "id": "geology-06",
+    "title": "Life is a geological force, not merely its passenger",
+    "body": "Vernadsky proposed that the living matter of Earth — the biosphere — is not a thin film of organisms resting passively on an inert planet but a powerful geological agent that has fundamentally transformed the composition of the crust, oceans, and atmosphere over billions of years. The oxygen in the air is itself a product of living processes; the sedimentary rocks are largely made from the shells of organisms; the composition of seawater reflects ongoing metabolic activity on a planetary scale. This view anticipated later work on the Gaia hypothesis and made the biosphere not a category of biology but of geology: life, on Vernadsky's account, is something the planet does.",
+    "source": {
+      "title": "The Biosphere",
+      "author": "Vladimir Vernadsky",
+      "year": 1926
+    },
+    "tags": [
+      "geology",
+      "ecology",
+      "biology",
+      "earth-science"
+    ]
   }
 ]
