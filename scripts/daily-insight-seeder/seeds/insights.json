@@ -17249,5 +17249,85 @@
       "biology",
       "earth-science"
     ]
+  },
+  {
+    "id": "mythology-16",
+    "title": "Ritual killing creates the community it requires",
+    "body": "Burkert argues that ancient Greek animal sacrifice was not primarily a gift to the gods but a social technology that forged bonds among participants through shared guilt and shared flesh. The act of killing together, followed by the communal meal, created a group who had done something irrevocable in common and who carried that weight jointly. Communities were not first formed and then consecrated by ritual; they were called into being through the ritual itself. The most durable human bonds, on this account, are sealed not by contract or creed but by shared transgression and shared fate.",
+    "source": {
+      "title": "Homo Necans: The Anthropology of Ancient Greek Sacrificial Ritual and Myth",
+      "author": "Walter Burkert",
+      "year": 1983
+    },
+    "tags": [
+      "mythology",
+      "ritual",
+      "anthropology",
+      "community"
+    ]
+  },
+  {
+    "id": "political-theory-05",
+    "title": "A kind master still owns you",
+    "body": "Pettit distinguishes freedom as non-interference — the liberal tradition — from freedom as non-domination — the republican tradition. A slave whose master happens to be benevolent is free on the non-interference account, because no interference has occurred. Pettit argues this misses everything important: the slave is dominated whether or not the master exercises power, because the master could do so at any moment, and that latent capacity distorts every aspect of the slave's life. True freedom requires the structural absence of any person's arbitrary power over you — enforced by law and institutions — not merely the fortunate non-exercise of power by those who hold it.",
+    "source": {
+      "title": "Republicanism: A Theory of Freedom and Government",
+      "author": "Philip Pettit",
+      "year": 1997
+    },
+    "tags": [
+      "political-theory",
+      "freedom",
+      "justice",
+      "institutions"
+    ]
+  },
+  {
+    "id": "science-58",
+    "title": "Determinism and predictability are not the same thing",
+    "body": "Classical science inherited the assumption that a deterministic system is in principle a predictable one: given perfect knowledge of initial conditions, the future unfolds without surprise. Chaos theory shattered this equation by showing that certain deterministic systems amplify tiny differences in starting conditions so rapidly that their long-term behavior is effectively random. The atmosphere, a dripping faucet, the human heartbeat — all are governed by fixed laws yet are practically unpredictable beyond a short horizon. Gleick's account established that this is a scientific fact about nature, not a failure of measurement, requiring a new understanding of what prediction can mean.",
+    "source": {
+      "title": "Chaos: Making a New Science",
+      "author": "James Gleick",
+      "year": 1987
+    },
+    "tags": [
+      "science",
+      "complexity",
+      "mathematics",
+      "prediction"
+    ]
+  },
+  {
+    "id": "education-19",
+    "title": "The actor who cannot stop the scene is rehearsing submission",
+    "body": "Boal observed that conventional theater places audiences in a position of passive witness: they watch suffering unfold without the power to intervene, which trains them in the very helplessness that oppressive systems depend on. His forum theater inverted this by stopping performances at moments of crisis and inviting audience members to replace protagonists and try different choices, with facilitators ensuring that no solution merely shifted oppression rather than undoing it. Boal called this a rehearsal for revolution — not metaphorically but technically, in that it builds the specific skills of imagining alternatives, speaking publicly, and acting under pressure. The stage became a laboratory for possibility rather than a monument to inevitability.",
+    "source": {
+      "title": "Theatre of the Oppressed",
+      "author": "Augusto Boal",
+      "year": 1974
+    },
+    "tags": [
+      "education",
+      "theater",
+      "liberation",
+      "activism"
+    ]
+  },
+  {
+    "id": "history-44",
+    "title": "Poverty is not absence — it is extraction",
+    "body": "Galeano's central argument is that Latin American underdevelopment is not a starting condition the continent failed to escape but an ongoing result of systematic resource transfer to wealthier economies. The silver of Potosí, the rubber of the Amazon, the sugar of the Caribbean — each enriched Europe and North America precisely by impoverishing Latin America, and the mechanisms of extraction evolved from outright slavery to formal colonialism to terms of trade that functioned identically. This reframing shifts the question from what these countries failed to do to what was done to them and continues to be done, making development policy that ignores extraction not merely incomplete but complicit.",
+    "source": {
+      "title": "Open Veins of Latin America: Five Centuries of the Pillage of a Planet",
+      "author": "Eduardo Galeano",
+      "year": 1971
+    },
+    "tags": [
+      "history",
+      "economics",
+      "colonialism",
+      "development"
+    ]
   }
 ]
