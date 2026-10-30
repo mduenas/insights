@@ -17007,8 +17007,7 @@
       "governance",
       "power"
     ]
-  }
-,
+  },
   {
     "id": "physics-07",
     "title": "Good explanations have infinite reach",
@@ -17088,8 +17087,7 @@
       "ethics",
       "criticism"
     ]
-  }
-,
+  },
   {
     "id": "neuroscience-22",
     "title": "The brain selects, it does not execute",
@@ -17328,6 +17326,86 @@
       "economics",
       "colonialism",
       "development"
+    ]
+  },
+  {
+    "id": "history-45",
+    "title": "All history is the history of thought",
+    "body": "Collingwood argued that historical understanding requires the historian to re-enact in their own mind the thoughts of the people they study — not merely to record what happened, but to recover what the agent was thinking when it happened. An event like Caesar crossing the Rubicon is historically intelligible only when we grasp the problem Caesar was trying to solve and his reasoning about it. This makes history fundamentally different from natural science: a falling rock has no inside, but a human act does, and it is the inside — the thought — that history seeks to recover. The historian who ignores this becomes a collector of facts without understanding.",
+    "source": {
+      "title": "The Idea of History",
+      "author": "R.G. Collingwood",
+      "year": 1946
+    },
+    "tags": [
+      "history",
+      "philosophy",
+      "knowledge",
+      "understanding"
+    ]
+  },
+  {
+    "id": "psychology-52",
+    "title": "Prejudice begins in the necessity of categories",
+    "body": "Allport argued that the human mind cannot operate without sorting the world into categories — there is simply too much information to process without grouping it. The problem is not that we categorize but that our categories about social groups tend to overgeneralize, resist revision, and load their members with traits derived from the category rather than from observation. Prejudice, in this account, is not a pathology unique to unusual minds: it is normal cognitive machinery applied to people, where the cost of error is borne by the person misjudged rather than by the one judging. The corrective is not to stop categorizing but to keep categories provisional and genuinely open to the correction that experience can provide.",
+    "source": {
+      "title": "The Nature of Prejudice",
+      "author": "Gordon W. Allport",
+      "year": 1954
+    },
+    "tags": [
+      "psychology",
+      "cognition",
+      "bias",
+      "social-psychology"
+    ]
+  },
+  {
+    "id": "literature-67",
+    "title": "Literature exists to complicate our moral certainties",
+    "body": "Trilling insisted that the great realistic novel performs a distinctive moral function no other art form can: it presents human experience in such density and complexity that the ideological formulas we arrived with become inadequate. The novel's power is not that it teaches doctrine but that it resists doctrine — it keeps showing us that the person we would judge is richer and stranger than the category we would file them in. A literature that merely confirms what we already believe has failed its deepest task. The reading that matters most is the one that leaves us less certain about ourselves and about the moral frameworks we had taken to be secure.",
+    "source": {
+      "title": "The Liberal Imagination",
+      "author": "Lionel Trilling",
+      "year": 1950
+    },
+    "tags": [
+      "literature",
+      "morality",
+      "criticism",
+      "culture"
+    ]
+  },
+  {
+    "id": "biology-37",
+    "title": "Evolution tinkers, it does not engineer",
+    "body": "Jacob introduced the metaphor of the bricoleur — the odd-jobs worker who builds new things from whatever materials are already to hand — to explain how evolution differs fundamentally from design. An engineer draws up a plan and acquires the optimal components; evolution works only with existing structures, repurposing them for new functions: the bones of the reptile jaw becoming the bones of the mammalian inner ear, a light-sensitive patch of skin becoming the vertebrate eye. This bricolage means every organism carries the marks of its ancestry, kluged together rather than optimally designed — which is precisely why evolution leaves anatomical traces that rational engineering would never produce. Recognizing the bricolage is one of the most reliable methods of reconstructing evolutionary history.",
+    "source": {
+      "title": "The Possible and the Actual",
+      "author": "François Jacob",
+      "year": 1982
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "creativity",
+      "science"
+    ]
+  },
+  {
+    "id": "sociology-51",
+    "title": "Feeling can be labor",
+    "body": "Hochschild showed that many jobs require workers not just to act but to actually manage their inner emotional states as a formal condition of employment. Flight attendants must stay genuinely warm; bill collectors must sustain controlled pressure without tipping into cruelty. This management of one's own feelings is real work: it depletes psychological resources, requires skill and training, and produces a commodity — the feeling conveyed to the customer — that has economic value. By naming this emotional labor, Hochschild made visible a form of work previously absorbed as personality or natural femininity, and explained why service roles, which demand so much emotional management, are disproportionately stressful and persistently undercompensated.",
+    "source": {
+      "title": "The Managed Heart: Commercialization of Human Feeling",
+      "author": "Arlie Russell Hochschild",
+      "year": 1983
+    },
+    "tags": [
+      "sociology",
+      "work",
+      "emotions",
+      "psychology"
     ]
   }
 ]
