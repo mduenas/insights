@@ -17407,5 +17407,85 @@
       "emotions",
       "psychology"
     ]
+  },
+  {
+    "id": "astronomy-06",
+    "title": "The universe has no center — every point is its center",
+    "body": "Eddington explained that cosmic expansion is not an explosion from a single point in space but a stretching of space itself, so that every galaxy recedes from every other galaxy simultaneously. An observer anywhere in the universe would see the same thing: all other galaxies retreating in every direction, making their own location appear central. This radical displacement removed the last vestige of a privileged location — not merely the earth, not the sun, but any fixed point at all. The universe is not a thing inside space; space is the universe itself, and it has no edge from which to measure a center.",
+    "source": {
+      "title": "The Expanding Universe",
+      "author": "Arthur Eddington",
+      "year": 1933
+    },
+    "tags": [
+      "astronomy",
+      "cosmology",
+      "space",
+      "perspective"
+    ]
+  },
+  {
+    "id": "geology-07",
+    "title": "Minerals and life co-evolved, each shaping the other",
+    "body": "Hazen proposed that Earth's mineral diversity is not simply the product of geological processes operating on inert rock but has been profoundly shaped by life. The first oceans produced few mineral species; the rise of photosynthesis added oxygen to the atmosphere, generating hundreds of new oxidized minerals that had never existed on the early planet. Life and rock are co-evolutionary partners: organisms create the chemical conditions that produce new minerals, while minerals provide the surfaces, nutrients, and chemical gradients that life exploits. This reciprocal shaping collapses the boundary between the living and the non-living into a single planetary story.",
+    "source": {
+      "title": "The Story of Earth: The First 4.5 Billion Years, from Stardust to Living Planet",
+      "author": "Robert Hazen",
+      "year": 2012
+    },
+    "tags": [
+      "geology",
+      "biology",
+      "evolution",
+      "earth-science"
+    ]
+  },
+  {
+    "id": "medicine-07",
+    "title": "The most dangerous moment in diagnosis is premature closure",
+    "body": "Groopman identified premature closure — accepting an early diagnosis and stopping the search for additional information — as the cognitive error behind the majority of serious diagnostic mistakes. Once a physician settles on a diagnosis, subsequent findings are unconsciously filtered through it: confirming evidence registers and disconfirming evidence is explained away. The problem is not carelessness but the way the mind economizes on effort, treating a satisfying answer as a stopping point. The corrective Groopman found most effective was a deliberate habit of asking 'what else could this be?' and 'what would need to be true for my diagnosis to be wrong?'",
+    "source": {
+      "title": "How Doctors Think",
+      "author": "Jerome Groopman",
+      "year": 2007
+    },
+    "tags": [
+      "medicine",
+      "cognition",
+      "decision-making",
+      "bias"
+    ]
+  },
+  {
+    "id": "pragmatism-08",
+    "title": "Solidarity is not discovered — it is created",
+    "body": "Rorty argued that human solidarity cannot be grounded in a shared essence or rational nature we discover by philosophical analysis. It is instead a practical achievement: an extension of our circle of 'us' through stories and encounters that make the suffering of distant others vivid enough to matter to us. The philosophical search for a foundation to solidarity has the direction of explanation backwards — we do not care about people because they share our nature; we extend our sense of shared nature because we have come to care about them. This makes literature and narrative more important to moral progress than moral philosophy, because they are better at expanding the imagination.",
+    "source": {
+      "title": "Contingency, Irony, and Solidarity",
+      "author": "Richard Rorty",
+      "year": 1989
+    },
+    "tags": [
+      "philosophy",
+      "ethics",
+      "solidarity",
+      "pragmatism"
+    ]
+  },
+  {
+    "id": "complexity-10",
+    "title": "Life exists at the edge of chaos",
+    "body": "Kauffman proposed that the most complex, adaptive behavior emerges in systems poised between rigid order and complete randomness — a regime he called the edge of chaos. Fully ordered systems are too rigid to adapt; fully chaotic systems cannot retain the information needed to learn. Evolution, he argued, has tuned living systems to operate near this critical boundary, where they are flexible enough to respond to novelty but stable enough to preserve functional organization. This principle appears across phenomena as different as genetic regulatory networks, ecosystems, and immune systems, suggesting that the edge of chaos is not an accident but a zone that evolution actively seeks.",
+    "source": {
+      "title": "The Origins of Order: Self-Organization and Selection in Evolution",
+      "author": "Stuart Kauffman",
+      "year": 1993
+    },
+    "tags": [
+      "complexity",
+      "biology",
+      "evolution",
+      "systems"
+    ]
   }
 ]
