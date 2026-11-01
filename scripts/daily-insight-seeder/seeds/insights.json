@@ -17487,5 +17487,80 @@
       "evolution",
       "systems"
     ]
+  },
+  {
+    "id": "memory-05",
+    "title": "The Architecture of Recall",
+    "body": "Greek and Roman orators memorized entire speeches by mentally placing each argument inside a familiar building — a technique called the method of loci. By attaching abstract ideas to vivid, concrete locations, the mind could retrieve them in sequence simply by walking through the imagined space. Frances Yates traced this art from Simonides of Ceos through the Renaissance, showing how it shaped not only oratory but entire systems of thought. Modern cognitive neuroscience has confirmed the power of spatial memory: the hippocampus, which encodes location in the physical world, proves just as capable of storing abstract ideas when they are given a place to live.",
+    "source": {
+      "title": "The Art of Memory",
+      "author": "Frances Yates",
+      "year": 1966
+    },
+    "tags": [
+      "memory",
+      "cognition",
+      "history"
+    ]
+  },
+  {
+    "id": "physics-09",
+    "title": "Observation Is Intervention",
+    "body": "Heisenberg’s uncertainty principle states that the more precisely you determine a particle’s position, the less precisely you can know its momentum — not because of measurement error, but as a fundamental feature of nature. The act of observation at the quantum level necessarily disturbs the system being observed. Heisenberg drew broader lessons from this: science does not simply describe a pre-existing reality but participates in shaping the reality it describes. This insight has rippled into philosophy of science, social research, and systems thinking, wherever the observer cannot be fully separated from what is observed.",
+    "source": {
+      "title": "Physics and Philosophy: The Revolution in Modern Science",
+      "author": "Werner Heisenberg",
+      "year": 1958
+    },
+    "tags": [
+      "physics",
+      "epistemology",
+      "science"
+    ]
+  },
+  {
+    "id": "rhetoric-09",
+    "title": "Every Story Is a Persuasion",
+    "body": "Wayne Booth argued that fiction is never neutral: novelists make thousands of choices — what to show, whose perspective to adopt, which emotions to evoke — that together constitute an implicit argument about how life is and should be lived. He called the voice behind these choices the ‘implied author,’ a constructed persona that shapes the reader’s sympathies and values even in works of apparent entertainment. The reader who finishes a great novel has been subtly but genuinely changed, not by explicit argument but by the experience of having inhabited another consciousness. Narrative persuasion is all the more powerful for being invisible.",
+    "source": {
+      "title": "The Rhetoric of Fiction",
+      "author": "Wayne Booth",
+      "year": 1961
+    },
+    "tags": [
+      "rhetoric",
+      "literature",
+      "narrative"
+    ]
+  },
+  {
+    "id": "political-06",
+    "title": "Power Must Check Power",
+    "body": "Montesquieu observed that liberty is most reliably protected not by the virtue of rulers but by the structure of institutions. When legislative, executive, and judicial powers are held by separate bodies, each has both the means and the incentive to resist the encroachments of the others — a mechanism of mutual restraint he called the separation of powers. Without such structural checks, he argued, even the best-intentioned government will drift toward despotism, because power concentrated is power that eventually abuses. This insight, drawn from his study of the English constitution, became the architectural blueprint for constitutional democracy across the modern world.",
+    "source": {
+      "title": "The Spirit of the Laws",
+      "author": "Montesquieu",
+      "year": 1748
+    },
+    "tags": [
+      "political theory",
+      "governance",
+      "institutions"
+    ]
+  },
+  {
+    "id": "medicine-08",
+    "title": "Chemical Individuality",
+    "body": "Archibald Garrod noticed that certain rare diseases ran in families and arose from the body’s inability to perform a specific biochemical step — what he called inborn errors of metabolism. This was a radical departure from the medicine of his day, which thought of disease as something that happened to people rather than something written into them at birth. His insight — that individuals differ chemically as well as anatomically, and that this chemical individuality has genetic roots — anticipated by decades the molecular biology revolution, the concept of genetic predisposition, and the emerging field of personalized medicine.",
+    "source": {
+      "title": "Inborn Errors of Metabolism",
+      "author": "Archibald Garrod",
+      "year": 1909
+    },
+    "tags": [
+      "medicine",
+      "genetics",
+      "biology"
+    ]
   }
 ]
