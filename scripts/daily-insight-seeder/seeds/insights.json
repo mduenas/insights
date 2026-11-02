@@ -17562,5 +17562,84 @@
       "genetics",
       "biology"
     ]
+  },
+  {
+    "id": "memory-06",
+    "title": "The two faces of human memory",
+    "body": "Endel Tulving drew a fundamental distinction between episodic memory — the personal record of experienced events anchored in time and place — and semantic memory, the timeless store of facts and concepts. We recall that water freezes at 0°C not by reliving an episode but by accessing general knowledge, a process neurologically separate from remembering a childhood birthday. Tulving's taxonomy reshaped cognitive science by establishing that memory is a family of distinct systems rather than a single unified archive, with each component subject to different forms of disruption and loss.",
+    "source": {
+      "title": "Elements of Episodic Memory",
+      "author": "Endel Tulving",
+      "year": 1983
+    },
+    "tags": [
+      "memory",
+      "cognition",
+      "neuroscience"
+    ]
+  },
+  {
+    "id": "biology-38",
+    "title": "Nothing in biology makes sense except in the light of evolution",
+    "body": "Theodosius Dobzhansky unified Mendelian genetics with Darwinian evolution, demonstrating that the hereditary variation discovered in the laboratory was the very raw material on which natural selection acts in the field. By synthesizing genetics with population biology, he resolved a long-standing tension between experimentalists who studied discrete mutations and naturalists who observed gradual change. His synthesis showed that small genetic differences accumulating within populations could account for the full spectrum of biological diversity across species and geological time, making evolution the indispensable framework for biology as a whole.",
+    "source": {
+      "title": "Genetics and the Origin of Species",
+      "author": "Theodosius Dobzhansky",
+      "year": 1937
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "genetics",
+      "science"
+    ]
+  },
+  {
+    "id": "history-46",
+    "title": "Images carry arguments",
+    "body": "Erwin Panofsky developed a method for reading visual art at three levels: the surface recognition of depicted objects, the conventional symbolism of a cultural tradition, and the deeper values — what he called intrinsic meaning — that a work embodies without necessarily intending. A painting of a shepherd is never merely a painting of a shepherd; it carries inherited metaphors, theological tensions, and the unspoken assumptions of its moment. Panofsky's iconological method established that images are not transparent windows onto events but encoded arguments, as susceptible to systematic interpretation as any written text.",
+    "source": {
+      "title": "Studies in Iconology",
+      "author": "Erwin Panofsky",
+      "year": 1939
+    },
+    "tags": [
+      "history",
+      "art",
+      "interpretation",
+      "culture"
+    ]
+  },
+  {
+    "id": "philosophy-74",
+    "title": "Our beliefs form a web, not a chain",
+    "body": "W.V.O. Quine rejected the empiricist picture in which individual statements are confirmed or refuted by experience one at a time. Instead, he argued that our beliefs face experience as a corporate body: any claim can be preserved against recalcitrant evidence if we are willing to adjust other beliefs elsewhere in the network. This holism dissolves the traditional boundary between analytic truths — logic, mathematics — and synthetic truths grounded in observation, a distinction Quine called one of the two dogmas of empiricism. It implies that even logical laws are, in principle, revisable in light of sufficiently compelling experience.",
+    "source": {
+      "title": "From a Logical Point of View",
+      "author": "Willard Van Orman Quine",
+      "year": 1953
+    },
+    "tags": [
+      "philosophy",
+      "logic",
+      "epistemology",
+      "science"
+    ]
+  },
+  {
+    "id": "pragmatism-09",
+    "title": "Democracy is a way of living, not just a method of governing",
+    "body": "Jane Addams argued that democracy is not merely a system of representation but a moral ideal requiring direct, sympathetic contact across lines of class and difference. Her decades at Hull-House in Chicago convinced her that abstract principles of justice are insufficient — democratic life demands the daily practice of imaginative identification with people whose circumstances differ sharply from one's own. Addams extended pragmatism from epistemology into social ethics, making encounter and shared experience the foundations of both knowledge and solidarity rather than rights derived from abstract principle alone.",
+    "source": {
+      "title": "Democracy and Social Ethics",
+      "author": "Jane Addams",
+      "year": 1902
+    },
+    "tags": [
+      "pragmatism",
+      "democracy",
+      "ethics",
+      "society"
+    ]
   }
 ]
