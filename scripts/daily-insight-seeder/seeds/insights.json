@@ -17641,5 +17641,85 @@
       "ethics",
       "society"
     ]
+  },
+  {
+    "id": "linguistics-24",
+    "title": "Language as a system of differences",
+    "body": "Ferdinand de Saussure argued that linguistic signs do not carry meaning in isolation but only through their relationships to other signs within the system. The word tree means what it does not because of any intrinsic connection to trees, but because it differs from every other word. This insight reframed language from a naming system into a relational structure, and laid the groundwork for structuralism across linguistics, anthropology, and literary theory.",
+    "source": {
+      "title": "Course in General Linguistics",
+      "author": "Ferdinand de Saussure",
+      "year": 1916
+    },
+    "tags": [
+      "language",
+      "structure",
+      "semiotics",
+      "meaning"
+    ]
+  },
+  {
+    "id": "mathematics-44",
+    "title": "Beauty is the test of mathematical truth",
+    "body": "G.H. Hardy maintained that mathematical beauty is the true criterion for mathematical significance — ugly mathematics has no permanent place. Real mathematics is driven by aesthetic judgment as much as by logical rigor. This view illuminates why mathematicians invest years proving theorems already known to be true in inelegant forms, and why the pleasure of mathematics is inseparable from its pursuit.",
+    "source": {
+      "title": "A Mathematician's Apology",
+      "author": "G.H. Hardy",
+      "year": 1940
+    },
+    "tags": [
+      "mathematics",
+      "aesthetics",
+      "beauty",
+      "creativity"
+    ]
+  },
+  {
+    "id": "stoic-13",
+    "title": "Time is the one thing you cannot reclaim",
+    "body": "Seneca observed that we guard our money and property carefully, yet we allow time — the most finite and irreplaceable of possessions — to be consumed and wasted with barely a thought. We keep careful accounts of what others owe us but never tally the hours we fritter away. The Stoic practice he recommended is to treat each day as something to be claimed and used deliberately, as though it were the last day available to you.",
+    "source": {
+      "title": "Letters from a Stoic",
+      "author": "Seneca",
+      "year": 65
+    },
+    "tags": [
+      "time",
+      "stoicism",
+      "attention",
+      "priorities"
+    ]
+  },
+  {
+    "id": "learning-22",
+    "title": "Any subject can be taught to any child",
+    "body": "Jerome Bruner proposed that the intellectual core of any discipline can be presented in an honest form accessible to any age, provided the teaching meets the child at their current mode of thinking. A good curriculum revisits foundational ideas in a spiral — each pass deeper and more rigorous than the last. This challenged the assumption that advanced concepts must wait for cognitive maturity, placing the burden instead on teachers to find the right representation.",
+    "source": {
+      "title": "The Process of Education",
+      "author": "Jerome Bruner",
+      "year": 1960
+    },
+    "tags": [
+      "education",
+      "curriculum",
+      "cognition",
+      "learning"
+    ]
+  },
+  {
+    "id": "law-18",
+    "title": "The life of the law has been experience",
+    "body": "Oliver Wendell Holmes Jr. opened his landmark work with the observation that legal decisions are not products of logical syllogisms but of the felt necessities of different times — prevailing moral theories, intuitions of public policy, and the prejudices judges share with their fellow citizens. Law is a living record of a society's evolving values, not a deductive system derived from first principles. This pragmatic view shifted legal scholarship from formalism toward studying how law actually operates in context.",
+    "source": {
+      "title": "The Common Law",
+      "author": "Oliver Wendell Holmes Jr.",
+      "year": 1881
+    },
+    "tags": [
+      "law",
+      "pragmatism",
+      "society",
+      "history"
+    ]
   }
 ]
