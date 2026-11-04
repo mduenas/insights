@@ -17721,5 +17721,80 @@
       "society",
       "history"
     ]
+  },
+  {
+    "id": "memory-07",
+    "title": "Memory is reconstructive, not reproductive",
+    "body": "Each time we recall a memory, we do not play back a fixed recording but actively reconstruct it, incorporating new information, expectations, and present beliefs. Loftus's landmark research on eyewitness testimony demonstrated how easily false details — a stop sign that was a yield sign, a thief who was taller than remembered — can be implanted through leading questions. This means memory is a creative act, perpetually rewritten in the light of what we know now, not a faithful archive of what happened then.",
+    "source": {
+      "title": "Eyewitness Testimony",
+      "author": "Elisabeth Loftus",
+      "year": 1979
+    },
+    "tags": [
+      "memory",
+      "psychology",
+      "cognition"
+    ]
+  },
+  {
+    "id": "productivity-14",
+    "title": "The best system is the one with no wasted motion",
+    "body": "Taylor's time-motion studies revealed that most work processes contained enormous inefficiencies invisible to both workers and managers, hidden inside habits passed down without examination. By systematically observing, measuring, and redesigning each task, he showed that output could be multiplied without requiring more labor. The discipline of eliminating waste before adding resources — not hiring more workers before fixing the workflow — remains a foundational principle of modern operations.",
+    "source": {
+      "title": "The Principles of Scientific Management",
+      "author": "Frederick Winslow Taylor",
+      "year": 1911
+    },
+    "tags": [
+      "productivity",
+      "management",
+      "efficiency"
+    ]
+  },
+  {
+    "id": "sociology-52",
+    "title": "The crowd erases the individual",
+    "body": "In a crowd, people shed their personal identity and absorb a collective soul, becoming capable of acts of heroism or brutality they would never commit alone. Le Bon observed that crowds amplify emotion, suppress rational deliberation, and make individuals peculiarly susceptible to suggestion and contagion — transforming cultivated persons into something more primitive and unanimous. His analysis anticipated why mass movements, advertising, and propaganda operate through affect rather than argument.",
+    "source": {
+      "title": "The Crowd: A Study of the Popular Mind",
+      "author": "Gustave Le Bon",
+      "year": 1895
+    },
+    "tags": [
+      "sociology",
+      "psychology",
+      "collective"
+    ]
+  },
+  {
+    "id": "biology-39",
+    "title": "Every behavior has four independent explanations",
+    "body": "Tinbergen proposed that any animal behavior must be analyzed at four distinct levels: its immediate physiological mechanism, its development across the animal's lifetime, its adaptive function, and its evolutionary history. These 'four questions' are complementary, not competing — explaining why a robin attacks a red patch of feathers requires answers at all four levels simultaneously. The framework prevents the perennial error of treating one type of explanation, such as a gene or a hormone, as a complete account of behavior.",
+    "source": {
+      "title": "The Study of Instinct",
+      "author": "Niko Tinbergen",
+      "year": 1951
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "behavior"
+    ]
+  },
+  {
+    "id": "psychology-53",
+    "title": "Groups unconsciously resist their own purpose",
+    "body": "Bion's observations of therapy groups revealed that groups routinely slip into unconscious 'basic assumption' states — dependency on a leader, fight-or-flight against a threat, or pairing around a hoped-for savior — that derail the group's stated task. These regression states feel purposeful from inside and are invisible without outside reflection. Effective group leadership requires the capacity to recognize when a group is fleeing its real work under the guise of performing it.",
+    "source": {
+      "title": "Experiences in Groups",
+      "author": "Wilfred Bion",
+      "year": 1961
+    },
+    "tags": [
+      "psychology",
+      "groups",
+      "leadership"
+    ]
   }
 ]
