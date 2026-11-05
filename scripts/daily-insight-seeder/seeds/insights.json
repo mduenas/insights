@@ -17796,5 +17796,80 @@
       "groups",
       "leadership"
     ]
+  },
+  {
+    "id": "philosophy-75",
+    "title": "Understanding is a fusion of horizons",
+    "body": "Hans-Georg Gadamer argued that interpretation is never pure objectivity — we always approach texts and traditions from within our own historical horizon of assumptions. But genuine understanding is not mere projection; it is what Gadamer called a fusion of horizons, the moment when our own horizon of meaning meets and blends with the horizon carried by the text or conversation, enlarging both. Dialogue, not method, is the path to truth.",
+    "source": {
+      "title": "Truth and Method",
+      "author": "Hans-Georg Gadamer",
+      "year": 1960
+    },
+    "tags": [
+      "philosophy",
+      "hermeneutics",
+      "interpretation"
+    ]
+  },
+  {
+    "id": "learning-23",
+    "title": "Expertise requires deliberate discomfort, not just repetition",
+    "body": "Psychologist K. Anders Ericsson's decades of research on expert performers showed that raw hours of practice matter far less than deliberate practice — focused effort at the edge of current ability, with immediate feedback and an internal model of the expert ideal. Without this structure, ten thousand hours produces ingrained habit, not mastery. The feeling of difficulty is not an obstacle to improvement but its signal.",
+    "source": {
+      "title": "Peak: Secrets from the New Science of Expertise",
+      "author": "K. Anders Ericsson",
+      "year": 2016
+    },
+    "tags": [
+      "learning",
+      "expertise",
+      "deliberate-practice"
+    ]
+  },
+  {
+    "id": "economics-58",
+    "title": "Deep globalization, democracy, and sovereignty cannot all coexist",
+    "body": "Economist Dani Rodrik's trilemma holds that societies face an unavoidable structural trade-off: hyperglobalization, democratic self-governance, and national sovereignty are mutually incompatible and at most two can be fully pursued at once. Much of the political turbulence around international trade flows directly from this constraint — when countries embed deeply in global markets, they sacrifice the domestic policy space their citizens still expect.",
+    "source": {
+      "title": "The Globalization Paradox",
+      "author": "Dani Rodrik",
+      "year": 2011
+    },
+    "tags": [
+      "economics",
+      "globalization",
+      "democracy"
+    ]
+  },
+  {
+    "id": "biology-40",
+    "title": "Evolution writes its history in DNA",
+    "body": "Evolutionary biologist Sean B. Carroll shows that the genome is a molecular fossil record, preserving evidence of past adaptations long after the environments that shaped them have vanished. Shared broken genes — such as the disabled vitamin C synthesis pathway found in humans, apes, and guinea pigs alike — are among the most striking proofs of common descent, more precise than any bone or stone.",
+    "source": {
+      "title": "The Making of the Fittest: DNA and the Ultimate Forensic Record of Evolution",
+      "author": "Sean B. Carroll",
+      "year": 2006
+    },
+    "tags": [
+      "biology",
+      "evolution",
+      "genetics"
+    ]
+  },
+  {
+    "id": "sociology-53",
+    "title": "All knowledge is knowledge from somewhere",
+    "body": "Sociologist Dorothy E. Smith argued that social inquiry is always conducted from a particular standpoint, and that pretending otherwise produces distorted, falsely universalizing claims. By beginning from women's concrete, everyday experience rather than abstract institutional categories, she demonstrated how the apparent objectivity of mainstream sociology encoded the perspectives of those already in power. Where you stand shapes what you can see.",
+    "source": {
+      "title": "The Everyday World as Problematic: A Feminist Sociology",
+      "author": "Dorothy E. Smith",
+      "year": 1987
+    },
+    "tags": [
+      "sociology",
+      "standpoint-theory",
+      "knowledge"
+    ]
   }
 ]
