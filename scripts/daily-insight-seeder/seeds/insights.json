@@ -17871,5 +17871,80 @@
       "standpoint-theory",
       "knowledge"
     ]
+  },
+  {
+    "id": "memory-08",
+    "title": "Removing the hippocampus revealed memory is not one thing but many",
+    "body": "When Henry Molaison had his hippocampus surgically removed in 1953 to treat severe epilepsy, he lost the ability to form any new conscious long-term memories — yet he could still learn new motor skills and be conditioned by repeated experiences he had no conscious recollection of. Suzanne Corkin's decades of research on this patient, known for fifty years only as H.M., demonstrated that memory is not a single faculty but a collection of distinct systems with different neural substrates. What we call memory is a family of processes, some of which can be preserved even when others are entirely gone.",
+    "source": {
+      "title": "Permanent Present Tense: The Unforgettable Life of the Amnesiac Patient H.M.",
+      "author": "Suzanne Corkin",
+      "year": 2013
+    },
+    "tags": [
+      "memory",
+      "neuroscience",
+      "cognition"
+    ]
+  },
+  {
+    "id": "geology-08",
+    "title": "Rocks are readable archives of everything that has ever happened",
+    "body": "Every mountain range, ocean trench, and tilted cliff face is a chapter in a continuous autobiography of the planet, written in stone over hundreds of millions of years. Richard Fortey showed how geologists learn to read this archive — how limestone beds record ancient sea floors, how fold patterns in metamorphic rock trace continental collisions, and how a single roadside outcrop can contain more compressed time than all of recorded human history. The earth does not hide its past; it inscribes it, and learning to decipher that inscription reshapes one's entire sense of time.",
+    "source": {
+      "title": "Earth: An Intimate History",
+      "author": "Richard Fortey",
+      "year": 2004
+    },
+    "tags": [
+      "geology",
+      "history",
+      "deep time"
+    ]
+  },
+  {
+    "id": "pragmatism-10",
+    "title": "Pragmatism must confront the realities of power to redeem its promise",
+    "body": "Cornel West argued that American pragmatism — from Emerson through Dewey to Rorty — systematically evaded the most pressing question its own principles demanded: how to transform the social conditions that prevent most people from flourishing. A philosophy that locates truth in consequences and measures ideas by their effects must ultimately grapple with poverty, racism, and domination as philosophical problems, not merely political ones. West sought to radicalize the pragmatist tradition by insisting that prophetic vision and social criticism are not departures from pragmatism but its most honest fulfillment.",
+    "source": {
+      "title": "The American Evasion of Philosophy: A Genealogy of Pragmatism",
+      "author": "Cornel West",
+      "year": 1989
+    },
+    "tags": [
+      "pragmatism",
+      "philosophy",
+      "social justice"
+    ]
+  },
+  {
+    "id": "law-19",
+    "title": "Law must be measured by its social effects, not its formal logic alone",
+    "body": "Roscoe Pound launched sociological jurisprudence as a corrective to legal formalism, arguing that rules applied mechanically without regard to social consequences produce injustice dressed as consistency. Law, in his view, is an instrument of social engineering: its worth is measured not by internal coherence but by how well it balances the competing interests of a living society. Courts and legislatures are not oracles of pure reason but participants in an ongoing negotiation about which human interests deserve protection and in what order. Ignoring social reality makes law precise but blind.",
+    "source": {
+      "title": "An Introduction to the Philosophy of Law",
+      "author": "Roscoe Pound",
+      "year": 1922
+    },
+    "tags": [
+      "law",
+      "society",
+      "jurisprudence"
+    ]
+  },
+  {
+    "id": "statistics-20",
+    "title": "The average man is a statistical fiction that conceals the variation that matters",
+    "body": "Adolphe Quetelet invented the concept of l'homme moyen — the average man — as a device for bringing statistical order to the messy diversity of human populations. Yet his own data showed that most real people deviate substantially from this idealized center, and that the variation around the mean is often more informative than the mean itself. The great irony of social statistics is that the summary designed to represent everyone actually represents no one precisely. When we design policies, products, or institutions for the average, we inadvertently exclude the majority.",
+    "source": {
+      "title": "A Treatise on Man and the Development of His Faculties",
+      "author": "Adolphe Quetelet",
+      "year": 1835
+    },
+    "tags": [
+      "statistics",
+      "society",
+      "data"
+    ]
   }
 ]
