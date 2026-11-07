@@ -17946,5 +17946,80 @@
       "society",
       "data"
     ]
+  },
+  {
+    "id": "astronomy-07",
+    "title": "The universe turned out to be unimaginably larger than we thought",
+    "body": "Until 1923, most astronomers believed the Milky Way was essentially the entire universe, with other fuzzy patches in the sky merely gas clouds within it. When Edwin Hubble measured the distance to the Andromeda nebula using Cepheid variable stars, he found it lay nearly a million light-years away — far beyond any possible boundary of the Milky Way — proving it was an entirely separate galaxy of hundreds of billions of stars. Marcia Bartusiak's account of that discovery reveals how a single measurement did not merely expand our map but erased the borders we had drawn and replaced them with a cosmos containing hundreds of billions of galaxies.",
+    "source": {
+      "title": "The Day We Found the Universe",
+      "author": "Marcia Bartusiak",
+      "year": 2009
+    },
+    "tags": [
+      "astronomy",
+      "cosmology",
+      "discovery"
+    ]
+  },
+  {
+    "id": "medicine-09",
+    "title": "Disease maps the invisible before we can see the pathogen",
+    "body": "During London's 1854 cholera epidemic, physician John Snow had no germ theory and no microscope powerful enough to identify a pathogen — yet by mapping every death against every water source in the Soho neighborhood, he traced the outbreak to a single contaminated pump on Broad Street. Steven Johnson's account of this detective story shows how Snow's cartographic method overturned two millennia of miasma theory, which held that disease arose from foul air, and established that careful pattern-matching in populations can reveal causal chains even before the underlying mechanism is understood. Epidemiology was born not from a laboratory breakthrough but from the discipline of asking where on a map.",
+    "source": {
+      "title": "The Ghost Map: The Story of London's Most Terrifying Epidemic — and How It Changed Science, Cities, and the Modern World",
+      "author": "Steven Johnson",
+      "year": 2006
+    },
+    "tags": [
+      "medicine",
+      "epidemiology",
+      "urban"
+    ]
+  },
+  {
+    "id": "psychology-54",
+    "title": "Some emotional expressions are universal, not learned",
+    "body": "Paul Ekman traveled to the Fore people of Papua New Guinea — isolated from Western media and culture — and showed them photographs of facial expressions made by Americans, asking which face matched a described situation. The Fore reliably matched the same expressions as Americans did, and Fore expressions photographed in return were recognized by Westerners. This cross-cultural convergence suggested that the facial expressions of at least six basic emotions — happiness, sadness, anger, fear, disgust, and surprise — are biologically rooted rather than culturally constructed, implying that some aspects of our emotional lives are more universal than particular.",
+    "source": {
+      "title": "Emotions Revealed: Recognizing Faces and Feelings to Improve Communication and Emotional Life",
+      "author": "Paul Ekman",
+      "year": 2003
+    },
+    "tags": [
+      "psychology",
+      "emotion",
+      "culture"
+    ]
+  },
+  {
+    "id": "geography-08",
+    "title": "Cutting through an isthmus remade the world's trade routes",
+    "body": "For centuries, ships sailing from New York to San Francisco had to round the full length of South America — a voyage of roughly 14,000 miles. When the Panama Canal opened in 1914, that route shrank to 5,000 miles, with consequences that cascaded through global commerce, military strategy, and urban development for the entire twentieth century. David McCullough's history of the canal's construction shows that geography is not fate but a set of constraints that human ambition can rearrange — though always at an enormous cost in money, labor, and lives, and with unforeseen consequences for every nation on the altered map.",
+    "source": {
+      "title": "The Path Between the Seas: The Creation of the Panama Canal, 1870-1914",
+      "author": "David McCullough",
+      "year": 1977
+    },
+    "tags": [
+      "geography",
+      "history",
+      "trade"
+    ]
+  },
+  {
+    "id": "learning-24",
+    "title": "The strategies that feel like learning often aren't",
+    "body": "Re-reading and massed practice feel productive because the material becomes fluent and familiar — but that fluency is an illusion of knowledge, not durable learning. Peter Brown and his co-authors synthesized decades of cognitive research showing that retrieval practice (testing yourself rather than re-reading), spaced repetition (distributing study over time rather than cramming), and interleaving (mixing different topics rather than blocking them) produce stronger, more flexible retention, even though all three strategies feel harder and less smooth than the alternatives. The lesson is that the difficulty of a learning strategy and its effectiveness are often in direct proportion.",
+    "source": {
+      "title": "Make It Stick: The Science of Successful Learning",
+      "author": "Peter C. Brown",
+      "year": 2014
+    },
+    "tags": [
+      "learning",
+      "memory",
+      "education"
+    ]
   }
 ]
