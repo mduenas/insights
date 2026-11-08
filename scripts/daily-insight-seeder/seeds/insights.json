@@ -18021,5 +18021,84 @@
       "memory",
       "education"
     ]
-  }
+  },
+  {
+  "id": "medicine-10",
+  "title": "Data can be right before theory explains it",
+  "body": "Semmelweis demonstrated in 1847 that deaths from childbed fever fell from roughly 10% to below 2% when doctors washed their hands with chlorinated lime solution between autopsies and deliveries — a decade before germ theory provided an explanation. The medical establishment rejected his findings partly because they implicated the doctors themselves in causing patient deaths. His story reveals a painful pattern in the history of knowledge: overwhelming empirical evidence is often insufficient on its own; institutional resistance, wounded professional pride, and the absence of a unifying theory can delay lifesaving insights for generations.",
+  "source": {
+    "title": "The Etiology, Concept and Prophylaxis of Childbed Fever",
+    "author": "Ignaz Semmelweis",
+    "year": 1861
+  },
+  "tags": [
+    "medicine",
+    "evidence",
+    "institutional-resistance"
+  ]
+},
+  {
+  "id": "game-theory-11",
+  "title": "Fairness can evolve without anyone intending it",
+  "body": "Using evolutionary game theory and computer simulation, Skyrms showed that fair 50/50 divisions in bargaining games can emerge through natural selection from populations of randomly interacting agents, without any rational deliberation or social contract. What we call fairness — the intuitive sense that an equal split is right — may be the evolutionary residue of strategies that proved stable against invasion by greedier alternatives. This reframes moral intuitions not as discoveries of abstract truth or impositions of authority but as evolved equilibria shaped by the population dynamics of repeated social interaction.",
+  "source": {
+    "title": "Evolution of the Social Contract",
+    "author": "Brian Skyrms",
+    "year": 1996
+  },
+  "tags": [
+    "game-theory",
+    "evolution",
+    "cooperation",
+    "fairness"
+  ]
+},
+  {
+  "id": "rhetoric-10",
+  "title": "The ideal orator is a good person who speaks well",
+  "body": "Quintilian's twelve-volume encyclopedic treatise on oratorical education defined the ideal orator as vir bonus dicendi peritus — a good person skilled in speaking — deliberately fusing ethics with technique. For Quintilian, skill in persuasion divorced from moral character produces manipulation rather than eloquence, and the formation of a speaker is inseparable from the formation of a citizen. This principle challenged the view of rhetoric as a neutral tool, arguing instead that how we speak and to what ends we speak are not separable questions, and that genuine persuasion requires the credibility that comes only from integrity.",
+  "source": {
+    "title": "Institutio Oratoria",
+    "author": "Quintilian",
+    "year": 95
+  },
+  "tags": [
+    "rhetoric",
+    "virtue",
+    "communication",
+    "character"
+  ]
+},
+  {
+  "id": "psychology-55",
+  "title": "Stress is not in the event but in the appraisal of it",
+  "body": "Lazarus and Folkman argued that stress is not an objective property of events but a product of how a person appraises the relationship between external demands and their own resources and capacities. The same situation — a public speech, a job interview, a medical diagnosis — produces radically different stress responses in different people, because cognitive appraisal mediates everything between stimulus and response. This framework transformed stress research by shifting the focus from cataloguing harmful environments to understanding the meaning-making process: it is not what happens to you, but what you make of what happens, that determines whether it harms or strengthens you.",
+  "source": {
+    "title": "Stress, Appraisal, and Coping",
+    "author": "Richard S. Lazarus and Susan Folkman",
+    "year": 1984
+  },
+  "tags": [
+    "psychology",
+    "stress",
+    "cognition",
+    "resilience"
+  ]
+},
+  {
+  "id": "physics-10",
+  "title": "Every spontaneous process seeks its lowest free energy",
+  "body": "Gibbs established the thermodynamic principle that any system at constant temperature and pressure will spontaneously change in the direction that lowers what we now call Gibbs free energy — a single quantity combining internal energy and entropy. This unifying concept explains why ice melts at room temperature, why chemical reactions proceed in one direction rather than the other, why dissolved substances diffuse across membranes, and why living organisms must continuously consume energy to maintain their improbable ordered state against the tide of entropy. By deriving this framework from first principles, Gibbs revealed a deep mathematical structure underlying all physical and chemical change.",
+  "source": {
+    "title": "On the Equilibrium of Heterogeneous Substances",
+    "author": "Josiah Willard Gibbs",
+    "year": 1875
+  },
+  "tags": [
+    "physics",
+    "thermodynamics",
+    "chemistry",
+    "equilibrium"
+  ]
+}
 ]
