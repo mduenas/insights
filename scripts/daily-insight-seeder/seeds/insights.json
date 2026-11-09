@@ -18023,82 +18023,157 @@
     ]
   },
   {
-  "id": "medicine-10",
-  "title": "Data can be right before theory explains it",
-  "body": "Semmelweis demonstrated in 1847 that deaths from childbed fever fell from roughly 10% to below 2% when doctors washed their hands with chlorinated lime solution between autopsies and deliveries — a decade before germ theory provided an explanation. The medical establishment rejected his findings partly because they implicated the doctors themselves in causing patient deaths. His story reveals a painful pattern in the history of knowledge: overwhelming empirical evidence is often insufficient on its own; institutional resistance, wounded professional pride, and the absence of a unifying theory can delay lifesaving insights for generations.",
-  "source": {
-    "title": "The Etiology, Concept and Prophylaxis of Childbed Fever",
-    "author": "Ignaz Semmelweis",
-    "year": 1861
+    "id": "medicine-10",
+    "title": "Data can be right before theory explains it",
+    "body": "Semmelweis demonstrated in 1847 that deaths from childbed fever fell from roughly 10% to below 2% when doctors washed their hands with chlorinated lime solution between autopsies and deliveries — a decade before germ theory provided an explanation. The medical establishment rejected his findings partly because they implicated the doctors themselves in causing patient deaths. His story reveals a painful pattern in the history of knowledge: overwhelming empirical evidence is often insufficient on its own; institutional resistance, wounded professional pride, and the absence of a unifying theory can delay lifesaving insights for generations.",
+    "source": {
+      "title": "The Etiology, Concept and Prophylaxis of Childbed Fever",
+      "author": "Ignaz Semmelweis",
+      "year": 1861
+    },
+    "tags": [
+      "medicine",
+      "evidence",
+      "institutional-resistance"
+    ]
   },
-  "tags": [
-    "medicine",
-    "evidence",
-    "institutional-resistance"
-  ]
-},
   {
-  "id": "game-theory-11",
-  "title": "Fairness can evolve without anyone intending it",
-  "body": "Using evolutionary game theory and computer simulation, Skyrms showed that fair 50/50 divisions in bargaining games can emerge through natural selection from populations of randomly interacting agents, without any rational deliberation or social contract. What we call fairness — the intuitive sense that an equal split is right — may be the evolutionary residue of strategies that proved stable against invasion by greedier alternatives. This reframes moral intuitions not as discoveries of abstract truth or impositions of authority but as evolved equilibria shaped by the population dynamics of repeated social interaction.",
-  "source": {
-    "title": "Evolution of the Social Contract",
-    "author": "Brian Skyrms",
-    "year": 1996
+    "id": "game-theory-11",
+    "title": "Fairness can evolve without anyone intending it",
+    "body": "Using evolutionary game theory and computer simulation, Skyrms showed that fair 50/50 divisions in bargaining games can emerge through natural selection from populations of randomly interacting agents, without any rational deliberation or social contract. What we call fairness — the intuitive sense that an equal split is right — may be the evolutionary residue of strategies that proved stable against invasion by greedier alternatives. This reframes moral intuitions not as discoveries of abstract truth or impositions of authority but as evolved equilibria shaped by the population dynamics of repeated social interaction.",
+    "source": {
+      "title": "Evolution of the Social Contract",
+      "author": "Brian Skyrms",
+      "year": 1996
+    },
+    "tags": [
+      "game-theory",
+      "evolution",
+      "cooperation",
+      "fairness"
+    ]
   },
-  "tags": [
-    "game-theory",
-    "evolution",
-    "cooperation",
-    "fairness"
-  ]
-},
   {
-  "id": "rhetoric-10",
-  "title": "The ideal orator is a good person who speaks well",
-  "body": "Quintilian's twelve-volume encyclopedic treatise on oratorical education defined the ideal orator as vir bonus dicendi peritus — a good person skilled in speaking — deliberately fusing ethics with technique. For Quintilian, skill in persuasion divorced from moral character produces manipulation rather than eloquence, and the formation of a speaker is inseparable from the formation of a citizen. This principle challenged the view of rhetoric as a neutral tool, arguing instead that how we speak and to what ends we speak are not separable questions, and that genuine persuasion requires the credibility that comes only from integrity.",
-  "source": {
-    "title": "Institutio Oratoria",
-    "author": "Quintilian",
-    "year": 95
+    "id": "rhetoric-10",
+    "title": "The ideal orator is a good person who speaks well",
+    "body": "Quintilian's twelve-volume encyclopedic treatise on oratorical education defined the ideal orator as vir bonus dicendi peritus — a good person skilled in speaking — deliberately fusing ethics with technique. For Quintilian, skill in persuasion divorced from moral character produces manipulation rather than eloquence, and the formation of a speaker is inseparable from the formation of a citizen. This principle challenged the view of rhetoric as a neutral tool, arguing instead that how we speak and to what ends we speak are not separable questions, and that genuine persuasion requires the credibility that comes only from integrity.",
+    "source": {
+      "title": "Institutio Oratoria",
+      "author": "Quintilian",
+      "year": 95
+    },
+    "tags": [
+      "rhetoric",
+      "virtue",
+      "communication",
+      "character"
+    ]
   },
-  "tags": [
-    "rhetoric",
-    "virtue",
-    "communication",
-    "character"
-  ]
-},
   {
-  "id": "psychology-55",
-  "title": "Stress is not in the event but in the appraisal of it",
-  "body": "Lazarus and Folkman argued that stress is not an objective property of events but a product of how a person appraises the relationship between external demands and their own resources and capacities. The same situation — a public speech, a job interview, a medical diagnosis — produces radically different stress responses in different people, because cognitive appraisal mediates everything between stimulus and response. This framework transformed stress research by shifting the focus from cataloguing harmful environments to understanding the meaning-making process: it is not what happens to you, but what you make of what happens, that determines whether it harms or strengthens you.",
-  "source": {
-    "title": "Stress, Appraisal, and Coping",
-    "author": "Richard S. Lazarus and Susan Folkman",
-    "year": 1984
+    "id": "psychology-55",
+    "title": "Stress is not in the event but in the appraisal of it",
+    "body": "Lazarus and Folkman argued that stress is not an objective property of events but a product of how a person appraises the relationship between external demands and their own resources and capacities. The same situation — a public speech, a job interview, a medical diagnosis — produces radically different stress responses in different people, because cognitive appraisal mediates everything between stimulus and response. This framework transformed stress research by shifting the focus from cataloguing harmful environments to understanding the meaning-making process: it is not what happens to you, but what you make of what happens, that determines whether it harms or strengthens you.",
+    "source": {
+      "title": "Stress, Appraisal, and Coping",
+      "author": "Richard S. Lazarus and Susan Folkman",
+      "year": 1984
+    },
+    "tags": [
+      "psychology",
+      "stress",
+      "cognition",
+      "resilience"
+    ]
   },
-  "tags": [
-    "psychology",
-    "stress",
-    "cognition",
-    "resilience"
-  ]
-},
   {
-  "id": "physics-10",
-  "title": "Every spontaneous process seeks its lowest free energy",
-  "body": "Gibbs established the thermodynamic principle that any system at constant temperature and pressure will spontaneously change in the direction that lowers what we now call Gibbs free energy — a single quantity combining internal energy and entropy. This unifying concept explains why ice melts at room temperature, why chemical reactions proceed in one direction rather than the other, why dissolved substances diffuse across membranes, and why living organisms must continuously consume energy to maintain their improbable ordered state against the tide of entropy. By deriving this framework from first principles, Gibbs revealed a deep mathematical structure underlying all physical and chemical change.",
-  "source": {
-    "title": "On the Equilibrium of Heterogeneous Substances",
-    "author": "Josiah Willard Gibbs",
-    "year": 1875
+    "id": "physics-10",
+    "title": "Every spontaneous process seeks its lowest free energy",
+    "body": "Gibbs established the thermodynamic principle that any system at constant temperature and pressure will spontaneously change in the direction that lowers what we now call Gibbs free energy — a single quantity combining internal energy and entropy. This unifying concept explains why ice melts at room temperature, why chemical reactions proceed in one direction rather than the other, why dissolved substances diffuse across membranes, and why living organisms must continuously consume energy to maintain their improbable ordered state against the tide of entropy. By deriving this framework from first principles, Gibbs revealed a deep mathematical structure underlying all physical and chemical change.",
+    "source": {
+      "title": "On the Equilibrium of Heterogeneous Substances",
+      "author": "Josiah Willard Gibbs",
+      "year": 1875
+    },
+    "tags": [
+      "physics",
+      "thermodynamics",
+      "chemistry",
+      "equilibrium"
+    ]
   },
-  "tags": [
-    "physics",
-    "thermodynamics",
-    "chemistry",
-    "equilibrium"
-  ]
-}
+  {
+    "id": "geology-09",
+    "title": "Timefulness is the geologist's gift to the present",
+    "body": "Marcia Bjornerud argues that geologists develop an unusual relationship with time — they can read millions of years of history in a cliff face and intuitively grasp how their own moment fits within vast cycles of change. This “timefulness” is not mere historical curiosity but a cognitive skill the present urgently needs: a culture that thinks only in quarters and election cycles is chronologically impoverished. When we learn to see the present as one layer in an ongoing story, our sense of what counts as an emergency — and what counts as a resource to be spent — transforms entirely.",
+    "source": {
+      "title": "Timefulness: How Thinking Like a Geologist Can Help Save the World",
+      "author": "Marcia Bjornerud",
+      "year": 2018
+    },
+    "tags": [
+      "geology",
+      "time",
+      "perspective"
+    ]
+  },
+  {
+    "id": "memory-09",
+    "title": "Space is the hidden scaffold of all our thinking",
+    "body": "Cognitive psychologist Barbara Tversky shows that spatial thinking — the mental manipulation of objects, positions, and directions — is not a specialized skill but the foundation on which abstract thought is built. We talk about time as if it moves through space (ahead, behind, moving forward), reason about social relationships as physical distances (close friends, distant acquaintances), and map abstract hierarchies onto vertical axes. Memory, language, and logic all borrow their structure from the body’s experience of moving through the world.",
+    "source": {
+      "title": "Mind in Motion: How Action Shapes Thought",
+      "author": "Barbara Tversky",
+      "year": 2019
+    },
+    "tags": [
+      "memory",
+      "cognition",
+      "embodiment"
+    ]
+  },
+  {
+    "id": "complexity-11",
+    "title": "Psychological safety is not comfort — it is the condition for hard truths",
+    "body": "Amy Edmondson’s decades of organizational research show that teams most willing to admit mistakes, voice concerns, and challenge assumptions consistently outperform those where silence is safer. Psychological safety is not niceness or the absence of accountability; it is the belief that honest speech will not result in humiliation or punishment. Organizations that mistake psychological safety for permissiveness tend to create cultures of pleasant agreement — which is precisely what prevents the early detection of serious problems.",
+    "source": {
+      "title": "The Fearless Organization",
+      "author": "Amy Edmondson",
+      "year": 2018
+    },
+    "tags": [
+      "complexity",
+      "leadership",
+      "teams"
+    ]
+  },
+  {
+    "id": "pragmatism-11",
+    "title": "Science without democratic deliberation becomes technocracy",
+    "body": "Philip Kitcher argues that scientific research priorities are never purely technical questions — they always embed value judgments about which problems matter and whose suffering deserves attention. When these choices are made only by experts in isolation, science serves whoever funds it most generously rather than the public it claims to serve. Kitcher’s “well-ordered science” requires genuine deliberative processes in which citizens, not only specialists, have a voice in setting the agenda that shapes what gets known and what stays unknown.",
+    "source": {
+      "title": "Science in a Democratic Society",
+      "author": "Philip Kitcher",
+      "year": 2011
+    },
+    "tags": [
+      "pragmatism",
+      "science",
+      "democracy"
+    ]
+  },
+  {
+    "id": "education-20",
+    "title": "Skilled manual work demands cognitive sophistication we overlook",
+    "body": "Education researcher Mike Rose spent years documenting the intellectual demands hidden inside trades that educational culture treats as fallback options: carpentry requires spatial reasoning and load calculation, waitressing demands rapid probabilistic judgment about multiple simultaneous orders, construction work involves on-the-fly structural problem-solving. By separating vocational from intellectual achievement, we build a hierarchy that misreads both. The denigration of hand work is not a neutral observation about cognitive complexity — it is a cultural prejudice with real consequences for how we educate and how we value people.",
+    "source": {
+      "title": "The Mind at Work: Valuing the Intelligence of the American Worker",
+      "author": "Mike Rose",
+      "year": 2004
+    },
+    "tags": [
+      "education",
+      "work",
+      "identity"
+    ]
+  }
 ]
