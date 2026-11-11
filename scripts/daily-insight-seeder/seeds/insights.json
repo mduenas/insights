@@ -18175,5 +18175,80 @@
       "work",
       "identity"
     ]
+  },
+  {
+    "id": "chemistry-01",
+    "title": "Chemistry teaches that reality resists our categories",
+    "body": "Primo Levi, trained as a chemist before becoming a writer, argued that chemistry is fundamentally an encounter with the stubbornness of matter. Unlike the abstractions of mathematics or the systems of philosophy, chemistry demands that you confront actual substance — its refusal to conform to theory, its surprising affinities, its hidden toxicities. This resistance is not an obstacle but a kind of education: it trains the mind to honor what is real over what is wished for. The periodic table is not just a catalog of elements but a lesson in the limits of human projection.",
+    "source": {
+      "title": "The Periodic Table",
+      "author": "Primo Levi",
+      "year": 1975
+    },
+    "tags": [
+      "chemistry",
+      "humility",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "habits-22",
+    "title": "Habit is the great flywheel of society",
+    "body": "William James argued that habit is not an enemy of freedom but its necessary precondition. By automating the routine decisions of daily life — how to dress, how to begin work, how to greet people — habit frees cognitive resources for the genuinely novel and demanding. The person who must deliberate over every minor action has no energy left for things that actually require deliberate thought. James saw character itself as a consolidated set of habits: we do not decide who we are moment by moment, but gradually, through repetition that settles into nature.",
+    "source": {
+      "title": "The Principles of Psychology",
+      "author": "William James",
+      "year": 1890
+    },
+    "tags": [
+      "habits",
+      "psychology",
+      "character"
+    ]
+  },
+  {
+    "id": "action-17",
+    "title": "To act is to begin something whose end no one can foresee",
+    "body": "Hannah Arendt distinguished three modes of active life — labor, work, and action — arguing that only action, the capacity to begin something genuinely new by speaking and doing among others, is irreducibly unpredictable. Unlike fabrication, which produces a durable object, action enters a web of human relationships where its consequences ramify beyond any individual's control. This irreversibility is not a flaw in action but its defining characteristic. For Arendt, the fact that we cannot undo what we set in motion is what gives political life — and human freedom — their distinctive weight.",
+    "source": {
+      "title": "The Human Condition",
+      "author": "Hannah Arendt",
+      "year": 1958
+    },
+    "tags": [
+      "politics",
+      "action",
+      "freedom"
+    ]
+  },
+  {
+    "id": "resilience-18",
+    "title": "The capacity to be disturbed is what makes growth possible",
+    "body": "D.W. Winnicott argued that psychological health is not the absence of disturbance but the capacity to be disturbed without disintegrating — to tolerate uncertainty, frustration, and incompleteness as conditions of a living engagement with the world. The infant who cannot bear to wait learns nothing from waiting; the adult who cannot tolerate ambiguity avoids the situations where the most important learning happens. For Winnicott, what we call resilience is less a toughness against distress than a kind of permeability to it, combined with the confidence that one can find one's way back.",
+    "source": {
+      "title": "Playing and Reality",
+      "author": "D.W. Winnicott",
+      "year": 1971
+    },
+    "tags": [
+      "resilience",
+      "psychology",
+      "development"
+    ]
+  },
+  {
+    "id": "ecology-32",
+    "title": "An ecosystem is not a collection of organisms but a set of relationships",
+    "body": "Aldo Leopold insisted that conventional biology, by studying species in isolation, systematically missed what was most important about living communities: the web of dependencies, competition, and mutualism that makes each participant what it is. A wolf is not just a predator; it is a regulator of deer populations, which are browsers of willows, which are stabilizers of stream banks. Remove any thread and the whole fabric changes in ways that no catalog of individual species could predict. Leopold's land ethic asked us to extend moral consideration to this relational whole, not just to its parts.",
+    "source": {
+      "title": "A Sand County Almanac",
+      "author": "Aldo Leopold",
+      "year": 1949
+    },
+    "tags": [
+      "ecology",
+      "systems",
+      "ethics"
+    ]
   }
 ]
