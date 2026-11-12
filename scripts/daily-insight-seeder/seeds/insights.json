@@ -18250,5 +18250,80 @@
       "systems",
       "ethics"
     ]
+  },
+  {
+    "id": "astronomy-08",
+    "title": "The universe forged its first elements in three minutes",
+    "body": "In the first three minutes after the Big Bang, the universe was hot and dense enough for nuclear fusion to proceed without stars. During this brief window, protons and neutrons collided fast enough to form deuterium, helium-3, and helium-4 — a process called Big Bang nucleosynthesis. The relative abundances this theory predicts match what astronomers measure in the oldest, least-contaminated regions of the universe, providing one of the most powerful confirmations of the Big Bang model. The cosmos carries a chemical signature of its own birth in every atom of helium that exists.",
+    "source": {
+      "title": "The First Three Minutes: A Modern View of the Origin of the Universe",
+      "author": "Steven Weinberg",
+      "year": 1977
+    },
+    "tags": [
+      "cosmology",
+      "physics",
+      "origins"
+    ]
+  },
+  {
+    "id": "chemistry-02",
+    "title": "Molecules hold together because electrons belong to no single atom",
+    "body": "Before quantum mechanics, chemists knew atoms bonded together but had no coherent explanation of why. Linus Pauling showed that the covalent bond arises when two atomic wavefunctions overlap and electrons are shared between nuclei, lowering the total energy of the system. This insight unified chemistry with physics: the same quantum mechanics that explained atomic spectra also explained why water is a bent molecule, why benzene is unusually stable, and why proteins fold as they do. Pauling's framework gave chemists a way to predict molecular structure from first principles rather than empirical rules alone.",
+    "source": {
+      "title": "The Nature of the Chemical Bond",
+      "author": "Linus Pauling",
+      "year": 1939
+    },
+    "tags": [
+      "chemistry",
+      "quantum-mechanics",
+      "structure"
+    ]
+  },
+  {
+    "id": "game-theory-12",
+    "title": "A costly signal is credible precisely because it is costly",
+    "body": "Michael Spence observed that in job markets, employers cannot directly observe a worker's ability before hiring. His insight was that a potential employee can credibly signal high ability by acquiring a costly credential — such as a college degree — even when the credential adds little direct productive value. The signal works because the cost of acquiring it is lower for high-ability workers, making it individually rational for them to invest in it but not rational for low-ability workers to mimic. This model explained why education functions partly as a sorting device rather than purely as skill-building, and why genuine costliness is what gives any signal its information content.",
+    "source": {
+      "title": "Market Signaling: Informational Transfer in Hiring and Related Screening Processes",
+      "author": "A. Michael Spence",
+      "year": 1974
+    },
+    "tags": [
+      "information",
+      "incentives",
+      "labor"
+    ]
+  },
+  {
+    "id": "geography-09",
+    "title": "Every map is an argument, not a view from nowhere",
+    "body": "Mark Monmonier showed that maps cannot be neutral: every projection sacrifices some spatial truth — area, shape, distance, or direction — to preserve others, and that choice reflects the mapmaker's priorities. The Mercator projection makes navigation easy but inflates the apparent size of high-latitude continents; equal-area projections correct area but distort shape. Beyond projection, decisions about what to include, what to omit, what to highlight, and where to center the map all encode claims about what matters. Learning to read maps is in part learning to read the arguments they silently make.",
+    "source": {
+      "title": "How to Lie with Maps",
+      "author": "Mark Monmonier",
+      "year": 1991
+    },
+    "tags": [
+      "cartography",
+      "representation",
+      "power"
+    ]
+  },
+  {
+    "id": "political-07",
+    "title": "Ambition must be made to counteract ambition",
+    "body": "In Federalist No. 51, James Madison argued that a free government cannot rely on the virtue of its officeholders — it must be designed so that each part of government has both the means and the motive to resist encroachments by the other parts. The system of separated powers and checks and balances does not assume officials will be corrupt; it assumes they will be self-interested, and harnesses that self-interest in the service of constitutional limits. Madison's realism about human nature was also an optimism about institutional design: structures can produce outcomes that no collection of individuals would choose on their own.",
+    "source": {
+      "title": "Federalist No. 51",
+      "author": "James Madison",
+      "year": 1788
+    },
+    "tags": [
+      "government",
+      "institutions",
+      "design"
+    ]
   }
 ]
