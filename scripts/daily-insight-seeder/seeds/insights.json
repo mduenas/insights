@@ -18325,5 +18325,80 @@
       "institutions",
       "design"
     ]
+  },
+  {
+    "id": "chemistry-03",
+    "title": "Every element has a character of its own",
+    "body": "Primo Levi organized his memoir around chemical elements, using each one as a lens to examine a chapter of his life and work. Carbon bonds, nitrogen cycles, and iron rusts not merely as chemistry but as metaphors for human resilience, fragility, and tenacity. The properties of matter — its reactivity, stability, or inertness — mirror the conditions under which people and ideas either thrive or fail. Looking at the world through the personality of its constituent elements offers a way to understand both chemistry and character simultaneously.",
+    "source": {
+      "title": "The Periodic Table",
+      "author": "Primo Levi",
+      "year": 1975
+    },
+    "tags": [
+      "chemistry",
+      "metaphor",
+      "resilience"
+    ]
+  },
+  {
+    "id": "geology-10",
+    "title": "Deep time dwarfs the whole of human history",
+    "body": "Geologists think in spans of millions and billions of years, a scale so vast that all of recorded human civilization occupies less than an eyeblink. McPhee popularized the concept of deep time to describe how Earth’s processes — mountain-building, erosion, plate movement — operate on timescales that render human affairs vanishingly brief. Internalizing this perspective does not diminish human endeavor but reframes urgency: what seems permanent is transient, and what seems slow may be the most powerful force on the planet. A geological mindset cultivates humility and patience simultaneously.",
+    "source": {
+      "title": "Basin and Range",
+      "author": "John McPhee",
+      "year": 1981
+    },
+    "tags": [
+      "geology",
+      "time",
+      "perspective"
+    ]
+  },
+  {
+    "id": "economics-59",
+    "title": "Appropriate scale is the foundation of lasting efficiency",
+    "body": "Schumacher challenged the assumption that bigger is always better, arguing that economic systems perform best when sized appropriately to human needs rather than maximized for abstract output. Drawing on Buddhist economics and practical development experience, he showed that technologies and institutions scaled beyond their natural size become brittle, wasteful, and alienating. The question is not how much can be produced but whether the scale of production fits the people it is meant to serve. Right-sizing a solution to its context is not a constraint on ambition but the precondition for it.",
+    "source": {
+      "title": "Small Is Beautiful: A Study of Economics as if People Mattered",
+      "author": "E. F. Schumacher",
+      "year": 1973
+    },
+    "tags": [
+      "economics",
+      "scale",
+      "design"
+    ]
+  },
+  {
+    "id": "memory-10",
+    "title": "Space is the original architecture of memory",
+    "body": "Ancient orators used an elaborate mnemonic technique — the memory palace — to recall vast quantities of information by mentally placing vivid images along a familiar route. Frances Yates recovered and documented this nearly forgotten tradition, tracing it from classical Greece through the Renaissance, and showing how pre-print culture relied on spatial memory as a form of portable library. The technique works because human memory is tightly coupled to place and movement, encoding journeys far more naturally than abstract lists. Designing learning around concrete locations — real or imagined — taps a cognitive structure that served speakers and scholars for two millennia.",
+    "source": {
+      "title": "The Art of Memory",
+      "author": "Frances A. Yates",
+      "year": 1966
+    },
+    "tags": [
+      "memory",
+      "cognition",
+      "learning"
+    ]
+  },
+  {
+    "id": "political-theory-06",
+    "title": "Liberty has two faces that can pull against each other",
+    "body": "Isaiah Berlin drew a foundational distinction between negative liberty — freedom from external interference — and positive liberty — the actual capacity to direct one’s own life. Both are genuine forms of freedom, yet they can conflict: ensuring people have the internal resources to exercise meaningful choice may require limiting some external freedoms, while protecting non-interference may leave people without the means to use it. Berlin’s essay remains essential because political arguments that invoke “freedom” often mean fundamentally different things, and conflating the two can lead to policies that undermine the very liberty they claim to protect.",
+    "source": {
+      "title": "Two Concepts of Liberty",
+      "author": "Isaiah Berlin",
+      "year": 1958
+    },
+    "tags": [
+      "political-theory",
+      "freedom",
+      "philosophy"
+    ]
   }
 ]
