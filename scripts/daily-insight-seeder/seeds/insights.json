@@ -18400,5 +18400,80 @@
       "freedom",
       "philosophy"
     ]
+  },
+  {
+    "id": "astronomy-09",
+    "title": "Every Human Conflict Plays Out on a Pale Blue Dot",
+    "body": "Carl Sagan reflected on the Voyager 1 photograph of Earth — a pale blue dot suspended in a sunbeam — and noted that every king and conqueror, every act of cruelty and kindness in human history, had taken place on that barely visible speck. Our planet is a lonely mote in the great enveloping cosmic dark. This perspective does not diminish human life; it reframes our responsibilities to one another and to the only home we have ever known.",
+    "source": {
+      "title": "Pale Blue Dot: A Vision of the Human Future in Space",
+      "author": "Carl Sagan",
+      "year": 1994
+    },
+    "tags": [
+      "astronomy",
+      "perspective",
+      "humility"
+    ]
+  },
+  {
+    "id": "physics-11",
+    "title": "Two Forces Share One Mathematical Identity",
+    "body": "James Clerk Maxwell's equations unified electricity and magnetism into a single electromagnetic field, revealing that what appeared to be two distinct phenomena were aspects of one underlying reality. His equations further predicted the existence of electromagnetic waves traveling at the speed of light — from which Maxwell concluded that light itself must be electromagnetic. The discovery that separate-seeming forces share a common mathematical form opened the door to every subsequent search for a unified theory of nature.",
+    "source": {
+      "title": "A Treatise on Electricity and Magnetism",
+      "author": "James Clerk Maxwell",
+      "year": 1873
+    },
+    "tags": [
+      "physics",
+      "unification",
+      "science"
+    ]
+  },
+  {
+    "id": "medicine-11",
+    "title": "We Are Composites of Other Living Things",
+    "body": "Lewis Thomas argued that the mitochondria in every human cell were once independent bacteria, and that the boundary between self and other is far more porous than we imagine. We are not discrete organisms but walking ecosystems, dependent on billions of microbes for digestion, immunity, and development. This blurring of biological borders suggests that evolution is less a story of competition between clearly separate entities than a story of the creative merging of formerly distinct lives.",
+    "source": {
+      "title": "The Lives of a Cell: Notes of a Biology Watcher",
+      "author": "Lewis Thomas",
+      "year": 1974
+    },
+    "tags": [
+      "medicine",
+      "biology",
+      "symbiosis"
+    ]
+  },
+  {
+    "id": "game-theory-13",
+    "title": "You Must Understand an Argument Before You Can Change It",
+    "body": "Anatol Rapoport held that genuine debate requires first demonstrating, to the other party's satisfaction, that you have understood their position — only then does persuasion become possible. Without this step, most arguments are parallel monologues in which each side reinforces its own view. The same principle applies to international conflict: adversaries locked in mutual-threat cycles cannot exit them unless each can accurately model the other's fears and incentives.",
+    "source": {
+      "title": "Fights, Games, and Debates",
+      "author": "Anatol Rapoport",
+      "year": 1960
+    },
+    "tags": [
+      "game-theory",
+      "communication",
+      "conflict"
+    ]
+  },
+  {
+    "id": "rhetoric-11",
+    "title": "Myth Presents History as Nature",
+    "body": "Roland Barthes showed that everyday cultural objects — advertisements, political speeches, sports ceremonies — are saturated with unstated assumptions that work by making contingent, historical arrangements appear inevitable and natural. Myth is rhetoric in disguise: it depoliticizes by erasing the conditions of its own production. To read culture critically is to restore the history that myth has suppressed, asking not 'what does this mean?' but 'who benefits from this meaning?'",
+    "source": {
+      "title": "Mythologies",
+      "author": "Roland Barthes",
+      "year": 1957
+    },
+    "tags": [
+      "rhetoric",
+      "culture",
+      "ideology"
+    ]
   }
 ]
