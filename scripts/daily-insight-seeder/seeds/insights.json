@@ -18475,5 +18475,85 @@
       "culture",
       "ideology"
     ]
+  },
+  {
+    "id": "chemistry-04",
+    "title": "Define elements by what cannot be further divided",
+    "body": "Boyle rejected the ancient doctrine of four elements—earth, air, fire, and water—not by proposing a better list, but by insisting that the question itself must be answered through experiment rather than tradition. An element, he argued, is whatever substance resists all known methods of decomposition. This operational definition replaced authority with method and laid the conceptual foundation for the periodic table two centuries later. Science advances fastest when it replaces metaphysical definitions with testable ones.",
+    "source": {
+      "title": "The Sceptical Chymist",
+      "author": "Robert Boyle",
+      "year": 1661
+    },
+    "tags": [
+      "chemistry",
+      "empiricism",
+      "elements",
+      "method"
+    ]
+  },
+  {
+    "id": "medicine-12",
+    "title": "The dying clarify what the living overlook",
+    "body": "Through hundreds of conversations with terminally ill patients, Kübler-Ross found that the fears people voiced at the end of life rarely concerned pain or death itself—they concerned things left undone: words unsaid, relationships neglected, authentic choices deferred for a later that never came. Her five stages of grief were a map of adaptation, not a fixed prescription. The deeper finding was that proximity to death can function as a clarifying lens, cutting through the noise that ordinarily obscures what matters most.",
+    "source": {
+      "title": "On Death and Dying",
+      "author": "Elisabeth Kübler-Ross",
+      "year": 1969
+    },
+    "tags": [
+      "medicine",
+      "death",
+      "meaning",
+      "values"
+    ]
+  },
+  {
+    "id": "music-24",
+    "title": "Hearing is involuntary; listening is a choice",
+    "body": "Oliveros distinguished between hearing—the involuntary, physiological reception of sound—and deep listening, which requires deliberate attention to the full field of sound, including what we habitually screen out. Her practice extended to environmental noise, the sounds of the body, and the sounds of memory and imagination. The discipline of listening without filtering or judging transforms auditory experience and trains a kind of attention that transfers directly to conversation, relationships, and the quality of thought itself.",
+    "source": {
+      "title": "Deep Listening: A Composer's Sound Practice",
+      "author": "Pauline Oliveros",
+      "year": 2005
+    },
+    "tags": [
+      "music",
+      "attention",
+      "perception",
+      "practice"
+    ]
+  },
+  {
+    "id": "anthropology-20",
+    "title": "Understanding another culture requires suspending your own",
+    "body": "Al-Biruni traveled to India in the eleventh century not to judge its civilization but to understand it on its own terms. He learned Sanskrit, studied Hindu texts directly, and explicitly noted where his own assumptions created barriers to comprehension. His methodology—suspending prior judgment and engaging with native categories before drawing comparisons—was essentially modern ethnography, practiced nine centuries before the discipline existed. True understanding of the other begins with recognizing the limits and partiality of the self.",
+    "source": {
+      "title": "Kitab al-Hind",
+      "author": "Al-Biruni",
+      "year": 1030
+    },
+    "tags": [
+      "anthropology",
+      "culture",
+      "empathy",
+      "method"
+    ]
+  },
+  {
+    "id": "complexity-12",
+    "title": "Information is the difference that makes a difference",
+    "body": "Bateson defined information not as a substance but as a relation: a difference in the world that triggers a difference in a perceiving system. A thermometer responds to changes in temperature, not to temperature as an absolute; a nerve responds to changes in stimulation; the mind responds to contrast, not to constant stimuli. This relational definition dissolves the boundary between mind and environment—information does not reside in objects but in the connection between events and their observers. Perception is fundamentally comparative, and all thought is built from distinctions.",
+    "source": {
+      "title": "Steps to an Ecology of Mind",
+      "author": "Gregory Bateson",
+      "year": 1972
+    },
+    "tags": [
+      "complexity",
+      "information",
+      "mind",
+      "systems"
+    ]
   }
 ]
