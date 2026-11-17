@@ -18631,4 +18631,80 @@
       "mystery"
     ]
   }
+,
+  {
+    "id": "chemistry-03",
+    "title": "Chirality shows that molecular identity goes beyond mere composition",
+    "body": "Two molecules with identical atoms arranged in mirror-image configurations can taste, smell, and behave completely differently in living organisms. One form of the drug thalidomide caused birth defects; its mirror image did not. This deep asymmetry — chirality — reveals that life itself evolved a 'handedness,' preferring left-handed amino acids and right-handed sugars in ways that shape every biological process and every medicine we design.",
+    "source": {
+      "title": "The Same and Not the Same",
+      "author": "Roald Hoffmann",
+      "year": 1995
+    },
+    "tags": [
+      "chemistry",
+      "symmetry",
+      "biology"
+    ]
+  },
+  {
+    "id": "political-08",
+    "title": "The struggle itself transforms what the goal can be",
+    "body": "Luxemburg argued that reform and revolution are not alternative routes to the same destination but fundamentally different visions of transformation. Incremental legal reform within existing structures can improve conditions, yet cannot alter the underlying logic of the system it inhabits. The process of collective struggle and self-organization — not merely its legal outcomes — is what creates genuinely new social possibilities and new kinds of persons capable of inhabiting them.",
+    "source": {
+      "title": "Reform or Revolution",
+      "author": "Rosa Luxemburg",
+      "year": 1899
+    },
+    "tags": [
+      "politics",
+      "social change",
+      "strategy"
+    ]
+  },
+  {
+    "id": "game-theory-13",
+    "title": "The right rules make honesty the dominant strategy",
+    "body": "Myerson's revelation principle showed that any outcome achievable through strategic deception can also be achieved through a truthful mechanism — one where participants gain nothing by misrepresenting their preferences. This insight launched mechanism design: the science of engineering institutions that channel self-interest toward collective goals. Rather than fighting human incentives, we can design the game so that honesty wins.",
+    "source": {
+      "title": "Game Theory: Analysis of Conflict",
+      "author": "Roger Myerson",
+      "year": 1991
+    },
+    "tags": [
+      "mechanism design",
+      "incentives",
+      "institutions"
+    ]
+  },
+  {
+    "id": "physics-11",
+    "title": "A concept undefined by measurement is not yet a concept",
+    "body": "Bridgman's operationalism held that every physical quantity must be defined by the actual operations used to measure it, not by abstract definition alone. Einstein's relativity had already illustrated this: 'simultaneity' means something different to observers in relative motion because there is no single procedure for establishing it. Operationalism is not mere pragmatism; it is a discipline against speaking of things we cannot in principle observe, forcing clarity where vague terminology had previously hidden confusion.",
+    "source": {
+      "title": "The Logic of Modern Physics",
+      "author": "Percy Bridgman",
+      "year": 1927
+    },
+    "tags": [
+      "physics",
+      "measurement",
+      "philosophy of science"
+    ]
+  },
+  {
+    "id": "complexity-12",
+    "title": "Crowds beat experts when members think independently",
+    "body": "Surowiecki synthesized evidence that groups produce more accurate collective judgments than individual specialists when members hold independent information, reflect diverse perspectives, and their views are aggregated rather than deliberated to consensus. Averaging distributed private knowledge cancels out individual errors while preserving the signal each person carries. Crowds fail not from too much difference but from too much conformity — when members copy rather than reason from their own distinct vantage points.",
+    "source": {
+      "title": "The Wisdom of Crowds",
+      "author": "James Surowiecki",
+      "year": 2004
+    },
+    "tags": [
+      "collective intelligence",
+      "decision-making",
+      "diversity"
+    ]
+  }
 ]
