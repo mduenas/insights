@@ -18707,4 +18707,80 @@
       "diversity"
     ]
   }
+,
+  {
+    "id": "geography-10",
+    "title": "Every landscape is a palimpsest of human decisions",
+    "body": "Cronon showed that the 'pristine wilderness' European settlers found in New England was in fact a cultural landscape shaped by centuries of Native American burning, clearing, and cultivation. What reads as nature is almost always a record of prior human choices layered over geological time. Reading any landscape historically changes how we perceive our own moment within it — not as newcomers standing before the given, but as the latest actors in an ongoing transformation that began long before us.",
+    "source": {
+      "title": "Changes in the Land: Indians, Colonists, and the Ecology of New England",
+      "author": "William Cronon",
+      "year": 1983
+    },
+    "tags": [
+      "geography",
+      "ecology",
+      "history"
+    ]
+  },
+  {
+    "id": "sociology-54",
+    "title": "Modern solidarity is built on difference, not likeness",
+    "body": "Durkheim distinguished two forms of social cohesion: mechanical solidarity, which binds homogeneous communities through shared belief, and organic solidarity, which binds differentiated societies through mutual dependence. As societies grow complex and the division of labor deepens, individuals become more different from one another — yet more bound together, the way organs in a body depend on each other's distinctness. The danger of modernity is not too much difference but anomie: the breakdown of the norms that give differentiation its meaning.",
+    "source": {
+      "title": "The Division of Labor in Society",
+      "author": "Émile Durkheim",
+      "year": 1893
+    },
+    "tags": [
+      "sociology",
+      "community",
+      "modernity"
+    ]
+  },
+  {
+    "id": "science-60",
+    "title": "Progress is not a gift — it is a problem to be solved",
+    "body": "Condorcet, writing from hiding while the Terror raged outside, argued that history reveals a continuous improvement in human knowledge, morality, and political institutions driven by the cumulative application of reason. Progress was not guaranteed or automatic; it required cultivating the conditions — free inquiry, public education, equal rights — that allow reason to compound. Written in the shadow of his own likely execution, the work stands as evidence of the idea it defends: that reason can outrun its circumstances.",
+    "source": {
+      "title": "Sketch for a Historical Picture of the Progress of the Human Mind",
+      "author": "Nicolas de Condorcet",
+      "year": 1795
+    },
+    "tags": [
+      "science",
+      "progress",
+      "enlightenment"
+    ]
+  },
+  {
+    "id": "action-18",
+    "title": "Fortune yields to those who press her",
+    "body": "Machiavelli argued that fortune — the tide of contingent events — accounts for roughly half of what happens to us; the other half depends on virtù, the alert and forceful capacity to act on circumstances. Fortune is like a river: when calm anyone can navigate it, but when flooded only those who built levees in advance survive. The practical lesson is not to trust providence but to prepare in good times for bad ones, and when adversity strikes to attack rather than wait — because inaction allows fortune to dictate the outcome while boldness reshapes the situation itself.",
+    "source": {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "year": 1532
+    },
+    "tags": [
+      "action",
+      "leadership",
+      "strategy"
+    ]
+  },
+  {
+    "id": "biology-41",
+    "title": "Life maintains order by consuming order from its surroundings",
+    "body": "Schrödinger observed that living organisms seem to defy the second law of thermodynamics, maintaining and even increasing their internal organization over time. The resolution is that they do so by drawing 'negative entropy' — imported order — from food, sunlight, and air, while exporting disorder as heat and waste. Life does not violate physics but exploits it at the boundary: it is an open system that sustains itself far from equilibrium precisely by continually processing its surroundings. This insight later catalyzed the entire field of biophysics and shaped how Watson and Crick thought about the genetic code.",
+    "source": {
+      "title": "What is Life?",
+      "author": "Erwin Schrödinger",
+      "year": 1944
+    },
+    "tags": [
+      "biology",
+      "physics",
+      "thermodynamics"
+    ]
+  }
 ]
