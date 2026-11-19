@@ -18783,4 +18783,80 @@
       "thermodynamics"
     ]
   }
+,
+{
+  "id": "chemistry-06",
+  "title": "Molecular stability emerges from resonance between structural possibilities",
+  "body": "Pauling showed that molecules like benzene cannot be represented by a single classical bond diagram; their actual electronic state is a quantum superposition — a resonance hybrid — of all valid bond arrangements at once. The true molecule is more stable than any single representation, gaining 'resonance energy' from this blending. This insight explained why aromatic compounds are unexpectedly unreactive and shaped the entire language chemists use to reason about reactivity, stability, and drug design.",
+  "source": {
+    "title": "The Nature of the Chemical Bond",
+    "author": "Linus Pauling",
+    "year": 1939
+  },
+  "tags": [
+    "chemistry",
+    "quantum mechanics",
+    "structure"
+  ]
+},
+{
+  "id": "political-09",
+  "title": "Power must check power or it consumes everything",
+  "body": "Montesquieu argued that tyranny is not merely a character defect of rulers but a structural inevitability: when legislative, executive, and judicial authority converge in the same hands, there is no barrier to their combined force. His solution was not to find better rulers but to design institutions that pit power against power, making each branch a check on the others. This architectural insight — that liberty is a property of systems, not of persons — became the structural logic of the American Constitution and the foundation of modern democratic design.",
+  "source": {
+    "title": "The Spirit of the Laws",
+    "author": "Montesquieu",
+    "year": 1748
+  },
+  "tags": [
+    "politics",
+    "institutions",
+    "liberty"
+  ]
+},
+{
+  "id": "astronomy-10",
+  "title": "The universe is not a fixed stage but an ever-expanding drama",
+  "body": "Hubble's systematic measurement of galactic redshifts revealed that virtually every galaxy is receding from every other, with velocity proportional to distance — meaning space itself is stretching. This overturned millennia of assumption that the cosmos was static and eternal, replacing it with a universe that has a history: a beginning, a development, and an open-ended future. The implication still unsettles: there is no center from which everything expands; every point in the universe is, from its own vantage, the center.",
+  "source": {
+    "title": "The Realm of the Nebulae",
+    "author": "Edwin Hubble",
+    "year": 1936
+  },
+  "tags": [
+    "astronomy",
+    "cosmology",
+    "expansion"
+  ]
+},
+{
+  "id": "pragmatism-12",
+  "title": "Our deepest beliefs are products of chance, not timeless truths",
+  "body": "Rorty argued that the values, vocabularies, and self-descriptions we take as most fundamental are not discovered by reason but inherited from contingent history — family, culture, accident. The 'ironist' recognizes this without despair, holding her beliefs firmly while acknowledging she cannot step outside them to validate them from a neutral standpoint. Rather than grounding solidarity in shared rational foundations, Rorty argued we extend moral concern by cultivating imagination — by learning to feel the pain of people whose circumstances differ from our own.",
+  "source": {
+    "title": "Contingency, Irony, and Solidarity",
+    "author": "Richard Rorty",
+    "year": 1989
+  },
+  "tags": [
+    "pragmatism",
+    "philosophy",
+    "solidarity"
+  ]
+},
+{
+  "id": "geology-11",
+  "title": "The present is the key to the past",
+  "body": "Hutton argued that the same slow processes visible today — erosion, sedimentation, volcanic uplift — are sufficient to explain all geological features, provided one grants enough time. His famous conclusion, 'we find no vestige of a beginning, no prospect of an end,' stretched human imagination to encompass timescales so vast that years become meaningless units. This principle of uniformitarianism not only founded modern geology but established a template for scientific thinking across disciplines: extraordinary results can follow from ordinary causes operating patiently over extraordinary spans.",
+  "source": {
+    "title": "Theory of the Earth",
+    "author": "James Hutton",
+    "year": 1788
+  },
+  "tags": [
+    "geology",
+    "deep time",
+    "uniformitarianism"
+  ]
+}
 ]
