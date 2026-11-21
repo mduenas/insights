@@ -18931,4 +18931,85 @@
       "institutions"
     ]
   }
+,
+  {
+    "id": "geology-12",
+    "title": "The present is the key to the past",
+    "body": "Lyell systematized Hutton's insight into uniformitarianism: the same physical processes operating today — erosion, deposition, volcanic activity — have operated at comparable rates throughout Earth's history. This meant geologists could read ancient rock formations as records of processes they could observe in the present, making the distant past scientifically accessible. The principle transformed geology from speculation about catastrophes into an empirical science, and its patience — trusting slow accumulation over sudden disruption — became a model for how deep change actually works.",
+    "source": {
+      "title": "Principles of Geology",
+      "author": "Charles Lyell",
+      "year": 1830
+    },
+    "tags": [
+      "geology",
+      "uniformitarianism",
+      "science",
+      "history"
+    ]
+  },
+  {
+    "id": "geography-11",
+    "title": "Space becomes place through accumulated meaning",
+    "body": "Tuan coined 'topophilia' to name the affective bond between people and their environments, arguing that a location becomes a place only when it is known intimately and saturated with personal or collective significance. Abstract space is transformed into felt place through lived experience, memory, and care. This distinction explains why displacement is not merely inconvenience but existential loss, and why attachment to homeland or childhood landscape can appear irrational in scale yet remain entirely legitimate in kind — place is concretion of value, not just coordinate.",
+    "source": {
+      "title": "Topophilia: A Study of Environmental Perception, Attitudes, and Values",
+      "author": "Yi-Fu Tuan",
+      "year": 1974
+    },
+    "tags": [
+      "geography",
+      "place",
+      "belonging",
+      "perception"
+    ]
+  },
+  {
+    "id": "memory-11",
+    "title": "Forgetting follows a curve, and that curve can be beaten",
+    "body": "Ebbinghaus discovered through meticulous self-experiments that memory decay is not uniform: the steepest loss occurs within hours of learning, with ever-diminishing decline thereafter. This forgetting curve implies that the timing of review matters as much as the total duration of study — a brief repetition just before forgetting is far more efficient than massed practice at the moment of learning. His finding is the empirical foundation of spaced repetition, the principle that matching study intervals to the natural decay rate produces durable memory at a fraction of the effort.",
+    "source": {
+      "title": "Memory: A Contribution to Experimental Psychology",
+      "author": "Hermann Ebbinghaus",
+      "year": 1885
+    },
+    "tags": [
+      "memory",
+      "learning",
+      "cognition",
+      "habits"
+    ]
+  },
+  {
+    "id": "pragmatism-13",
+    "title": "The whole meaning of an idea is its conceivable practical effects",
+    "body": "Peirce's pragmatic maxim holds that the complete meaning of any concept lies in what difference it would make to our experience under any conceivable conditions: if two hypotheses have identical practical consequences, they express the same idea. This rule is not a restriction on speculation but a tool for clarification — it dissolves disputes that are merely verbal and focuses debate on empirical differences that actually exist. Applied rigorously, it transforms abstract metaphysics from an arena of endless controversy into a discipline that must account for the concrete difference it makes in the world.",
+    "source": {
+      "title": "How to Make Our Ideas Clear",
+      "author": "Charles Sanders Peirce",
+      "year": 1878
+    },
+    "tags": [
+      "pragmatism",
+      "philosophy",
+      "clarity",
+      "meaning"
+    ]
+  },
+  {
+    "id": "rhetoric-12",
+    "title": "Eloquence without wisdom is dangerous; wisdom without eloquence is wasted",
+    "body": "Cicero lamented that the Greek academy had split philosophy from rhetoric, impoverishing both: thinkers who disdained public speaking could not shape affairs, while orators who neglected knowledge had nothing worth saying. The ideal figure he describes in De Oratore is not merely persuasive but deeply learned — versed in history, law, human nature, and moral philosophy. The integration of knowledge and expression is not ornament but civic necessity: a republic depends on citizens who can think clearly and render that thought in forms others can receive and act upon.",
+    "source": {
+      "title": "De Oratore",
+      "author": "Marcus Tullius Cicero",
+      "year": -55
+    },
+    "tags": [
+      "rhetoric",
+      "wisdom",
+      "communication",
+      "philosophy"
+    ]
+  }
 ]
