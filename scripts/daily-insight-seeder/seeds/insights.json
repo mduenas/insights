@@ -18930,8 +18930,7 @@
       "imagination",
       "institutions"
     ]
-  }
-,
+  },
   {
     "id": "geology-12",
     "title": "The present is the key to the past",
@@ -19010,6 +19009,81 @@
       "wisdom",
       "communication",
       "philosophy"
+    ]
+  },
+  {
+    "id": "music-25",
+    "title": "Music moves us through syntax, not through subject matter",
+    "body": "Bernstein argued that music's expressive power does not reside in its external associations — a trumpet call need not mean 'battle' — but in the internal logic of its syntactic moves: tension and release, expectation and surprise, departure and homecoming. What stirs a listener is not representation but the unfolding structural relationships of sound in time. Music is a language, he insisted, but one whose meaning is inseparable from its form; strip the structure and you strip the feeling, leaving only noise that happens to be labelled.",
+    "source": {
+      "title": "The Unanswered Question",
+      "author": "Leonard Bernstein",
+      "year": 1976
+    },
+    "tags": [
+      "music",
+      "meaning",
+      "aesthetics"
+    ]
+  },
+  {
+    "id": "neuroscience-23",
+    "title": "Every cognitive task has three levels that must all be explained",
+    "body": "Marr argued that understanding any information-processing system requires three distinct levels: the computational level (what problem is solved and why), the algorithmic level (what procedure solves it), and the implementational level (how the procedure is physically realised). Confusing levels produces deep errors — explaining a chess move by describing molecular motion in the piece rather than the rules of the game. Any theory of vision, or of any other cognitive capacity, must succeed at all three levels simultaneously, and failure at one cannot be rescued by success at another.",
+    "source": {
+      "title": "Vision",
+      "author": "David Marr",
+      "year": 1982
+    },
+    "tags": [
+      "neuroscience",
+      "cognition",
+      "levels of analysis"
+    ]
+  },
+  {
+    "id": "geography-12",
+    "title": "Place is space that has been humanised by experience",
+    "body": "Tuan coined 'topophilia' to name the affective bond between people and place — the deep attachment that transforms anonymous space into a home, a neighbourhood, a homeland. Place is not simply a location on a map but a dense accumulation of experience, memory, and meaning. The more time and care a person invests in a space, the more irreplaceable it becomes: the unremarkable patch of ground where a child played holds an emotional weight that no equivalent parkland elsewhere can match, because the value is in the history layered into it.",
+    "source": {
+      "title": "Topophilia",
+      "author": "Yi-Fu Tuan",
+      "year": 1974
+    },
+    "tags": [
+      "geography",
+      "place",
+      "identity"
+    ]
+  },
+  {
+    "id": "rhetoric-13",
+    "title": "Every story is told by an implied author the reader constructs",
+    "body": "Booth argued that the author who appears to speak through any literary work is not the real historical person but an 'implied author' — a second self that readers infer from every narrative choice, from the selection of events to the texture of language. This persona may be wiser, cruder, or more morally deliberate than its creator's ordinary self. Recognising the implied author matters for criticism: when we praise or blame 'the author' for what a story does to us, we are addressing this constructed voice and its values, not the person who sat at the desk.",
+    "source": {
+      "title": "The Rhetoric of Fiction",
+      "author": "Wayne Booth",
+      "year": 1961
+    },
+    "tags": [
+      "rhetoric",
+      "literature",
+      "narrative"
+    ]
+  },
+  {
+    "id": "mindset-17",
+    "title": "Conditional framing keeps the mind open; absolutes close it",
+    "body": "Langer found that how information is framed at the moment of learning determines how flexibly it can be applied later. When facts are presented as absolute — 'this is a wrench' — the mind files them and stops inquiring. When they are presented conditionally — 'this could be a wrench' — categories stay permeable and novel uses remain visible. In experiments, people taught with conditional language noticed more options, adapted better to changed circumstances, and made fewer errors under conditions that differed from training, simply because the original framing had not foreclosed possibilities.",
+    "source": {
+      "title": "Mindfulness",
+      "author": "Ellen Langer",
+      "year": 1989
+    },
+    "tags": [
+      "mindset",
+      "learning",
+      "flexibility"
     ]
   }
 ]
