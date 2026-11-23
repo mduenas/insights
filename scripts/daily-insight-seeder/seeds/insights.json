@@ -19085,5 +19085,80 @@
       "learning",
       "flexibility"
     ]
+  },
+  {
+    "id": "astronomy-11",
+    "title": "Inflation turned cosmic fine-tuning puzzles into predictions",
+    "body": "Before Alan Guth's inflation hypothesis, two features of the universe seemed implausibly coincidental: space is geometrically flat to extraordinary precision, and opposite ends of the sky have nearly identical temperatures even though they appear causally disconnected. Inflation proposed that the cosmos underwent a brief, explosive exponential expansion in its first fraction of a second, stretching any initial curvature to undetectable flatness and thermalizing the early universe before separating distant regions. What had looked like miraculous coincidences became natural outcomes of a single mechanism, transforming puzzles into the founding quantitative predictions of modern cosmology.",
+    "source": {
+      "title": "The Fabric of the Cosmos",
+      "author": "Brian Greene",
+      "year": 2004
+    },
+    "tags": [
+      "cosmology",
+      "physics",
+      "origins"
+    ]
+  },
+  {
+    "id": "biology-42",
+    "title": "Where species live is a record of how they evolved",
+    "body": "Wallace independently conceived natural selection and went on to show that the patterns of animal distribution encode evolutionary history. His discovery of a sharp faunal boundary between Asia and Australia — now called the Wallace Line — demonstrated that geography is not merely a backdrop but a driving force of evolution: ocean barriers determine which ancestral lineages cross, not which environments await them. Islands develop distinct faunas because different founders reach them, not because different habitats call different species into being. The map of life, he showed, is an unread historical document, testifying to the continental movements, sea barriers, and dispersal events that shaped every organism alive today.",
+    "source": {
+      "title": "The Geographical Distribution of Animals",
+      "author": "Alfred Russel Wallace",
+      "year": 1876
+    },
+    "tags": [
+      "evolution",
+      "biogeography",
+      "ecology"
+    ]
+  },
+  {
+    "id": "economics-60",
+    "title": "Education is an investment in future capacity, not merely a credential",
+    "body": "Becker formalized the idea that people invest in themselves — through schooling, training, and health — just as firms invest in machinery: both forego current income in expectation of future returns. This framework explained why earnings rise steeply with education and experience, why firms fund specific training while workers bear the cost of general skills, and why on-the-job learning follows its own economics. By treating human beings as holders of capital, Becker connected wage disparities, migration decisions, and family formation to a unified theory of rational investment, expanding what economics could illuminate far beyond market exchange.",
+    "source": {
+      "title": "Human Capital",
+      "author": "Gary Becker",
+      "year": 1964
+    },
+    "tags": [
+      "education",
+      "labor economics",
+      "investment"
+    ]
+  },
+  {
+    "id": "history-48",
+    "title": "Individual lives reveal what documents of power cannot",
+    "body": "Davis reconstructed a sixteenth-century French village case — in which an impostor lived for years as a returning husband before being exposed — not to illustrate broad social forces but to recover the inner lives, motivations, and agency of people the archives almost lost. Reading court records and notarial acts against the grain, she retrieved the perspective of Bertrande de Rols, the wife who both participated in the deception and ultimately ended it. The method Davis practiced — microhistory — insists that individual cases are not exceptions to history but laboratories for it, disclosing possibilities that aggregate statistics permanently obscure and showing that ordinary people actively shaped the conditions of their own lives.",
+    "source": {
+      "title": "The Return of Martin Guerre",
+      "author": "Natalie Zemon Davis",
+      "year": 1983
+    },
+    "tags": [
+      "microhistory",
+      "identity",
+      "agency"
+    ]
+  },
+  {
+    "id": "medicine-14",
+    "title": "Only randomization separates genuine effect from therapeutic illusion",
+    "body": "Cochrane argued that most accepted medical treatments had never been tested against placebo controls, leaving medicine's claims to effectiveness largely unverified. His experience as a prisoner of war — watching colleagues recover or die while he could offer almost nothing — convinced him that natural recovery and the placebo effect accounted for most of medicine's apparent work. Randomized controlled trials, in which patients are assigned to treatments by chance rather than by clinical judgment, are the only reliable way to distinguish genuine therapeutic effects from background noise and confirmation bias. His insistence that health systems should do only what rigorous trials have shown to help remains the founding premise of evidence-based medicine.",
+    "source": {
+      "title": "Effectiveness and Efficiency: Random Reflections on Health Services",
+      "author": "Archibald Cochrane",
+      "year": 1972
+    },
+    "tags": [
+      "evidence-based medicine",
+      "clinical trials",
+      "epistemology"
+    ]
   }
 ]
