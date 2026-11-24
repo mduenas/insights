@@ -19160,5 +19160,80 @@
       "clinical trials",
       "epistemology"
     ]
+  },
+  {
+    "id": "habits-10",
+    "title": "Variable rewards make habits stickier than fixed ones",
+    "body": "Eyal's Hook Model maps how products capture habitual behavior: an external or internal trigger leads to an action, which is rewarded in an unpredictable way, and that variability is precisely what sustains engagement. The randomness of the reward — sometimes a perfect response, sometimes nothing — activates the brain's dopaminergic circuits more powerfully than a guaranteed payoff ever could. By the time the user completes the final phase and invests effort in the product — storing data, following others, customizing preferences — they have committed resources that make future engagement more likely. The model illuminates both why compelling products feel compulsive and how understanding trigger-action-reward loops can help us take back agency over our own attention.",
+    "source": {
+      "title": "Hooked: How to Build Habit-Forming Products",
+      "author": "Nir Eyal",
+      "year": 2014
+    },
+    "tags": [
+      "habit formation",
+      "product design",
+      "psychology"
+    ]
+  },
+  {
+    "id": "creativity-14",
+    "title": "Creativity transforms the possibility space, not just explores it",
+    "body": "Boden distinguishes three types of creativity: combinational (unusual juxtapositions of familiar ideas), exploratory (mapping the limits of an existing conceptual space), and transformational (breaking those limits entirely). The last is the most radical and rarest — a transformational move does not merely find an unseen possibility but rewrites the generative rules so that ideas previously inconceivable become available. What makes such moves hard to explain is precisely that they violate the constraints from which prior ideas were produced. Understanding creativity as the exploration or transformation of structured conceptual spaces moves the discussion beyond vague inspiration and toward the specific cognitive operations that produce genuinely original work.",
+    "source": {
+      "title": "The Creative Mind: Myths and Mechanisms",
+      "author": "Margaret Boden",
+      "year": 2004
+    },
+    "tags": [
+      "creativity",
+      "conceptual spaces",
+      "cognition"
+    ]
+  },
+  {
+    "id": "leadership-16",
+    "title": "Urgency, not authority, is the first requirement of transformation",
+    "body": "Kotter's study of change failures found that most did not collapse at implementation — they collapsed at the very beginning, when leaders underestimated how deeply complacency was embedded. Without a visceral sense that the status quo was dangerous, people had no reason to endure the discomfort of transformation, so coalitions dispersed and energy faded. Creating genuine urgency — not mere announcements of crisis, but evidence that could not be rationalized away — was the indispensable precondition for every subsequent step. His finding reversed a common intuition: formal authority rarely drives change; what drives it is igniting the motivation of people who didn't have to cooperate unless they chose to.",
+    "source": {
+      "title": "Leading Change",
+      "author": "John Kotter",
+      "year": 1996
+    },
+    "tags": [
+      "leadership",
+      "organizational change",
+      "motivation"
+    ]
+  },
+  {
+    "id": "pragmatism-14",
+    "title": "The self is a social process, not a private substance",
+    "body": "Mead argued that the self does not exist prior to social interaction but arises through it: we learn to see ourselves by internalizing the perspective of others, first specific individuals and then the generalized attitudes of the community as a whole. The 'I' that acts is never fully predictable — it responds to what Mead called the 'me,' the organized set of attitudes the person has absorbed from their social world. Language and gesture are not mere instruments of a pre-formed mind but the medium through which mind itself is constituted. This social behaviorism relocated selfhood from isolated inner experience to the relational processes that make inner experience possible in the first place.",
+    "source": {
+      "title": "Mind, Self and Society",
+      "author": "George Herbert Mead",
+      "year": 1934
+    },
+    "tags": [
+      "social psychology",
+      "identity",
+      "communication"
+    ]
+  },
+  {
+    "id": "game-theory-14",
+    "title": "Public rituals generate common knowledge, the precondition for coordination",
+    "body": "Chwe draws on game theory to explain why public ceremonies do more than inform: they make it known that everyone knows. The coordination problem in social action is not simply that people lack information; it is that each person's willingness to act depends on confidence that others will also act, which depends on their confidence in others, and so on indefinitely. Mutual knowledge — each person knows X — is insufficient for coordination; common knowledge, where everyone knows that everyone knows X, is what enables concerted action. Public rituals, from royal coronations to prime-time advertisements, are costly precisely because generating the recursive assurance that coordination requires demands an experience that cannot plausibly be missed or misread.",
+    "source": {
+      "title": "Rational Ritual: Culture, Coordination, and Common Knowledge",
+      "author": "Michael Chwe",
+      "year": 2001
+    },
+    "tags": [
+      "game theory",
+      "coordination",
+      "social ritual"
+    ]
   }
 ]
