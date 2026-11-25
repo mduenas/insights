@@ -19236,4 +19236,85 @@
       "social ritual"
     ]
   }
+,
+{
+  "id": "chemistry-07",
+  "title": "Structural Imagination Precedes Proof",
+  "body": "August Kekule's 1865 hypothesis that benzene forms a closed ring emerged not from calculation but from a waking dream of a snake seizing its own tail. His account, shared publicly at an 1890 anniversary celebration, invites scientists to treat the visual and intuitive mind as a legitimate instrument of discovery. The unconscious synthesizes patterns that analytical reasoning has not yet formalized — particularly in structural problems where spatial relationships matter more than quantity. Disciplined imagination, submitted to experimental verification, is a method in itself.",
+  "source": {
+    "title": "Benzolfest Address",
+    "author": "August Kekule",
+    "year": 1890
+  },
+  "tags": [
+    "chemistry",
+    "intuition",
+    "discovery",
+    "science"
+  ]
+},
+{
+  "id": "geology-13",
+  "title": "Catastrophe Is Also History",
+  "body": "Walter Alvarez's discovery of an iridium-rich layer at the Cretaceous-Paleogene boundary led to the hypothesis that an asteroid impact caused the mass extinction of non-avian dinosaurs 66 million years ago. The geological community initially resisted: prevailing uniformitarianism held that Earth's history is shaped only by slow, gradual processes, and sudden catastrophes seemed unscientific. Eventual confirmation of the Chicxulub crater vindicated the hypothesis and permanently opened earth science to rare, violent events as legitimate causal forces. History — geological and human alike — is shaped not only by accumulation but by sudden rupture.",
+  "source": {
+    "title": "T. Rex and the Crater of Doom",
+    "author": "Walter Alvarez",
+    "year": 1997
+  },
+  "tags": [
+    "geology",
+    "extinction",
+    "science",
+    "history"
+  ]
+},
+{
+  "id": "physics-13",
+  "title": "Elements Are Born in Dying Stars",
+  "body": "Fred Hoyle's insight that the chemical elements heavier than helium are synthesized through nuclear fusion inside stars fundamentally changed our understanding of matter's origins. When a massive star exhausts its fuel and explodes as a supernova, it disperses carbon, oxygen, nitrogen, and iron across interstellar space — the raw material from which planets and life eventually form. The atoms in a human body were forged in furnaces that burned out billions of years before the sun existed. Astronomy and chemistry are, at their deepest level, the same subject.",
+  "source": {
+    "title": "The Nature of the Universe",
+    "author": "Fred Hoyle",
+    "year": 1950
+  },
+  "tags": [
+    "physics",
+    "cosmology",
+    "stars",
+    "origins"
+  ]
+},
+{
+  "id": "political-theory-07",
+  "title": "Poets Are the Unacknowledged Legislators",
+  "body": "Percy Bysshe Shelley's A Defence of Poetry argues that artists do not merely decorate society but constitute its moral imagination. Laws, institutions, and reforms follow in the wake of imaginative works that have already expanded what people believe is possible or just. The great instrument of moral good is imagination, and poetry enlarges its capacity. This is a political claim: whoever shapes the stories and images that a people live inside holds more fundamental power than any legislator.",
+  "source": {
+    "title": "A Defence of Poetry",
+    "author": "Percy Bysshe Shelley",
+    "year": 1840
+  },
+  "tags": [
+    "political-theory",
+    "imagination",
+    "poetry",
+    "power"
+  ]
+},
+{
+  "id": "game-theory-14",
+  "title": "Rational Players Are Rarer Than We Think",
+  "body": "Reinhard Selten's work on bounded rationality demonstrated that real decision-makers do not compute optimal strategies — they use rules of thumb, simplifications, and satisficing shortcuts adapted to the limits of their attention and memory. The standard game-theoretic assumption of perfect rationality is not merely an idealization but a fiction that produces systematically wrong predictions. Selten's concept of subgame perfect equilibrium also revealed that many apparent equilibria in sequential games are unstable once players reason carefully about what would actually occur at each decision node. Understanding what minds can and cannot calculate is inseparable from understanding how games are actually played.",
+  "source": {
+    "title": "Models of Strategic Rationality",
+    "author": "Reinhard Selten",
+    "year": 1988
+  },
+  "tags": [
+    "game-theory",
+    "rationality",
+    "decision-making",
+    "economics"
+  ]
+}
 ]
