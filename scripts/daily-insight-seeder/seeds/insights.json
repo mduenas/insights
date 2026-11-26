@@ -19235,86 +19235,160 @@
       "coordination",
       "social ritual"
     ]
+  },
+  {
+    "id": "chemistry-07",
+    "title": "Structural Imagination Precedes Proof",
+    "body": "August Kekule's 1865 hypothesis that benzene forms a closed ring emerged not from calculation but from a waking dream of a snake seizing its own tail. His account, shared publicly at an 1890 anniversary celebration, invites scientists to treat the visual and intuitive mind as a legitimate instrument of discovery. The unconscious synthesizes patterns that analytical reasoning has not yet formalized — particularly in structural problems where spatial relationships matter more than quantity. Disciplined imagination, submitted to experimental verification, is a method in itself.",
+    "source": {
+      "title": "Benzolfest Address",
+      "author": "August Kekule",
+      "year": 1890
+    },
+    "tags": [
+      "chemistry",
+      "intuition",
+      "discovery",
+      "science"
+    ]
+  },
+  {
+    "id": "geology-13",
+    "title": "Catastrophe Is Also History",
+    "body": "Walter Alvarez's discovery of an iridium-rich layer at the Cretaceous-Paleogene boundary led to the hypothesis that an asteroid impact caused the mass extinction of non-avian dinosaurs 66 million years ago. The geological community initially resisted: prevailing uniformitarianism held that Earth's history is shaped only by slow, gradual processes, and sudden catastrophes seemed unscientific. Eventual confirmation of the Chicxulub crater vindicated the hypothesis and permanently opened earth science to rare, violent events as legitimate causal forces. History — geological and human alike — is shaped not only by accumulation but by sudden rupture.",
+    "source": {
+      "title": "T. Rex and the Crater of Doom",
+      "author": "Walter Alvarez",
+      "year": 1997
+    },
+    "tags": [
+      "geology",
+      "extinction",
+      "science",
+      "history"
+    ]
+  },
+  {
+    "id": "physics-13",
+    "title": "Elements Are Born in Dying Stars",
+    "body": "Fred Hoyle's insight that the chemical elements heavier than helium are synthesized through nuclear fusion inside stars fundamentally changed our understanding of matter's origins. When a massive star exhausts its fuel and explodes as a supernova, it disperses carbon, oxygen, nitrogen, and iron across interstellar space — the raw material from which planets and life eventually form. The atoms in a human body were forged in furnaces that burned out billions of years before the sun existed. Astronomy and chemistry are, at their deepest level, the same subject.",
+    "source": {
+      "title": "The Nature of the Universe",
+      "author": "Fred Hoyle",
+      "year": 1950
+    },
+    "tags": [
+      "physics",
+      "cosmology",
+      "stars",
+      "origins"
+    ]
+  },
+  {
+    "id": "political-theory-07",
+    "title": "Poets Are the Unacknowledged Legislators",
+    "body": "Percy Bysshe Shelley's A Defence of Poetry argues that artists do not merely decorate society but constitute its moral imagination. Laws, institutions, and reforms follow in the wake of imaginative works that have already expanded what people believe is possible or just. The great instrument of moral good is imagination, and poetry enlarges its capacity. This is a political claim: whoever shapes the stories and images that a people live inside holds more fundamental power than any legislator.",
+    "source": {
+      "title": "A Defence of Poetry",
+      "author": "Percy Bysshe Shelley",
+      "year": 1840
+    },
+    "tags": [
+      "political-theory",
+      "imagination",
+      "poetry",
+      "power"
+    ]
+  },
+  {
+    "id": "game-theory-14",
+    "title": "Rational Players Are Rarer Than We Think",
+    "body": "Reinhard Selten's work on bounded rationality demonstrated that real decision-makers do not compute optimal strategies — they use rules of thumb, simplifications, and satisficing shortcuts adapted to the limits of their attention and memory. The standard game-theoretic assumption of perfect rationality is not merely an idealization but a fiction that produces systematically wrong predictions. Selten's concept of subgame perfect equilibrium also revealed that many apparent equilibria in sequential games are unstable once players reason carefully about what would actually occur at each decision node. Understanding what minds can and cannot calculate is inseparable from understanding how games are actually played.",
+    "source": {
+      "title": "Models of Strategic Rationality",
+      "author": "Reinhard Selten",
+      "year": 1988
+    },
+    "tags": [
+      "game-theory",
+      "rationality",
+      "decision-making",
+      "economics"
+    ]
+  },
+  {
+    "id": "chemistry-09",
+    "title": "Every Molecule Has a Mirror Story",
+    "body": "Chirality — the property of molecules that exist in two mirror-image forms that cannot be superimposed — reveals a profound asymmetry at the foundation of life. Hoffmann showed that the same atoms arranged in mirror-image configurations can produce radically different biological effects: one form of a molecule may cure while its mirror image may harm. This asymmetry is not random noise but a systematic feature of living systems, suggesting that nature, at its most fundamental level, picks sides.",
+    "source": {
+      "title": "The Same and Not the Same",
+      "author": "Roald Hoffmann",
+      "year": 1995
+    },
+    "tags": [
+      "chemistry",
+      "biology",
+      "symmetry"
+    ]
+  },
+  {
+    "id": "memory-13",
+    "title": "What We Remember, We Also Revise",
+    "body": "Loftus's landmark experiments demonstrated that memories are not stored like files and retrieved intact but are reconstructed each time, subject to contamination by subsequent information. A witness who hears a leading question after an event will often incorporate the false detail into their memory of that event — and believe it sincerely. This discovery transformed both legal practice and cognitive science: confidence in a memory is no guarantee of its accuracy, and the act of remembering is always, in part, an act of forgetting and inventing.",
+    "source": {
+      "title": "Eyewitness Testimony",
+      "author": "Elizabeth Loftus",
+      "year": 1979
+    },
+    "tags": [
+      "memory",
+      "psychology",
+      "cognition"
+    ]
+  },
+  {
+    "id": "rhetoric-14",
+    "title": "Every Narrator Implies an Author",
+    "body": "Booth's influential concept of the implied author describes the version of a writer that readers reconstruct from every choice made in a text — word selection, pacing, what is omitted — even when the stated narrator is unreliable or morally compromised. This implied author is not the biographical person but an ethical presence, and readers sense its values whether the author announces them or not. The concept reframes all writing as a form of self-revelation: you cannot choose your words without also choosing what kind of person you appear to be.",
+    "source": {
+      "title": "The Rhetoric of Fiction",
+      "author": "Wayne Booth",
+      "year": 1961
+    },
+    "tags": [
+      "rhetoric",
+      "literature",
+      "ethics"
+    ]
+  },
+  {
+    "id": "medicine-15",
+    "title": "Medicine Is Politics, Practiced at a Larger Scale",
+    "body": "Virchow's investigation of a devastating typhus outbreak in a Prussian province found that the proximate cause was an infectious agent, but the deeper cause was poverty, illiteracy, and political neglect — conditions that made the population susceptible and that could not be remedied by medicine alone. His report concluded that medicine is a social science, and politics is nothing else but medicine on a large scale. The insight remains unsettling: illness is often the final product of a long chain of social decisions, not an isolated misfortune.",
+    "source": {
+      "title": "Report on the Typhus Epidemic in Upper Silesia",
+      "author": "Rudolf Virchow",
+      "year": 1848
+    },
+    "tags": [
+      "medicine",
+      "sociology",
+      "politics"
+    ]
+  },
+  {
+    "id": "music-26",
+    "title": "Musicality Is Not a Talent — It Is a Human Universal",
+    "body": "Blacking's fieldwork among the Venda people of South Africa led him to argue that every human society produces music, every person is capable of musical experience, and that the notion of musical talent as a rare gift reflects the organization of industrial societies rather than any biological truth. Music is not an art that some people have and others lack but a cognitive and social capacity as universal as language. What varies across cultures is not musicality itself but the forms it is permitted to take and the people permitted to express it.",
+    "source": {
+      "title": "How Musical Is Man?",
+      "author": "John Blacking",
+      "year": 1973
+    },
+    "tags": [
+      "music",
+      "anthropology",
+      "cognition"
+    ]
   }
-,
-{
-  "id": "chemistry-07",
-  "title": "Structural Imagination Precedes Proof",
-  "body": "August Kekule's 1865 hypothesis that benzene forms a closed ring emerged not from calculation but from a waking dream of a snake seizing its own tail. His account, shared publicly at an 1890 anniversary celebration, invites scientists to treat the visual and intuitive mind as a legitimate instrument of discovery. The unconscious synthesizes patterns that analytical reasoning has not yet formalized — particularly in structural problems where spatial relationships matter more than quantity. Disciplined imagination, submitted to experimental verification, is a method in itself.",
-  "source": {
-    "title": "Benzolfest Address",
-    "author": "August Kekule",
-    "year": 1890
-  },
-  "tags": [
-    "chemistry",
-    "intuition",
-    "discovery",
-    "science"
-  ]
-},
-{
-  "id": "geology-13",
-  "title": "Catastrophe Is Also History",
-  "body": "Walter Alvarez's discovery of an iridium-rich layer at the Cretaceous-Paleogene boundary led to the hypothesis that an asteroid impact caused the mass extinction of non-avian dinosaurs 66 million years ago. The geological community initially resisted: prevailing uniformitarianism held that Earth's history is shaped only by slow, gradual processes, and sudden catastrophes seemed unscientific. Eventual confirmation of the Chicxulub crater vindicated the hypothesis and permanently opened earth science to rare, violent events as legitimate causal forces. History — geological and human alike — is shaped not only by accumulation but by sudden rupture.",
-  "source": {
-    "title": "T. Rex and the Crater of Doom",
-    "author": "Walter Alvarez",
-    "year": 1997
-  },
-  "tags": [
-    "geology",
-    "extinction",
-    "science",
-    "history"
-  ]
-},
-{
-  "id": "physics-13",
-  "title": "Elements Are Born in Dying Stars",
-  "body": "Fred Hoyle's insight that the chemical elements heavier than helium are synthesized through nuclear fusion inside stars fundamentally changed our understanding of matter's origins. When a massive star exhausts its fuel and explodes as a supernova, it disperses carbon, oxygen, nitrogen, and iron across interstellar space — the raw material from which planets and life eventually form. The atoms in a human body were forged in furnaces that burned out billions of years before the sun existed. Astronomy and chemistry are, at their deepest level, the same subject.",
-  "source": {
-    "title": "The Nature of the Universe",
-    "author": "Fred Hoyle",
-    "year": 1950
-  },
-  "tags": [
-    "physics",
-    "cosmology",
-    "stars",
-    "origins"
-  ]
-},
-{
-  "id": "political-theory-07",
-  "title": "Poets Are the Unacknowledged Legislators",
-  "body": "Percy Bysshe Shelley's A Defence of Poetry argues that artists do not merely decorate society but constitute its moral imagination. Laws, institutions, and reforms follow in the wake of imaginative works that have already expanded what people believe is possible or just. The great instrument of moral good is imagination, and poetry enlarges its capacity. This is a political claim: whoever shapes the stories and images that a people live inside holds more fundamental power than any legislator.",
-  "source": {
-    "title": "A Defence of Poetry",
-    "author": "Percy Bysshe Shelley",
-    "year": 1840
-  },
-  "tags": [
-    "political-theory",
-    "imagination",
-    "poetry",
-    "power"
-  ]
-},
-{
-  "id": "game-theory-14",
-  "title": "Rational Players Are Rarer Than We Think",
-  "body": "Reinhard Selten's work on bounded rationality demonstrated that real decision-makers do not compute optimal strategies — they use rules of thumb, simplifications, and satisficing shortcuts adapted to the limits of their attention and memory. The standard game-theoretic assumption of perfect rationality is not merely an idealization but a fiction that produces systematically wrong predictions. Selten's concept of subgame perfect equilibrium also revealed that many apparent equilibria in sequential games are unstable once players reason carefully about what would actually occur at each decision node. Understanding what minds can and cannot calculate is inseparable from understanding how games are actually played.",
-  "source": {
-    "title": "Models of Strategic Rationality",
-    "author": "Reinhard Selten",
-    "year": 1988
-  },
-  "tags": [
-    "game-theory",
-    "rationality",
-    "decision-making",
-    "economics"
-  ]
-}
 ]
