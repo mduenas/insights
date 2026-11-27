@@ -19391,4 +19391,85 @@
       "cognition"
     ]
   }
+,
+{
+  "id": "anthropology-21",
+  "title": "So-Called Primitive Science Is Not Pre-Scientific",
+  "body": "Lévi-Strauss argued that indigenous peoples' detailed knowledge of plants, animals, and natural phenomena represents a fully developed science of the concrete — systematic, rigorous, and sophisticated — that classifies the world using sensory and relational properties rather than abstract principles. The opposition between 'primitive' and 'modern' thought is not a difference in intelligence or developmental stage but a difference in the domain and purpose of classification. What Europeans dismissed as superstition often encodes millennia of careful observation. Recognizing this demands abandoning the assumption that only one intellectual tradition counts as genuine knowledge.",
+  "source": {
+    "title": "The Savage Mind",
+    "author": "Claude Lévi-Strauss",
+    "year": 1962
+  },
+  "tags": [
+    "anthropology",
+    "knowledge",
+    "classification",
+    "science"
+  ]
+},
+{
+  "id": "economics-61",
+  "title": "Worth Is Always a Judgment, Never a Fact",
+  "body": "Menger's founding insight for the Austrian school was that economic value does not inhere in goods themselves but arises from the relationship between available quantities and human needs. A diamond is not valuable; a diamond is valued by specific people in specific circumstances. This subjectivist revolution dismantled the labor theory of value and showed that prices cannot be derived from the physical properties of goods or the effort spent producing them. What matters is marginal utility — the importance of one additional unit to someone who already has some — and the same loaf of bread means something entirely different to a banker and to someone starving.",
+  "source": {
+    "title": "Principles of Economics",
+    "author": "Carl Menger",
+    "year": 1871
+  },
+  "tags": [
+    "economics",
+    "value",
+    "decision-making",
+    "markets"
+  ]
+},
+{
+  "id": "systems-16",
+  "title": "Society Is Built from Conversations, Not People",
+  "body": "Luhmann's most disorienting claim was that social systems are not composed of human beings but of communications — events that connect meaningfully to other events. People do not belong to society; they form its environment. This is not a denial of human importance but a precise claim about what social systems actually process: not consciousness, not bodies, but utterances, signals, and their connections. When a social system collapses — a marriage, an organization, a democracy — what has ended is a particular pattern of communication, and rebuilding it means reestablishing those communicative connections, not simply reassembling the same people.",
+  "source": {
+    "title": "Social Systems",
+    "author": "Niklas Luhmann",
+    "year": 1984
+  },
+  "tags": [
+    "systems",
+    "sociology",
+    "communication",
+    "organization"
+  ]
+},
+{
+  "id": "philosophy-77",
+  "title": "Difference Does Not Need Identity to Ground It",
+  "body": "Western philosophy has traditionally treated identity as primary and difference as a deficiency — things differ because they fail to be identical. Deleuze inverted this hierarchy: difference is ontologically prior, and identity is a derived, secondary effect, a temporary stabilization of what is fundamentally differential. A river is not an object that sometimes changes; it is a process of continuous difference that only appears stable. This reversal has practical stakes: institutions and categories that claim to be natural or necessary are revealed as contingent arrangements, and what presents itself as universal is typically one particular difference masquerading as a standard.",
+  "source": {
+    "title": "Difference and Repetition",
+    "author": "Gilles Deleuze",
+    "year": 1968
+  },
+  "tags": [
+    "philosophy",
+    "identity",
+    "ontology",
+    "change"
+  ]
+},
+{
+  "id": "identity-19",
+  "title": "To Live With Two Warring Ideals in One Dark Body",
+  "body": "Du Bois named double consciousness — the sense of always looking at oneself through the eyes of others, measuring one's soul by the tape of a world that looks on in amused contempt or pity — as a defining feature of Black American life after emancipation. This two-ness of being simultaneously American and Black, insider and outsider to the dominant culture, produces a double sight: the capacity to see society from within and from without at the same time. Du Bois argued this was not a wound to be healed by assimilation but a potentially powerful moral and cognitive resource, if the society could ever be made worthy of the people forced to develop it.",
+  "source": {
+    "title": "The Souls of Black Folk",
+    "author": "W.E.B. Du Bois",
+    "year": 1903
+  },
+  "tags": [
+    "identity",
+    "race",
+    "psychology",
+    "culture"
+  ]
+}
 ]
