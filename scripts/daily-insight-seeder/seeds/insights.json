@@ -19390,86 +19390,160 @@
       "anthropology",
       "cognition"
     ]
+  },
+  {
+    "id": "anthropology-21",
+    "title": "So-Called Primitive Science Is Not Pre-Scientific",
+    "body": "Lévi-Strauss argued that indigenous peoples' detailed knowledge of plants, animals, and natural phenomena represents a fully developed science of the concrete — systematic, rigorous, and sophisticated — that classifies the world using sensory and relational properties rather than abstract principles. The opposition between 'primitive' and 'modern' thought is not a difference in intelligence or developmental stage but a difference in the domain and purpose of classification. What Europeans dismissed as superstition often encodes millennia of careful observation. Recognizing this demands abandoning the assumption that only one intellectual tradition counts as genuine knowledge.",
+    "source": {
+      "title": "The Savage Mind",
+      "author": "Claude Lévi-Strauss",
+      "year": 1962
+    },
+    "tags": [
+      "anthropology",
+      "knowledge",
+      "classification",
+      "science"
+    ]
+  },
+  {
+    "id": "economics-61",
+    "title": "Worth Is Always a Judgment, Never a Fact",
+    "body": "Menger's founding insight for the Austrian school was that economic value does not inhere in goods themselves but arises from the relationship between available quantities and human needs. A diamond is not valuable; a diamond is valued by specific people in specific circumstances. This subjectivist revolution dismantled the labor theory of value and showed that prices cannot be derived from the physical properties of goods or the effort spent producing them. What matters is marginal utility — the importance of one additional unit to someone who already has some — and the same loaf of bread means something entirely different to a banker and to someone starving.",
+    "source": {
+      "title": "Principles of Economics",
+      "author": "Carl Menger",
+      "year": 1871
+    },
+    "tags": [
+      "economics",
+      "value",
+      "decision-making",
+      "markets"
+    ]
+  },
+  {
+    "id": "systems-16",
+    "title": "Society Is Built from Conversations, Not People",
+    "body": "Luhmann's most disorienting claim was that social systems are not composed of human beings but of communications — events that connect meaningfully to other events. People do not belong to society; they form its environment. This is not a denial of human importance but a precise claim about what social systems actually process: not consciousness, not bodies, but utterances, signals, and their connections. When a social system collapses — a marriage, an organization, a democracy — what has ended is a particular pattern of communication, and rebuilding it means reestablishing those communicative connections, not simply reassembling the same people.",
+    "source": {
+      "title": "Social Systems",
+      "author": "Niklas Luhmann",
+      "year": 1984
+    },
+    "tags": [
+      "systems",
+      "sociology",
+      "communication",
+      "organization"
+    ]
+  },
+  {
+    "id": "philosophy-77",
+    "title": "Difference Does Not Need Identity to Ground It",
+    "body": "Western philosophy has traditionally treated identity as primary and difference as a deficiency — things differ because they fail to be identical. Deleuze inverted this hierarchy: difference is ontologically prior, and identity is a derived, secondary effect, a temporary stabilization of what is fundamentally differential. A river is not an object that sometimes changes; it is a process of continuous difference that only appears stable. This reversal has practical stakes: institutions and categories that claim to be natural or necessary are revealed as contingent arrangements, and what presents itself as universal is typically one particular difference masquerading as a standard.",
+    "source": {
+      "title": "Difference and Repetition",
+      "author": "Gilles Deleuze",
+      "year": 1968
+    },
+    "tags": [
+      "philosophy",
+      "identity",
+      "ontology",
+      "change"
+    ]
+  },
+  {
+    "id": "identity-19",
+    "title": "To Live With Two Warring Ideals in One Dark Body",
+    "body": "Du Bois named double consciousness — the sense of always looking at oneself through the eyes of others, measuring one's soul by the tape of a world that looks on in amused contempt or pity — as a defining feature of Black American life after emancipation. This two-ness of being simultaneously American and Black, insider and outsider to the dominant culture, produces a double sight: the capacity to see society from within and from without at the same time. Du Bois argued this was not a wound to be healed by assimilation but a potentially powerful moral and cognitive resource, if the society could ever be made worthy of the people forced to develop it.",
+    "source": {
+      "title": "The Souls of Black Folk",
+      "author": "W.E.B. Du Bois",
+      "year": 1903
+    },
+    "tags": [
+      "identity",
+      "race",
+      "psychology",
+      "culture"
+    ]
+  },
+  {
+    "id": "sociology-56",
+    "title": "All play falls into four irreducible kinds",
+    "body": "Caillois classified every form of play into four categories: agon (competition, as in chess or athletics), alea (chance, as in dice or lotteries), mimicry (simulation and role-playing), and ilinx (vertigo, as in spinning or extreme sports). Each represents a distinct psychological drive, and no culture weights them in the same proportion. Examining which forms of play a society elevates reveals what that culture prizes — whether mastery, fate, identity, or sensation — far more directly than its official philosophies do.",
+    "source": {
+      "title": "Man, Play, and Games",
+      "author": "Roger Caillois",
+      "year": 1958
+    },
+    "tags": [
+      "play",
+      "culture",
+      "sociology"
+    ]
+  },
+  {
+    "id": "mythology-17",
+    "title": "Myths persist because reality is too much to bear directly",
+    "body": "Blumenberg argued that mythology is not primitive error awaiting replacement by science, but a necessary human response to what he called the 'absolutism of reality' — the overwhelming, indifferent vastness of a world that cares nothing for human beings. By giving names and faces to formless threats, myths compress the unbearable into manageable stories. The fact that the same mythic structures recur across unrelated cultures is not coincidence but convergence: all humans face the same incomprehensible pressure, and narrative is the universal pressure valve.",
+    "source": {
+      "title": "Work on Myth",
+      "author": "Hans Blumenberg",
+      "year": 1979
+    },
+    "tags": [
+      "mythology",
+      "meaning",
+      "narrative"
+    ]
+  },
+  {
+    "id": "history-49",
+    "title": "A single tool can reorganize an entire civilization",
+    "body": "White argued that the introduction of the stirrup into Europe around the eighth century made true shock cavalry possible for the first time, allowing a mounted warrior to deliver a blow with the full momentum of horse and rider. To maintain such warriors — who required years of training and expensive horses and armor — rulers granted land to knights in exchange for military service, laying the structural foundations of European feudalism. A piece of bent iron, White showed, can reroute centuries of social history.",
+    "source": {
+      "title": "Medieval Technology and Social Change",
+      "author": "Lynn White Jr.",
+      "year": 1962
+    },
+    "tags": [
+      "technology",
+      "history",
+      "social change"
+    ]
+  },
+  {
+    "id": "history-50",
+    "title": "The greatest obstacle to discovery is the illusion of knowledge",
+    "body": "Boorstin traced the history of human discovery and found that breakthroughs were blocked less often by lack of information than by inherited certainties that made inquiry seem unnecessary. Medieval European cartographers left large sections of the world blank not because they lacked data, but because theological doctrine had already filled in the answers with confidence. Discovery requires first dismantling a confident wrong map — which is far harder than filling in an empty one.",
+    "source": {
+      "title": "The Discoverers",
+      "author": "Daniel J. Boorstin",
+      "year": 1983
+    },
+    "tags": [
+      "discovery",
+      "knowledge",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "economics-62",
+    "title": "The redistribution bucket leaks, but it is still worth carrying",
+    "body": "Okun introduced the 'leaky bucket' metaphor to describe the inherent tension between equality and market efficiency: transferring money from rich to poor incurs administrative costs and blunts incentives, so a dollar taxed away may deliver only seventy cents to its recipient. But Okun refused to use this observation to dismiss redistribution — the question is not whether the bucket leaks, but how much leakage is acceptable given the gap between those who fill it and those who need it. Honest policy requires naming both the tradeoff and the value judgment embedded in every choice about how to run the system.",
+    "source": {
+      "title": "Equality and Efficiency: The Big Tradeoff",
+      "author": "Arthur M. Okun",
+      "year": 1975
+    },
+    "tags": [
+      "equality",
+      "economics",
+      "policy"
+    ]
   }
-,
-{
-  "id": "anthropology-21",
-  "title": "So-Called Primitive Science Is Not Pre-Scientific",
-  "body": "Lévi-Strauss argued that indigenous peoples' detailed knowledge of plants, animals, and natural phenomena represents a fully developed science of the concrete — systematic, rigorous, and sophisticated — that classifies the world using sensory and relational properties rather than abstract principles. The opposition between 'primitive' and 'modern' thought is not a difference in intelligence or developmental stage but a difference in the domain and purpose of classification. What Europeans dismissed as superstition often encodes millennia of careful observation. Recognizing this demands abandoning the assumption that only one intellectual tradition counts as genuine knowledge.",
-  "source": {
-    "title": "The Savage Mind",
-    "author": "Claude Lévi-Strauss",
-    "year": 1962
-  },
-  "tags": [
-    "anthropology",
-    "knowledge",
-    "classification",
-    "science"
-  ]
-},
-{
-  "id": "economics-61",
-  "title": "Worth Is Always a Judgment, Never a Fact",
-  "body": "Menger's founding insight for the Austrian school was that economic value does not inhere in goods themselves but arises from the relationship between available quantities and human needs. A diamond is not valuable; a diamond is valued by specific people in specific circumstances. This subjectivist revolution dismantled the labor theory of value and showed that prices cannot be derived from the physical properties of goods or the effort spent producing them. What matters is marginal utility — the importance of one additional unit to someone who already has some — and the same loaf of bread means something entirely different to a banker and to someone starving.",
-  "source": {
-    "title": "Principles of Economics",
-    "author": "Carl Menger",
-    "year": 1871
-  },
-  "tags": [
-    "economics",
-    "value",
-    "decision-making",
-    "markets"
-  ]
-},
-{
-  "id": "systems-16",
-  "title": "Society Is Built from Conversations, Not People",
-  "body": "Luhmann's most disorienting claim was that social systems are not composed of human beings but of communications — events that connect meaningfully to other events. People do not belong to society; they form its environment. This is not a denial of human importance but a precise claim about what social systems actually process: not consciousness, not bodies, but utterances, signals, and their connections. When a social system collapses — a marriage, an organization, a democracy — what has ended is a particular pattern of communication, and rebuilding it means reestablishing those communicative connections, not simply reassembling the same people.",
-  "source": {
-    "title": "Social Systems",
-    "author": "Niklas Luhmann",
-    "year": 1984
-  },
-  "tags": [
-    "systems",
-    "sociology",
-    "communication",
-    "organization"
-  ]
-},
-{
-  "id": "philosophy-77",
-  "title": "Difference Does Not Need Identity to Ground It",
-  "body": "Western philosophy has traditionally treated identity as primary and difference as a deficiency — things differ because they fail to be identical. Deleuze inverted this hierarchy: difference is ontologically prior, and identity is a derived, secondary effect, a temporary stabilization of what is fundamentally differential. A river is not an object that sometimes changes; it is a process of continuous difference that only appears stable. This reversal has practical stakes: institutions and categories that claim to be natural or necessary are revealed as contingent arrangements, and what presents itself as universal is typically one particular difference masquerading as a standard.",
-  "source": {
-    "title": "Difference and Repetition",
-    "author": "Gilles Deleuze",
-    "year": 1968
-  },
-  "tags": [
-    "philosophy",
-    "identity",
-    "ontology",
-    "change"
-  ]
-},
-{
-  "id": "identity-19",
-  "title": "To Live With Two Warring Ideals in One Dark Body",
-  "body": "Du Bois named double consciousness — the sense of always looking at oneself through the eyes of others, measuring one's soul by the tape of a world that looks on in amused contempt or pity — as a defining feature of Black American life after emancipation. This two-ness of being simultaneously American and Black, insider and outsider to the dominant culture, produces a double sight: the capacity to see society from within and from without at the same time. Du Bois argued this was not a wound to be healed by assimilation but a potentially powerful moral and cognitive resource, if the society could ever be made worthy of the people forced to develop it.",
-  "source": {
-    "title": "The Souls of Black Folk",
-    "author": "W.E.B. Du Bois",
-    "year": 1903
-  },
-  "tags": [
-    "identity",
-    "race",
-    "psychology",
-    "culture"
-  ]
-}
 ]
